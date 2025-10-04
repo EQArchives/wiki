@@ -1,0 +1,169 @@
+---
+title: The Ruins of Kunark Expansion
+description: the first expansion
+published: true
+date: 2025-08-10T22:07:31.971Z
+tags: 
+editor: markdown
+dateCreated: 2025-08-10T05:25:25.262Z
+---
+
+ ## At a Glance
+ 
+   <figure style="float: right; margin: 15px 0 15px 45px; border: 1px solid #a2a9b1; padding: 3px; background: #f8f9fa; font-size: 0.9em;">
+  <img src="/ruins_of_kunark_artwork_small.jpg" alt="Covert art for The Ruins of Kunark by Keith Parkinson" style="width: 100%; height: auto; display: block;">
+  <figcaption style="padding: 5px; text-align: center; color: #54595d; font-style: italic;">
+	Covert art for The Ruins of Kunark by Keith Parkinson  
+  </figcaption>
+</figure>
+
+**Max Level**: 60<br />
+**New Zones**: 25<br />
+**Release**: April 24, 2000<br />
+**Raid Zones**: Veeshan's Peak, Old Sebilis, Chardok
+
+<div style="clear: both;"></div>
+
+## Overview
+In terms of the game, The Ruins of Kunark had a very different visual feel compared to the original zones in EverQuest: the color palette was more vibrant and many of the models used for the monsters were more detailed. This detail was most evident in the Iksar, a new playable race of lizard people introduced with the expansion. The Iksar had a number of racial advantages, including the ability to stay underwater for longer periods of time, additional regenerative powers, and an armor bonus. This was balanced by the fact that they were hated by all of the other races in the game and that there were very few places they could go without being attacked. They also could not wear plate armor.
+
+The Kunark expansion also increased the maximum level a character could attain from 50 to 60, and introduced a substantial number of new and powerful monsters for characters above level 50 to fight. The most notable of these was Veeshan's Peak, a zone populated by dragons that was, at its release, declared to be the hardest zone that would be put into EverQuest. In reality, the zone quickly was surpassed by other zones released in further expansions, and is in fact not used often by players.
+
+Another notable and deep dungeon is Sebilis, the lair of the undead dragon Trakanon, which required players to level past the previous limit and obtain improved gear introduced in the expansion.
+
+The Ruins of Kunark was also the focus of 'epic quests', or quests for powerful weapons for each character class, which were introduced between the Kunark and Velious expansions as a source of further high-end content.
+
+The Kunark expansion was unique in its method of distribution. A player would order the expansion from Verant's online store, and it was then shipped directly to the player's home. Unforeseen shipping delays caused many players to miss the expansion's official opening date. Thereafter, most EverQuest expansions were either available in local stores, or downloaded directly from Verant, many weeks before the official opening date. 
+
+## New Content & Features
+* Level increase to 60
+* 25 expansion zones
+* New race: Iksar
+* New spells and combat abilities
+* New raids, quests, and armor
+
+---
+
+## Zones
+
+The Ruins of Kunark introduced a new continent featuring 25 new zones to explore.
+
+### KUNARK
+
+**Outdoors**
+
+* Burning Wood
+* Dreadlands
+* Emerald Jungle
+* Field of Bone
+* Firiona Vie
+* Frontier Mountains
+* Lake of Ill Omen
+* The Overthere
+* Skyfire Mountains
+* Swamp of No Hope
+* Timorous Deep
+* Trakanon's Teeth
+* Warsliks Woods
+
+**Cities**
+
+* Cabilis
+  * Cabilis East
+  * Cabilis West
+
+**Dungeons**
+
+* Chardok
+* City of Mist
+* Dalnir
+* Howling Stones (Charasis)
+* Kaesora
+* Karnor's Castle
+* Kurn's Tower
+* Mines of Nurga
+* Old Sebilis
+* Temple of Droga
+* Veeshan's Peak
+
+---
+
+## Progression
+
+## Raids
+* Venril Sathir (Karnor's Castle)
+* Master Yael (The Hole)
+
+### Chardok Royals
+* Overking Bathezid
+* Queen Velazul Di'zok
+* Prince Selrach Di'Zok
+
+### Dragons
+* Timorous Deep: Faydedar
+* Dreadlands: Gorenaire (Hole Era)
+* Emerald Jungle: Severilous (Hole Era)
+* Skyfire Mountains: Talendor (Hole Era)
+* Old Sebilis: Trakanon
+
+### Veeshan's Peak
+* Hoshkar
+* Silverwing
+* Nexona
+* Druushk
+* Xygoz
+* Phara Dar
+
+## Group Armor and Raid Armor
+
+### Quested
+* **Sparring Armor** (Monk) *Iksar Only*
+* **Dreadscale Armor** (Shadow Knight) *Iksar Only*
+* **Scaled Mystic Armor** (Shaman) *Iksar Only*
+* **Trooper Scale Armor** (Warrior) *Iksar Only*
+* **Curscale Armor**
+* **Faydark Ringmail**
+* **Leech Husk Armor**
+
+### Dropped
+* Burynai Hide
+* Flayed Skin Armor (SK / NEC)
+* Goblin Forged Armor
+* Incarnadine Armor (WAR / SK)
+* Jarsath Scale Armor
+* Kylong Armor
+* Reinforced Rhino Armor
+* Ruined Scaled Armor
+* Sebilite Scale Armor
+* Truesilver Mail
+* Crescent Armor (Monk)
+* Loam Encrusted Armor
+
+### Clicky Class Armor
+* **Singing Steel Armor** (Bard)
+* **Donal's Armor of Mourning** (Cleric)
+* **Elder Spiritist's Armor** (Druid)
+* **Deepwater Armor** (Paladin)
+* **Tolan's Darkwood Armor** (Ranger)
+* **Mrylokar's Armor** (Rogue)
+* **Blood Ember Armor** (Shadow Knight)
+* **Jaundiced Bone Armor** (Shaman)
+* **Cobalt Armor** (Warrior)
+
+## Kunark Lore
+Lots of lore catalogued on the Lore Page.
+
+## Keys
+* **Stone Key** - This key unlocks the door to the Palace of Ghiosk within Torsis (The City of Mist).
+* **Hand of Glory** - This key unlocks the doors within the Ruins of Charasis (The Howling Stones).
+* **Key to Charasis** - This key unlocks the entrance to the Ruins of Charasis (The Howling Stones).
+* **Key of Veeshan** - This key unlocks the entrance to Veeshan's Peak, until the arrival of Dry Sapara (then you use the Cipher of Veeshan).
+* **Trakanon Idol** - This key unlocks the entrance to the Ruins of Sebilis.
+
+## Travel
+* Arrive by traveling through Timorous Deep which is connected to North Ro and Butcherblock
+* Evil races have an outpost in The Overthere
+* Good races have an outpost at Firiona Vie
+* There is a firepot room at the bottom of Timorous Deep
+* Druids and Wizards get single and group teleports to Kunark
+* Those that can get Amiable faction with an undead foreman can obtain a Worker Sledgemallet
