@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-03T19:56:16.682Z
+date: 2025-10-04T04:00:46.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -70,7 +70,7 @@ During this expansion, Gnomes and Halflings gained new options for hybrid classe
 - [Umbral Plains Armor Sets](/expansions/shadows_of_luclin/umbral_plains_armor_sets) - Slight upgrade to classic planar armor. Not as good as Velious armor sets. 
 - [Divine Hammer of Consternation](https://www.eqarchives.com/items/view/26554){:target="_blank"} - Paladin hammer used to tank several rampages in era. The named does not spawn for several hours in DZ
 
-- Tradeskill Modifying Items - Not everything on this list is available in Luclin. Look at the Zone locations on them to make sure.
+- [Tradeskill Modifying Items](/expansions/shadows_of_luclin/Tradeskills_%Skill_Modifier_Item_Guide) - Not everything on this list is available in Luclin. Look at the Zone locations on them to make sure.
 
 - [Orb of the Sky](https://www.eqarchives.com/items/view/28975){:target="_blank"} / [Gloves of the Crimson Sigil](https://www.eqarchives.com/items/view/26774){:target="_blank"}- Clicky proc useful for tanks
 
