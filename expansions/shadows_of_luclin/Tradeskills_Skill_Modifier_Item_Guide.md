@@ -2,14 +2,13 @@
 title: Tradeskills +% Skill Modifier Item Guide
 description: 
 published: true
-date: 2025-10-04T04:04:28.595Z
+date: 2025-10-04T04:05:42.833Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-04T04:04:28.595Z
 ---
 
-# Header
-Your content here
+# Tradeskills + %Skill Modifier Item Guide
 
 ## Alchemy
 
