@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-04T04:06:07.586Z
+date: 2025-10-04T18:09:25.623Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -25,11 +25,11 @@ You can get there by taking wizard portals to The Nexus.
 
 These portals are located in,
 
-- North Karana at /loc -3695, +1215, -8 in the south part of the zone not far from the guard tower.
-- Greater Faydark at /loc -2024, -442, 0 in the south part of the zone, northwest of the Lesser Faydark zone line.
-- Dreadlands at /loc +3049, +9658, +1048 in the very northwest part of the zone through the ice tunnel.
-- Tox Forest at /loc -1508, -1657, +71 near the southeast corner of the zone.
-- Greater Divide at /loc -1890, -2689, -45 in the north east section of the zone, straight west of the Eastern Wastes zone line.
+- [North Karana](https://www.eqarchives.com/zones/view/northkarana){:target="_blank"} at /loc -3695, +1215, -8 in the south part of the zone not far from the guard tower.
+- [Greater Faydark](https://www.eqarchives.com/zones/view/gfaydark){:target="_blank"} at /loc -2024, -442, 0 in the south part of the zone, northwest of the Lesser Faydark zone line.
+- [Dreadlands](https://www.eqarchives.com/zones/view/dreadlands){:target="_blank"} at /loc +3049, +9658, +1048 in the very northwest part of the zone through the ice tunnel.
+- [Tox Forest](https://www.eqarchives.com/zones/view/tox){:target="_blank"} at /loc -1508, -1657, +71 near the southeast corner of the zone.
+- [Greater Divide](https://www.eqarchives.com/zones/view/greatdivide){:target="_blank"} at /loc -1890, -2689, -45 in the north east section of the zone, straight west of the Eastern Wastes zone line.
 
 Talking to the Nexus Scion NPC at these portals will give you a Spire Stone to put in your inventory. These portals are on a continuous timer that activate every 15 minutes and will port you to The Nexus. The timer is not based upon when you hail the Nexus Scion.
 
@@ -38,10 +38,10 @@ There are also portal pads that port you back to those zones as well in The Nexu
 You can also get to The Nexus by being ported there by a Wizard or Druid.
 
 #### Teleport Locations
-- The Nexus - Becomes the hub of the game during Luclin
-- Grimling Forest - Closest port for Acrylia Caverns AoC
-- Twilight Sea - Closest port for Katta / Grieg's / Ssra AoC
-- DawnShroud Peaks - Closest port for Akheva Ruins / Vex Thal / Umbral Plains AoC 
+- [The Nexus](https://www.eqarchives.com/zones/view/nexus){:target="_blank"}  - Becomes the hub of the game during Luclin
+- [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}  - Closest port for Acrylia Caverns AoC
+- [Twilight Sea](https://www.eqarchives.com/zones/view/twilight){:target="_blank"}  - Closest port for Katta / Grieg's / Ssra AoC
+- [DawnShroud Peaks](https://www.eqarchives.com/zones/view/dawnshroud){:target="_blank"}  - Closest port for Akheva Ruins / Vex Thal / Umbral Plains AoC 
 
 Wizards can get their port spells from [Goesl Sealsonich](https://www.eqarchives.com/npcs/view/150262){:target="_blank"} in Shadow Haven or [Aliara Galestra](https://www.eqarchives.com/npcs/view/160194){:target="_blank"} in Katta Castellum.
 
