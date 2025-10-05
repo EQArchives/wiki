@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:01:59.016Z
+date: 2025-10-05T15:04:47.370Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -20,36 +20,16 @@ The Shadows of Luclin was the **third** expansion released for EverQuest on **De
 
 In addition to **24 new zones**, this expansion also introduced the feline Vah Shir as a new playable race, the powerful **Beastlord** class, **Alternate Advancement** abilities, and mounts. **The Bazaar** also opened up, which was the first zone in EQ entirely dedicated to trading goods.
 
-### Leveling Path
-[Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
+### Vah Shir
+The Vah Shir are a race of noble feline people who have resided on Luclin for several hundred years. When the Erudites of Odus went to war, a devastating explosion launched a chunk of the continent into space, taking with it a majority of the Kerran population. Trapped on the moon, the survivors adapted to their new environment and grew stronger, forced to make themselves a new home on Luclin in Shar Vahl. Over time, their people evolved into the Vah Shir, and are now differentiated from their Kerran ancestors.
 
-The leveling path will remain roughly the same with a few deviations
+Because of their tumultuous history, even to this day the Vah Shir share incredibly close bonds with one another. A Vah Shir will always put their kin first and exhibits selflessness and unwavering loyalty. Powerful and devoted, a Vah Shir is great to have on your side.
 
-- 1-10: Newbie Zone
+### Beastlords
 
-- 10-20: [Paludal Caverns](https://www.eqarchives.com/zones/view/paladul){:target="_blank"} - Luclin Zone
+Beastlords are masters of raw nature with the unique ability to channel this energy into themselves and their pets. They are always found fighting alongside their loyal companion animals, and can enhance their creature’s natural abilities with special spells.
 
-- 10-20: [Kurn's Tower](https://www.eqarchives.com/zones/view/kurn){:target="_blank"} (Kunark Zone)
-
-- 20-30: [Marus Seru](https://www.eqarchives.com/zones/view/mseru){:target="_blank"}  - Great for farming TS hides in as well - Luclin Zone
-
-- 20-30: [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest){:target="_blank"}  / Upper Guk
-
-- 30-40: [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}  - Luclin Zone
-
-- 30-40: [Lower Guk](https://www.eqarchives.com/zones/view/gukbottom){:target="_blank"} 
-
-- 30-40: [Tower of Frozen Shadow](https://www.eqarchives.com/zones/view/frozenshadow){:target="_blank"} 
-
-- 35-45: [Jaggedpine Forest](https://www.eqarchives.com/zones/view/jaggedpine){:target="_blank"}  - A zone most have never been through! Located in Antonica but released in Luclin
-
-- 40-60: [Velketor's Labrynth](https://www.eqarchives.com/zones/view/velketor){:target="_blank"}  - This will be THE leveling zone as soon as you can squeeze into it. Will also be a very popular AA spot at IC/OC (Castle)
-
-- 45-60: [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}  - Luclin Zone
-
-- 45-60: [Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}  - Often the most popular AA zone - Luclin Zone
-
-- 45-60: [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"}  / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"}  (Kunark Zone) 
+A beastlord is versatile in battle, and can fight and hand-to-hand combat using blunt weapons or their bare hands, or can hang back to de-buff enemies and help allies with health or mana regeneration using a variety of spells. Beastlords are valuable individuals to have in a group, but can also hold their own on solo adventures.
 
 ### Travel To and From
 You can get there by taking wizard portals to The Nexus.
@@ -86,6 +66,37 @@ Druids can get their port spells from [Fralith Thornbush](https://www.eqarchives
 |Ogre|.|yes|.|yes|yes|
 |Troll|.|yes|.|yes|yes|
 |Vah Shir|yes|yes|yes|yes|yes|
+
+## Leveling Path
+[Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
+
+The leveling path will remain roughly the same with a few deviations
+
+- 1-10: Newbie Zone
+
+- 10-20: [Paludal Caverns](https://www.eqarchives.com/zones/view/paladul){:target="_blank"} - Luclin Zone
+
+- 10-20: [Kurn's Tower](https://www.eqarchives.com/zones/view/kurn){:target="_blank"} (Kunark Zone)
+
+- 20-30: [Marus Seru](https://www.eqarchives.com/zones/view/mseru){:target="_blank"}  - Great for farming TS hides in as well - Luclin Zone
+
+- 20-30: [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest){:target="_blank"}  / Upper Guk
+
+- 30-40: [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}  - Luclin Zone
+
+- 30-40: [Lower Guk](https://www.eqarchives.com/zones/view/gukbottom){:target="_blank"} 
+
+- 30-40: [Tower of Frozen Shadow](https://www.eqarchives.com/zones/view/frozenshadow){:target="_blank"} 
+
+- 35-45: [Jaggedpine Forest](https://www.eqarchives.com/zones/view/jaggedpine){:target="_blank"}  - A zone most have never been through! Located in Antonica but released in Luclin
+
+- 40-60: [Velketor's Labrynth](https://www.eqarchives.com/zones/view/velketor){:target="_blank"}  - This will be THE leveling zone as soon as you can squeeze into it. Will also be a very popular AA spot at IC/OC (Castle)
+
+- 45-60: [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}  - Luclin Zone
+
+- 45-60: [Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}  - Often the most popular AA zone - Luclin Zone
+
+- 45-60: [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"}  / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"}  (Kunark Zone) 
 
 ### Between Releases
 During this expansion, Gnomes and Halflings gained new options for hybrid classes.
@@ -176,17 +187,6 @@ Luclin AoC Locations Video
 - [Twilight Sea](https://www.eqarchives.com/zones/view/twilight){:target="_blank"}
 - [Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}
 - [Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"}
-
-## Vah Shir
-The Vah Shir are a race of noble feline people who have resided on Luclin for several hundred years. When the Erudites of Odus went to war, a devastating explosion launched a chunk of the continent into space, taking with it a majority of the Kerran population. Trapped on the moon, the survivors adapted to their new environment and grew stronger, forced to make themselves a new home on Luclin in Shar Vahl. Over time, their people evolved into the Vah Shir, and are now differentiated from their Kerran ancestors.
-
-Because of their tumultuous history, even to this day the Vah Shir share incredibly close bonds with one another. A Vah Shir will always put their kin first and exhibits selflessness and unwavering loyalty. Powerful and devoted, a Vah Shir is great to have on your side.
-
-## Beastlords
-
-Beastlords are masters of raw nature with the unique ability to channel this energy into themselves and their pets. They are always found fighting alongside their loyal companion animals, and can enhance their creature’s natural abilities with special spells.
-
-A beastlord is versatile in battle, and can fight and hand-to-hand combat using blunt weapons or their bare hands, or can hang back to de-buff enemies and help allies with health or mana regeneration using a variety of spells. Beastlords are valuable individuals to have in a group, but can also hold their own on solo adventures.
 
 ## Exploring Luclin
 
