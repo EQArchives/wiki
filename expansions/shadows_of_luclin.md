@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:04:47.370Z
+date: 2025-10-05T15:05:52.780Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -48,7 +48,7 @@ There are also portal pads that port you back to those zones as well in The Nexu
 
 You can also get to The Nexus by being ported there by a Wizard or Druid.
 
-#### Teleport Locations
+### Teleport Locations
 - [The Nexus](https://www.eqarchives.com/zones/view/nexus){:target="_blank"}  - Becomes the hub of the game during Luclin
 - [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}  - Closest port for Acrylia Caverns AoC
 - [Twilight Sea](https://www.eqarchives.com/zones/view/twilight){:target="_blank"}  - Closest port for Katta / Grieg's / Ssra AoC
