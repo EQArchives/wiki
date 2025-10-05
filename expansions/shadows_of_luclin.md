@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:37:31.767Z
+date: 2025-10-05T15:48:46.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -32,7 +32,9 @@ Beastlords are masters of raw nature with the unique ability to channel this ene
 A beastlord is versatile in battle, and can fight and hand-to-hand combat using blunt weapons or their bare hands, or can hang back to de-buff enemies and help allies with health or mana regeneration using a variety of spells. Beastlords are valuable individuals to have in a group, but can also hold their own on solo adventures.
 
 ### Travel To and From
-You can get there by taking wizard portals to The Nexus.
+>Talking to the Nexus Scion NPC at these portals will give you a Spire Stone to put in your inventory. These portals are on a continuous timer that **activate every 15 minutes** and will port you **to The Nexus**. The timer is not based upon when you hail the Nexus Scion.{.is-info}
+
+You can get there via portals from the massive Wizard Spires to The Nexus.
 
 These portals are located in,
 
@@ -42,13 +44,14 @@ These portals are located in,
 - [Tox Forest](https://www.eqarchives.com/zones/view/tox){:target="_blank"} at /loc -1508, -1657, +71 near the southeast corner of the zone.
 - [Greater Divide](https://www.eqarchives.com/zones/view/greatdivide){:target="_blank"} at /loc -1890, -2689, -45 in the north east section of the zone, straight west of the Eastern Wastes zone line.
 
-Talking to the Nexus Scion NPC at these portals will give you a Spire Stone to put in your inventory. These portals are on a continuous timer that **activate every 15 minutes** and will port you **to The Nexus**. The timer is not based upon when you hail the Nexus Scion.
+**You can also get to The Nexus by being ported there by a Wizard or Druid.**
 
+#### Returning to Norrath
 There are also portal pads that port you back to those zones as well in The Nexus. No Spire Stone is required in The Nexus.
 
-You can also get to The Nexus by being ported there by a Wizard or Druid.
-
 ### Teleport Locations
+> Agents of Change (AoC) were not introduced when Luclin was first released, but will come later.{.is-info}
+
 - [The Nexus](https://www.eqarchives.com/zones/view/nexus){:target="_blank"}  - Becomes the hub of the game during Luclin
 - [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}  - Closest port for Acrylia Caverns AoC
 - [Twilight Sea](https://www.eqarchives.com/zones/view/twilight){:target="_blank"}  - Closest port for Katta / Grieg's / Ssra AoC
