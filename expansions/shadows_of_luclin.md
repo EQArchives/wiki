@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:21:30.094Z
+date: 2025-10-05T15:23:16.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -187,10 +187,9 @@ There are frankly far too many items to go over in depth but we'll cover a coupl
 - [The Deep](https://www.eqarchives.com/zones/view/thedeep){:target="_blank"}
 - [Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}
 - [Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"} - The end-game raiding zone. Requires a key discussed below. 
+    - [Vex Thal Raid Guide](https://shadowrequiem.gamerlaunch.com/forums/viewtopic.php?t=11947920){:target="_blank"} by Shadow Requiem
 
 [Luclin Raid Strategies](https://www.eqprogression.com/shadows-of-luclin-raid-guide-overview/){:target="_blank"} by EQ Progression
-
-[Vex Thal Raid Guide](https://shadowrequiem.gamerlaunch.com/forums/viewtopic.php?t=11947920){:target="_blank"} by Shadow Requiem
 
 [General Raid Target Information](https://trello.com/b/wlxkRqnA/everquest-raid-targets){:target="_blank"}
 
