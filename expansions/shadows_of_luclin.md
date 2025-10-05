@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:48:46.024Z
+date: 2025-10-05T15:52:26.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -200,6 +200,16 @@ There are frankly far too many items to go over in depth but we'll cover a coupl
 - [AoC Location Guide](https://www.eqprogression.com/agent-of-change-location-guide/){:target="_blank"} by EQ Progression
 
 - [Luclin AoC Locations Video](https://www.youtube.com/playlist?list=PLK75-w_Dllesf09xRh7ESBJa-1jyhisNE/){:target="_blank"}
+
+## Alternate Advancement
+
+Luclin begins the everlasting AA grind. These are improvements to your character that become more and more necessary as the game goes on. This can be pulled up in game by hittin "V"
+
+[EQ Progression](https://www.eqprogression.com/){:target="_blank"} - Has a breakdown of important AAs on the Class 101 pages for each class
+
+[Raidloot AA Search](https://www.raidloot.com/aa?name=&effect=&class=&level=&tab=&exp=Shadows+of+Luclin){:target="_blank"} - It is set to Shadows of Luclin. Just select your class. Note some of these on here are not truly available
+
+[TAKP AA Sheet](https://wiki.takp.info/index.php/Alternate_Advancement){:target="_blank"} - This is how the AAs originally looked in Luclin. The General AAs have been condensed on TLPs but this is probably more accurate in terms of what is achievable in Luclin. 
 
 ## Zones
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
