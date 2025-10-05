@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-04T18:09:25.623Z
+date: 2025-10-05T02:27:09.105Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -86,20 +86,32 @@ During this expansion, Gnomes and Halflings gained new options for hybrid classe
 
 - AAs granted by Items (usually regen / max mana in Luclin - List of items which are broken down by expac. 
 
-## Raids
-- Acrylia Caverns
-- Akheva Ruins
-- Greig’s End
-- Katta Castellum
-- Lord Inquisitor Seru
-- Ssraeshza Temple
+## Raid Zones / Encounters
+- [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
+    - https://www.raidloot.com/raid/acrylia - Raid loot for SoL
+- [Akheva Ruins](https://www.eqarchives.com/zones/view/akheva){:target="_blank"}
+- [Greig’s End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}
+- [Katta Castellum](https://www.eqarchives.com/zones/view/katta){:target="_blank"}
+- [Sanctus Seru](https://www.eqarchives.com/zones/view/sseru){:target="_blank"}
+    - [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000){:target="_blank"} - Relatively easy raid with a lot of great loot. Can be 3 grouped in era. Requires a key and bane weapon discussed below.
+- Ssraeshza Temple - One of the major raid zones. Killing Emperor requires a key and bane weapon discussed below
     - Arch Lich Rhag`Zadune (Rhag Cycle)
     - Emperor Ssraeshza
     - High Priest of Ssraeshza + Xerikizh the Creator
     - Vyzh`dra the Cursed (Cursed Cycle)
 - The Deep
 - Umbral Plains
-- Vex Thal
+- Vex Thal - The end-game raiding zone. Requires a key discussed below. 
+
+Luclin Raid Strategies by EQ Progression
+
+Vex Thal Raid Guide by Shadow Requiem
+
+General Raid Target Information
+
+AoC Location Guide by EQ Progression
+
+Luclin AoC Locations Video
 
 ## Zones
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
