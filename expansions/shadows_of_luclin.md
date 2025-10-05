@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:05:52.780Z
+date: 2025-10-05T15:06:46.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -67,6 +67,17 @@ Druids can get their port spells from [Fralith Thornbush](https://www.eqarchives
 |Troll|.|yes|.|yes|yes|
 |Vah Shir|yes|yes|yes|yes|yes|
 
+
+### Between Releases
+During this expansion, Gnomes and Halflings gained new options for hybrid classes.
+
+| New Combos | Paladin | Ranger | Shadowknight |
+|---|---|---|---|
+|Gnome|yes|.|yes|
+|Halfling|yes|yes|.|
+
+**Souldbinders** and the **Jaggedpine Forest** were first introduced during Luclin as well.
+
 ## Leveling Path
 [Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
 
@@ -97,16 +108,6 @@ The leveling path will remain roughly the same with a few deviations
 - 45-60: [Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}  - Often the most popular AA zone - Luclin Zone
 
 - 45-60: [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"}  / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"}  (Kunark Zone) 
-
-### Between Releases
-During this expansion, Gnomes and Halflings gained new options for hybrid classes.
-
-| New Combos | Paladin | Ranger | Shadowknight |
-|---|---|---|---|
-|Gnome|yes|.|yes|
-|Halfling|yes|yes|.|
-
-**Souldbinders** and the **Jaggedpine Forest** were first introduced during Luclin as well.
 
 ## Gear
 - [Umbral Plains Armor Sets](/expansions/shadows_of_luclin/umbral_plains_armor_sets) - Slight upgrade to classic planar armor. Not as good as Velious armor sets. 
