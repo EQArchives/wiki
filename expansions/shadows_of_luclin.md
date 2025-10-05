@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T03:14:43.978Z
+date: 2025-10-05T03:19:56.639Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -96,12 +96,12 @@ During this expansion, Gnomes and Halflings gained new options for hybrid classe
     - [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000){:target="_blank"} - Relatively easy raid with a lot of great loot. Can be 3 grouped in era. Requires a key and bane weapon discussed below.
 - Ssraeshza Temple - One of the major raid zones. Killing Emperor requires a key and bane weapon discussed below
     - Arch Lich Rhag`Zadune (Rhag Cycle)
-    - Emperor Ssraeshza
+    - [Emperor Ssraeshza](https://www.eqarchives.com/npcs/view/162491){:target="_blank"}
     - High Priest of Ssraeshza + Xerikizh the Creator
     - Vyzh`dra the Cursed (Cursed Cycle)
-- The Deep
-- Umbral Plains
-- Vex Thal - The end-game raiding zone. Requires a key discussed below. 
+- [The Deep](https://www.eqarchives.com/zones/view/thedeep){:target="_blank"}
+- [Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}
+- [Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"} - The end-game raiding zone. Requires a key discussed below. 
 
 Luclin Raid Strategies by EQ Progression
 
