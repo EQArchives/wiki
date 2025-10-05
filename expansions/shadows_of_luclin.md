@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T03:19:56.639Z
+date: 2025-10-05T03:25:32.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -94,7 +94,7 @@ During this expansion, Gnomes and Halflings gained new options for hybrid classe
 - [Katta Castellum](https://www.eqarchives.com/zones/view/katta){:target="_blank"}
 - [Sanctus Seru](https://www.eqarchives.com/zones/view/sseru){:target="_blank"}
     - [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000){:target="_blank"} - Relatively easy raid with a lot of great loot. Can be 3 grouped in era. Requires a key and bane weapon discussed below.
-- Ssraeshza Temple - One of the major raid zones. Killing Emperor requires a key and bane weapon discussed below
+- [Ssraeshza Temple](https://www.eqarchives.com/zones/view/ssratemple){:target="_blank"} - One of the major raid zones. Killing Emperor requires a key and bane weapon discussed below
     - Arch Lich Rhag`Zadune (Rhag Cycle)
     - [Emperor Ssraeshza](https://www.eqarchives.com/npcs/view/162491){:target="_blank"}
     - High Priest of Ssraeshza + Xerikizh the Creator
