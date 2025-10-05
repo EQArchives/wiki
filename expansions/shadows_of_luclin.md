@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:31:48.512Z
+date: 2025-10-05T15:37:31.767Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -42,7 +42,7 @@ These portals are located in,
 - [Tox Forest](https://www.eqarchives.com/zones/view/tox){:target="_blank"} at /loc -1508, -1657, +71 near the southeast corner of the zone.
 - [Greater Divide](https://www.eqarchives.com/zones/view/greatdivide){:target="_blank"} at /loc -1890, -2689, -45 in the north east section of the zone, straight west of the Eastern Wastes zone line.
 
-Talking to the Nexus Scion NPC at these portals will give you a Spire Stone to put in your inventory. These portals are on a continuous timer that activate every 15 minutes and will port you to The Nexus. The timer is not based upon when you hail the Nexus Scion.
+Talking to the Nexus Scion NPC at these portals will give you a Spire Stone to put in your inventory. These portals are on a continuous timer that **activate every 15 minutes** and will port you **to The Nexus**. The timer is not based upon when you hail the Nexus Scion.
 
 There are also portal pads that port you back to those zones as well in The Nexus. No Spire Stone is required in The Nexus.
 
