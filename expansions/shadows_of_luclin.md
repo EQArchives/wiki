@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:14:41.892Z
+date: 2025-10-05T15:21:30.094Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -169,7 +169,7 @@ There are frankly far too many items to go over in depth but we'll cover a coupl
 
 - [Torque of the Wyrmlord](https://www.eqarchives.com/items/view/26584){:target="_blank"} - Great self HP buff
 
-- AAs granted by Items (usually regen / max mana in Luclin - List of items which are broken down by expac. 
+- [AAs granted by Items (usually regen / max mana in Luclin)](https://www.eqprogression.com/everquest-clicky-item-aa-guide/){:target="_blank"} - List of items which are broken down by expac. **Note: These may be modern items and not original to Luclin era**
 
 ## Raid Zones / Encounters
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
@@ -188,15 +188,15 @@ There are frankly far too many items to go over in depth but we'll cover a coupl
 - [Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}
 - [Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"} - The end-game raiding zone. Requires a key discussed below. 
 
-Luclin Raid Strategies by EQ Progression
+[Luclin Raid Strategies](https://www.eqprogression.com/shadows-of-luclin-raid-guide-overview/){:target="_blank"} by EQ Progression
 
-Vex Thal Raid Guide by Shadow Requiem
+[Vex Thal Raid Guide](https://shadowrequiem.gamerlaunch.com/forums/viewtopic.php?t=11947920){:target="_blank"} by Shadow Requiem
 
-General Raid Target Information
+[General Raid Target Information](https://trello.com/b/wlxkRqnA/everquest-raid-targets){:target="_blank"}
 
-AoC Location Guide by EQ Progression
+[AoC Location Guide](https://www.eqprogression.com/agent-of-change-location-guide/){:target="_blank"} by EQ Progression
 
-Luclin AoC Locations Video
+[Luclin AoC Locations Video](https://www.youtube.com/playlist?list=PLK75-w_Dllesf09xRh7ESBJa-1jyhisNE/){:target="_blank"}
 
 ## Zones
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
