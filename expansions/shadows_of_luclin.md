@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:14:10.827Z
+date: 2025-10-05T15:14:41.892Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -137,7 +137,7 @@ Undead Snake Organs - Results in a neck item with EB. Just buy a rebreather off 
 
 ## Key Quests
 
-Master Key Guide by EQ Progression
+[Master Key Guide](https://www.eqprogression.com/everquest-tlp-master-key-list/){:target="_blank"} by EQ Progression
 
 [Key to the Emperor's Chamber](https://everquest.allakhazam.com/db/quest.html?quest=1999){:target="_blank"} - Requires four drops from Ssra. Video linked in Zam article.
 
