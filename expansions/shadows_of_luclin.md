@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:23:16.759Z
+date: 2025-10-05T15:31:48.512Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -111,29 +111,29 @@ The leveling path will remain roughly the same with a few deviations
 
 ## Major Quests
 
-Coldain Prayer Shawl #8 - Not completable until Luclin drops. Shoulder item that is BIS and good for several expacs. Comes with +3 mana regen and extended duration on buffs up to level 65!
+[Coldain Prayer Shawl #8](https://everquest.allakhazam.com/db/item.html?item=11999){:target="_blank"} - Not completable until Luclin drops. Shoulder item that is BIS and good for several expacs. Comes with +3 mana regen and extended duration on buffs up to level 65!
 
-Xanthe's Earring of Nature - Results in Protection of the Cabbage (single target PotG) and an earring with +1 mana regen - all parts are buyable (Druids can get both earrings)
+[Xanthe's Earring of Nature](https://everquest.allakhazam.com/db/item.html?item=12455){:target="_blank"} - Results in Protection of the Cabbage (single target PotG) and an earring with +1 mana regen - all parts are buyable (Druids can get both earrings)
 
-Signet earring of Veracity - Cut of Seru's head and give it Lcea for a near BIS earring.
+[Signet Earring of Veracity](https://everquest.allakhazam.com/db/quest.html?quest=2633){:target="_blank"} - Cut of Seru's head and give it Lcea for a near BIS earring.
 
-Agent Tiesh's Old Books - Results in a great earring / ring with Mana Preservation IV and clicky SoW!
+[Agent Tiesh's Old Books](https://everquest.allakhazam.com/db/quest.html?quest=2583){:target="_blank"} - Results in a great earring / ring with Mana Preservation IV and clicky SoW!
 
-Vah Shir Smithing - Quest that provides an item that is required for many Luclin smithing recipes - including the Shadowscream which will get you the second highest skill (267) before Yttrium Sheets.
+[Vah Shir Smithing](https://everquest.allakhazam.com/db/quest.html?quest=1542){:target="_blank"} - Quest that provides an item that is required for many Luclin smithing recipes - including the Shadowscream which will get you the second highest skill (267) before Yttrium Sheets.
 
-Vah Shir Officer's Cloak - Results in a decent cloak for Vah Shir only
+[Vah Shir Officer's Cloak](https://everquest.allakhazam.com/db/quest.html?quest=2257){:target="_blank"} - Results in a decent cloak for Vah Shir only
 
-Loyalist Shield of Honor - 50 AC back item - great for tanks
+[Loyalist Shield of Honor](https://everquest.allakhazam.com/db/quest.html?quest=1582){:target="_blank"} - 50 AC back item - great for tanks
 
-Beastlord Epic
+[Beastlord Epic](https://everquest.allakhazam.com/db/quest.html?quest=1611){:target="_blank"}
 
-Elysian Skulls Faction quest to start the Medallion of Akelha Ra
+[Elysian Skulls](https://everquest.allakhazam.com/db/quest.html?quest=2648){:target="_blank"} Faction quest to start the Medallion of Akelha Ra
 
-Medallion of AkelHa Ra - Arguably the best item in the expansion. Requires a drop off Aten Ha Ra
+[Medallion of AkelHa Ra](https://everquest.allakhazam.com/db/quest.html?quest=1583){:target="_blank"} - Arguably the best item in the expansion. Requires a drop off Aten Ha Ra
 
-Rakshasa Skulls - Decent quest that ends up in a +20 Wis shield for healers
+[Rakshasa Skulls](https://everquest.allakhazam.com/db/quest.html?quest=1304){:target="_blank"}  - Decent quest that ends up in a +20 Wis shield for healers
 
-Undead Snake Organs - Results in a neck item with EB. Just buy a rebreather off me instead.
+[Undead Snake Organs](https://everquest.allakhazam.com/db/quest.html?quest=1301){:target="_blank"} - Results in a neck item with EB. Just buy a rebreather off me instead.
 
 ## Key Quests
 
@@ -189,13 +189,14 @@ There are frankly far too many items to go over in depth but we'll cover a coupl
 - [Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"} - The end-game raiding zone. Requires a key discussed below. 
     - [Vex Thal Raid Guide](https://shadowrequiem.gamerlaunch.com/forums/viewtopic.php?t=11947920){:target="_blank"} by Shadow Requiem
 
-[Luclin Raid Strategies](https://www.eqprogression.com/shadows-of-luclin-raid-guide-overview/){:target="_blank"} by EQ Progression
+### Additional Raid Guides
+- [Luclin Raid Strategies](https://www.eqprogression.com/shadows-of-luclin-raid-guide-overview/){:target="_blank"} by EQ Progression
 
-[General Raid Target Information](https://trello.com/b/wlxkRqnA/everquest-raid-targets){:target="_blank"}
+- [General Raid Target Information](https://trello.com/b/wlxkRqnA/everquest-raid-targets){:target="_blank"}
 
-[AoC Location Guide](https://www.eqprogression.com/agent-of-change-location-guide/){:target="_blank"} by EQ Progression
+- [AoC Location Guide](https://www.eqprogression.com/agent-of-change-location-guide/){:target="_blank"} by EQ Progression
 
-[Luclin AoC Locations Video](https://www.youtube.com/playlist?list=PLK75-w_Dllesf09xRh7ESBJa-1jyhisNE/){:target="_blank"}
+- [Luclin AoC Locations Video](https://www.youtube.com/playlist?list=PLK75-w_Dllesf09xRh7ESBJa-1jyhisNE/){:target="_blank"}
 
 ## Zones
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
