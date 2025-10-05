@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T15:06:46.137Z
+date: 2025-10-05T15:14:10.827Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -109,7 +109,49 @@ The leveling path will remain roughly the same with a few deviations
 
 - 45-60: [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"}  / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"}  (Kunark Zone) 
 
-## Gear
+## Major Quests
+
+Coldain Prayer Shawl #8 - Not completable until Luclin drops. Shoulder item that is BIS and good for several expacs. Comes with +3 mana regen and extended duration on buffs up to level 65!
+
+Xanthe's Earring of Nature - Results in Protection of the Cabbage (single target PotG) and an earring with +1 mana regen - all parts are buyable (Druids can get both earrings)
+
+Signet earring of Veracity - Cut of Seru's head and give it Lcea for a near BIS earring.
+
+Agent Tiesh's Old Books - Results in a great earring / ring with Mana Preservation IV and clicky SoW!
+
+Vah Shir Smithing - Quest that provides an item that is required for many Luclin smithing recipes - including the Shadowscream which will get you the second highest skill (267) before Yttrium Sheets.
+
+Vah Shir Officer's Cloak - Results in a decent cloak for Vah Shir only
+
+Loyalist Shield of Honor - 50 AC back item - great for tanks
+
+Beastlord Epic
+
+Elysian Skulls Faction quest to start the Medallion of Akelha Ra
+
+Medallion of AkelHa Ra - Arguably the best item in the expansion. Requires a drop off Aten Ha Ra
+
+Rakshasa Skulls - Decent quest that ends up in a +20 Wis shield for healers
+
+Undead Snake Organs - Results in a neck item with EB. Just buy a rebreather off me instead.
+
+## Key Quests
+
+Master Key Guide by EQ Progression
+
+[Key to the Emperor's Chamber](https://everquest.allakhazam.com/db/quest.html?quest=1999){:target="_blank"} - Requires four drops from Ssra. Video linked in Zam article.
+
+[Key to Vex Thal](https://everquest.allakhazam.com/db/quest.html?quest=2000){:target="_blank"} - Let's you zone into Vex Thal. THE SHARDS ARE NOW ZONE WIDE DROPS (Much like the VP key)
+
+[Arx Key](https://everquest.allakhazam.com/db/quest.html?quest=2299){:target="_blank"} - Required to get to Seru's chamber. The four head drops are mini-raid targets in era.
+
+[Seru Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1997){:target="_blank"} - Requires a 300ish blacksmithing skill to reliably make the Yttrium forged sheets. The weapons themselves are no drop and are about 150ish trivial
+
+[Emperor Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1998){:target="_blank"}  - Requires an ore drop from the basement of Ssra. No skill requirement on the weapons. 
+
+## Major Items
+There are frankly far too many items to go over in depth but we'll cover a couple of the more legendary items as well as those that are only temporarily available. 
+
 - [Umbral Plains Armor Sets](/expansions/shadows_of_luclin/umbral_plains_armor_sets) - Slight upgrade to classic planar armor. Not as good as Velious armor sets. 
 - [Divine Hammer of Consternation](https://www.eqarchives.com/items/view/26554){:target="_blank"} - Paladin hammer used to tank several rampages in era. The named does not spawn for several hours in DZ
 
