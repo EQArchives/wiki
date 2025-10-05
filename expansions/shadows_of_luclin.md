@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-05T03:25:32.406Z
+date: 2025-10-05T15:01:59.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -19,6 +19,37 @@ dateCreated: 2025-08-10T05:21:42.868Z
 The Shadows of Luclin was the **third** expansion released for EverQuest on **December 4, 2001**. With this expansion, players could travel outside of the realm of Norrath for the first time. Adventurers headed to Luclin, one of Norrath’s two moons, which was a whole new world to explore. Portals to and from The Nexus are located at Wizard Spires on each continent, transporting at about 20 minute increments.
 
 In addition to **24 new zones**, this expansion also introduced the feline Vah Shir as a new playable race, the powerful **Beastlord** class, **Alternate Advancement** abilities, and mounts. **The Bazaar** also opened up, which was the first zone in EQ entirely dedicated to trading goods.
+
+### Leveling Path
+[Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
+
+The leveling path will remain roughly the same with a few deviations
+
+- 1-10: Newbie Zone
+
+- 10-20: [Paludal Caverns](https://www.eqarchives.com/zones/view/paladul){:target="_blank"} - Luclin Zone
+
+- 10-20: [Kurn's Tower](https://www.eqarchives.com/zones/view/kurn){:target="_blank"} (Kunark Zone)
+
+- 20-30: [Marus Seru](https://www.eqarchives.com/zones/view/mseru){:target="_blank"}  - Great for farming TS hides in as well - Luclin Zone
+
+- 20-30: [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest){:target="_blank"}  / Upper Guk
+
+- 30-40: [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}  - Luclin Zone
+
+- 30-40: [Lower Guk](https://www.eqarchives.com/zones/view/gukbottom){:target="_blank"} 
+
+- 30-40: [Tower of Frozen Shadow](https://www.eqarchives.com/zones/view/frozenshadow){:target="_blank"} 
+
+- 35-45: [Jaggedpine Forest](https://www.eqarchives.com/zones/view/jaggedpine){:target="_blank"}  - A zone most have never been through! Located in Antonica but released in Luclin
+
+- 40-60: [Velketor's Labrynth](https://www.eqarchives.com/zones/view/velketor){:target="_blank"}  - This will be THE leveling zone as soon as you can squeeze into it. Will also be a very popular AA spot at IC/OC (Castle)
+
+- 45-60: [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}  - Luclin Zone
+
+- 45-60: [Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}  - Often the most popular AA zone - Luclin Zone
+
+- 45-60: [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"}  / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"}  (Kunark Zone) 
 
 ### Travel To and From
 You can get there by taking wizard portals to The Nexus.
