@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-06T03:08:20.035Z
+date: 2025-10-06T03:09:18.112Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -20,7 +20,7 @@ The Shadows of Luclin was the **third** expansion released for EverQuest on **De
 
 In addition to **24 new zones**, this expansion also introduced the feline Vah Shir as a new playable race, the powerful **Beastlord** class, **Alternate Advancement** abilities, and mounts. **The Bazaar** also opened up, which was the first zone in EQ entirely dedicated to trading goods.
 
->It took 20 years for the Shadows of Luclin music to finally get fixed, but it is quite good.  You can listen to it [here](https://www.youtube.com/watch?v=4z7b-532mKg&list=PLSCa57dkQP45UdvM84b5XQLz92x9IbH_A). {.is-info}
+It took *20 years* for the Shadows of Luclin music to finally get fixed, but it is quite good.  You can listen to it [here](https://www.youtube.com/watch?v=4z7b-532mKg&list=PLSCa57dkQP45UdvM84b5XQLz92x9IbH_A).
 
 ### Vah Shir
 The Vah Shir are a race of noble feline people who have resided on Luclin for several hundred years. When the Erudites of Odus went to war, a devastating explosion launched a chunk of the continent into space, taking with it a majority of the Kerran population. Trapped on the moon, the survivors adapted to their new environment and grew stronger, forced to make themselves a new home on Luclin in Shar Vahl. Over time, their people evolved into the Vah Shir, and are now differentiated from their Kerran ancestors.
