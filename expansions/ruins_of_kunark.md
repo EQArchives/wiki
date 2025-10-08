@@ -2,7 +2,7 @@
 title: The Ruins of Kunark Expansion
 description: the first expansion
 published: true
-date: 2025-10-08T01:57:22.861Z
+date: 2025-10-08T01:58:33.456Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:25:25.262Z
@@ -191,6 +191,12 @@ There are frankly far too many items to go over in depth but we'll cover a coupl
 - Worker Sledgemallet - Proccable Overthere port
 - Wurmslayer
 - Goblin Gazhugi Ring - clickable charm break 
+
+### Key Quests
+
+- Key to Sebilis
+- Key to Howling Stones
+- Key to Veeshan's Peak 
 
 ## Kunark Lore
 Lots of lore catalogued on the Lore Page.
