@@ -2,7 +2,7 @@
 title: The Ruins of Kunark Expansion
 description: the first expansion
 published: true
-date: 2025-10-08T01:58:33.456Z
+date: 2025-10-08T02:00:18.403Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:25:25.262Z
@@ -164,20 +164,6 @@ The end raid zone of the expansion packed with dragons and loot but you must eng
 * **Jaundiced Bone Armor** (Shaman)
 * **Cobalt Armor** (Warrior)
 
-### Major Quests
-
-- Epic Quests - The original versions will be different as many of the "skips" have been removed. Consult Allakhazam particularly for the Rogue & Shaman quests.
-- Kunark Spell Hand Ins - Nearly half of the Kunark spells from 51-60 are only obtainable via this quest set. Available in both the Overthere and Firiona Vie.
-- Kunark Archaeologist - A set of re-finished quests that were never released originally. Rewards are quite good for the era.
-- Bone Chips - The main faction quest used to buff up Iksar faction. It does not affect Necros faction Brood of Kotiz
-- Necromancer Skullcap - Nearly required item for necros as it gives a clicky leach dot.
-- Shaman Cudgel - Great Shaman item but not to the extent of the Necro skullcap. Gives a strong melee buff similar to primal essence.
-- Monk Bracer - Good monk item but no clicky effect so it will be replaced in Velious raiding gear. Mostly used for Whistling Fists in Luclin.
-- Warrior Pike - 1h spear 14/24 with DD/stun.
-- Greenmist - Shadowknight - Great SK sword -outclassed by Velious raid gear but can be used on Emp Sra in Luclin
-- Regal Band of Bathezid - BIS ring item with a rechargable 25 point DS
-- Spirit Wracked Cord - Good and versatile item 
-
  ### Major Items
 
 There are frankly far too many items to go over in depth but we'll cover a couple of the more legendary items as well as those that are only temporarily available. Each non INT caster class also has class armor. These are mostly pure AC with various clickies. The BP and legs are the only pieces with stats. They drop from Trakanon and Venril respectively. [EQ Progression](https://www.eqprogression.com/) is a good source for your class clickies.
@@ -191,6 +177,20 @@ There are frankly far too many items to go over in depth but we'll cover a coupl
 - Worker Sledgemallet - Proccable Overthere port
 - Wurmslayer
 - Goblin Gazhugi Ring - clickable charm break 
+
+## Major Quests
+
+- Epic Quests - The original versions will be different as many of the "skips" have been removed. Consult Allakhazam particularly for the Rogue & Shaman quests.
+- Kunark Spell Hand Ins - Nearly half of the Kunark spells from 51-60 are only obtainable via this quest set. Available in both the Overthere and Firiona Vie.
+- Kunark Archaeologist - A set of re-finished quests that were never released originally. Rewards are quite good for the era.
+- Bone Chips - The main faction quest used to buff up Iksar faction. It does not affect Necros faction Brood of Kotiz
+- Necromancer Skullcap - Nearly required item for necros as it gives a clicky leach dot.
+- Shaman Cudgel - Great Shaman item but not to the extent of the Necro skullcap. Gives a strong melee buff similar to primal essence.
+- Monk Bracer - Good monk item but no clicky effect so it will be replaced in Velious raiding gear. Mostly used for Whistling Fists in Luclin.
+- Warrior Pike - 1h spear 14/24 with DD/stun.
+- Greenmist - Shadowknight - Great SK sword -outclassed by Velious raid gear but can be used on Emp Sra in Luclin
+- Regal Band of Bathezid - BIS ring item with a rechargable 25 point DS
+- Spirit Wracked Cord - Good and versatile item 
 
 ### Key Quests
 
