@@ -2,7 +2,7 @@
 title: The Ruins of Kunark Expansion
 description: the first expansion
 published: true
-date: 2025-10-08T01:45:02.007Z
+date: 2025-10-08T01:53:45.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:25:25.262Z
@@ -103,8 +103,8 @@ The Ruins of Kunark introduced a new continent featuring 25 new zones to explore
 - 50-60: [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"} (Kunark Zone) Best xp from 50-60 hands down 
 
 ### Raids
-* Venril Sathir (Karnor's Castle)
-* Master Yael (The Hole)
+* **Venril Sathir** (Karnor's Castle) -  drops the class armor legs and several caster clicky staffs. Drops epic pieces for Druids, Rangers, and Wizards 
+* **Master Yael** (The Hole)
 
 #### Chardok Royals
 * Overking Bathezid
@@ -116,9 +116,11 @@ The Ruins of Kunark introduced a new continent featuring 25 new zones to explore
 * Dreadlands: Gorenaire (Hole Era)
 * Emerald Jungle: Severilous (Hole Era)
 * Skyfire Mountains: Talendor (Hole Era)
-* Old Sebilis: Trakanon
+* Old Sebilis: **Trakanon** - he drops the class armor BPs and his teeth are part of the key quest into Veeshan's Peak. 
 
 #### Veeshan's Peak
+The end raid zone of the expansion packed with dragons and loot but you must engage the mighty Phara Dar to escape alive! 
+
 * Hoshkar
 * Silverwing
 * Nexona
@@ -161,6 +163,20 @@ The Ruins of Kunark introduced a new continent featuring 25 new zones to explore
 * **Blood Ember Armor** (Shadow Knight)
 * **Jaundiced Bone Armor** (Shaman)
 * **Cobalt Armor** (Warrior)
+
+ ### Major Items
+
+There are frankly far too many items to go over in depth but we'll cover a couple of the more legendary items as well as those that are only temporarily available. Each non INT caster class also has class armor. These are mostly pure AC with various clickies. The BP and legs are the only pieces with stats. They drop from Trakanon and Venril respectively. [EQ Progression](https://www.eqprogression.com/) is a good source for your class clickies.
+
+- Fungus Covered Great Staff - Clicky regen. Only drops during Kunark and very shortly into Velious.
+- Circlet of Shadow - Pre-nerf CoS is essential gear for any SK/Necro for a long time. Pre-nerf stops dropping in late Kunark/early Velious
+- Fungus Covered Scale Tunic - The legendary regen item worn by twinks the world over.
+- Shrunken Goblin Skull Earring - One click is a permanent attack buff but it still provides a trash buff as well.
+- Bracer of the Hidden - Instant class see invis. Good trash buff item
+- Fingerbone Hoop - Worn see invis
+- Worker Sledgemallet - Proccable Overthere port
+- Wurmslayer
+- Goblin Gazhugi Ring - clickable charm break 
 
 ## Kunark Lore
 Lots of lore catalogued on the Lore Page.
