@@ -2,7 +2,7 @@
 title: The Ruins of Kunark Expansion
 description: the first expansion
 published: true
-date: 2025-10-08T01:56:47.920Z
+date: 2025-10-08T01:57:22.861Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:25:25.262Z
@@ -166,7 +166,7 @@ The end raid zone of the expansion packed with dragons and loot but you must eng
 
 ### Major Quests
 
-- Epic Quests - P99 quest list will be different as many of the "skips" have been removed. Consult Allakhazam particularly for the Rogue & Shaman quests.
+- Epic Quests - The original versions will be different as many of the "skips" have been removed. Consult Allakhazam particularly for the Rogue & Shaman quests.
 - Kunark Spell Hand Ins - Nearly half of the Kunark spells from 51-60 are only obtainable via this quest set. Available in both the Overthere and Firiona Vie.
 - Kunark Archaeologist - A set of re-finished quests that were never released originally. Rewards are quite good for the era.
 - Bone Chips - The main faction quest used to buff up Iksar faction. It does not affect Necros faction Brood of Kotiz
