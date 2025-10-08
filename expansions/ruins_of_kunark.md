@@ -2,7 +2,7 @@
 title: The Ruins of Kunark Expansion
 description: the first expansion
 published: true
-date: 2025-10-08T01:53:45.362Z
+date: 2025-10-08T01:56:47.920Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:25:25.262Z
@@ -163,6 +163,20 @@ The end raid zone of the expansion packed with dragons and loot but you must eng
 * **Blood Ember Armor** (Shadow Knight)
 * **Jaundiced Bone Armor** (Shaman)
 * **Cobalt Armor** (Warrior)
+
+### Major Quests
+
+- Epic Quests - P99 quest list will be different as many of the "skips" have been removed. Consult Allakhazam particularly for the Rogue & Shaman quests.
+- Kunark Spell Hand Ins - Nearly half of the Kunark spells from 51-60 are only obtainable via this quest set. Available in both the Overthere and Firiona Vie.
+- Kunark Archaeologist - A set of re-finished quests that were never released originally. Rewards are quite good for the era.
+- Bone Chips - The main faction quest used to buff up Iksar faction. It does not affect Necros faction Brood of Kotiz
+- Necromancer Skullcap - Nearly required item for necros as it gives a clicky leach dot.
+- Shaman Cudgel - Great Shaman item but not to the extent of the Necro skullcap. Gives a strong melee buff similar to primal essence.
+- Monk Bracer - Good monk item but no clicky effect so it will be replaced in Velious raiding gear. Mostly used for Whistling Fists in Luclin.
+- Warrior Pike - 1h spear 14/24 with DD/stun.
+- Greenmist - Shadowknight - Great SK sword -outclassed by Velious raid gear but can be used on Emp Sra in Luclin
+- Regal Band of Bathezid - BIS ring item with a rechargable 25 point DS
+- Spirit Wracked Cord - Good and versatile item 
 
  ### Major Items
 
