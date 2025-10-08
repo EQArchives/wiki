@@ -2,7 +2,7 @@
 title: The Ruins of Kunark Expansion
 description: the first expansion
 published: true
-date: 2025-08-10T22:07:31.971Z
+date: 2025-10-08T01:39:50.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:25:25.262Z
@@ -90,23 +90,35 @@ The Ruins of Kunark introduced a new continent featuring 25 new zones to explore
 
 ## Progression
 
-## Raids
+### Leveling Path
+ The leveling path will remain roughly the same with a few deviations
+ 
+- 1-10: Newbie Zone
+- 10-20:[Estate of Unrest](https://www.eqarchives.com/zones/view/unrest) / [Kurn's Tower](https://www.eqarchives.com/zones/view/kurn) (Kunark Zone)
+- 20-30: [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest) / [Upper Guk](https://www.eqarchives.com/zones/view/guktop)
+- 30-40: [Lower Guk](https://www.eqarchives.com/zones/view/gukbottom)
+- 35-45: [City Of Mist](https://www.eqarchives.com/zones/view/citymist) (Kunark Zone) This zone was heavily nerfed and not what it once was but it is something different at least.
+- 40-50: [The Hole](https://www.eqarchives.com/zones/view/hole) / [Ocean of Tears](https://www.eqarchives.com/zones/view/oot) Elite Goblin Island
+- 45-60: [Sebilis](https://www.eqarchives.com/zones/view/sebilis) (Kunark Zone) Great from 45-55 but slows down after. Loot is arguably better than Chardok in some camps.
+- 50-60: [Chardok](https://www.eqarchives.com/zones/view/chardok) (Kunark Zone) Best xp from 50-60 hands down 
+
+### Raids
 * Venril Sathir (Karnor's Castle)
 * Master Yael (The Hole)
 
-### Chardok Royals
+#### Chardok Royals
 * Overking Bathezid
 * Queen Velazul Di'zok
 * Prince Selrach Di'Zok
 
-### Dragons
+#### Dragons
 * Timorous Deep: Faydedar
 * Dreadlands: Gorenaire (Hole Era)
 * Emerald Jungle: Severilous (Hole Era)
 * Skyfire Mountains: Talendor (Hole Era)
 * Old Sebilis: Trakanon
 
-### Veeshan's Peak
+#### Veeshan's Peak
 * Hoshkar
 * Silverwing
 * Nexona
