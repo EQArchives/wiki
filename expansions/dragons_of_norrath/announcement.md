@@ -2,14 +2,14 @@
 title: January 11, 2005: Dragons of Norrath Expansion Announced
 description: 
 published: true
-date: 2025-10-12T23:12:06.906Z
+date: 2025-10-12T23:12:52.259Z
 tags: dragons of norrath
 editor: markdown
 dateCreated: 2025-10-12T22:59:52.565Z
 ---
 
 # January 11, 2005: Dragons of Norrath Expansion Announced
-> Source: [Allakhazam's Magical Realm]([here](https://everquest.allakhazam.com/history/news-2005jan11.html))
+> Source: [Allakhazam's Magical Realm](https://everquest.allakhazam.com/history/news-2005jan11.html)
 {.is-info}
 
 <pre>
