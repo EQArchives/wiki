@@ -2,7 +2,7 @@
 title: Dragons of Norrath
 description: 
 published: true
-date: 2025-10-12T22:31:38.252Z
+date: 2025-10-12T22:58:32.158Z
 tags: expansions
 editor: markdown
 dateCreated: 2025-10-12T22:31:38.252Z
@@ -14,7 +14,7 @@ dateCreated: 2025-10-12T22:31:38.252Z
 
 ![dragons_of_norrath_entrance_large.jpeg](/dragons_of_norrath_entrance_large.jpeg)
 
-The Dragons of Norrath expansion was announced on January 11, 2005, and went live on February 15, 2005. The initial expansion announcement may be found [here](https://everquest.allakhazam.com/history/news-2005jan11.html). The initial patch message may be found [here](https://everquest.allakhazam.com/history/patches-2005-1.html).
+The Dragons of Norrath expansion was announced on January 11, 2005, and went live on February 15, 2005. The initial expansion announcement may be found [here](https://everquest.allakhazam.com/history/news-2005jan11.html) and [here](/expansions/dragons_of_norrath/announcement). The initial patch message may be found [here](https://everquest.allakhazam.com/history/patches-2005-1.html).
 
 ## What's Going On
 ![don_norrath_keepers_large.jpeg](/don_norrath_keepers_large.jpeg)
