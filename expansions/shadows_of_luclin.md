@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T01:59:32.035Z
+date: 2025-10-13T02:15:42.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -187,7 +187,7 @@ Just outside of the Bazaar you can find the Nexus, which is the primary hub for 
 
 Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssraeshza—powerful enough to slay gods according to legend—rules over his people.
 
-## Leveling Progression
+## Leveling & Progression
 [Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
 
 ### Recommended Leveling Path by Level Range
@@ -218,17 +218,24 @@ Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssr
 - [Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"} (Luclin) - Often the most popular AA zone
 - [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"} / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"} (Kunark) 
 
-### Alternate Advancement (AA System)
->TODO - Please help by adding information
-{.is-warning}
+## Alternate Advancement (AA System)
+
+Luclin begins the everlasting AA grind. These are improvements to your character that become more and more necessary as the game progresses. The AA window can be pulled up in game by pressing **"V"**.
+
+> **What are AAs?** Alternate Advancement points allow you to customize and enhance your character beyond the level cap. You earn AA experience separately from normal experience, and can spend these points on powerful abilities, stat increases, and quality-of-life improvements.
+{.is-info}
 
 ### Recommended AA Priorities by Class
->TODO - Please help by adding information
-{.is-warning}
+
+**[EQ Progression Class 101 Pages](https://www.eqprogression.com/){:target="_blank"}** - Has a breakdown of important AAs for each class
+
+**[Raidloot AA Search](https://www.raidloot.com/aa?name=&effect=&class=&level=&tab=&exp=Shadows+of+Luclin){:target="_blank"}** - Filtered to Shadows of Luclin. Select your class. Note: some of these may not be truly available.
+
+**[TAKP AA Sheet](https://wiki.takp.info/index.php/Alternate_Advancement){:target="_blank"}** - This is how AAs originally looked in Luclin. General AAs have been condensed on TLPs, but this is probably more accurate in terms of what is achievable in Luclin.
 
 ## Travel Guide
 
-### Portal Mechanics and Locations
+### Portal Mechanics and Locations (Detailed)
 
 > **Portal Mechanics**: Talking to the Nexus Scion NPC at Wizard Spires will give you a Spire Stone to put in your inventory. These portals activate every **15 minutes** on a continuous timer and will port you **to The Nexus**. The timer is not based upon when you hail the Nexus Scion.
 {.is-info}
@@ -261,9 +268,9 @@ Portal pads in The Nexus port you back to the same zones listed above. No Spire 
 - Wizards: [Goesl Sealsonich](https://www.eqarchives.com/npcs/view/150262){:target="_blank"} in Shadow Haven or [Aliara Galestra](https://www.eqarchives.com/npcs/view/160194){:target="_blank"} in Katta Castellum
 - Druids: [Fralith Thornbush](https://www.eqarchives.com/npcs/view/19017){:target="_blank"} in Rivervale
 
-## Major Quests
+## Quests & Keys
 
-### Best-in-Slot Items
+### Best-in-Slot Quest Items
 
 > **[Coldain Prayer Shawl #8](https://everquest.allakhazam.com/db/item.html?item=11999){:target="_blank"}** - Not completable until Luclin drops. Shoulder item that is BIS and good for several expansions. Comes with +3 mana regen and extended duration on buffs up to level 65!
 {.is-success}
@@ -292,7 +299,7 @@ Portal pads in The Nexus port you back to the same zones listed above. No Spire 
 
 **[Undead Snake Organs](https://everquest.allakhazam.com/db/quest.html?quest=1301){:target="_blank"}** - Results in a neck item with Enduring Breath (EB). Consider just buying a rebreather from players instead.
 
-## Key Quests
+### Key Quests (Raid Access)
 
 > **What are Bane Weapons?** Bane weapons were introduced with Shadows of Luclin and deal special damage to specific enemy types. Emperor Ssraeshza and Lord Inquisitor Seru are immune to regular weapons, making bane weapons **mandatory** for their defeat.
 {.is-warning}
@@ -316,41 +323,10 @@ Portal pads in The Nexus port you back to the same zones listed above. No Spire 
 > **Shadow Knight Special**: The Greenmist (Sacred Khukri of Rile) is the most powerful Shissar-bane weapon in the game, available only to Shadow Knights through a quest in Cabilis.
 {.is-info}
 
-## Major Items
+## End-Game Content
+### Raid Zones & Encounters
 
-There are far too many items to cover in depth, but here are some of the most legendary and temporarily available items:
-
-### Armor Sets
-
-**[Umbral Plains Armor Sets](/expansions/shadows_of_luclin/umbral_plains_armor_sets)** - Slight upgrade to classic planar armor. Not as good as Velious armor sets.
-
-### Weapons & Combat Items
-
-**[Divine Hammer of Consternation](https://www.eqarchives.com/items/view/26554){:target="_blank"}** - Paladin hammer used to tank several rampages in era. The named does not spawn for several hours in DZ.
-
-**[Orb of the Sky](https://www.eqarchives.com/items/view/28975){:target="_blank"}** / **[Gloves of the Crimson Sigil](https://www.eqarchives.com/items/view/26774){:target="_blank"}** - Clicky proc useful for tanks
-
-### Utility & Quality of Life
-
-**[Orb of Satisfaction](https://www.eqarchives.com/items/view/26758){:target="_blank"}** - Food summon for those who did not do the Vaniki challenge run on CT
-
-**[Wand of the Everlasting Water](https://www.eqarchives.com/items/view/26764){:target="_blank"}** - Drink summon for those who did not do the Ashengate/Vaniki challenge
-
-**[Wand of Imperceptibility](https://www.eqarchives.com/items/view/19725){:target="_blank"}** - Self-Shrink click
-
-**[Bracelet of the Shadow Hive](https://www.eqarchives.com/items/view/28906){:target="_blank"}** - Targetable Shrink. Give it to an officer to move around the raid and dock everyone who isn't max shrunk.
-
-**[Torque of the Wyrmlord](https://www.eqarchives.com/items/view/26584){:target="_blank"}** - Great self HP buff
-
-### Reference Lists
-
-**[Tradeskill Modifying Items](/expansions/shadows_of_luclin/Tradeskills_Skill_Modifier_Item_Guide)** - Not everything on this list is available in Luclin. Check zone locations to verify.
-
-**[AAs granted by Items](https://www.eqprogression.com/everquest-clicky-item-aa-guide/){:target="_blank"}** (usually regen/max mana in Luclin) - List of items broken down by expansion. **Note: These may be modern items and not original to Luclin era**
-
-## Raid Zones / Encounters
-
-### Primary Raid Zones
+#### Primary Raid Zones
 
 **[Ssraeshza Temple](https://www.eqarchives.com/zones/view/ssratemple){:target="_blank"}** - One of the major raid zones. Home of the Shissars.
 - Arch Lich Rhag`Zadune (Rhag Cycle)
@@ -364,7 +340,7 @@ There are far too many items to cover in depth, but here are some of the most le
 **[Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"}** - The end-game raiding zone. Requires key.
 - [Vex Thal Raid Guide](https://shadowrequiem.gamerlaunch.com/forums/viewtopic.php?t=11947920){:target="_blank"} by Shadow Requiem
 
-### Secondary Raid Zones
+#### Secondary Raid Zones
 
 **[Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}**
 - https://www.raidloot.com/raid/acrylia - Raid loot for SoL
@@ -379,31 +355,50 @@ There are far too many items to cover in depth, but here are some of the most le
 
 **[Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}**
 
-### Additional Raid Guides
+#### Additional Raid Guides
 
 - [Luclin Raid Strategies](https://www.eqprogression.com/shadows-of-luclin-raid-guide-overview/){:target="_blank"} by EQ Progression
 - [General Raid Target Information](https://trello.com/b/wlxkRqnA/everquest-raid-targets){:target="_blank"}
 - [AoC Location Guide](https://www.eqprogression.com/agent-of-change-location-guide/){:target="_blank"} by EQ Progression
 - Luclin AoC Locations Video: `https://www.youtube.com/playlist?list=PLK75-w_Dllesf09xRh7ESBJa-1jyhisNE`
 
-## Alternate Advancement
+### Major Items & Loot
 
-Luclin begins the everlasting AA grind. These are improvements to your character that become more and more necessary as the game progresses. The AA window can be pulled up in game by pressing **"V"**.
+There are far too many items to cover in depth, but here are some of the most legendary and temporarily available items:
 
-> **What are AAs?** Alternate Advancement points allow you to customize and enhance your character beyond the level cap. You earn AA experience separately from normal experience, and can spend these points on powerful abilities, stat increases, and quality-of-life improvements.
-{.is-info}
+#### Armor Sets
 
-### AA Resources
+**[Umbral Plains Armor Sets](/expansions/shadows_of_luclin/umbral_plains_armor_sets)** - Slight upgrade to classic planar armor. Not as good as Velious armor sets.
 
-**[EQ Progression Class 101 Pages](https://www.eqprogression.com/){:target="_blank"}** - Has a breakdown of important AAs for each class
+#### Weapons & Combat Items
 
-**[Raidloot AA Search](https://www.raidloot.com/aa?name=&effect=&class=&level=&tab=&exp=Shadows+of+Luclin){:target="_blank"}** - Filtered to Shadows of Luclin. Select your class. Note: some of these may not be truly available.
+**[Divine Hammer of Consternation](https://www.eqarchives.com/items/view/26554){:target="_blank"}** - Paladin hammer used to tank several rampages in era. The named does not spawn for several hours in DZ.
 
-**[TAKP AA Sheet](https://wiki.takp.info/index.php/Alternate_Advancement){:target="_blank"}** - This is how AAs originally looked in Luclin. General AAs have been condensed on TLPs, but this is probably more accurate in terms of what is achievable in Luclin.
+**[Orb of the Sky](https://www.eqarchives.com/items/view/28975){:target="_blank"}** / **[Gloves of the Crimson Sigil](https://www.eqarchives.com/items/view/26774){:target="_blank"}** - Clicky proc useful for tanks
 
-## Zones
+#### Utility & Quality of Life
 
-### Outdoor Zones
+**[Orb of Satisfaction](https://www.eqarchives.com/items/view/26758){:target="_blank"}** - Food summon for those who did not do the Vaniki challenge run on CT
+
+**[Wand of the Everlasting Water](https://www.eqarchives.com/items/view/26764){:target="_blank"}** - Drink summon for those who did not do the Ashengate/Vaniki challenge
+
+**[Wand of Imperceptibility](https://www.eqarchives.com/items/view/19725){:target="_blank"}** - Self-Shrink click
+
+**[Bracelet of the Shadow Hive](https://www.eqarchives.com/items/view/28906){:target="_blank"}** - Targetable Shrink. Give it to an officer to move around the raid and dock everyone who isn't max shrunk.
+
+**[Torque of the Wyrmlord](https://www.eqarchives.com/items/view/26584){:target="_blank"}** - Great self HP buff
+
+#### Reference Lists
+
+**[Tradeskill Modifying Items](/expansions/shadows_of_luclin/Tradeskills_Skill_Modifier_Item_Guide)** - Not everything on this list is available in Luclin. Check zone locations to verify.
+
+**[AAs granted by Items](https://www.eqprogression.com/everquest-clicky-item-aa-guide/){:target="_blank"}** (usually regen/max mana in Luclin) - List of items broken down by expansion. **Note: These may be modern items and not original to Luclin era**
+
+## Zone Reference
+
+### Complete Zone List
+
+#### Outdoor Zones
 - [Dawnshroud Peaks](https://www.eqarchives.com/zones/view/dawnshroud){:target="_blank"}
 - [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}
 - [Hollowshade Moor](https://www.eqarchives.com/zones/view/hollowshade){:target="_blank"}
@@ -418,7 +413,7 @@ Luclin begins the everlasting AA grind. These are improvements to your character
 - [Twilight Sea](https://www.eqarchives.com/zones/view/twilight){:target="_blank"}
 - [Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}
 
-### Dungeons & Caves
+#### Dungeons & Caves
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
 - [Akheva Ruins](https://www.eqarchives.com/zones/view/akheva){:target="_blank"}
 - [Echo Caverns](https://www.eqarchives.com/zones/view/echo){:target="_blank"}
@@ -431,7 +426,7 @@ Luclin begins the everlasting AA grind. These are improvements to your character
 - [The Warrens](https://www.eqarchives.com/zones/view/warrens){:target="_blank"}
 - [Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"}
 
-### Cities & Hubs
+#### Cities & Hubs
 - [Katta Castellum](https://www.eqarchives.com/zones/view/katta){:target="_blank"}
 - [Marus Seru](https://www.eqarchives.com/zones/view/mseru){:target="_blank"}
 - [Sanctus Seru](https://www.eqarchives.com/zones/view/sseru){:target="_blank"}
