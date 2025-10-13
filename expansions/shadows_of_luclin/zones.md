@@ -2,7 +2,7 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T05:58:00.340Z
+date: 2025-10-13T06:00:45.612Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
@@ -53,6 +53,8 @@ Just outside of the Bazaar you can find the Nexus, which is the primary hub for 
 ### Paladul Caverns
 
 The Paludal Caverns are a system of dense, boggy caves that lie beneath **Hollowshade Moor**. The caverns are filled with funguses and mosses that thrive in the moist environment, and a number of unconventional creatures can be found dwelling within the tunnels. Though the Paludal Caverns are less than glamorous, they can be a great place to explore for newer adventurers who are trying to gain some experience.
+
+![paladul_caverns.jpeg](/paladul_caverns.jpeg)
 
 The arrangement of the natural tunnels can be somewhat confusing at first, but does provide useful underground paths to **Shadow Haven** and **Shadeweaver's Thicket**. Occasionally, traders can be found utilizing the caverns for quicker travel between these areas of Luclin. If you find yourself lost within the tunnels, they may be able to help you find a way out.
 
