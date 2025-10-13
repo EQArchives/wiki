@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T05:49:57.647Z
+date: 2025-10-13T05:50:17.686Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -63,9 +63,6 @@ In addition to **24 new zones**, this expansion introduced:
 - **[Alternate Advancement](/expansions/shadows_of_luclin/alternate_advancement)** - Class-by-class AA recommendations and progression paths
 - **[Travel Guide](/expansions/shadows_of_luclin/travel_guide)** - Portal locations, spire mechanics, and AoC access points
 - **[Zone Reference](/expansions/shadows_of_luclin/zones)** - Individual zone pages with maps, camps, and notable NPCs
-
->[Official Shadows of Luclin Primer](https://www.everquest.com/news/eq-shadows-of-luclin-progression-primer){:target="_blank"} - A guide from EQ.com put out for Coirnav launch
-{.is-info}
 
 ---
 
