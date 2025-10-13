@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T02:42:09.598Z
+date: 2025-10-13T02:43:28.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -186,33 +186,6 @@ Just outside of the Bazaar you can find the Nexus, which is the primary hub for 
 {.is-info}
 
 Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssraeshza—powerful enough to slay gods according to legend—rules over his people.
-
-## Raid Readiness Checklist
-
-Before joining Ssraeshza Temple or Vex Thal raids, ensure you have:
-
-**Minimum Requirements:**
-- [ ] Level 60
-- [ ] Core AA abilities for your class (minimum 30-50 points)
-- [ ] Appropriate resist gear (200+ in relevant resists)
-- [ ] Vex Thal key (for VT raids)
-- [ ] Emperor key (for Ssra Emperor)
-
-**Bane Weapons Required:**
-- [ ] Seru Bane Weapon (for Lord Inquisitor Seru)
-- [ ] Emperor Bane Weapon (for Emperor Ssraeshza)
-
-**Recommended:**
-- [ ] Coldain Prayer Shawl #8 completed
-- [ ] Class-specific best-in-slot quest items
-- [ ] 100+ AA points for optimal performance
-- [ ] Consumables (potions, food, arrows/components)
-
-**Loot Priority Understanding:**
-- Main tank gear goes to warriors first
-- Caster DPS prioritized for clearing speed
-- Healers get efficiency upgrades
-- [Link to detailed loot council guidelines]
 
 ## Leveling & Progression
 [Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
@@ -420,6 +393,33 @@ There are far too many items to cover in depth, but here are some of the most le
 **[Tradeskill Modifying Items](/expansions/shadows_of_luclin/Tradeskills_Skill_Modifier_Item_Guide)** - Not everything on this list is available in Luclin. Check zone locations to verify.
 
 **[AAs granted by Items](https://www.eqprogression.com/everquest-clicky-item-aa-guide/){:target="_blank"}** (usually regen/max mana in Luclin) - List of items broken down by expansion. **Note: These may be modern items and not original to Luclin era**
+
+### Raid Readiness Checklist
+
+Before joining Ssraeshza Temple or Vex Thal raids, ensure you have:
+
+**Minimum Requirements:**
+- [ ] Level 60
+- [ ] Core AA abilities for your class (minimum 30-50 points)
+- [ ] Appropriate resist gear (200+ in relevant resists)
+- [ ] Vex Thal key (for VT raids)
+- [ ] Emperor key (for Ssra Emperor)
+
+**Bane Weapons Required:**
+- [ ] Seru Bane Weapon (for Lord Inquisitor Seru)
+- [ ] Emperor Bane Weapon (for Emperor Ssraeshza)
+
+**Recommended:**
+- [ ] Coldain Prayer Shawl #8 completed
+- [ ] Class-specific best-in-slot quest items
+- [ ] 100+ AA points for optimal performance
+- [ ] Consumables (potions, food, arrows/components)
+
+**Loot Priority Understanding:**
+- Main tank gear goes to warriors first
+- Caster DPS prioritized for clearing speed
+- Healers get efficiency upgrades
+- [Link to detailed loot council guidelines]
 
 ## Zone Reference
 
