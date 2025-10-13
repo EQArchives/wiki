@@ -2,7 +2,7 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T05:54:30.623Z
+date: 2025-10-13T05:58:00.340Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
@@ -19,12 +19,16 @@ Luclin features 24 new zones spanning the tidally-locked moon. One side blazes w
 
 **Katta Castellum** can be found on the dark side of the moon on the cliffs of the **Tenebrous Mountains** overlooking the **Twilight Sea**. Katta Castellum was the first real city established on Luclin by those who were loyal followers of the Combine Empire. Despite its darkened appearance, the city is full of good-aligned individuals who believe in respecting all people. Pay a visit to Katta Castellum and you'll find a mass of goods and services, including some exotic items unique to the city.
 
+![katta_castellum.jpeg](/katta_castellum.jpeg)
+
 ### Merus Seru
 TODO
 
 ### Sanctus Seru
 
 **Sanctus Seru**, on the other hand, is Katta Castellum's perfect mirror. Located on the light side of the moon, the city was built by followers of the Inquisition following their transportation to Luclin. Here, the Praesertum Inquisitors maintain power, and citizens are subject torturous means of control. This has heightened unease within the city, making it an unsafe place full of thieves, spies, and even assassins. If you for some reason decide to pass through the city, you'll at least be in close range of the **Dawnshroud Peaks**.
+
+![sanctus_seru.jpeg](/sanctus_seru.jpeg)
 
 ### Shadowhaven
 TODO
