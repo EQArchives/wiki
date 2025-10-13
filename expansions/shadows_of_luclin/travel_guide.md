@@ -2,7 +2,7 @@
 title: Shadows of Luclin Travel Guide
 description: Traveling in Luclin
 published: true
-date: 2025-10-13T03:39:00.620Z
+date: 2025-10-13T05:11:44.177Z
 tags: guide, shadows of luclin, travel guide, travel
 editor: markdown
 dateCreated: 2025-10-13T03:39:00.620Z
@@ -31,7 +31,7 @@ Portal pads in The Nexus port you back to the same zones listed above. No Spire 
 
 ### Key Teleport Locations
 
-> **Note**: Agents of Change (AoC) were not introduced when Luclin was first released, but will come later.
+> **Note**: Agents of Change (AoC) were not introduced until Phinigel TLP server in 2015, and thus did not exist in 2001 when Shadows of Luclin was first released.
 {.is-warning}
 
 - **[The Nexus](https://www.eqarchives.com/zones/view/nexus){:target="_blank"}** - The hub of the game during Luclin
