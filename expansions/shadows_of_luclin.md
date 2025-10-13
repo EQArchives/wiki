@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T05:42:42.813Z
+date: 2025-10-13T05:43:09.450Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -10,7 +10,6 @@ dateCreated: 2025-08-10T05:21:42.868Z
 
 # Shadows of Luclin
 
-![shadows_of_luclin.png](/shadows_of_luclin.png)
 ## At a Glance
 
 
@@ -31,6 +30,8 @@ dateCreated: 2025-08-10T05:21:42.868Z
 - **UI Customization**: Design your own graphic user interfaces
 
 ## Overview
+
+![shadows_of_luclin.png](/shadows_of_luclin.png)
 
 The Shadows of Luclin was the **third** expansion released for EverQuest on **December 4, 2001**. With this expansion, players could travel outside of the realm of Norrath for the first time, journeying to Luclin—one of Norrath's two moons—which offered a whole new world to explore.
 
