@@ -2,7 +2,7 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T06:02:51.593Z
+date: 2025-10-13T06:03:38.879Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
@@ -32,6 +32,8 @@ TODO
 
 ### Shadowhaven
 TODO
+
+![shadowhaven.jpeg](/shadowhaven.jpeg)
 
 ### Shar Vahl
 TODO
