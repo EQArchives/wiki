@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T04:16:03.683Z
+date: 2025-10-13T04:16:14.366Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -170,7 +170,6 @@ Luclin is tidally locked to Norrath (one of two moons), meaning one side is cons
 
 > **For detailed information** on all 24 zones including leveling ranges, camps, and notable NPCs, see the [Zone Reference Guide](/expansions/shadows_of_luclin/zones).
 {.is-info}
-
 
 ## Launch Week Strategy
 
