@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T04:43:10.315Z
+date: 2025-10-13T04:45:20.635Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -84,7 +84,7 @@ In addition to **24 new zones**, this expansion introduced:
 
 **Day One Priorities:**
 1. **Set AA slider to 100%** immediately (Press Alt+X or right-click experience bar)
-2. **Travel to Luclin** via Nexus spires (North Karana, Greater Faydark, or Dreadlands)
+2. **Travel to Luclin** via Nexus spires (North Karana, Greater Faydark, Toxxulia Forest, Dreadlands, or Greater Divide)
 3. **Visit The Bazaar** to sell Velious gear and buy initial Luclin upgrades
 4. **Join AA grinding groups** in Acrylia Caverns, Grieg's End, or Old Sebilis
 5. **Start easy VT key shards** if raiding (Scarlet Desert, The Grey, Dawnshroud Peaks)
