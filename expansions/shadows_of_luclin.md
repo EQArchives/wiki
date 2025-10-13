@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T03:57:08.936Z
+date: 2025-10-13T04:06:25.794Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -158,13 +158,9 @@ The surviving Shissars were aided by the Combine Empire and fled to Luclin, wher
 > **Endgame Content**: Defeating Emperor Ssraeshza requires completing a key quest, collecting special **Bane Weapons** (the Emperor is immune to regular weapons), and coordinating a full raid force. The most powerful Shissar-bane weapon is the Greenmist (Sacred Khukri of Rile), a Shadow Knight-only quested weapon introduced in Cabilis.
 {.is-warning}
 
-### The Moon of Luclin
+### Notable Locations
 
-Luclin is tidally locked to Norrath, meaning one side is constantly ablaze with direct sunlight while the other half exists in never-ending darkness. Both sides are inhabited by different creatures, each offering unique experiences to adventurers brave enough to explore them.
-
-### Exploring Luclin
-
-Luclin is one of two moons that circle around the world of Norrath. Due to the way that it is locked to the world, one side of Luclin is constantly ablaze with direct sunlight while the other half is stuck in a never-ending darkness. Both sides are inhabited by different creatures, and each half has unique experiences to offer.
+Luclin is one of two moons that circle around the world of Norrath. Due to the way that it is locked to the world, one side of Luclin is constantly ablaze with direct sunlight while the other half is stuck in a never-ending darkness. Both sides are inhabited by different creatures, each offering unique experiences to adventurers brave enough to explore them.
 
 #### Katta Castellum & Sanctus Seru
 
