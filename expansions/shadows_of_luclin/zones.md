@@ -2,7 +2,7 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T04:28:38.668Z
+date: 2025-10-13T05:54:30.623Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
@@ -36,9 +36,13 @@ TODO
 
 The Bazaar was specifically built to facilitate trade with the masses of Norrathian adventurers who began to frequent Luclin after convenient travel became available, and has become one of the busiest areas on the entire moon. The area is full of trader's stalls, vendors, and countless other kiosks including banks on either end to add ease to shopping. It's a great place to practice tradeskilling, and adventurers are welcome to come to trade their own goods in the Bazaar as well.
 
+![the_bazaar.jpeg](/the_bazaar.jpeg)
+
 ### The Nexus
 
 Just outside of the Bazaar you can find the Nexus, which is the primary hub for travel between Norrath and Luclin. Though **the Nexus** may seem physically small, the arcane energy that emanates from the area and through the spires is powerful. From this area you can find several tunnels leading out to various parts of Luclin, which makes this area the useful for travel.
+
+![the_nexus.jpeg](/the_nexus.jpeg)
 
 ## Dungeons & Caves
 
@@ -67,7 +71,11 @@ Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssr
 
 A trip to Vex Thal is not for the faint of heart. To even enter the edifice, you must manage to gather an impressive number of lucid shards held by some of the rarest and most powerful creatures on Luclin. If you eventually manage to make your way inside, you'll face even stronger enemies: the Akheva. High Priestess Aten Ha Ra and her followers certainly will not appreciate your presence in their home.
 
+![vex_thal.jpeg](/vex_thal.jpeg)
+
 Those who have visited Vex Thal (and made it out alive) have remarked on its grandeur. The inside of the structure is gorgeous and massive, but it is incredibly easy to find yourself trapped on the inside of its marvelous walls. It could take a massive group of adventurers countless hours to fight their way through the entirety of Vex Thal, but those who succeed will be find themselves inundated with the most handsome of rewards.
+
+![vex_thall_halls.jpeg](/vex_thall_halls.jpeg)
 
 ## Complete Zone List
 
