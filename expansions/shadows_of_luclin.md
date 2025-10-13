@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T05:43:09.450Z
+date: 2025-10-13T05:47:15.567Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -20,6 +20,7 @@ dateCreated: 2025-08-10T05:21:42.868Z
 > - **Raid Zones**: Ssraeshza Temple, Sanctus Seru, Vex Thal, plus boss mobs in many zones
 {.is-info}
 
+![shadows_of_luclin.png](/shadows_of_luclin.png)
 **Major Features:**
 - **New Race**: Vah Shir (feline race)
 - **New Class**: Beastlord
@@ -31,8 +32,7 @@ dateCreated: 2025-08-10T05:21:42.868Z
 
 ## Overview
 
-![shadows_of_luclin.png](/shadows_of_luclin.png)
-
+![shadows_of_luclin_loading_screen.jpg](/shadows_of_luclin_loading_screen.jpg)
 The Shadows of Luclin was the **third** expansion released for EverQuest on **December 4, 2001**. With this expansion, players could travel outside of the realm of Norrath for the first time, journeying to Luclin—one of Norrath's two moons—which offered a whole new world to explore.
 
 ### What Made Luclin Special
