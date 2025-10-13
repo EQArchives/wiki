@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T00:40:59.174Z
+date: 2025-10-13T00:52:49.855Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -61,6 +61,39 @@ The surviving Shissars were aided by the Combine Empire and fled to Luclin, wher
 ### The Moon of Luclin
 
 Luclin is tidally locked to Norrath, meaning one side is constantly ablaze with direct sunlight while the other half exists in never-ending darkness. Both sides are inhabited by different creatures, each offering unique experiences to adventurers brave enough to explore them.
+
+## Quick Start Guide
+
+> **New to Luclin?** Follow this checklist to get started on your lunar adventure!
+{.is-success}
+
+### Your First Steps on Luclin
+
+1. **Get to The Nexus**
+   - Visit any Wizard Spire location on Norrath
+   - Hail the Nexus Scion to receive a Spire Stone
+   - Wait for the portal (activates every 15 minutes)
+
+2. **Explore The Bazaar**
+   - Stock up on supplies and equipment
+   - Set up your own trader if desired
+   - Bank is available on both ends
+
+3. **Choose Your Path**
+   - **New Character (Vah Shir)**: Start in Shar Vahl
+   - **Leveling (10-30)**: Head to Paludal Caverns or Marus Seru
+   - **Mid-Level (30-45)**: Try Grimling Forest or Jaggedpine
+   - **High-Level (45-60)**: Velketor's Labyrinth, Acrylia Caverns, or Grieg's End
+
+4. **Start Your AA Journey**
+   - Press "V" to open the AA window
+   - Check your class-specific recommendations
+   - Consider splitting exp 50/50 between levels and AA
+
+5. **Key Long-Term Goals**
+   - Work on Coldain Prayer Shawl #8 (if applicable)
+   - Begin collecting Vex Thal key shards
+   - Join a guild and/or join the regular open server raids announced in discord for raid progression
 
 ## Vah Shir
 
@@ -356,9 +389,9 @@ Luclin is one of two moons that circle around the world of Norrath. Due to the w
 
 ### Katta Castellum & Sanctus Seru
 
-Katta Castellum can be found on the dark side of the moon on the cliffs of the **Tenebrous Mountains** overlooking the **Twilight Sea**. Katta Castellum was the first real city established on Luclin by those who were loyal followers of the Combine Empire. Despite its darkened appearance, the city is full of good-aligned individuals who believe in respecting all people. Pay a visit to Katta Castellum and you’ll find a mass of goods and services, including some exotic items unique to the city.
+**Katta Castellum** can be found on the dark side of the moon on the cliffs of the **Tenebrous Mountains** overlooking the **Twilight Sea**. Katta Castellum was the first real city established on Luclin by those who were loyal followers of the Combine Empire. Despite its darkened appearance, the city is full of good-aligned individuals who believe in respecting all people. Pay a visit to Katta Castellum and you’ll find a mass of goods and services, including some exotic items unique to the city.
 
-Sanctus Seru, on the other hand, is Katta Castellum’s perfect mirror. Located on the light side of the moon, the city was built by followers of the Inquisition following their transportation to Luclin.  Here, the Praesertum Inquisitors maintain power, and citizens are subject torturous means of control. This has heightened unease within the city, making it an unsafe place full of thieves, spies, and even assassins. If you for some reason decide to pass through the city, you’ll at least be in close range of the **Dawnshroud Peaks**.
+**Sanctus Seru**, on the other hand, is Katta Castellum’s perfect mirror. Located on the light side of the moon, the city was built by followers of the Inquisition following their transportation to Luclin.  Here, the Praesertum Inquisitors maintain power, and citizens are subject torturous means of control. This has heightened unease within the city, making it an unsafe place full of thieves, spies, and even assassins. If you for some reason decide to pass through the city, you’ll at least be in close range of the **Dawnshroud Peaks**.
 
 ### Paladul Caverns
 
