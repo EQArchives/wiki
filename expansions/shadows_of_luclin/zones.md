@@ -2,7 +2,7 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T06:00:45.612Z
+date: 2025-10-13T06:02:51.593Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
@@ -61,6 +61,8 @@ The arrangement of the natural tunnels can be somewhat confusing at first, but d
 ### The Deep
 
 Amidst the **Echo Caverns** is a series of dangerous and complex caverns known as The Deep. These tunnels are teeming with dangerous creatures, and lead all the way down to the very heart of Luclin. If you decide to venture into the Deep, beware of the large abyss you come across – crossing it is not nearly as simple as it appears, and even successfully doing so will only lead to facing even deadlier threats.
+
+![the_deep.jpeg](/the_deep.jpeg)
 
 If you manage to survive long enough to make it to the deepest depths of the caverns, you may find a hidden entrance to **Ssraeshza Temple**. This temple belongs to the Shissar and may be one of the most threatening places on all of Luclin. With nearly every risk comes the possibility of great rewards, so it shouldn't be surprising that many powerful adventurers attempt to brave the temple. Many fail to make it back.
 
