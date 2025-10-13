@@ -2,7 +2,7 @@
 title: Shadows of Luclin Leveling Guide
 description: Where to Grind Exp in the Luclin Expansion
 published: true
-date: 2025-10-13T03:42:29.643Z
+date: 2025-10-13T05:44:22.597Z
 tags: guides, shadows of luclin, leveling guide, leveling
 editor: markdown
 dateCreated: 2025-10-13T03:42:29.643Z
@@ -21,7 +21,7 @@ dateCreated: 2025-10-13T03:42:29.643Z
 
 **Levels 20-30**:
 - [Marus Seru](https://www.eqarchives.com/zones/view/mseru){:target="_blank"} (Luclin) - Great for farming tradeskill hides
-- [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest){:target="_blank"} / Upper Guk
+- [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest){:target="_blank"} / [Upper Guk](https://www.eqarchives.com/zones/view/guktop){:target="_blank"}
 
 **Levels 30-40**:
 - [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"} (Luclin)
