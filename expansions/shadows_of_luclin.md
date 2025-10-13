@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T04:33:49.976Z
+date: 2025-10-13T04:43:10.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -67,6 +67,37 @@ In addition to **24 new zones**, this expansion introduced:
 ---
 
 ## Getting Started
+
+### For New Characters (Vah Shir & Beastlords)
+
+> **Starting Fresh on Luclin?** New Vah Shir begin in Shar Vahl.
+{.is-success}
+
+- **Vah Shir** start in [Shar Vahl](https://www.eqarchives.com/zones/view/sharvahl){:target="_blank"} with newbie quests and armor
+- **Beastlords** are available to: Barbarian, Iksar, Ogre, Troll, and Vah Shir
+- See the [Leveling Guide](/expansions/shadows_of_luclin/leveling_guide) for complete 1-60 progression paths
+
+### For Level 60 Players from Velious
+
+> **Already at Level Cap?** Your first priority is Alternate Advancement, not leveling or new zones.
+{.is-warning}
+
+**Day One Priorities:**
+1. **Set AA slider to 100%** immediately (Press Alt+X or right-click experience bar)
+2. **Travel to Luclin** via Nexus spires (North Karana, Greater Faydark, or Dreadlands)
+3. **Visit The Bazaar** to sell Velious gear and buy initial Luclin upgrades
+4. **Join AA grinding groups** in Acrylia Caverns, Grieg's End, or Old Sebilis
+5. **Start easy VT key shards** if raiding (Scarlet Desert, The Grey, Dawnshroud Peaks)
+
+**Critical:** Keep your AA slider at 100% until you have 100+ AAs. Groups provide 4-6x more AA experience than solo farming.
+
+[📋 Complete Launch Week Strategy →](/expansions/shadows_of_luclin/launch_week_strategy)
+
+### Getting to Luclin (Basic)
+
+Portals to and from The Nexus are located at Wizard Spires on each continent, transporting at approximately **15 minute** increments. The Nexus serves as the central hub for all Luclin travel.
+
+See the [Travel Guide](/expansions/shadows_of_luclin/travel_guide) section for detailed Portal locations.
 
 ### Your First Day on Luclin
 > **New to Luclin?** Follow this checklist to get started on your lunar adventure!
