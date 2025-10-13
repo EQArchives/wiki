@@ -2,13 +2,43 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T03:33:43.349Z
+date: 2025-10-13T04:23:16.211Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
 ---
 
-# Zone Reference
+# Luclin Zones
+
+## Overview
+Luclin features 24 new zones spanning the tidally-locked moon. One side blazes with constant sunlight while the other exists in eternal darkness, each populated by unique creatures and challenges.
+
+## Cities & Hubs
+
+### Katta Castellum
+
+**Katta Castellum** can be found on the dark side of the moon on the cliffs of the **Tenebrous Mountains** overlooking the **Twilight Sea**. Katta Castellum was the first real city established on Luclin by those who were loyal followers of the Combine Empire. Despite its darkened appearance, the city is full of good-aligned individuals who believe in respecting all people. Pay a visit to Katta Castellum and you'll find a mass of goods and services, including some exotic items unique to the city.
+
+### Merus Seru
+TODO
+
+### Sanctus Seru
+
+**Sanctus Seru**, on the other hand, is Katta Castellum's perfect mirror. Located on the light side of the moon, the city was built by followers of the Inquisition following their transportation to Luclin. Here, the Praesertum Inquisitors maintain power, and citizens are subject torturous means of control. This has heightened unease within the city, making it an unsafe place full of thieves, spies, and even assassins. If you for some reason decide to pass through the city, you'll at least be in close range of the **Dawnshroud Peaks**.
+
+### Shadowhaven
+TODO
+
+### Shar Vahl
+TODO
+
+### The Bazaar
+
+The Bazaar was specifically built to facilitate trade with the masses of Norrathian adventurers who began to frequent Luclin after convenient travel became available, and has become one of the busiest areas on the entire moon. The area is full of trader's stalls, vendors, and countless other kiosks including banks on either end to add ease to shopping. It's a great place to practice tradeskilling, and adventurers are welcome to come to trade their own goods in the Bazaar as well.
+
+### The Nexus
+
+Just outside of the Bazaar you can find the Nexus, which is the primary hub for travel between Norrath and Luclin. Though **the Nexus** may seem physically small, the arcane energy that emanates from the area and through the spires is powerful. From this area you can find several tunnels leading out to various parts of Luclin, which makes this area the useful for travel.
 
 ### Complete Zone List
 
