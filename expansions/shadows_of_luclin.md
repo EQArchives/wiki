@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T00:33:59.649Z
+date: 2025-10-13T00:36:01.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -258,31 +258,42 @@ There are far too many items to cover in depth, but here are some of the most le
 **[AAs granted by Items](https://www.eqprogression.com/everquest-clicky-item-aa-guide/){:target="_blank"}** (usually regen/max mana in Luclin) - List of items broken down by expansion. **Note: These may be modern items and not original to Luclin era**
 
 ## Raid Zones / Encounters
-- [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
-    - https://www.raidloot.com/raid/acrylia - Raid loot for SoL
-- [Akheva Ruins](https://www.eqarchives.com/zones/view/akheva){:target="_blank"}
-- [Greig’s End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}
-- [Katta Castellum](https://www.eqarchives.com/zones/view/katta){:target="_blank"}
-- [Sanctus Seru](https://www.eqarchives.com/zones/view/sseru){:target="_blank"}
-    - [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000){:target="_blank"} - Relatively easy raid with a lot of great loot. Can be 3 grouped in era. Requires a key and bane weapon discussed below.
-- [Ssraeshza Temple](https://www.eqarchives.com/zones/view/ssratemple){:target="_blank"} - One of the major raid zones. Killing Emperor requires a key and bane weapon discussed below
-    - Arch Lich Rhag`Zadune (Rhag Cycle)
-    - [Emperor Ssraeshza](https://www.eqarchives.com/npcs/view/162491){:target="_blank"}
-    - High Priest of Ssraeshza + Xerikizh the Creator
-    - Vyzh`dra the Cursed (Cursed Cycle)
-- [The Deep](https://www.eqarchives.com/zones/view/thedeep){:target="_blank"}
-- [Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}
-- [Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"} - The end-game raiding zone. Requires a key discussed below. 
-    - [Vex Thal Raid Guide](https://shadowrequiem.gamerlaunch.com/forums/viewtopic.php?t=11947920){:target="_blank"} by Shadow Requiem
+
+### Primary Raid Zones
+
+**[Ssraeshza Temple](https://www.eqarchives.com/zones/view/ssratemple){:target="_blank"}** - One of the major raid zones. Home of the Shissars.
+- Arch Lich Rhag`Zadune (Rhag Cycle)
+- [Emperor Ssraeshza](https://www.eqarchives.com/npcs/view/162491){:target="_blank"} - Requires key and bane weapon
+- High Priest of Ssraeshza + Xerikizh the Creator
+- Vyzh`dra the Cursed (Cursed Cycle)
+
+**[Sanctus Seru](https://www.eqarchives.com/zones/view/sseru){:target="_blank"}**
+- [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000){:target="_blank"} - Relatively easy raid with great loot. Can be 3-grouped in era. Requires key and bane weapon.
+
+**[Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"}** - The end-game raiding zone. Requires key.
+- [Vex Thal Raid Guide](https://shadowrequiem.gamerlaunch.com/forums/viewtopic.php?t=11947920){:target="_blank"} by Shadow Requiem
+
+### Secondary Raid Zones
+
+**[Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}**
+- https://www.raidloot.com/raid/acrylia - Raid loot for SoL
+
+**[Akheva Ruins](https://www.eqarchives.com/zones/view/akheva){:target="_blank"}**
+
+**[Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}**
+
+**[Katta Castellum](https://www.eqarchives.com/zones/view/katta){:target="_blank"}**
+
+**[The Deep](https://www.eqarchives.com/zones/view/thedeep){:target="_blank"}**
+
+**[Umbral Plains](https://www.eqarchives.com/zones/view/umbral){:target="_blank"}**
 
 ### Additional Raid Guides
+
 - [Luclin Raid Strategies](https://www.eqprogression.com/shadows-of-luclin-raid-guide-overview/){:target="_blank"} by EQ Progression
-
 - [General Raid Target Information](https://trello.com/b/wlxkRqnA/everquest-raid-targets){:target="_blank"}
-
 - [AoC Location Guide](https://www.eqprogression.com/agent-of-change-location-guide/){:target="_blank"} by EQ Progression
-
-- [Luclin AoC Locations Video](https://www.youtube.com/playlist?list=PLK75-w_Dllesf09xRh7ESBJa-1jyhisNE/){:target="_blank"}
+- Luclin AoC Locations Video: `https://www.youtube.com/playlist?list=PLK75-w_Dllesf09xRh7ESBJa-1jyhisNE`
 
 ## Alternate Advancement
 
