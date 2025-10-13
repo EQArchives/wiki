@@ -2,13 +2,15 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T00:52:49.855Z
+date: 2025-10-13T01:12:42.816Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
 ---
 
 ## At a Glance
+
+
 > **Quick Facts:**
 > - **Max Level**: 60
 > - **New Zones**: 24
@@ -417,3 +419,12 @@ Those who have visited Vex Thal (and made it out alive) have remarked on its gra
 The Bazaar was specifically built to facilitate trade with the masses of Norrathian adventurers who began to frequent Luclin after convenient travel became available, and has become one of the busiest areas on the entire moon. The area is full of trader’s stalls, vendors, and countless other kiosks including banks on either end to add ease to shopping. It’s a great place to practice tradeskilling, and adventurers are welcome to come to trade their own goods in the Bazaar as well.
 
 Just outside of the Bazaar you can find the Nexus, which is the primary hub for travel between Norrath and Luclin. Though **the Nexus** may seem physically small, the arcane energy that emanates from the area and through the spires is powerful. From this area you can find several tunnels leading out to various parts of Luclin, which makes this area the useful for travel.
+
+### The Grey
+
+**[The Grey](https://www.eqarchives.com/zones/view/thegrey){:target="_blank"}** is a desolate, airless void that serves as a protective barrier for the Shissars. When the Shissars fled to Luclin to escape the Greenmist, they magically sealed this region to create an atmosphere-free zone where the Greenmist could not reach them.
+
+> **Lore Significance**: The Grey represents the lengths the Shissars went to in order to survive. This lifeless expanse stands between the Shissar territories and the rest of Luclin, serving as both protection and prison.
+{.is-info}
+
+Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssraeshza—powerful enough to slay gods according to legend—rules over his people.
