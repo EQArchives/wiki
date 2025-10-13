@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T00:25:45.940Z
+date: 2025-10-13T00:33:59.649Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -139,97 +139,123 @@ During this expansion, Gnomes and Halflings gained new options for hybrid classe
 {.is-info}
 
 ## Leveling Path
+
 [Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
 
-The leveling path will remain roughly the same with a few deviations
+### Recommended Zones by Level
 
-- 1-10: Newbie Zone
+**Levels 1-10**: Your newbie zone
 
-- 10-20: [Paludal Caverns](https://www.eqarchives.com/zones/view/paladul){:target="_blank"} - Luclin Zone
+**Levels 10-20**:
+- [Paludal Caverns](https://www.eqarchives.com/zones/view/paladul){:target="_blank"} (Luclin)
+- [Kurn's Tower](https://www.eqarchives.com/zones/view/kurn){:target="_blank"} (Kunark)
 
-- 10-20: [Kurn's Tower](https://www.eqarchives.com/zones/view/kurn){:target="_blank"} (Kunark Zone)
+**Levels 20-30**:
+- [Marus Seru](https://www.eqarchives.com/zones/view/mseru){:target="_blank"} (Luclin) - Great for farming tradeskill hides
+- [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest){:target="_blank"} / Upper Guk
 
-- 20-30: [Marus Seru](https://www.eqarchives.com/zones/view/mseru){:target="_blank"}  - Great for farming TS hides in as well - Luclin Zone
+**Levels 30-40**:
+- [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"} (Luclin)
+- [Lower Guk](https://www.eqarchives.com/zones/view/gukbottom){:target="_blank"}
+- [Tower of Frozen Shadow](https://www.eqarchives.com/zones/view/frozenshadow){:target="_blank"}
 
-- 20-30: [Estate of Unrest](https://www.eqarchives.com/zones/view/unrest){:target="_blank"}  / Upper Guk
+**Levels 35-45**:
+- [Jaggedpine Forest](https://www.eqarchives.com/zones/view/jaggedpine){:target="_blank"} - A zone most have never been through! Located in Antonica but released in Luclin
 
-- 30-40: [Grimling Forest](https://www.eqarchives.com/zones/view/grimling){:target="_blank"}  - Luclin Zone
+**Levels 40-60**:
+- [Velketor's Labyrinth](https://www.eqarchives.com/zones/view/velketor){:target="_blank"} - **THE** leveling zone as soon as you can squeeze into it. Will also be a very popular AA spot at IC/OC (Castle)
 
-- 30-40: [Lower Guk](https://www.eqarchives.com/zones/view/gukbottom){:target="_blank"} 
-
-- 30-40: [Tower of Frozen Shadow](https://www.eqarchives.com/zones/view/frozenshadow){:target="_blank"} 
-
-- 35-45: [Jaggedpine Forest](https://www.eqarchives.com/zones/view/jaggedpine){:target="_blank"}  - A zone most have never been through! Located in Antonica but released in Luclin
-
-- 40-60: [Velketor's Labrynth](https://www.eqarchives.com/zones/view/velketor){:target="_blank"}  - This will be THE leveling zone as soon as you can squeeze into it. Will also be a very popular AA spot at IC/OC (Castle)
-
-- 45-60: [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}  - Luclin Zone
-
-- 45-60: [Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"}  - Often the most popular AA zone - Luclin Zone
-
-- 45-60: [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"}  / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"}  (Kunark Zone) 
+**Levels 45-60**:
+- [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"} (Luclin)
+- [Grieg's End](https://www.eqarchives.com/zones/view/griegsend){:target="_blank"} (Luclin) - Often the most popular AA zone
+- [Sebilis](https://www.eqarchives.com/zones/view/sebilis){:target="_blank"} / [Chardok](https://www.eqarchives.com/zones/view/chardok){:target="_blank"} (Kunark) 
 
 ## Major Quests
 
-[Coldain Prayer Shawl #8](https://everquest.allakhazam.com/db/item.html?item=11999){:target="_blank"} - Not completable until Luclin drops. Shoulder item that is BIS and good for several expacs. Comes with +3 mana regen and extended duration on buffs up to level 65!
+### Best-in-Slot Items
 
-[Xanthe's Earring of Nature](https://everquest.allakhazam.com/db/item.html?item=12455){:target="_blank"} - Results in Protection of the Cabbage (single target PotG) and an earring with +1 mana regen - all parts are buyable (Druids can get both earrings)
+> **[Coldain Prayer Shawl #8](https://everquest.allakhazam.com/db/item.html?item=11999){:target="_blank"}** - Not completable until Luclin drops. Shoulder item that is BIS and good for several expansions. Comes with +3 mana regen and extended duration on buffs up to level 65!
+{.is-success}
 
-[Signet Earring of Veracity](https://everquest.allakhazam.com/db/quest.html?quest=2633){:target="_blank"} - Cut of Seru's head and give it Lcea for a near BIS earring.
+**[Medallion of Akelha Ra](https://everquest.allakhazam.com/db/quest.html?quest=1583){:target="_blank"}** - Arguably the best item in the expansion. Requires a drop off Aten Ha Ra (prerequisite: [Elysian Skulls](https://everquest.allakhazam.com/db/quest.html?quest=2648){:target="_blank"} faction quest)
 
-[Agent Tiesh's Old Books](https://everquest.allakhazam.com/db/quest.html?quest=2583){:target="_blank"} - Results in a great earring / ring with Mana Preservation IV and clicky SoW!
+**[Signet Earring of Veracity](https://everquest.allakhazam.com/db/quest.html?quest=2633){:target="_blank"}** - Cut off Seru's head and give it to Lcea for a near-BIS earring
 
-[Vah Shir Smithing](https://everquest.allakhazam.com/db/quest.html?quest=1542){:target="_blank"} - Quest that provides an item that is required for many Luclin smithing recipes - including the Shadowscream which will get you the second highest skill (267) before Yttrium Sheets.
+**[Agent Tiesh's Old Books](https://everquest.allakhazam.com/db/quest.html?quest=2583){:target="_blank"}** - Results in a great earring/ring with Mana Preservation IV and clicky SoW!
 
-[Vah Shir Officer's Cloak](https://everquest.allakhazam.com/db/quest.html?quest=2257){:target="_blank"} - Results in a decent cloak for Vah Shir only
+### Class-Specific Quests
 
-[Loyalist Shield of Honor](https://everquest.allakhazam.com/db/quest.html?quest=1582){:target="_blank"} - 50 AC back item - great for tanks
+**[Xanthe's Earring of Nature](https://everquest.allakhazam.com/db/item.html?item=12455){:target="_blank"}** (Druids) - Results in Protection of the Cabbage (single target PotG) and an earring with +1 mana regen - all parts are buyable (Druids can get both earrings)
 
-[Beastlord Epic](https://everquest.allakhazam.com/db/quest.html?quest=1611){:target="_blank"}
+**[Beastlord Epic](https://everquest.allakhazam.com/db/quest.html?quest=1611){:target="_blank"}**
 
-[Elysian Skulls](https://everquest.allakhazam.com/db/quest.html?quest=2648){:target="_blank"} Faction quest to start the Medallion of Akelha Ra
+### Tradeskill & Utility Quests
 
-[Medallion of AkelHa Ra](https://everquest.allakhazam.com/db/quest.html?quest=1583){:target="_blank"} - Arguably the best item in the expansion. Requires a drop off Aten Ha Ra
+**[Vah Shir Smithing](https://everquest.allakhazam.com/db/quest.html?quest=1542){:target="_blank"}** - Provides an item required for many Luclin smithing recipes, including the Shadowscream which will get you the second highest skill (267) before Yttrium Sheets
 
-[Rakshasa Skulls](https://everquest.allakhazam.com/db/quest.html?quest=1304){:target="_blank"}  - Decent quest that ends up in a +20 Wis shield for healers
+**[Vah Shir Officer's Cloak](https://everquest.allakhazam.com/db/quest.html?quest=2257){:target="_blank"}** - Decent cloak for Vah Shir only
 
-[Undead Snake Organs](https://everquest.allakhazam.com/db/quest.html?quest=1301){:target="_blank"} - Results in a neck item with EB. Just buy a rebreather off me instead.
+**[Loyalist Shield of Honor](https://everquest.allakhazam.com/db/quest.html?quest=1582){:target="_blank"}** - 50 AC back item - great for tanks
+
+**[Rakshasa Skulls](https://everquest.allakhazam.com/db/quest.html?quest=1304){:target="_blank"}** - Decent quest that ends up in a +20 Wis shield for healers
+
+**[Undead Snake Organs](https://everquest.allakhazam.com/db/quest.html?quest=1301){:target="_blank"}** - Results in a neck item with Enduring Breath (EB). Consider just buying a rebreather from players instead.
 
 ## Key Quests
 
+> **What are Bane Weapons?** Bane weapons were introduced with Shadows of Luclin and deal special damage to specific enemy types. Emperor Ssraeshza and Lord Inquisitor Seru are immune to regular weapons, making bane weapons **mandatory** for their defeat.
+{.is-warning}
+
 [Master Key Guide](https://www.eqprogression.com/everquest-tlp-master-key-list/){:target="_blank"} by EQ Progression
 
-[Key to the Emperor's Chamber](https://everquest.allakhazam.com/db/quest.html?quest=1999){:target="_blank"} - Requires four drops from Ssra. Video linked in Zam article.
+### Raid Access Keys
 
-[Key to Vex Thal](https://everquest.allakhazam.com/db/quest.html?quest=2000){:target="_blank"} - Let's you zone into Vex Thal. THE SHARDS ARE NOW ZONE WIDE DROPS (Much like the VP key)
+**[Key to Vex Thal](https://everquest.allakhazam.com/db/quest.html?quest=2000){:target="_blank"}** - Lets you zone into Vex Thal. **THE SHARDS ARE NOW ZONE WIDE DROPS** (much like the VP key)
 
-[Arx Key](https://everquest.allakhazam.com/db/quest.html?quest=2299){:target="_blank"} - Required to get to Seru's chamber. The four head drops are mini-raid targets in era.
+**[Key to the Emperor's Chamber](https://everquest.allakhazam.com/db/quest.html?quest=1999){:target="_blank"}** - Requires four drops from Ssra. Video linked in Zam article.
 
-[Seru Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1997){:target="_blank"} - Requires a 300ish blacksmithing skill to reliably make the Yttrium forged sheets. The weapons themselves are no drop and are about 150ish trivial
+**[Arx Key](https://everquest.allakhazam.com/db/quest.html?quest=2299){:target="_blank"}** - Required to get to Seru's chamber. The four head drops are mini-raid targets in era.
 
-[Emperor Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1998){:target="_blank"}  - Requires an ore drop from the basement of Ssra. No skill requirement on the weapons. 
+### Bane Weapons (Required for Endgame)
+
+**[Seru Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1997){:target="_blank"}** - Requires ~300 blacksmithing skill to reliably make the Yttrium forged sheets. The weapons themselves are no drop and are about 150 trivial.
+
+**[Emperor Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1998){:target="_blank"}** - Requires an ore drop from the basement of Ssra. No skill requirement on the weapons.
+
+> **Shadow Knight Special**: The Greenmist (Sacred Khukri of Rile) is the most powerful Shissar-bane weapon in the game, available only to Shadow Knights through a quest in Cabilis.
+{.is-info}
 
 ## Major Items
-There are frankly far too many items to go over in depth but we'll cover a couple of the more legendary items as well as those that are only temporarily available. 
 
-- [Umbral Plains Armor Sets](/expansions/shadows_of_luclin/umbral_plains_armor_sets) - Slight upgrade to classic planar armor. Not as good as Velious armor sets. 
-- [Divine Hammer of Consternation](https://www.eqarchives.com/items/view/26554){:target="_blank"} - Paladin hammer used to tank several rampages in era. The named does not spawn for several hours in DZ
+There are far too many items to cover in depth, but here are some of the most legendary and temporarily available items:
 
-- [Tradeskill Modifying Items](/expansions/shadows_of_luclin/Tradeskills_Skill_Modifier_Item_Guide) - Not everything on this list is available in Luclin. Look at the Zone locations on them to make sure.
+### Armor Sets
 
-- [Orb of the Sky](https://www.eqarchives.com/items/view/28975){:target="_blank"} / [Gloves of the Crimson Sigil](https://www.eqarchives.com/items/view/26774){:target="_blank"}- Clicky proc useful for tanks
+**[Umbral Plains Armor Sets](/expansions/shadows_of_luclin/umbral_plains_armor_sets)** - Slight upgrade to classic planar armor. Not as good as Velious armor sets.
 
-- [Orb of Satisfaction](https://www.eqarchives.com/items/view/26758){:target="_blank"} - Food summon for those that did not do the Vaniki challenge run on CT
+### Weapons & Combat Items
 
-- [Wand of the Everlasting Water](https://www.eqarchives.com/items/view/26764){:target="_blank"} - Drink summon for those that did not do the Ashengate? Vaniki challenge
+**[Divine Hammer of Consternation](https://www.eqarchives.com/items/view/26554){:target="_blank"}** - Paladin hammer used to tank several rampages in era. The named does not spawn for several hours in DZ.
 
-- [Wand of Imperceptibility](https://www.eqarchives.com/items/view/19725){:target="_blank"} - Self-Shrink click
+**[Orb of the Sky](https://www.eqarchives.com/items/view/28975){:target="_blank"}** / **[Gloves of the Crimson Sigil](https://www.eqarchives.com/items/view/26774){:target="_blank"}** - Clicky proc useful for tanks
 
-- [Bracelet of the Shadow Hive](https://www.eqarchives.com/items/view/28906){:target="_blank"} - Targetable Shrink. Give it to an officer to move around the raid and dock everyone who isn't max shrunk
+### Utility & Quality of Life
 
-- [Torque of the Wyrmlord](https://www.eqarchives.com/items/view/26584){:target="_blank"} - Great self HP buff
+**[Orb of Satisfaction](https://www.eqarchives.com/items/view/26758){:target="_blank"}** - Food summon for those who did not do the Vaniki challenge run on CT
 
-- [AAs granted by Items (usually regen / max mana in Luclin)](https://www.eqprogression.com/everquest-clicky-item-aa-guide/){:target="_blank"} - List of items which are broken down by expac. **Note: These may be modern items and not original to Luclin era**
+**[Wand of the Everlasting Water](https://www.eqarchives.com/items/view/26764){:target="_blank"}** - Drink summon for those who did not do the Ashengate/Vaniki challenge
+
+**[Wand of Imperceptibility](https://www.eqarchives.com/items/view/19725){:target="_blank"}** - Self-Shrink click
+
+**[Bracelet of the Shadow Hive](https://www.eqarchives.com/items/view/28906){:target="_blank"}** - Targetable Shrink. Give it to an officer to move around the raid and dock everyone who isn't max shrunk.
+
+**[Torque of the Wyrmlord](https://www.eqarchives.com/items/view/26584){:target="_blank"}** - Great self HP buff
+
+### Reference Lists
+
+**[Tradeskill Modifying Items](/expansions/shadows_of_luclin/Tradeskills_Skill_Modifier_Item_Guide)** - Not everything on this list is available in Luclin. Check zone locations to verify.
+
+**[AAs granted by Items](https://www.eqprogression.com/everquest-clicky-item-aa-guide/){:target="_blank"}** (usually regen/max mana in Luclin) - List of items broken down by expansion. **Note: These may be modern items and not original to Luclin era**
 
 ## Raid Zones / Encounters
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
