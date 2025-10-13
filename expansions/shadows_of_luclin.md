@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T05:31:25.143Z
+date: 2025-10-13T05:31:43.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -57,7 +57,7 @@ In addition to **24 new zones**, this expansion introduced:
 - **[Raid Guide](/expansions/shadows_of_luclin/raid_guide)** - Boss strategies, loot priorities, and raid progression timelines
 - **[Key Quests & Raid Access](/expansions/shadows_of_luclin/key_quests)** - Vex Thal key, Emperor access, Arx key, and bane weapon crafting (mandatory for raids)
 - **[Quest Guide](/expansions/shadows_of_luclin/quests)** - Best-in-slot quest items, class epics, and tradeskill quests
-- ** [Spell Guide](/expansions/shadows_of_luclin/spells)** - Spells by class and priorities
+- **[Spell Guide](/expansions/shadows_of_luclin/spells)** - Spells by class and priorities
 - **[Alternate Advancement](/expansions/shadows_of_luclin/alternate_advancement)** - Class-by-class AA recommendations and progression paths
 - **[Travel Guide](/expansions/shadows_of_luclin/travel_guide)** - Portal locations, spire mechanics, and AoC access points
 - **[Zone Reference](/expansions/shadows_of_luclin/zones)** - Individual zone pages with maps, camps, and notable NPCs
