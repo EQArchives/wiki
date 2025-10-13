@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T03:29:36.343Z
+date: 2025-10-13T03:32:13.237Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -45,7 +45,24 @@ In addition to **24 new zones**, this expansion introduced:
 > **Music Note**: It took *20 years* for the Shadows of Luclin music to finally get fixed, but it is quite good. You can listen to it on `https://www.youtube.com/watch?v=4z7b-532mKg&list=PLSCa57dkQP45UdvM84b5XQLz92x9IbH_A`
 {.is-info}
 
+---
+
+## Detailed Guides
+
+> **In-Depth Resources** - These comprehensive guides cover specific aspects of the Luclin expansion in detail.
+{.is-success}
+
+- **[Launch Week Strategy](/expansions/shadows_of_luclin/launch_week_strategy)** - Day-by-day checklist for level 60 players, AA priorities, and zone strategies
+- **[Leveling Guide](/expansions/shadows_of_luclin/leveling_guide)** - Complete 1-60 leveling paths with zone breakdowns and camp locations
+- **[Raid Guide](/expansions/shadows_of_luclin/raid_guide)** - Boss strategies, loot priorities, and raid progression timelines
+- **[Key Quests & VT Access](/expansions/shadows_of_luclin/key_quests)** - Vex Thal key walkthrough, bane weapon crafting, and Emperor access
+- **[Alternate Advancement](/expansions/shadows_of_luclin/alternate_advancement)** - Class-by-class AA recommendations and progression paths
+- **[Travel Guide](/expansions/shadows_of_luclin/travel_guide)** - Portal locations, spire mechanics, and AoC access points
+- **[Zone Reference](/expansions/shadows_of_luclin/zones)** - Individual zone pages with maps, camps, and notable NPCs
+
 [Official Shadows of Luclin Primer](https://www.everquest.com/news/eq-shadows-of-luclin-progression-primer){:target="_blank"} - Nice little guide that EQ.com put out for Coirnav and never bothered with again, thanks!
+
+---
 
 ## Getting Started
 
