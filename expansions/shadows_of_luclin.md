@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T05:47:15.567Z
+date: 2025-10-13T05:49:57.647Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -108,7 +108,7 @@ See the [Travel Guide](/expansions/shadows_of_luclin/travel_guide) section for d
 ## Character Options
 
 ### Vah Shir (The New Race)
-
+![vah_shir_large.jpeg](/vah_shir_large.jpeg)
 The Vah Shir are a race of noble feline people who have resided on Luclin for several hundred years. When the Erudites of Odus went to war, a devastating explosion launched a chunk of the continent into space, taking with it a majority of the Kerran population. 
 
 Trapped on the moon, the survivors adapted to their new environment and grew stronger, forced to make themselves a new home on Luclin in **Shar Vahl**. Over time, their people evolved into the Vah Shir, and are now differentiated from their Kerran ancestors.
