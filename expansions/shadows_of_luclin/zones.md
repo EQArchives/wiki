@@ -2,7 +2,7 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T04:23:16.211Z
+date: 2025-10-13T04:28:10.179Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
@@ -39,6 +39,35 @@ The Bazaar was specifically built to facilitate trade with the masses of Norrath
 ### The Nexus
 
 Just outside of the Bazaar you can find the Nexus, which is the primary hub for travel between Norrath and Luclin. Though **the Nexus** may seem physically small, the arcane energy that emanates from the area and through the spires is powerful. From this area you can find several tunnels leading out to various parts of Luclin, which makes this area the useful for travel.
+
+## Dungeons & Caves
+
+### Paladul Caverns
+
+The Paludal Caverns are a system of dense, boggy caves that lie beneath **Hollowshade Moor**. The caverns are filled with funguses and mosses that thrive in the moist environment, and a number of unconventional creatures can be found dwelling within the tunnels. Though the Paludal Caverns are less than glamorous, they can be a great place to explore for newer adventurers who are trying to gain some experience.
+
+The arrangement of the natural tunnels can be somewhat confusing at first, but does provide useful underground paths to **Shadow Haven** and **Shadeweaver's Thicket**. Occasionally, traders can be found utilizing the caverns for quicker travel between these areas of Luclin. If you find yourself lost within the tunnels, they may be able to help you find a way out.
+
+### The Deep
+
+Amidst the **Echo Caverns** is a series of dangerous and complex caverns known as The Deep. These tunnels are teeming with dangerous creatures, and lead all the way down to the very heart of Luclin. If you decide to venture into the Deep, beware of the large abyss you come across – crossing it is not nearly as simple as it appears, and even successfully doing so will only lead to facing even deadlier threats.
+
+If you manage to survive long enough to make it to the deepest depths of the caverns, you may find a hidden entrance to **Ssraeshza Temple**. This temple belongs to the Shissar and may be one of the most threatening places on all of Luclin. With nearly every risk comes the possibility of great rewards, so it shouldn't be surprising that many powerful adventurers attempt to brave the temple. Many fail to make it back.
+
+### The Grey
+
+**[The Grey](https://www.eqarchives.com/zones/view/thegrey){:target="_blank"}** is a desolate, airless void that serves as a protective barrier for the Shissars. When the Shissars fled to Luclin to escape the Greenmist, they magically sealed this region to create an atmosphere-free zone where the Greenmist could not reach them.
+
+> **Lore Significance**: The Grey represents the lengths the Shissars went to in order to survive. This lifeless expanse stands between the Shissar territories and the rest of Luclin, serving as both protection and prison.
+{.is-info}
+
+Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssraeshza—powerful enough to slay gods according to legend—rules over his people.
+
+### Vex Thal
+
+A trip to Vex Thal is not for the faint of heart. To even enter the edifice, you must manage to gather an impressive number of lucid shards held by some of the rarest and most powerful creatures on Luclin. If you eventually manage to make your way inside, you'll face even stronger enemies: the Akheva. High Priestess Aten Ha Ra and her followers certainly will not appreciate your presence in their home.
+
+Those who have visited Vex Thal (and made it out alive) have remarked on its grandeur. The inside of the structure is gorgeous and massive, but it is incredibly easy to find yourself trapped on the inside of its marvelous walls. It could take a massive group of adventurers countless hours to fight their way through the entirety of Vex Thal, but those who succeed will be find themselves inundated with the most handsome of rewards.
 
 ### Complete Zone List
 
