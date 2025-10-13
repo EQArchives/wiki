@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T04:45:20.635Z
+date: 2025-10-13T04:59:00.370Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -77,6 +77,9 @@ In addition to **24 new zones**, this expansion introduced:
 - **Beastlords** are available to: Barbarian, Iksar, Ogre, Troll, and Vah Shir
 - See the [Leveling Guide](/expansions/shadows_of_luclin/leveling_guide) for complete 1-60 progression paths
 
+> **Note:** The new tutorial system was added in Gates of Discord (2004) and was not available when the Shadows of Luclin expansion released.
+{.is-info}
+
 ### For Level 60 Players from Velious
 
 > **Already at Level Cap?** Your first priority is Alternate Advancement, not leveling or new zones.
@@ -98,42 +101,6 @@ In addition to **24 new zones**, this expansion introduced:
 Portals to and from The Nexus are located at Wizard Spires on each continent, transporting at approximately **15 minute** increments. The Nexus serves as the central hub for all Luclin travel.
 
 See the [Travel Guide](/expansions/shadows_of_luclin/travel_guide) section for detailed Portal locations.
-
-### Your First Day on Luclin
-> **New to Luclin?** Follow this checklist to get started on your lunar adventure!
-{.is-success}
-
-1. **Get to The Nexus**
-   - Visit any Wizard Spire location on Norrath
-   - Hail the Nexus Scion to receive a Spire Stone
-   - Wait for the portal (activates every 15 minutes)
-
-2. **Explore The Bazaar**
-   - Stock up on supplies and equipment
-   - Set up your own trader if desired
-   - Bank is available on both ends
-
-3. **Choose Your Path**
-   - **New Character (Vah Shir)**: Start in Shar Vahl
-   - **Leveling (10-30)**: Head to Paludal Caverns or Marus Seru
-   - **Mid-Level (30-45)**: Try Grimling Forest or Jaggedpine
-   - **High-Level (45-60)**: Velketor's Labyrinth, Acrylia Caverns, or Grieg's End
-
-4. **Start Your AA Journey**
-   - Press "V" to open the AA window
-   - Check your class-specific recommendations
-   - Consider splitting exp 50/50 between levels and AA
-
-5. **Key Long-Term Goals**
-   - Work on Coldain Prayer Shawl #8 (if applicable)
-   - Begin collecting Vex Thal key shards
-   - Join a guild and/or join the regular open server raids announced in discord for raid progression
-
-### Getting to Luclin (Basic)
-
-Portals to and from The Nexus are located at Wizard Spires on each continent, transporting at approximately **15 minute** increments. The Nexus serves as the central hub for all Luclin travel.
-
-See the [Travel Guide](#travel-guide) section below for detailed Portal locations.
 
 ## Character Options
 
@@ -209,13 +176,15 @@ Luclin is one of Norrath's two moons and is tidally locked to the planet, meanin
 
 **First 24 Hours:**
 - Travel to Luclin via Nexus spires
-- Join AA grinding groups in Acrylia Caverns or Grieg's End
+- **Join AA grinding groups** (4-6x more efficient than solo)
+- Best zones: Acrylia Caverns, Grieg's End, or Old Sebilis if crowded
 - Start easy Lucid Shards if raiding (Scarlet Desert, The Grey, Dawnshroud)
 - Target: 5-15 AAs depending on playtime
 
 **Week One Goals:**
-- Casual: 20-30 AAs | Active: 40-50 AAs | Hardcore: 75-100 AAs
-- Core 27 AAs: Run Speed 3, Combat Agility 3, Combat Stability 3
+- Casual (10-20 hrs): 20-30 AAs | Active (30-40 hrs): 40-50 AAs | Hardcore (60+ hrs): 75-100 AAs
+- **Core 27 AAs first:** Run Speed 3, Combat Agility 3, Combat Stability 3
 - Begin VT key collection (easy shards first)
+- Don't attempt Umbral Plains or hard content without gear + 30 AAs
 
 [📋 Complete Launch Week Strategy Guide →](/expansions/shadows_of_luclin/launch_week_strategy)
