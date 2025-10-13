@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T04:16:14.366Z
+date: 2025-10-13T04:32:11.582Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -160,7 +160,7 @@ The surviving Shissars were aided by the Combine Empire and fled to Luclin, wher
 
 ### Notable Locations
 
-Luclin is tidally locked to Norrath (one of two moons), meaning one side is constantly ablaze with direct sunlight while the other half exists in never-ending darkness. Both sides are inhabited by different creatures, each offering unique experiences to adventurers brave enough to explore them..
+Luclin is one of Norrath's two moons and is tidally locked to the planet, meaning one side is constantly ablaze with direct sunlight while the other half exists in never-ending darkness. Both sides are inhabited by different creatures, each offering unique experiences to adventurers brave enough to explore them..
 
 **[Vex Thal](https://www.eqarchives.com/zones/view/vexthal){:target="_blank"}** is the ultimate endgame challenge, requiring an extensive key quest collecting lucid shards from Luclin's most dangerous creatures. Inside, the Akheva and High Priestess Aten Ha Ra guard some of the expansion's most powerful rewards.
 
