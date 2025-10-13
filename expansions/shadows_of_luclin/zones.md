@@ -2,7 +2,7 @@
 title: Shadows of Luclin Zone Reference
 description: All Zones in Shadows of Luclin
 published: true
-date: 2025-10-13T04:28:10.179Z
+date: 2025-10-13T04:28:38.668Z
 tags: shadows of luclin
 editor: markdown
 dateCreated: 2025-10-13T03:33:43.349Z
@@ -69,7 +69,7 @@ A trip to Vex Thal is not for the faint of heart. To even enter the edifice, you
 
 Those who have visited Vex Thal (and made it out alive) have remarked on its grandeur. The inside of the structure is gorgeous and massive, but it is incredibly easy to find yourself trapped on the inside of its marvelous walls. It could take a massive group of adventurers countless hours to fight their way through the entirety of Vex Thal, but those who succeed will be find themselves inundated with the most handsome of rewards.
 
-### Complete Zone List
+## Complete Zone List
 
 #### Outdoor Zones
 - [Dawnshroud Peaks](https://www.eqarchives.com/zones/view/dawnshroud){:target="_blank"}
