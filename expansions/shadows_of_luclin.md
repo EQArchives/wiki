@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T00:36:01.067Z
+date: 2025-10-13T00:38:35.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -297,13 +297,18 @@ There are far too many items to cover in depth, but here are some of the most le
 
 ## Alternate Advancement
 
-Luclin begins the everlasting AA grind. These are improvements to your character that become more and more necessary as the game goes on. This can be pulled up in game by hittin "V"
+Luclin begins the everlasting AA grind. These are improvements to your character that become more and more necessary as the game progresses. The AA window can be pulled up in game by pressing **"V"**.
 
-[EQ Progression](https://www.eqprogression.com/){:target="_blank"} - Has a breakdown of important AAs on the Class 101 pages for each class
+> **What are AAs?** Alternate Advancement points allow you to customize and enhance your character beyond the level cap. You earn AA experience separately from normal experience, and can spend these points on powerful abilities, stat increases, and quality-of-life improvements.
+{.is-info}
 
-[Raidloot AA Search](https://www.raidloot.com/aa?name=&effect=&class=&level=&tab=&exp=Shadows+of+Luclin){:target="_blank"} - It is set to Shadows of Luclin. Just select your class. Note some of these on here are not truly available
+### AA Resources
 
-[TAKP AA Sheet](https://wiki.takp.info/index.php/Alternate_Advancement){:target="_blank"} - This is how the AAs originally looked in Luclin. The General AAs have been condensed on TLPs but this is probably more accurate in terms of what is achievable in Luclin. 
+**[EQ Progression Class 101 Pages](https://www.eqprogression.com/){:target="_blank"}** - Has a breakdown of important AAs for each class
+
+**[Raidloot AA Search](https://www.raidloot.com/aa?name=&effect=&class=&level=&tab=&exp=Shadows+of+Luclin){:target="_blank"}** - Filtered to Shadows of Luclin. Select your class. Note: some of these may not be truly available.
+
+**[TAKP AA Sheet](https://wiki.takp.info/index.php/Alternate_Advancement){:target="_blank"}** - This is how AAs originally looked in Luclin. General AAs have been condensed on TLPs, but this is probably more accurate in terms of what is achievable in Luclin.
 
 ## Zones
 - [Acrylia Caverns](https://www.eqarchives.com/zones/view/acrylia){:target="_blank"}
