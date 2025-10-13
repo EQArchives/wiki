@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T02:15:42.840Z
+date: 2025-10-13T02:36:16.715Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -83,7 +83,7 @@ In addition to **24 new zones**, this expansion introduced:
 
 Portals to and from The Nexus are located at Wizard Spires on each continent, transporting at approximately **15 minute** increments. The Nexus serves as the central hub for all Luclin travel.
 
-See the [Travel Guide](#travel-guide) for details.
+See the [Travel Guide](#travel-guide) section below for detailed Portal locations.
 
 ## Character Options
 
@@ -186,6 +186,33 @@ Just outside of the Bazaar you can find the Nexus, which is the primary hub for 
 {.is-info}
 
 Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssraeshza—powerful enough to slay gods according to legend—rules over his people.
+
+## Raid Readiness Checklist
+
+Before joining Ssraeshza Temple or Vex Thal raids, ensure you have:
+
+**Minimum Requirements:**
+- [ ] Level 60
+- [ ] Core AA abilities for your class (minimum 30-50 points)
+- [ ] Appropriate resist gear (200+ in relevant resists)
+- [ ] Vex Thal key (for VT raids)
+- [ ] Emperor key (for Ssra Emperor)
+
+**Bane Weapons Required:**
+- [ ] Seru Bane Weapon (for Lord Inquisitor Seru)
+- [ ] Emperor Bane Weapon (for Emperor Ssraeshza)
+
+**Recommended:**
+- [ ] Coldain Prayer Shawl #8 completed
+- [ ] Class-specific best-in-slot quest items
+- [ ] 100+ AA points for optimal performance
+- [ ] Consumables (potions, food, arrows/components)
+
+**Loot Priority Understanding:**
+- Main tank gear goes to warriors first
+- Caster DPS prioritized for clearing speed
+- Healers get efficiency upgrades
+- [Link to detailed loot council guidelines]
 
 ## Leveling & Progression
 [Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
