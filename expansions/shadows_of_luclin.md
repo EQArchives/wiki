@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T02:43:28.425Z
+date: 2025-10-13T03:17:32.275Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -186,6 +186,24 @@ Just outside of the Bazaar you can find the Nexus, which is the primary hub for 
 {.is-info}
 
 Beyond The Grey lies **Ssraeshza Temple**, the fortress-temple where Emperor Ssraeshza—powerful enough to slay gods according to legend—rules over his people.
+
+## Launch Week Strategy
+
+> **For Level 60 Players** - Set AA slider to 100% immediately. Don't worry about normal experience until you have 100+ AAs.
+{.is-warning}
+
+**First 24 Hours:**
+- Travel to Luclin via Nexus spires
+- Join AA grinding groups in Acrylia Caverns or Grieg's End
+- Start easy Lucid Shards if raiding (Scarlet Desert, The Grey, Dawnshroud)
+- Target: 5-15 AAs depending on playtime
+
+**Week One Goals:**
+- Casual: 20-30 AAs | Active: 40-50 AAs | Hardcore: 75-100 AAs
+- Core 27 AAs: Run Speed 3, Combat Agility 3, Combat Stability 3
+- Begin VT key collection (easy shards first)
+
+[📋 Complete Launch Week Strategy Guide →](/expansions/shadows_of_luclin/launch_week_strategy)
 
 ## Leveling & Progression
 [Almar's Luclin Leveling Guides](https://almarsguides.com/eq/leveling/Luclin/){:target="_blank"}
