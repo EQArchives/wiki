@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T18:54:55.381Z
+date: 2025-10-25T19:08:01.668Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -56,9 +56,13 @@ Price variations depend on your Charisma stat. Characters with high Charisma (11
 
 Silken bridles drop from Named creatures in Sanctus Seru and Ssraeshza Temple:
 - **Praesertums (Sanctus Seru)**: Approximately 10% drop rate
+    - [Praesertum Bikun](https://www.eqarchives.com/npcs/view/159052){target=_blank} - Drops the Tan Silken Bridle at 15% drop rate
+    - [Praesertum Matpa](https://www.eqarchives.com/npcs/view/159035){target=_blank} - Drops the White Silken Bridle at 9.91% drop rate
+    - [Praesertum Rhugol](https://www.eqarchives.com/npcs/view/159054){target=_blank} - Drops the Black Silken Bridle at 10.989% drop rate
+    - [Praesertum Vantorus](https://www.eqarchives.com/npcs/view/159055){target=_blank} - Drops the Brown Silken Bridle at 7.547% drop rate
 - **Commanders (Ssraeshza Temple)**: Approximately 1% drop rate [^9]
-    - Commander Zazuzh - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^10]
-    - Commander Zherozsh - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^11]
+    - [Commander Zazuzh](https://www.eqarchives.com/npcs/view/162003){target=_blank} - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^10]
+    - [Commander Zherozsh](https://www.eqarchives.com/npcs/view/162027){target=_blank} - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^11]
 - **Grieg Veneficus**: Drops the Black Silken Bridle at 11.11% drop rate [^12]
 
 Silk bridle horses effectively vendor for around 50,000 platinum pieces. [^9]
