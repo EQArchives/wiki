@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T19:35:09.054Z
+date: 2025-10-25T19:38:35.307Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -38,10 +38,10 @@ Mounts are summoned and controlled using **Bridles**. Different bridle types pro
 
 | Bridle Type | Movement Speed Increase | Vendor Price | Availability |
 |---|---|---|---|
-| Rope Bridle | 25% | 8,000pp | Purchase from [Stable Hand Brack](https://www.eqarchives.com/npcs/view/151243){target=_blank} in the Bazaar [^9] |
-| Leather Bridle | 50% | 27,000pp | Purchase from [Stable Hand Brack](https://www.eqarchives.com/npcs/view/151243){target=_blank} in the Bazaar[^9] |
-| Silken Bridle | 60% | 60,000pp | Purchase from [Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242) in the Bazaar or Named drops (see below) [^9] |
-| Chain Bridle | 70% | 95,000pp | Purchase from [Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242) in the Bazaar [^9] |
+| Rope Bridle | 25% | 8k - 9k pp | Purchase from [Stable Hand Brack](https://www.eqarchives.com/npcs/view/151243){target=_blank} in the Bazaar [^9] |
+| Leather Bridle | 50% | 26k - 30k pp | Purchase from [Stable Hand Brack](https://www.eqarchives.com/npcs/view/151243){target=_blank} in the Bazaar[^9] |
+| Silken Bridle | 60% | 58k - 62k pp | Purchase from [Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242) in the Bazaar or Named drops (see below) [^9] |
+| Chain Bridle | 70% | 91k - 99k pp| Purchase from [Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242) in the Bazaar [^9] |
 | Ornate Chain Bridle | 85% | Drop only | Drops from raid bosses - [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000) (White) and [Emperor Ssraeshza](https://www.eqarchives.com/npcs/view/162491) (Black) [^9] |
 | Ghostly Bridle (Quest) | 25% | N/A | Befallen quest (1-use)[^4] |
 
@@ -53,8 +53,6 @@ Bridles come in four colors: **Black, White, Brown, and Tan**. Color affects pri
 - **Brown and Tan**: Less expensive, functionally identical[^9]
 
 Price variations depend on your Charisma stat. Characters with high Charisma (110+) receive the lowest prices; low Charisma results in higher prices within each bridle type range.[^2]
-
-### Rope & Leather Bridles
 
 ### Silken Bridles
 
