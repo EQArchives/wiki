@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T19:09:32.343Z
+date: 2025-10-25T19:16:52.921Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -52,8 +52,9 @@ Bridles come in four colors: **Black, White, Brown, and Tan**. Color affects pri
 
 Price variations depend on your Charisma stat. Characters with high Charisma (110+) receive the lowest prices; low Charisma results in higher prices within each bridle type range.[^2]
 
-### Silken Bridles (Named Drops)
+### Silken Bridles
 
+#### Named Drops
 Silken bridles drop from Named creatures in Sanctus Seru and Ssraeshza Temple:
 - **Praesertums (Sanctus Seru)**: Approximately 10% drop rate
     - [Praesertum Bikun](https://www.eqarchives.com/npcs/view/159052){target=_blank} - Drops the Tan Silken Bridle at 15% drop rate
@@ -64,6 +65,9 @@ Silken bridles drop from Named creatures in Sanctus Seru and Ssraeshza Temple:
     - [Commander Zazuzh](https://www.eqarchives.com/npcs/view/162003){target=_blank} - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^10]
     - [Commander Zherozsh](https://www.eqarchives.com/npcs/view/162027){target=_blank} - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^11]
 - [Grieg Veneficus](https://www.eqarchives.com/npcs/view/163389){target=_blank}: Drops the Black Silken Bridle at 11.11% drop rate [^12]
+
+#### Vendor Purchased
+[Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242){target=_blank} - sells them in the Bazaar stables for 58K (Tan, Brown) or 62K (Black, White)
 
 Silk bridle horses effectively vendor for around 50,000 platinum pieces. [^9]
 
