@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T13:55:12.111Z
+date: 2025-10-25T14:18:23.998Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -24,7 +24,9 @@ Mounts were first introduced in the Shadows of Luclin expansion and provide seve
 - **Food Consumption**: Mounts consume food at twice the normal rate (feeding both you and the mount)[^1]
 - **Illusion Conflicts**: Mounts cannot be used simultaneously with most illusions, though you can maintain buffs from both[^1]
 - **Indoor Restrictions**: Mounts are unavailable in indoor zones (dungeons, caves, and interior city areas)
-- **Zone Restrictions**: Several outdoor zones do not permit mount use
+- **Zone Restrictions**: Mounts are usable outdoors only[^9]
+- **Meditation Effect**: You are treated as sitting/meditating while on a horse, but the meditation effect only works when stationary and not in combat[^9]
+- **Luclin Models Required**: You must have Luclin models enabled to ride a horse[^9]
 
 ## Mount Acquisition
 
@@ -38,7 +40,7 @@ Mounts are summoned and controlled using **Bridles**. Different bridle types pro
 | Leather Bridle | 50% | 27,000pp | Bazaar vendor[^9] |
 | Silken Bridle | 60% | 60,000pp | Bazaar vendor or Named drops[^9] |
 | Chain Bridle | 70% | 95,000pp | Bazaar vendor[^9] |
-| Ornate Chain Bridle | 85% | Drop only | Lord Seru & Emperor Ssraeshza[^9] |
+| Ornate Chain Bridle | 85% | Drop only | Raid bosses[^9] |
 | Ghostly Bridle (Quest) | 25% | N/A | Befallen quest (1-use)[^4] |
 
 ### Bridle Coloring and Pricing
@@ -52,9 +54,26 @@ Price variations depend on your Charisma stat. Characters with high Charisma (11
 
 ### Silken Bridles (Named Drops)
 
-Silken Bridles drop from Named creatures throughout Luclin zones and can be traded to NPCs in the Bazaar.[^5] Praesertums (Seru) and Commanders (Ssra) can drop silk bridles rarely. [^9]
+Silken bridles drop from Named creatures in Sanctus Seru and Ssraeshza Temple:
+- **Praesertums (Sanctus Seru)**: Approximately 10% drop rate
+- **Commanders (Ssraeshza Temple)**: Approximately 1% drop rate [^9]
+    - Commander Zazuzh - 0.236% [^10]
+    - Commander Zherozsh - 0.236% [^11]
+- Grieg Veneficus (Black Silken Bridle 11.11%) [^12]
+
+Silk bridle horses effectively vendor for around 50,000 platinum pieces. [^9]
+
+Silken Bridles can be traded to NPCs in the Bazaar.[^5]
 
 > **Note - TLP/Modern Changes**: As of the September 2017 patch on live servers, Silken Bridles were replaced with Ornate Silken Bridles. The new bridles cannot be traded for Platinum and no longer drop from Luclin Named creatures. This change was likely implemented to reduce the incentive for permanent camping of Named encounters.[^7]
+
+### Ornate Chain Bridles (Raid Drops)
+
+Ornate Chain bridles are raid boss drops only:
+- **Lord Inquisitor Seru** (Sanctus Seru): Drops Ornate Chain horse
+- **Emperor Ssraeshza** (Ssraeshza Temple): Drops Ornate Chain horse [^9]
+
+These are the fastest bridles available through normal gameplay and provide an 85% movement speed increase.
 
 ### Trader NPCs in The Bazaar
 
@@ -99,6 +118,7 @@ Mounts cannot be used in:
 - Consider the food cost when planning long grinding sessions or extended dungeon runs
 - Remember to dismiss your mount when entering restricted zones to avoid dismounting penalties
 - High Charisma improves vendor pricing when purchasing bridles, up to a maximum benefit at 110 Charisma[^2]
+- The meditation/mana regeneration effect only applies when stationary and out of combat[^9]
 
 ---
 
@@ -118,4 +138,10 @@ Mounts cannot be used in:
 
 [^8]: Black Silken Bridle item page. Allakhazam's EverQuest Database. https://everquest.allakhazam.com/db/item.html?item=11744
 
-[^9]: The Al`Kabor Project Wiki - Horses & Run Speed. https://wiki.takp.info/index.php/Horses and https://wiki.takp.info/index.php/Run_speed
+[^9]: The Al`Kabor Project Wiki - Horses. https://wiki.takp.info/index.php/Horses
+
+[^10]: EQ Archives Database: https://www.eqarchives.com/npcs/view/162003
+
+[^11]: EQ Archives Database: https://www.eqarchives.com/npcs/view/162027
+
+[^12]: EQ Archives Database: https://www.eqarchives.com/npcs/view/163389
