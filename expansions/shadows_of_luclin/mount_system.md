@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T19:38:35.307Z
+date: 2025-10-25T19:41:39.642Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -44,6 +44,9 @@ Mounts are summoned and controlled using **Bridles**. Different bridle types pro
 | Chain Bridle | 70% | 91k - 99k pp| Purchase from [Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242) in the Bazaar [^9] |
 | Ornate Chain Bridle | 85% | Drop only | Drops from raid bosses - [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000) (White) and [Emperor Ssraeshza](https://www.eqarchives.com/npcs/view/162491) (Black) [^9] |
 | Ghostly Bridle (Quest) | 25% | N/A | Befallen quest (1-use)[^4] |
+
+> Movement speed increases need verification. There are discrepancies between internet sources and TAKP client testing.  Contributions appreciated!
+{.is-warning}
 
 ### Bridle Coloring and Pricing
 
