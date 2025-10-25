@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T14:19:33.012Z
+date: 2025-10-25T14:20:36.857Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -57,8 +57,8 @@ Price variations depend on your Charisma stat. Characters with high Charisma (11
 Silken bridles drop from Named creatures in Sanctus Seru and Ssraeshza Temple:
 - **Praesertums (Sanctus Seru)**: Approximately 10% drop rate
 - **Commanders (Ssraeshza Temple)**: Approximately 1% drop rate [^9]
-    - Commander Zazuzh - 0.236% [^10]
-    - Commander Zherozsh - 0.236% [^11]
+    - Commander Zazuzh - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^10]
+    - Commander Zherozsh - Drops the Tan, White, Black, and Brown Silken Bridles at 0.236% drop rate [^11]
 - **Grieg Veneficus**: Drops the Black Silken Bridle at 11.11% drop rate [^12]
 
 Silk bridle horses effectively vendor for around 50,000 platinum pieces. [^9]
