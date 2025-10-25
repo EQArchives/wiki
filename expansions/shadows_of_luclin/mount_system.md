@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T19:53:01.614Z
+date: 2025-10-25T19:58:17.527Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -22,7 +22,7 @@ Mounts were first introduced in the Shadows of Luclin expansion and provide seve
 ## Limitations
 
 - **Food Consumption**: Mounts consume food at twice the normal rate (feeding both you and the mount)[^1]
-- **Illusion Conflicts**: Mounts cannot be used simultaneously with most illusions, though you can maintain buffs from both[^1]
+- **Illusion Conflicts**: Mounts cannot be used simultaneously with most illusions, though you can maintain buffs from both. Necros can only use Demi Lich. [^1][^9]
 - **Indoor Restrictions**: Mounts are unavailable in indoor zones (dungeons, caves, and interior city areas)
 - **Zone Restrictions**: Mounts are usable outdoors only[^9]
 - **Meditation Effect**: You are treated as sitting/meditating while on a horse, but the meditation effect only works when stationary and not in combat[^9]
