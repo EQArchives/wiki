@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T14:20:36.857Z
+date: 2025-10-25T18:54:55.381Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -116,7 +116,6 @@ Mounts cannot be used in:
 - Mounts provide no combat advantage but offer significant convenience for travel
 - The Safe Fall bonus is particularly useful when traveling in mountainous zones
 - Consider the food cost when planning long grinding sessions or extended dungeon runs
-- Remember to dismiss your mount when entering restricted zones to avoid dismounting penalties
 - High Charisma improves vendor pricing when purchasing bridles, up to a maximum benefit at 110 Charisma[^2]
 - The meditation/mana regeneration effect only applies when stationary and out of combat[^9]
 
