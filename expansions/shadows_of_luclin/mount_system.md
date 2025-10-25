@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T14:18:23.998Z
+date: 2025-10-25T14:19:33.012Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -59,7 +59,7 @@ Silken bridles drop from Named creatures in Sanctus Seru and Ssraeshza Temple:
 - **Commanders (Ssraeshza Temple)**: Approximately 1% drop rate [^9]
     - Commander Zazuzh - 0.236% [^10]
     - Commander Zherozsh - 0.236% [^11]
-- Grieg Veneficus (Black Silken Bridle 11.11%) [^12]
+- **Grieg Veneficus**: Drops the Black Silken Bridle at 11.11% drop rate [^12]
 
 Silk bridle horses effectively vendor for around 50,000 platinum pieces. [^9]
 
