@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T19:30:40.290Z
+date: 2025-10-25T19:35:09.054Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -26,7 +26,9 @@ Mounts were first introduced in the Shadows of Luclin expansion and provide seve
 - **Indoor Restrictions**: Mounts are unavailable in indoor zones (dungeons, caves, and interior city areas)
 - **Zone Restrictions**: Mounts are usable outdoors only[^9]
 - **Meditation Effect**: You are treated as sitting/meditating while on a horse, but the meditation effect only works when stationary and not in combat[^9]
-- **Luclin Models Required**: You must have Luclin models enabled to ride a horse[^9]
+- **Luclin Models Required**: You must have Luclin models enabled to ride a horse* [^9]
+
+>There was a known bug on the EQMac client that let you use old models get the horse buff icon, which lets you meditate without riding a horse. The benefit of this is you can move at normal sow speeds while buying the cheapest horse, don't suffer from acceleration/deceleration effect of horses, can duck spells to interrupt casting, and not have to use Luclin models if you don't like the graphic.[^9]
 
 ## Mount Acquisition
 
