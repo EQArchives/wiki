@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-13T06:11:28.156Z
+date: 2025-10-25T12:52:33.488Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -56,11 +56,11 @@ In addition to **24 new zones**, this expansion introduced:
 
 - **[Launch Week Strategy](/expansions/shadows_of_luclin/launch_week_strategy)** - Day-by-day checklist for level 60 players, AA priorities, and zone strategies
 - **[Leveling Guide](/expansions/shadows_of_luclin/leveling_guide)** - Complete 1-60 leveling paths with zone breakdowns and camp locations
-- **Faction Guide** - TODO Summary of newly introduced Luclin factions
-- **Luclin Tradeskills** - TODO
-- **Beastlord Starting Guide** - TODO
-- **Vah Shirt Starting Guide** - Guide for starting as a Vah Shir
-- **Mount System** - Where to get your mounts
+- **[Faction Guide](/expansions/shadows_of_luclin/faction_guide)** - TODO Summary of newly introduced Luclin factions
+- **[Luclin Tradeskills](/expansions/shadows_of_luclin/tradeskills)** - TODO
+- **[Beastlord Starting Guide](/expansions/shadows_of_luclin/beastlord_starting_guide)** - TODO
+- **[Vah Shir Starting Guide](/expansions/shadows_of_luclin/vah_shir_starting_guide)** - Guide for starting as a Vah Shir
+- **[Mount System](/expansions/shadows_of_luclin/mount_system)** - Where to get your mounts
 - **[Raid Guide](/expansions/shadows_of_luclin/raid_guide)** - Boss strategies, loot priorities, and raid progression timelines
 - **[Key Quests & Raid Access](/expansions/shadows_of_luclin/key_quests)** - Vex Thal key, Emperor access, Arx key, and bane weapon crafting (mandatory for raids)
 - **[Quest Guide](/expansions/shadows_of_luclin/quests)** - Best-in-slot quest items, class epics, and tradeskill quests
