@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T20:06:34.193Z
+date: 2025-10-25T20:16:04.969Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -107,14 +107,30 @@ This quest was originally intended as a preview for players to test horses befor
 
 ## Mount Speed Comparison
 
-Speed progression from slowest to fastest:
-- Rope Bridle: 25% faster than base movement
-- Leather Bridle: 50% faster than base movement
-- Silken Bridle: 60% faster than base movement  
-- Chain Bridle: 70% faster than base movement
-- Ornate Chain Bridle: 85% faster than base movement [^9]
+| Type/Source | Effect/Spell/Item | Speed Modifier | % Increase |
+|---|---|---|---|
+| Base Run | 0 (default) | 29.800 coordinates/second | 0% |
+| Horse | Rope horse / small drum | 31.886 coordinates/second | 7% |
+| Horse | Leather horse / medium drum | 42.614 coordinates/second | 43% |
+| Horse | Silk horse / large drum | 53.004 coordinates/second | 78% |
+| Horse | Chain horse / giant drum | 63.772 coordinates/second | 114% |
+| Horse | Ornate chain horse / glowing Drum (Paladin/Shadowknight AA) | 74.500 coordinates/second | 150% |
+| AA | Run1 | 32.780 coordinates/second | 10% |
+| AA | Run2 | 35.760 coordinates/second | 20% |
+| AA | Run3 | 38.740 coordinates/second | 30% |
+| Item | Jboots | 40.230 coordinates/second | 35% |
+| Item | Tboots | 40.230 coordinates/second | 35% |
+| Spell | Illusion: Scaled Wolf | 43.310 coordinates/second | 45% |
+| Spell | Spirit of Wolf | 46.190 coordinates/second | 55% |
+| Spell | Spirit of Eagle | 47.680 coordinates/second | 60% |
+| Spell | Share Wolf Form | 47.680 coordinates/second | 60% |
+| Spell | Share Form of the Great Wolf | 48.276 coordinates/second | 62% |
+| Spell | Flight of Eagles | 49.170 coordinates/second | 65% |
+| Spell | Spirit of Cheetah (self only) | 64.070 coordinates/second | 115% |
+| Spell | Bard Speed (at runspeed cap, max in game) | 76.288 coordinates/second | 156% |
 
-For reference, silk bridles are faster than Journeyman's Boots (Jboots) and Spirit of Wolf spells, while Chain bridles are significantly faster than silk bridles. [^8]
+>Credit to Mokli, Rimidal, TAKP wiki, and https://eqtlp.fandom.com/wiki/Run_speed_comparison for this speed comparison.
+{.is-info}
 
 ## Zone Mount Restrictions
 
