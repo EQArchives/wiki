@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T20:16:04.969Z
+date: 2025-10-25T20:17:15.247Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -129,7 +129,7 @@ This quest was originally intended as a preview for players to test horses befor
 | Spell | Spirit of Cheetah (self only) | 64.070 coordinates/second | 115% |
 | Spell | Bard Speed (at runspeed cap, max in game) | 76.288 coordinates/second | 156% |
 
->Credit to Mokli, Rimidal, TAKP wiki, and https://eqtlp.fandom.com/wiki/Run_speed_comparison for this speed comparison.
+>Credit to Mokli, Rimidal, [TAKP wiki](https://wiki.takp.info/index.php/Horses){target=_blank}, and [EQTLP Wiki](https://eqtlp.fandom.com/wiki/Run_speed_comparison){target=_blank} for this speed comparison.
 {.is-info}
 
 ## Zone Mount Restrictions
