@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T19:52:17.403Z
+date: 2025-10-25T19:53:01.614Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -39,7 +39,7 @@ Mounts are summoned and controlled using **Bridles**. Different bridle types pro
 | Bridle Type | Movement Speed Increase | Vendor Price | Availability |
 |---|---|---|---|
 | Rope Bridle | 25% | 8k - 9k pp | Purchase from [Stable Hand Brack](https://www.eqarchives.com/npcs/view/151243){target=_blank} in the Bazaar [^9] |
-| Leather Bridle | 50% | 26k - 30k pp | Purchase from [Stable Hand Brack](https://www.eqarchives.com/npcs/view/151243){target=_blank} in the Bazaar[^9] or Dropped from [Corpseraiser Gilgaplank](https://www.eqarchives.com/npcs/view/154009){target=_blank} at 1% drop rate |
+| Leather Bridle | 50% | 26k - 30k pp | Purchase from [Stable Hand Brack](https://www.eqarchives.com/npcs/view/151243){target=_blank} in the Bazaar[^9] or Tan Leather Bridle Dropped from [Corpseraiser Gilgaplank](https://www.eqarchives.com/npcs/view/154009){target=_blank} at 1% drop rate |
 | Silken Bridle | 60% | 58k - 62k pp | Purchase from [Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242){target=_blank} in the Bazaar or Named drops (see below) [^9] |
 | Chain Bridle | 70% | 91k - 99k pp| Purchase from [Stable Hand Kaye](https://www.eqarchives.com/npcs/view/151242){target=_blank} in the Bazaar [^9] |
 | Ornate Chain Bridle | 85% | Drop only | Drops from raid bosses - [Lord Inquisitor Seru](https://www.eqarchives.com/npcs/view/159000){target=_blank} (White) and [Emperor Ssraeshza](https://www.eqarchives.com/npcs/view/162491) (Black) [^9] |
