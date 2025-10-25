@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-25T13:22:56.336Z
+date: 2025-10-25T14:03:37.039Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -60,7 +60,7 @@ In addition to **24 new zones**, this expansion introduced:
 - **[Luclin Tradeskills](/expansions/shadows_of_luclin/tradeskills)** - TODO
 - **[Beastlord Starting Guide](/expansions/shadows_of_luclin/beastlord_starting_guide)** - TODO
 - **[Vah Shir Starting Guide](/expansions/shadows_of_luclin/vah_shir_starting_guide)** - Guide for starting as a Vah Shir
-- **[Mount System](/expansions/shadows_of_luclin/mount_system)** - Where to get your mounts
+- **[Mount System](/expansions/shadows_of_luclin/mount_system)** - What you need to know about the mounts introduced in the Shadows of Luclin expansion
 - **[Raid Guide](/expansions/shadows_of_luclin/raid_guide)** - Boss strategies, loot priorities, and raid progression timelines
 - **[Key Quests & Raid Access](/expansions/shadows_of_luclin/key_quests)** - Vex Thal key, Emperor access, Arx key, and bane weapon crafting (mandatory for raids)
 - **[Quest Guide](/expansions/shadows_of_luclin/quests)** - Best-in-slot quest items, class epics, and tradeskill quests
