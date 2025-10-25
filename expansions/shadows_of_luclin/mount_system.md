@@ -2,7 +2,7 @@
 title: Mount System
 description: A Shadows of Luclin Guide to Mounts
 published: true
-date: 2025-10-25T19:59:49.187Z
+date: 2025-10-25T20:02:34.337Z
 tags: guides, shadows of luclin, mounts
 editor: markdown
 dateCreated: 2025-10-25T13:19:10.239Z
@@ -95,6 +95,7 @@ In the Bazaar stables, the Amondson brothers operate a bridle buyback program: W
 Players can turn in a bridle and receive a "big bag of platinum" which sells for roughly 85% of the horse's value. [^9]
 
 > **Note on Buyback Value Discrepancy**: Earlier EverQuest guides documented bridle buyback values at approximately 2/3 (66%) of the purchase price.[^6] The TAKP server shows improved buyback value at approximately 85%. This could reflect server-specific implementations, historical patches that improved the buyback rate, or variations between different EverQuest server codebases.
+{.is-warning}
 
 ### Quest Bridles
 
