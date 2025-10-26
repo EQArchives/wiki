@@ -2,7 +2,7 @@
 title: Shadows of Luclin Alternate Advancement
 description: 
 published: true
-date: 2025-10-13T05:30:23.758Z
+date: 2025-10-26T20:59:22.974Z
 tags: shadows of luclin, alternate advancement, aa
 editor: markdown
 dateCreated: 2025-10-13T03:36:11.045Z
@@ -21,6 +21,8 @@ Luclin begins the everlasting AA grind. These are improvements to your character
     * 3x points in Innate Run Speed
     * 3x points into Innate Regen
     **Alternate**: Halfling/Dwarf/Troll may consider Innate Metabolism
+    
+- [Cleric AA Guide](/expansions/shadows_of_luclin/alternate_advancement/cleric_guide)
 
 **Pure melees**: Rogue, Monk, Warrior - Farm AAs. Warriors need, I believe, 54 AAs to max all tanking abilities and AE taunt. Monks and Rogues need less to be effective from a DPS standpoint, but AAs are still a significant boost to DPS and survivability.
 
