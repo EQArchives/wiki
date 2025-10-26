@@ -2,7 +2,7 @@
 title: Cleric AA Guide
 description: 
 published: true
-date: 2025-10-26T23:47:40.515Z
+date: 2025-10-26T23:48:03.333Z
 tags: alternate advancement, cleric
 editor: markdown
 dateCreated: 2025-10-26T23:47:40.515Z
@@ -21,6 +21,7 @@ dateCreated: 2025-10-26T23:47:40.515Z
 ## General
 
 ## Archetype
+
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
 | --- | --- | --- |
 | Healing Adept | 3 | 2/4/6 | 12 | This ability increases the maximum effectiveness of your healing spells by 2, 5, and 10 percent. 
@@ -36,6 +37,7 @@ dateCreated: 2025-10-26T23:47:40.515Z
 
 
 ## Class
+
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
 |---|---|---|
 | Mass Group Buff | 1 | 9 | 9 | This ability turns the next group buff that you cast into a beneficial area effect spell, hitting everyone within its radius, at the cost of doubling the spells mana usage. 
