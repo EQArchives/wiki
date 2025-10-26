@@ -2,7 +2,7 @@
 title: Cleric AA Guide
 description: 
 published: true
-date: 2025-10-26T23:48:03.333Z
+date: 2025-10-26T23:50:21.932Z
 tags: alternate advancement, cleric
 editor: markdown
 dateCreated: 2025-10-26T23:47:40.515Z
@@ -23,7 +23,7 @@ dateCreated: 2025-10-26T23:47:40.515Z
 ## Archetype
 
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Healing Adept | 3 | 2/4/6 | 12 | This ability increases the maximum effectiveness of your healing spells by 2, 5, and 10 percent. 
 | Healing Gift | 3 | 2/4/6 | 12 | This ability grants you a chance to score an exceptional heal at 3, 6, and 10 percent. An exceptional heal doubles the healing value of the spell. 
 | Spell Casting Mastery | 3 | 2/4/6 | 12 | This ability gives you an increased chance of making your specialization checks. It also reduces your chance to fizzle and increases the chance to lower the mana cost for the spell by 5, 15, and 30 percent. 
@@ -39,7 +39,7 @@ dateCreated: 2025-10-26T23:47:40.515Z
 ## Class
 
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
-|---|---|---|
+| --- | --- | --- | --- | --- |
 | Mass Group Buff | 1 | 9 | 9 | This ability turns the next group buff that you cast into a beneficial area effect spell, hitting everyone within its radius, at the cost of doubling the spells mana usage. 
 | Divine Resurrection | 1 | 5 | 5 | This ability allows you to provide a resurrection that restores 100 percent experience, all hit points and mana, and causes no adverse resurrection effects.
 | Innate Invis to Undead | 1 | 3 | 3 | This ability allows you to become invisible to the undead, nearly at will, without the need to memorize a spell. 
