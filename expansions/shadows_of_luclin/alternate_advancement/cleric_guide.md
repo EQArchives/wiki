@@ -2,7 +2,7 @@
 title: Cleric AA Guide
 description: 
 published: true
-date: 2025-10-26T23:50:21.932Z
+date: 2025-10-26T23:59:07.649Z
 tags: alternate advancement, cleric
 editor: markdown
 dateCreated: 2025-10-26T23:47:40.515Z
@@ -21,6 +21,7 @@ dateCreated: 2025-10-26T23:47:40.515Z
 ## General
 
 ## Archetype
+There are 120 total AA's in the Cleric's archetype tab during the Shadows of Luclin expansion.
 
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
 | --- | --- | --- | --- | --- |
@@ -37,6 +38,7 @@ dateCreated: 2025-10-26T23:47:40.515Z
 
 
 ## Class
+There are 59 total AA's in the Cleric's class tab during the Shadows of Luclin expansion.
 
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
 | --- | --- | --- | --- | --- |
