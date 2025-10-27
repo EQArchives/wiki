@@ -2,7 +2,7 @@
 title: Cleric AA Guide
 description: 
 published: true
-date: 2025-10-26T23:59:07.649Z
+date: 2025-10-27T00:01:02.762Z
 tags: alternate advancement, cleric
 editor: markdown
 dateCreated: 2025-10-26T23:47:40.515Z
@@ -19,6 +19,26 @@ dateCreated: 2025-10-26T23:47:40.515Z
 8. Utility (as needed): Purify Soul, Divine Res, Bestow Divine Aura, Mass Group Buff, Innate Run Speed
 
 ## General
+| Name | Classes | Ranks | Cost | Description |
+| --- | --- | --- | --- | --- |
+| First Aid | All | 3 | 1 | This ability increases the maximum that you can bind wound by 10 percent for each ability level. |
+| Innate Agility | ALL | 5 | 1 | This ability raises your base Agility by 2 points for each ability level. |
+| Innate Charisma | ALL | 5 | 1 | This ability raises your base Charisma by 2 points for each ability level. |
+| Innate Cold Protection | ALL | 5 | 1 | This ability raises your base Save Vs Cold by 2 points for each ability level. |
+| Innate Dexterity | ALL | 5 | 1 | This ability raises your base Dexterity by 2 points for each ability level. |
+| Innate Disease Protection | ALL | 5 | 1 | This ability raises your base Save Vs Disease by 2 points for each ability level. |
+| Innate Fire Protection | ALL | 5 | 1 | This ability raises your base Save Vs Fire by 2 points for each ability level. |
+| Innate Intelligence | ALL | 5 | 1 | This ability raises your base Intelligence by 2 points for each ability level. |
+| Innate Lung Capacity | ALL | 5 | 1 | This ability increases the amount of air you have by 10, 25, 50, 75, and 100 percent. <grok-card data-id="dc29b0" data-type="citation_card"></grok-card><grok-card data-id="6c231e" data-type="citation_card"></grok-card> |
+| Innate Magic Protection | ALL | 5 | 1 | This ability raises your base Save Vs Magic by 2 points for each ability level. |
+| Innate Metabolism | ALL | 5 | 1 | This ability decreases your food consumption by 10, 25 and 50 percent. <grok-card data-id="d6fc18" data-type="citation_card"></grok-card> |
+| Innate Poison Protection | ALL | 5 | 1 | This ability raises your base Save Vs Poison by 2 points for each ability level. |
+| Innate Regeneration | ALL | 5 | 1 | This ability raises your regeneration ability by 1 point per ability level. |
+| Innate Run Speed | ALL | 5 | 1 | This ability will slightly modify your base run speed. This modification does NOT stack with movement rate spell effects. |
+| Innate Stamina | ALL | 5 | 1 | This ability raises your base Stamina by 2 points for each ability level. |
+| Innate Strength | ALL | 5 | 1 | This ability raises your base Strength by 2 points for each ability level. |
+| Innate Wisdom | ALL | 5 | 1 | This ability raises your base Wisdom by 2 points for each ability level. |
+| New Tanaan Crafting Mastery | ALL | 6 | 3/3/3/3/3/3 | Training with the sages and merchants of New Tanaan gives adventurers the chance to hone their crafting skills. For each rank of this ability that you purchase, you are able to raise an additional trade skill past its Specialization level (200). (This ability applies to Baking, Blacksmithing, Brewing, Fletching, Jewelcraft, Pottery, and Tailoring.) <grok-card data-id="99485b" data-type="citation_card"></grok-card><grok-card data-id="0a9d1e" data-type="citation_card"></grok-card> |
 
 ## Archetype
 There are 120 total AA's in the Cleric's archetype tab during the Shadows of Luclin expansion.
