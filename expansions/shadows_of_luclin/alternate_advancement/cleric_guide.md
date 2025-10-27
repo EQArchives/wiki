@@ -2,13 +2,13 @@
 title: Cleric AA Guide
 description: 
 published: true
-date: 2025-10-27T00:52:03.833Z
+date: 2025-10-27T01:13:56.150Z
 tags: alternate advancement, cleric
 editor: markdown
 dateCreated: 2025-10-26T23:47:40.515Z
 ---
 
-# Cleric AA Priorities
+## Cleric AA Priorities
 1. Combat Agility (3) + Combat Stability (3): Survival essentials (24 AA total). Max first—mitigates damage in raids/groups.
 2. Spell Casting Mastery (3): -10% mana cost. Core for sustain.
 3. Healing Adept (3) + Healing Gift (3): +10% heals +10% crit chance. Boosts output hugely (24 AA).
@@ -18,7 +18,10 @@ dateCreated: 2025-10-26T23:47:40.515Z
 7. Natural Durability (3) + Innate Regeneration (3): HP/regen for longevity.
 8. Utility (as needed): Purify Soul, Divine Res, Bestow Divine Aura, Mass Group Buff, Innate Run Speed
 
-## General
+## AA Reference
+Clerics have 280 AA's available in the Shadows of Luclin expansion.
+
+### General
 There are 101 total AA's in the General tab during the Shadows of Luclin expansion.
 
 | Name | Classes | Ranks | Cost | Description |
@@ -42,7 +45,7 @@ There are 101 total AA's in the General tab during the Shadows of Luclin expansi
 | Innate Wisdom | ALL | 5 | 1 | This ability raises your base Wisdom by 2 points for each ability level. |
 | New Tanaan Crafting Mastery | ALL | 6 | 3/3/3/3/3/3 | Training with the sages and merchants of New Tanaan gives adventurers the chance to hone their crafting skills. For each rank of this ability that you purchase, you are able to raise an additional trade skill past its Specialization level (200). (This ability applies to Baking, Blacksmithing, Brewing, Fletching, Jewelcraft, Pottery, and Tailoring.) <grok-card data-id="99485b" data-type="citation_card"></grok-card><grok-card data-id="0a9d1e" data-type="citation_card"></grok-card> |
 
-## Archetype
+### Archetype
 There are 120 total AA's in the Cleric's archetype tab during the Shadows of Luclin expansion.
 
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
@@ -59,7 +62,7 @@ There are 120 total AA's in the Cleric's archetype tab during the Shadows of Luc
 | Mental Clarity | 3 | 2/4/6 | 12 | This ability increases your natural mana regeneration by 1 point per ability level. 
 
 
-## Class
+### Class
 There are 59 total AA's in the Cleric's class tab during the Shadows of Luclin expansion.
 
 | AA Name | Ranks | Cost | Total Cost | Key Effects |
