@@ -2,7 +2,7 @@
 title: Shadows of Luclin Alternate Advancement
 description: 
 published: true
-date: 2025-10-26T20:59:22.974Z
+date: 2025-10-27T00:02:03.388Z
 tags: shadows of luclin, alternate advancement, aa
 editor: markdown
 dateCreated: 2025-10-13T03:36:11.045Z
