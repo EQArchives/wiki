@@ -2,7 +2,7 @@
 title: Cleric AA Guide
 description: 
 published: true
-date: 2025-10-27T00:01:02.762Z
+date: 2025-10-27T00:52:03.833Z
 tags: alternate advancement, cleric
 editor: markdown
 dateCreated: 2025-10-26T23:47:40.515Z
@@ -19,6 +19,8 @@ dateCreated: 2025-10-26T23:47:40.515Z
 8. Utility (as needed): Purify Soul, Divine Res, Bestow Divine Aura, Mass Group Buff, Innate Run Speed
 
 ## General
+There are 101 total AA's in the General tab during the Shadows of Luclin expansion.
+
 | Name | Classes | Ranks | Cost | Description |
 | --- | --- | --- | --- | --- |
 | First Aid | All | 3 | 1 | This ability increases the maximum that you can bind wound by 10 percent for each ability level. |
