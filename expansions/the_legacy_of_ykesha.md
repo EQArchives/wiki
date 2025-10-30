@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:25:24.343Z
+date: 2025-10-30T14:27:13.924Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 
 # The Legacy of Ykesha
 
-
+![legacy_of_ykesha_expansion.jpg](/legacy_of_ykesha_expansion.jpg)
 **At a Glance**
 - **Release Date:** February 2003
 - **Level Range:** 36-60 (new zones)
