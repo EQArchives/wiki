@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:29:25.998Z
+date: 2025-10-30T13:36:59.681Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -21,19 +21,38 @@ dateCreated: 2025-10-30T13:15:40.003Z
 
 The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant changes to the political landscape of Norrath. In a dramatic turn of events, the amphibious frogloks—previously NPCs confined to the swamps—reclaimed their ancestral home from the trolls. Blessed by their deity Mithaniel Marr, the frogloks invaded the troll city of Grobb, renaming it Gukta and forcing the trolls to flee to Neriak.
 
+> **Note:** This storyline continued to evolve in later game events. During "The War" event in summer 2005, the trolls successfully reclaimed Grobb with assistance from the dark elves, forcing the frogloks to relocate to a camp in the Rathe Mountains. Following this defeat, frogloks gained access to three additional "darker" classes (Necromancer, Rogue, and Shadowknight) as they turned to desperate measures to try to reclaim their lost home.
+
 But not all trolls retreated to the dark elf city. The Broken Skull Clan, long rivals of the Grobb trolls, established themselves on Broken Skull Rock—a treacherous island off the southern coast of Antonica. This is where your journey into the expansion begins.
 
 ## The Froglok Race
 
-Frogloks are now available as a playable race—an amicable, neutrally-aligned people with a complex history. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
+Frogloks are now available as a playable race—an amicable, **good-aligned** people with a complex history. They worship Mithaniel Marr, a deity of honor and valor. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
 
 **Racial Traits:**
-- Starting swimming skill of 125
-- Ultravision
-- Medium Build
-- Good alignment (Good-aligned deity: Mithaniel Marr)
+- Amphibious (can hold breath underwater for extended periods)
+- Enhanced night vision (Ultravision)
+- Natural swimming proficiency (starts at skill level 125)
+- Good alignment (worship Mithaniel Marr)
+- Can wear both small and medium armor
 
 **Lore:** Once locked in eternal conflict with the trolls, the frogloks turned the tide of war with divine intervention from Mithaniel Marr. After seizing Grobb and renaming it Gukta, they enjoyed a period of peace. However, during "The War," trolls would eventually push them back into the Rathe Mountains, where desperate frogloks began studying dark magic to reclaim their homeland.
+
+**Playable Classes (at expansion launch):**
+At the release of Legacy of Ykesha in February 2003, frogloks could play as:
+- Cleric
+- Paladin
+- Shaman
+- Warrior
+- Wizard
+
+**Later Additions:**
+Following "The War" event in summer 2005 (a live event that occurred after this expansion's release), frogloks gained access to three additional classes as they turned to darker methods:
+- Necromancer
+- Rogue
+- Shadowknight
+
+*Note: Monk was added in 2014, much later in the game's history.*
 
 ## Key Features
 
@@ -48,6 +67,20 @@ Frogloks are now available as a playable race—an amicable, neutrally-aligned p
 **Overhead Mapping System** - Customizable maps that overlay on your screen, making navigation far more intuitive.
 
 **Trading Utility** - Improved systems for transferring items between your own characters.
+
+## Timeline & Expansions
+
+**Legacy of Ykesha Launch - February 25, 2003**
+- Frogloks became playable as a good-aligned race
+- Initial classes: Cleric, Paladin, Shaman, Warrior, Wizard
+- Frogloks controlled Grobb (renamed to Gukta)
+- Trolls displaced to Neriak
+
+**"The War" Live Event - Summer 2005** *(Post-expansion content)*
+- July 13, 2005: Conflict began between trolls and frogloks
+- August 2005: Trolls reclaimed Grobb with dark elf assistance
+- Frogloks relocated to the Rathe Mountains
+- Frogloks gained Necromancer, Rogue, and Shadowknight classes
 
 ## Exploring Broken Skull Rock
 
