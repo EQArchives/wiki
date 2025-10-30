@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:15:40.003Z
+date: 2025-10-30T13:23:27.270Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -95,9 +95,9 @@ The final resting place of the legendary troll shaman Nadox, this crypt is the m
 ## Additional Zones
 
 The expansion also includes revamped versions of classic dungeons:
-- **Caverns of Exile** (Solusek C)
+- **Caverns of Exile** (Solusek C) - August 6, 2003
 - **Cazic-Thule 2.0**
-- **Halls of Betrayal** (Chardok B)
+- **Halls of Betrayal** (Chardok B) - July 10, 2003
 - **Mines of Nurga 2.0**
 - **Plane of Hate B**
 - **Temple of Droga 2.0**
