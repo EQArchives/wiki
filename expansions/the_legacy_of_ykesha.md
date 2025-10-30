@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T16:50:31.971Z
+date: 2025-10-30T16:54:00.879Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -69,7 +69,8 @@ Following "The War" event in summer 2005 (a live event that occurred after this 
 - [Rogue](/character/classes/rogue)
 - [Shadowknight](/character/classes/shadowknight)
 
-*Note: Monk was added in 2014, much later in the game's history.*
+>Note: Monk was added as an option in 2014, much later in the game's history with the release of the House of Thule expansion.
+{.is-info}
 
 ## Key Features
 
