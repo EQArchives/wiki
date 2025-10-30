@@ -2,13 +2,14 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:09:53.117Z
+date: 2025-10-30T14:14:45.189Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
 ---
 
 # The Legacy of Ykesha
+
 
 **At a Glance**
 - **Release Date:** February 2003
@@ -27,7 +28,7 @@ The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant change
 But not all trolls retreated to the dark elf city. The Broken Skull Clan, long rivals of the Grobb trolls, established themselves on Broken Skull Rock—a treacherous island off the southern coast of Antonica. This is where your journey into the expansion begins.
 
 ## The Froglok Race
-
+![froglok_race.png](/froglok_race.png)
 Frogloks are now available as a playable race—an amicable, **good-aligned** people with a complex history. They worship Mithaniel Marr, a deity of honor and valor. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
 
 **Racial Traits:**
