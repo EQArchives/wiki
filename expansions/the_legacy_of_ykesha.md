@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T17:58:35.744Z
+date: 2025-10-30T17:59:21.096Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -130,7 +130,7 @@ The Gulf serves as your entry point to Broken Skull Rock. This coastal area hous
 Hidden passages throughout the Gulf lead deeper into the island—but venturing beyond without the clan's permission is a dangerous gamble.
 
 ### Dulak's Harbor
-**Level Range:** 40-55 | **Type:** Outdoor (underground city) | **Status:** HOT ZONE
+**Level Range:** 40-55 | **Type:** Outdoor (underground city)
 
 ![dulaks_harbor.png](/dulaks_harbor.png =250x) ![dulaks_harbor2.png](/dulaks_harbor2.png =250x)
 
@@ -159,7 +159,7 @@ This legendary pirate vessel isn't just a sailor's tale—it's real, and it's te
 **Access:** Even with excellent Broken Skull Clan faction, approaching this ship is extraordinarily dangerous. Only the most confident adventurers should attempt it.
 
 ### The Crypt of Nadox
-**Level Range:** 50-65 | **Type:** Indoor, Dungeon | **Status:** Restricted
+**Level Range:** 50-65 | **Type:** Indoor, Dungeon
 
 ![crypt_of_nadox.png](/crypt_of_nadox.png =250x)
 
