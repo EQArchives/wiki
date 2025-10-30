@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T16:28:27.101Z
+date: 2025-10-30T16:28:37.274Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -37,7 +37,7 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 - **[Spell Guide](/expansions/the_legacy_of_ykesha/spell_guide)** - TODO
 - Travel Guide
 - **[Raid Guide](/expansions/the_legacy_of_ykesha/raid_guide)** - Boss strategies, loot priorities, and raid progression timelines
-- **[Lore Guide](/expansions/the_legacy_of_ykesha/lore)** - Original lore released with the expansion (Prophecy of Grozmok, The Stone is Stolen, Mithaniel Marr's Blessing, The Fall of Grobb, The Exodus to Neriak, In Pursuit of the Stone
+- **[Lore Guide](/expansions/the_legacy_of_ykesha/lore)** - Original lore released with the expansion (Prophecy of Grozmok, The Stone is Stolen, Mithaniel Marr's Blessing, The Fall of Grobb, The Exodus to Neriak, In Pursuit of the Stone)
 
 ## The Froglok Race
 ![froglok_race.png](/froglok_race.png =250x)
