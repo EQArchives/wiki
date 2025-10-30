@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:36:59.681Z
+date: 2025-10-30T13:37:51.043Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -137,5 +137,14 @@ The expansion also includes revamped versions of classic dungeons:
 - **Veksar** (HOT ZONE)
 
 ---
+## Evolution of the Froglok Storyline
+
+The Legacy of Ykesha introduced frogloks as a playable race in February 2003, but their story didn't end with this expansion. The froglok-troll conflict became part of EverQuest's evolving world through live events:
+
+- **2003**: Frogloks take Grobb, rename it Gukta (Legacy of Ykesha expansion)
+- **2005**: "The War" live event sees trolls reclaim Grobb; frogloks move to Rathe Mountains
+- **Post-2005**: Froglok class options expand to include darker classes
+
+This made the Legacy of Ykesha zones and storyline particularly notable, as they represented the beginning of an ongoing narrative rather than a standalone expansion story.
 
 **Community Perspective:** While the guild management tools, bank slots, and armor dyeing were warmly received and remain popular features, the new zones received mixed reactions from the community. Many players felt the content was somewhat uninspired compared to previous expansions and added little to Norrath's deeper lore. The expansion is generally viewed as smaller in scope than its predecessors, though its quality-of-life improvements proved essential to the game's evolution.
