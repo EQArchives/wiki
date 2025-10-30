@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:39:07.040Z
+date: 2025-10-30T14:41:01.984Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -101,12 +101,11 @@ Hidden passages throughout the Gulf lead deeper into the island—but venturing 
 ### Dulak's Harbor
 **Level Range:** 40-45 | **Type:** Underground city | **Status:** HOT ZONE
 
-![dulaks_harbor.png](/dulaks_harbor.png =450x)
+![dulaks_harbor.png](/dulaks_harbor.png =250x) ![dulaks_harbor2.png](/dulaks_harbor2.png =250x)
+
 Tucked beneath the island's surface in a massive cavern, Dulak's Harbor is a rough-and-tumble troll settlement that serves as the clan's main port. Troll marauders watch every ship that comes and goes.
 
 **For Allies:** The Harbor offers numerous taverns, shops, and services. Railway tracks crisscross the city, leading to the mines where the clan's true wealth is extracted.
-
-![dulaks_harbor2.png](/dulaks_harbor2.png =450x)
 
 **Warning:** A temple to Innoruuk sits near the harbor, heavily guarded by Luggald minions. The hatred emanating from this place is palpable—avoid it unless you're prepared for a fight.
 
