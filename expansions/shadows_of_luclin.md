@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-30T14:52:41.070Z
+date: 2025-10-30T14:53:16.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -20,7 +20,7 @@ dateCreated: 2025-08-10T05:21:42.868Z
 > - **Raid Zones**: Ssraeshza Temple, Sanctus Seru, Vex Thal, plus boss mobs in many zones
 {.is-info}
 
-![shadows_of_luclin.png](/shadows_of_luclin.png =350x){.align-right}
+![shadows_of_luclin.png](/shadows_of_luclin.png =450x){.align-right}
 **Major Features:**
 - **New Race**: Vah Shir (feline race)
 - **New Class**: Beastlord
