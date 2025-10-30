@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:47:59.680Z
+date: 2025-10-30T13:52:15.043Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -21,7 +21,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 
 The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant changes to the political landscape of Norrath. In a dramatic turn of events, the amphibious frogloks—previously NPCs confined to the swamps—reclaimed their ancestral home from the trolls. Blessed by their deity Mithaniel Marr, the frogloks invaded the troll city of Grobb, renaming it Gukta and forcing the trolls to flee to Neriak.
 
-> **Note:** This storyline continued to evolve in later game events. During "The War" event in summer 2005, the trolls successfully reclaimed Grobb with assistance from the dark elves, forcing the frogloks to relocate to a camp in the Rathe Mountains. Following this defeat, frogloks gained access to three additional "darker" classes (Necromancer, Rogue, and Shadowknight) as they turned to desperate measures to try to reclaim their lost home.
+> **Note:** This storyline continued to evolve in later game events. During "The War" event in summer 2005 (August 11 patch on EQ Live), the trolls successfully reclaimed Grobb with assistance from the dark elves, forcing the frogloks to relocate to a camp in the Rathe Mountains. Following this defeat, frogloks gained access to three additional "darker" classes (Necromancer, Rogue, and Shadowknight) as they turned to desperate measures to try to reclaim their lost home.
 
 But not all trolls retreated to the dark elf city. The Broken Skull Clan, long rivals of the Grobb trolls, established themselves on Broken Skull Rock—a treacherous island off the southern coast of Antonica. This is where your journey into the expansion begins.
 
