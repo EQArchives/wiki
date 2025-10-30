@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:37:51.043Z
+date: 2025-10-30T13:44:52.656Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -112,7 +112,7 @@ Deep beneath Broken Skull Rock lie the Torgiran Mines, rich with precious metals
 **Environment:** Strange etchings on the cavern walls, empowered by Innoruuk, prevent flooding—though when the tides recede, deadly lava pools are exposed.
 
 ### Hate's Fury, The Scorned Maiden
-**Level Range:** 50-60 | **Type:** Pirate ship instance
+**Level Range:** 55-60 | **Type:** Pirate ship zone
 
 This legendary pirate vessel isn't just a sailor's tale—it's real, and it's terrifying. Captained by a vicious crew of troll pirates, the Hate's Fury is laden with stolen treasure and anchored in a hidden lagoon beneath the island.
 
@@ -126,6 +126,7 @@ The final resting place of the legendary troll shaman Nadox, this crypt is the m
 **Warning:** Only the highest-ranking clan members may enter. Disturbing this place is said to invoke Innoruuk's wrath directly.
 
 ## Additional Zones
+**Note:** Several of these zones were added in patches following the expansion's February 2003 release.
 
 The expansion also includes revamped versions of classic dungeons:
 - **Caverns of Exile** (Solusek C) - Introduced in the August 6, 2003 patch on EQ Live
@@ -134,7 +135,7 @@ The expansion also includes revamped versions of classic dungeons:
 - **Mines of Nurga 2.0**
 - **Plane of Hate B**
 - **Temple of Droga 2.0**
-- **Veksar** (HOT ZONE)
+- **Veksar** (HOT ZONE) - Introduced in the July 11, 2003 patch on EQ Live
 
 ---
 ## Evolution of the Froglok Storyline
