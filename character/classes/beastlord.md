@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-08-10T21:55:08.963Z
+date: 2025-10-30T21:19:58.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -23,19 +23,19 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 
 | LEVEL | TRAINED | SKILL | PRE-50 CAP | POST-50 CAP |
 |-------|---------|-------|------------|-------------|
-| 1 | No | 1 Hand Blunt | 200 | 270 |
-| 1 | No | 2 Hand Blunt | 200 | 270 |
+| 1 | No | 1 Hand Blunt | 200 | 225 |
+| 1 | No | 2 Hand Blunt | 200 | 225 |
 | 1 | No | Bind Wound | 200 | 210 |
-| 1 | No | Defense | 210 | 255 |
+| 1 | No | Defense | 210 | 240 |
 | 1 | No | Hand to Hand | 200 | 270 |
 | 1 | No | Offense | 200 | 270 |
 | 1 | No | Piercing | 200 | 270 |
 | 1 | No | Throwing | 113 | 180 |
-| 5 | Yes | Kick | 180 | 245 |
-| 10 | Yes | Dodge | 125 | 180 |
-| 17 | Yes | Dual Wield | 210 | 260 |
-| 25 | Yes | Block | 150 | 210 |
-| 40 | Yes | Riposte | 150 | 195 |
+| 5 | Yes | Kick | 180 | 230 |
+| 10 | Yes | Dodge | 125 | 170 |
+| 17 | Yes | Dual Wield | 210 | 245 |
+| 25 | Yes | Block | 150 | 200 |
+| 40 | Yes | Riposte | 150 | 185 |
 
 ## Magic Skills
 | LEVEL | TRAINED | SKILL | PRE-50 CAP | POST-50 CAP |
@@ -51,13 +51,13 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 ## Tradeskills
 | LEVEL | TRAINED | SKILL | PRE-50 CAP | POST-50 CAP |
 |-------|---------|-------|------------|-------------|
-| 1 | No | Baking | 250 | 300 |
-| 1 | No | Brewing | 250 | 300 |
-| 1 | Yes | Fletching | 250 | 300 |
-| 1 | No | Jewel Crafting | 250 | 300 |
-| 1 | No | Pottery | 250 | 300 |
-| 1 | No | Smithing | 250 | 300 |
-| 1 | No | Tailoring | 250 | 300 |
+| 1 | No | Baking | 250 | 250 |
+| 1 | No | Brewing | 250 | 250 |
+| 1 | Yes | Fletching | 250 | 250 |
+| 1 | No | Jewel Crafting | 250 | 250 |
+| 1 | No | Pottery | 250 | 250 |
+| 1 | No | Smithing | 250 | 250 |
+| 1 | No | Tailoring | 250 | 250 |
 
 ## Language Skills
 | LEVEL | TRAINED | SKILL | PRE-50 CAP | POST-50 CAP |
