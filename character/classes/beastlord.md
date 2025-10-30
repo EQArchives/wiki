@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-10-30T21:19:58.870Z
+date: 2025-10-30T21:21:23.331Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -27,10 +27,10 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 | 1 | No | 2 Hand Blunt | 200 | 225 |
 | 1 | No | Bind Wound | 200 | 210 |
 | 1 | No | Defense | 210 | 240 |
-| 1 | No | Hand to Hand | 200 | 270 |
-| 1 | No | Offense | 200 | 270 |
-| 1 | No | Piercing | 200 | 270 |
-| 1 | No | Throwing | 113 | 180 |
+| 1 | No | Hand to Hand | 200 | 252 |
+| 1 | No | Offense | 200 | 252 |
+| 1 | No | Piercing | 200 | 225 |
+| 1 | No | Throwing | 113 | 113 |
 | 5 | Yes | Kick | 180 | 230 |
 | 10 | Yes | Dodge | 125 | 170 |
 | 17 | Yes | Dual Wield | 210 | 245 |
