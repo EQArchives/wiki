@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:54:49.724Z
+date: 2025-10-30T14:09:53.117Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -18,6 +18,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 - **Key Features:** Armor dyeing, charm equipment slot, enhanced guild management, expanded bank slots, overhead mapping system
 
 ## Overview
+![legacy_of_ykesha_loading_screen.jpg](/legacy_of_ykesha_loading_screen.jpg)
 
 The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant changes to the political landscape of Norrath. In a dramatic turn of events, the amphibious frogloks—previously NPCs confined to the swamps—reclaimed their ancestral home from the trolls. Blessed by their deity Mithaniel Marr, the frogloks invaded the troll city of Grobb, renaming it Gukta and forcing the trolls to flee to Neriak.
 
