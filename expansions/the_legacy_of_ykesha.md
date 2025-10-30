@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T16:01:24.334Z
+date: 2025-10-30T16:02:38.261Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -83,6 +83,7 @@ Following "The War" event in summer 2005 (a live event that occurred after this 
 - Updated In-Game Spell Descriptions (June 11, 2003)
 - Added NPC 'job' lines under their names (June 11, 2003)
 - Added the 'Find' feature (August 6, 2003)
+- Added Gramm Dunnar and the Intricate Wooden Figurine (Charm) for Planes of Power Progression purposes
 
 
 ## Timeline & Expansions
