@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T15:53:38.883Z
+date: 2025-10-30T15:58:35.732Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -163,7 +163,7 @@ The expansion also includes revamped versions of classic dungeons:
 - **Caverns of Exile** (Solusek C) - Introduced in the August 6, 2003 patch on EQ Live
 - **Cazic-Thule 2.0** - Partial revamp went to live servers on August 26, 2003 patch on EQ Live
 
->On Modern TLP's, Veksar unlocks during the LDoN expansion despite the fact that it originally released during the LoY expansion on June 11, 2003.  This has been verified by several players.
+>On Modern TLP's, Veksar unlocks during the LDoN expansion despite the fact that it originally released during the LoY expansion on June 11, 2003.  This has been verified by several players.[^1]
 {.is-warning}
 
 ---
@@ -180,5 +180,7 @@ This made the Legacy of Ykesha zones and storyline particularly notable, as they
 **Community Perspective:** While the guild management tools, bank slots, and armor dyeing were warmly received and remain popular features, the new zones received mixed reactions from the community. Many players felt the content was somewhat uninspired compared to previous expansions and added little to Norrath's deeper lore. The expansion is generally viewed as smaller in scope than its predecessors, though its quality-of-life improvements proved essential to the game's evolution.
 
 ---
+## Sources
+[^1]: Based on viewer comments at the Allakhazam page for Veksar at https://everquest.allakhazam.com/db/zones.html?zstrat=94
 
 **Image Credits:** All images in this article are sourced from the [EverQuest Legacy of Ykesha Progression Primer](https://www.everquest.com/news/eq-legacy-of-ykesha-progression-primer) © Daybreak Game Company LLC.
