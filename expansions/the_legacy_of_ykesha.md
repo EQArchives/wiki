@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:54:32.260Z
+date: 2025-10-30T13:54:49.724Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -47,7 +47,7 @@ At the release of Legacy of Ykesha in February 2003, frogloks could play as:
 - Wizard
 
 **Later Additions:**
-Following "The War" event in summer 2005 (a live event that occurred after this expansion's release during the end of Dragons of Norrath and shortly before the release of Depths of Darkhallow), frogloks gained access to three additional classes as they turned to darker methods:
+Following "The War" event in summer 2005 (a live event that occurred after this expansion's release during the end of Dragons of Norrath and about a month before the release of Depths of Darkhollow), frogloks gained access to three additional classes as they turned to darker methods:
 - Necromancer
 - Rogue
 - Shadowknight
