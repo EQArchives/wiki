@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T15:28:06.976Z
+date: 2025-10-30T15:42:15.214Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -62,15 +62,28 @@ Following "The War" event in summer 2005 (a live event that occurred after this 
 
 **Armor Dyeing** - Customize your equipment's appearance with a variety of dyes. This feature quickly became one of the most popular additions to the game.
 
-**Charm Slot** - A new equipment slot for charms provides additional customization options for your character.
+**Charm Slot** - A new equipment slot for charms provides additional customization options for your character.  This coincided with the introduction of new "Charm" item types added to the game.
 
 **Guild Management System** - Completely overhauled tools for guild leaders, making organization and communication significantly easier.
 
-**Expanded Bank Storage** - Additional bank slots give you more room to store your growing collection of gear and items.
+**Expanded Bank Storage** - Additional bank slots give you more room to store your growing collection of gear and items. Bank slots are increased to 16 (from 8).
 
-**Overhead Mapping System** - Customizable maps that overlay on your screen, making navigation far more intuitive.
+**In-Game Overhead Mapping System** - Customizable maps that overlay on your screen, making navigation far more intuitive.
 
 **Trading Utility** - Improved systems for transferring items between your own characters.
+
+### Additional Features
+- Ability to toggle between last two (2) Targets (March 13, 2003)
+- Windowed Mode (April 11, 2003)
+- Context Tips (May 14, 2003)
+- Added Lag Meter (Packet Loss Meter - May 14, 2003)
+- Added 2 Shared Bank Slots (June 11, 2003)
+- Added Spell Context Menus (June 11, 2003)
+- Added Saved Spell Sets (June 11, 2003)
+- Updated In-Game Spell Descriptions (June 11, 2003)
+- Added NPC 'job' lines under their names (June 11, 2003)
+- Added the 'Find' feature (August 6, 2003)
+
 
 ## Timeline & Expansions
 
