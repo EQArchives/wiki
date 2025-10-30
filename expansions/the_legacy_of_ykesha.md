@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T15:42:15.214Z
+date: 2025-10-30T15:53:38.883Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -155,13 +155,16 @@ The final resting place of the legendary troll shaman Nadox, this crypt is the m
 **Note:** Several of these zones were added in patches following the expansion's February 2003 release.
 
 The expansion also includes revamped versions of classic dungeons:
+- **Plane of Hate B** - Added to live servers in the April 8, 2003 patch on EQ Live
+- **Chardok: Halls of Betrayal** (Chardok B) - Introduced in the July 10, 2003 patch on EQ Live
+- **Temple of Droga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
+- **Mines of Nurga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
+- **Veksar** - Introduced in the June 11, 2003 patch on EQ Live.  This zone "completes" the Ruins of Kunark expansion as the previously lost city buried under the Lake of Ill Omen.
 - **Caverns of Exile** (Solusek C) - Introduced in the August 6, 2003 patch on EQ Live
 - **Cazic-Thule 2.0** - Partial revamp went to live servers on August 26, 2003 patch on EQ Live
-- **Halls of Betrayal** (Chardok B) - Introduced in the July 10, 2003 patch on EQ Live
-- **Mines of Nurga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
-- **Plane of Hate B** - Added to live servers in the April 8, 2003 patch on EQ Live
-- **Temple of Droga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
-- **Veksar** (HOT ZONE) - Introduced in the July 11, 2003 patch on EQ Live
+
+>On Modern TLP's, Veksar unlocks during the LDoN expansion despite the fact that it originally released during the LoY expansion on June 11, 2003.  This has been verified by several players.
+{.is-warning}
 
 ---
 ## Evolution of the Froglok Storyline
