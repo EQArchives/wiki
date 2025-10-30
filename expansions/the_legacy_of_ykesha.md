@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:23:27.270Z
+date: 2025-10-30T13:29:25.998Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -28,10 +28,10 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 Frogloks are now available as a playable race—an amicable, neutrally-aligned people with a complex history. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
 
 **Racial Traits:**
-- Amphibious (can breathe underwater indefinitely)
-- Enhanced night vision
-- Natural swimming proficiency
-- Neutral alignment (Good-aligned deity: Mithaniel Marr)
+- Starting swimming skill of 125
+- Ultravision
+- Medium Build
+- Good alignment (Good-aligned deity: Mithaniel Marr)
 
 **Lore:** Once locked in eternal conflict with the trolls, the frogloks turned the tide of war with divine intervention from Mithaniel Marr. After seizing Grobb and renaming it Gukta, they enjoyed a period of peace. However, during "The War," trolls would eventually push them back into the Rathe Mountains, where desperate frogloks began studying dark magic to reclaim their homeland.
 
@@ -56,14 +56,14 @@ The island of Broken Skull Rock lies off the southern coast of Antonica, though 
 **Faction Matters:** Your relationship with the Broken Skull Clan will determine how much of the island you can safely explore. Those who earn their favor will find lucrative opportunities; those who don't may face a swift end.
 
 ### Gulf of Gunthak
-**Level Range:** 36-50 | **Type:** Outdoor zone, arrival point
+**Level Range:** 35-40 | **Type:** Outdoor zone, arrival point
 
 The Gulf serves as your entry point to Broken Skull Rock. This coastal area houses new recruits and those in good standing with the Broken Skull Clan. A massive lighthouse dominates the landscape, surrounded by lean-tos where merchants sell unique supplies.
 
 Hidden passages throughout the Gulf lead deeper into the island—but venturing beyond without the clan's permission is a dangerous gamble.
 
 ### Dulak's Harbor
-**Level Range:** 40-55 | **Type:** Underground city | **Status:** HOT ZONE
+**Level Range:** 40-45 | **Type:** Underground city | **Status:** HOT ZONE
 
 Tucked beneath the island's surface in a massive cavern, Dulak's Harbor is a rough-and-tumble troll settlement that serves as the clan's main port. Troll marauders watch every ship that comes and goes.
 
@@ -72,7 +72,7 @@ Tucked beneath the island's surface in a massive cavern, Dulak's Harbor is a rou
 **Warning:** A temple to Innoruuk sits near the harbor, heavily guarded by Luggald minions. The hatred emanating from this place is palpable—avoid it unless you're prepared for a fight.
 
 ### Torgiran Mines
-**Level Range:** 45-58 | **Type:** Underground mines
+**Level Range:** 45-50 | **Type:** Underground mines
 
 Deep beneath Broken Skull Rock lie the Torgiran Mines, rich with precious metals and gemstones. These resources are the clan's primary export, mined by slaves and transported to Dulak's Harbor via the railway system.
 
@@ -86,7 +86,7 @@ This legendary pirate vessel isn't just a sailor's tale—it's real, and it's te
 **Access:** Even with excellent Broken Skull Clan faction, approaching this ship is extraordinarily dangerous. Only the most confident adventurers should attempt it.
 
 ### The Crypt of Nadox
-**Level Range:** 55-60 | **Type:** Dungeon | **Status:** Restricted
+**Level Range:** 50-55 | **Type:** Dungeon | **Status:** Restricted
 
 The final resting place of the legendary troll shaman Nadox, this crypt is the most sacred site on the island. Hidden in the deepest reaches of Broken Skull Rock, it's filled with shrines to Innoruuk and guarded by the clan's most elite members.
 
@@ -95,9 +95,9 @@ The final resting place of the legendary troll shaman Nadox, this crypt is the m
 ## Additional Zones
 
 The expansion also includes revamped versions of classic dungeons:
-- **Caverns of Exile** (Solusek C) - August 6, 2003
+- **Caverns of Exile** (Solusek C) - Introduced in the August 6, 2003 patch on EQ Live
 - **Cazic-Thule 2.0**
-- **Halls of Betrayal** (Chardok B) - July 10, 2003
+- **Halls of Betrayal** (Chardok B) - Introduced in the July 10, 2003 patch on EQ Live
 - **Mines of Nurga 2.0**
 - **Plane of Hate B**
 - **Temple of Droga 2.0**
