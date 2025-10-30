@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T16:11:12.806Z
+date: 2025-10-30T16:14:55.876Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -51,17 +51,17 @@ Frogloks are now available as a playable race—an amicable, **good-aligned** pe
 
 **Playable Classes (at expansion launch):**
 At the release of Legacy of Ykesha in February 2003, frogloks could play as:
-- Cleric
-- Paladin
-- Shaman
-- Warrior
-- Wizard
+- [Cleric](/character/classes/cleric)
+- [Paladin](/character/classes/paladin)
+- [Shaman](/character/classes/shaman)
+- [Warrior](/character/classes/warrior)
+- [Wizard](/character/classes/wizard)
 
 **Later Additions:**
 Following "The War" event in summer 2005 (a live event that occurred after this expansion's release during the end of Dragons of Norrath and about a month before the release of Depths of Darkhollow), frogloks gained access to three additional classes as they turned to darker methods:
-- Necromancer
-- Rogue
-- Shadowknight
+- [Necromancer](/character/classes/necromancer)
+- [Rogue](/character/classes/rogue)
+- [Shadowknight](/character/classes/shadowknight)
 
 *Note: Monk was added in 2014, much later in the game's history.*
 
