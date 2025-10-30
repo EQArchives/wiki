@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:47:13.384Z
+date: 2025-10-30T14:48:02.753Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 
 # The Legacy of Ykesha
 
-![legacy_of_ykesha_expansion.jpg](/legacy_of_ykesha_expansion.jpg =450x)
+![legacy_of_ykesha_expansion.jpg](/legacy_of_ykesha_expansion.jpg =350x)
 **At a Glance**
 - **Release Date:** February 2003
 - **Level Range:** 36-60 (new zones)
@@ -19,7 +19,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 - **Key Features:** Armor dyeing, charm equipment slot, enhanced guild management, expanded bank slots, overhead mapping system
 
 ## Overview
-![legacy_of_ykesha_loading_screen.jpg](/legacy_of_ykesha_loading_screen.jpg =450x)
+![legacy_of_ykesha_loading_screen.jpg](/legacy_of_ykesha_loading_screen.jpg =350x)
 
 The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant changes to the political landscape of Norrath. In a dramatic turn of events, the amphibious frogloks—previously NPCs confined to the swamps—reclaimed their ancestral home from the trolls. Blessed by their deity Mithaniel Marr, the frogloks invaded the troll city of Grobb, renaming it Gukta and forcing the trolls to flee to Neriak.
 
@@ -28,7 +28,7 @@ The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant change
 But not all trolls retreated to the dark elf city. The Broken Skull Clan, long rivals of the Grobb trolls, established themselves on Broken Skull Rock—a treacherous island off the southern coast of Antonica. This is where your journey into the expansion begins.
 
 ## The Froglok Race
-![froglok_race.png](/froglok_race.png =450x)
+![froglok_race.png](/froglok_race.png =250x)
 Frogloks are now available as a playable race—an amicable, **good-aligned** people with a complex history. They worship Mithaniel Marr, a deity of honor and valor. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
 
 **Racial Traits:**
@@ -93,7 +93,7 @@ The island of Broken Skull Rock lies off the southern coast of Antonica, though 
 ### Gulf of Gunthak
 **Level Range:** 35-40 | **Type:** Outdoor zone, arrival point
 
-![gulf_of_gunthak.png](/gulf_of_gunthak.png =450x)
+![gulf_of_gunthak.png](/gulf_of_gunthak.png =250x)
 The Gulf serves as your entry point to Broken Skull Rock. This coastal area houses new recruits and those in good standing with the Broken Skull Clan. A massive lighthouse dominates the landscape, surrounded by lean-tos where merchants sell unique supplies.
 
 Hidden passages throughout the Gulf lead deeper into the island—but venturing beyond without the clan's permission is a dangerous gamble.
