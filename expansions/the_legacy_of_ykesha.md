@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T17:41:35.343Z
+date: 2025-10-30T17:50:43.770Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -197,7 +197,7 @@ This made the Legacy of Ykesha zones and storyline particularly notable, as they
 
 ## Developer Videos
 
-![video](https://www.youtube.com/watch?v=oKc7hRdUR2c =640x360){.youtube}
+https://www.youtube.com/watch?v=oKc7hRdUR2c
 
 ---
 ## Sources
