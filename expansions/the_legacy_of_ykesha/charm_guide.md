@@ -2,7 +2,7 @@
 title: Charm Guide
 description: Where to find the new charm items introduced in Legacy of Ykesha
 published: true
-date: 2025-10-30T17:04:22.586Z
+date: 2025-10-30T17:05:08.261Z
 tags: guides, guide, the legacy of ykesha, charms, charm
 editor: markdown
 dateCreated: 2025-10-30T17:04:22.586Z
@@ -55,7 +55,7 @@ Legacy of Ykesha introduced the charm equipment slot along with numerous charm i
 - **Intricate Wooden Figurine** - Added to the game on June 11, 2003 during the Legacy of Ykesha expansion period. This charm was obtained from Gram Dunnar in Plane of Knowledge and improved based on Planes of Power progression flags completed.[^7]
 
 ---
-
+## Sources
 [^1]: Player reports from LoY new loot discussions on The Druids Grove forums, February-March 2003
 [^2]: Allakhazam item database - Charm of Deception (Item #19453)
 [^3]: Allakhazam zone database - The Crypt of Nadox bestiary
