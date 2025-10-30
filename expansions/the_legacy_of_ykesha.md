@@ -2,14 +2,13 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:48:26.181Z
+date: 2025-10-30T15:05:40.936Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
 ---
 
 # The Legacy of Ykesha
-
 ![legacy_of_ykesha_expansion.jpg](/legacy_of_ykesha_expansion.jpg =350x){.align-right}
 **At a Glance**
 - **Release Date:** February 2003
@@ -160,3 +159,7 @@ The Legacy of Ykesha introduced frogloks as a playable race in February 2003, bu
 This made the Legacy of Ykesha zones and storyline particularly notable, as they represented the beginning of an ongoing narrative rather than a standalone expansion story.
 
 **Community Perspective:** While the guild management tools, bank slots, and armor dyeing were warmly received and remain popular features, the new zones received mixed reactions from the community. Many players felt the content was somewhat uninspired compared to previous expansions and added little to Norrath's deeper lore. The expansion is generally viewed as smaller in scope than its predecessors, though its quality-of-life improvements proved essential to the game's evolution.
+
+---
+
+**Image Credits:** All images in this article are sourced from the [EverQuest Legacy of Ykesha Progression Primer](https://www.everquest.com/news/eq-legacy-of-ykesha-progression-primer) © Daybreak Game Company LLC.
