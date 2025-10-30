@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:33:03.119Z
+date: 2025-10-30T14:39:07.040Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 
 # The Legacy of Ykesha
 
-![legacy_of_ykesha_expansion.jpg](/legacy_of_ykesha_expansion.jpg)
+![legacy_of_ykesha_expansion.jpg](/legacy_of_ykesha_expansion.jpg =450x)
 **At a Glance**
 - **Release Date:** February 2003
 - **Level Range:** 36-60 (new zones)
@@ -19,7 +19,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 - **Key Features:** Armor dyeing, charm equipment slot, enhanced guild management, expanded bank slots, overhead mapping system
 
 ## Overview
-![legacy_of_ykesha_loading_screen.jpg](/legacy_of_ykesha_loading_screen.jpg)
+![legacy_of_ykesha_loading_screen.jpg](/legacy_of_ykesha_loading_screen.jpg =450x)
 
 The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant changes to the political landscape of Norrath. In a dramatic turn of events, the amphibious frogloks—previously NPCs confined to the swamps—reclaimed their ancestral home from the trolls. Blessed by their deity Mithaniel Marr, the frogloks invaded the troll city of Grobb, renaming it Gukta and forcing the trolls to flee to Neriak.
 
@@ -28,7 +28,7 @@ The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant change
 But not all trolls retreated to the dark elf city. The Broken Skull Clan, long rivals of the Grobb trolls, established themselves on Broken Skull Rock—a treacherous island off the southern coast of Antonica. This is where your journey into the expansion begins.
 
 ## The Froglok Race
-![froglok_race.png](/froglok_race.png)
+![froglok_race.png](/froglok_race.png =450x)
 Frogloks are now available as a playable race—an amicable, **good-aligned** people with a complex history. They worship Mithaniel Marr, a deity of honor and valor. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
 
 **Racial Traits:**
@@ -93,7 +93,7 @@ The island of Broken Skull Rock lies off the southern coast of Antonica, though 
 ### Gulf of Gunthak
 **Level Range:** 35-40 | **Type:** Outdoor zone, arrival point
 
-![gulf_of_gunthak.png](/gulf_of_gunthak.png)
+![gulf_of_gunthak.png](/gulf_of_gunthak.png =450x)
 The Gulf serves as your entry point to Broken Skull Rock. This coastal area houses new recruits and those in good standing with the Broken Skull Clan. A massive lighthouse dominates the landscape, surrounded by lean-tos where merchants sell unique supplies.
 
 Hidden passages throughout the Gulf lead deeper into the island—but venturing beyond without the clan's permission is a dangerous gamble.
@@ -101,39 +101,39 @@ Hidden passages throughout the Gulf lead deeper into the island—but venturing 
 ### Dulak's Harbor
 **Level Range:** 40-45 | **Type:** Underground city | **Status:** HOT ZONE
 
-![dulaks_harbor.png](/dulaks_harbor.png)
+![dulaks_harbor.png](/dulaks_harbor.png =450x)
 Tucked beneath the island's surface in a massive cavern, Dulak's Harbor is a rough-and-tumble troll settlement that serves as the clan's main port. Troll marauders watch every ship that comes and goes.
 
 **For Allies:** The Harbor offers numerous taverns, shops, and services. Railway tracks crisscross the city, leading to the mines where the clan's true wealth is extracted.
 
-![dulaks_harbor2.png](/dulaks_harbor2.png)
+![dulaks_harbor2.png](/dulaks_harbor2.png =450x)
 
 **Warning:** A temple to Innoruuk sits near the harbor, heavily guarded by Luggald minions. The hatred emanating from this place is palpable—avoid it unless you're prepared for a fight.
 
 ### Torgiran Mines
 **Level Range:** 45-50 | **Type:** Underground mines
 
-![torgiran_mines.png](/torgiran_mines.png)
+![torgiran_mines.png](/torgiran_mines.png =450x)
 Deep beneath Broken Skull Rock lie the Torgiran Mines, rich with precious metals and gemstones. These resources are the clan's primary export, mined by slaves and transported to Dulak's Harbor via the railway system.
 
-![torgiran_mines2.png](/torgiran_mines2.png)
+![torgiran_mines2.png](/torgiran_mines2.png =450x)
 **Environment:** Strange etchings on the cavern walls, empowered by Innoruuk, prevent flooding—though when the tides recede, deadly lava pools are exposed.
 
 ### Hate's Fury, The Scorned Maiden
 **Level Range:** 55-60 | **Type:** Pirate ship zone
 
-![hates_fury_scorned_maiden.png](/hates_fury_scorned_maiden.png)
+![hates_fury_scorned_maiden.png](/hates_fury_scorned_maiden.png =450x)
 
 This legendary pirate vessel isn't just a sailor's tale—it's real, and it's terrifying. Captained by a vicious crew of troll pirates, the Hate's Fury is laden with stolen treasure and anchored in a hidden lagoon beneath the island.
 
-![hates_fury_scorned_maiden2.png](/hates_fury_scorned_maiden2.png)
+![hates_fury_scorned_maiden2.png](/hates_fury_scorned_maiden2.png =450x)
 
 **Access:** Even with excellent Broken Skull Clan faction, approaching this ship is extraordinarily dangerous. Only the most confident adventurers should attempt it.
 
 ### The Crypt of Nadox
 **Level Range:** 50-55 | **Type:** Dungeon | **Status:** Restricted
 
-![crypt_of_nadox.png](/crypt_of_nadox.png)
+![crypt_of_nadox.png](/crypt_of_nadox.png =450x)
 
 The final resting place of the legendary troll shaman Nadox, this crypt is the most sacred site on the island. Hidden in the deepest reaches of Broken Skull Rock, it's filled with shrines to Innoruuk and guarded by the clan's most elite members.
 
