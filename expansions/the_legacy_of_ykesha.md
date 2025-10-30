@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:27:13.924Z
+date: 2025-10-30T14:33:03.119Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -122,12 +122,18 @@ Deep beneath Broken Skull Rock lie the Torgiran Mines, rich with precious metals
 ### Hate's Fury, The Scorned Maiden
 **Level Range:** 55-60 | **Type:** Pirate ship zone
 
+![hates_fury_scorned_maiden.png](/hates_fury_scorned_maiden.png)
+
 This legendary pirate vessel isn't just a sailor's tale—it's real, and it's terrifying. Captained by a vicious crew of troll pirates, the Hate's Fury is laden with stolen treasure and anchored in a hidden lagoon beneath the island.
+
+![hates_fury_scorned_maiden2.png](/hates_fury_scorned_maiden2.png)
 
 **Access:** Even with excellent Broken Skull Clan faction, approaching this ship is extraordinarily dangerous. Only the most confident adventurers should attempt it.
 
 ### The Crypt of Nadox
 **Level Range:** 50-55 | **Type:** Dungeon | **Status:** Restricted
+
+![crypt_of_nadox.png](/crypt_of_nadox.png)
 
 The final resting place of the legendary troll shaman Nadox, this crypt is the most sacred site on the island. Hidden in the deepest reaches of Broken Skull Rock, it's filled with shrines to Innoruuk and guarded by the clan's most elite members.
 
