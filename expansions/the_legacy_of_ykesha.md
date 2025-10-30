@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T16:14:55.876Z
+date: 2025-10-30T16:18:09.410Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -32,6 +32,7 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 - **[Launch Week Strategy](/expansions/the_legacy_of_ykesha/launch_week_strategy)** - TODO
 - Leveling Guide
 - Quest Guide
+- Tradeskill Guide - New recipes, and materials
 - **[Spell Guide](/expansions/the_legacy_of_ykesha/spell_guide)** - TODO
 - Travel Guide
 - **[Raid Guide](/expansions/the_legacy_of_ykesha/raid_guide)** - Boss strategies, loot priorities, and raid progression timelines
