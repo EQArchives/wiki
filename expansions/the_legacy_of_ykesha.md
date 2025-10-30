@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T14:14:45.189Z
+date: 2025-10-30T14:25:24.343Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -93,6 +93,7 @@ The island of Broken Skull Rock lies off the southern coast of Antonica, though 
 ### Gulf of Gunthak
 **Level Range:** 35-40 | **Type:** Outdoor zone, arrival point
 
+![gulf_of_gunthak.png](/gulf_of_gunthak.png)
 The Gulf serves as your entry point to Broken Skull Rock. This coastal area houses new recruits and those in good standing with the Broken Skull Clan. A massive lighthouse dominates the landscape, surrounded by lean-tos where merchants sell unique supplies.
 
 Hidden passages throughout the Gulf lead deeper into the island—but venturing beyond without the clan's permission is a dangerous gamble.
@@ -100,17 +101,22 @@ Hidden passages throughout the Gulf lead deeper into the island—but venturing 
 ### Dulak's Harbor
 **Level Range:** 40-45 | **Type:** Underground city | **Status:** HOT ZONE
 
+![dulaks_harbor.png](/dulaks_harbor.png)
 Tucked beneath the island's surface in a massive cavern, Dulak's Harbor is a rough-and-tumble troll settlement that serves as the clan's main port. Troll marauders watch every ship that comes and goes.
 
 **For Allies:** The Harbor offers numerous taverns, shops, and services. Railway tracks crisscross the city, leading to the mines where the clan's true wealth is extracted.
+
+![dulaks_harbor2.png](/dulaks_harbor2.png)
 
 **Warning:** A temple to Innoruuk sits near the harbor, heavily guarded by Luggald minions. The hatred emanating from this place is palpable—avoid it unless you're prepared for a fight.
 
 ### Torgiran Mines
 **Level Range:** 45-50 | **Type:** Underground mines
 
+![torgiran_mines.png](/torgiran_mines.png)
 Deep beneath Broken Skull Rock lie the Torgiran Mines, rich with precious metals and gemstones. These resources are the clan's primary export, mined by slaves and transported to Dulak's Harbor via the railway system.
 
+![torgiran_mines2.png](/torgiran_mines2.png)
 **Environment:** Strange etchings on the cavern walls, empowered by Innoruuk, prevent flooding—though when the tides recede, deadly lava pools are exposed.
 
 ### Hate's Fury, The Scorned Maiden
