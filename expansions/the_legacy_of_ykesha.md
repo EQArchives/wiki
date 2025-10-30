@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T17:51:38.086Z
+date: 2025-10-30T17:55:31.357Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -122,7 +122,7 @@ The island of Broken Skull Rock lies off the southern coast of Antonica, though 
 **Faction Matters:** Your relationship with the Broken Skull Clan will determine how much of the island you can safely explore. Those who earn their favor will find lucrative opportunities; those who don't may face a swift end.
 
 ### Gulf of Gunthak
-**Level Range:** 35-40 | **Type:** Outdoor zone, arrival point
+**Level Range:** 35-50 | **Type:** Outdoor zone, arrival point
 
 ![gulf_of_gunthak.png](/gulf_of_gunthak.png =250x)
 The Gulf serves as your entry point to Broken Skull Rock. This coastal area houses new recruits and those in good standing with the Broken Skull Clan. A massive lighthouse dominates the landscape, surrounded by lean-tos where merchants sell unique supplies.
@@ -130,7 +130,7 @@ The Gulf serves as your entry point to Broken Skull Rock. This coastal area hous
 Hidden passages throughout the Gulf lead deeper into the island—but venturing beyond without the clan's permission is a dangerous gamble.
 
 ### Dulak's Harbor
-**Level Range:** 40-45 | **Type:** Underground city | **Status:** HOT ZONE
+**Level Range:** 40-55 | **Type:** Underground city | **Status:** HOT ZONE
 
 ![dulaks_harbor.png](/dulaks_harbor.png =250x) ![dulaks_harbor2.png](/dulaks_harbor2.png =250x)
 
@@ -141,7 +141,7 @@ Tucked beneath the island's surface in a massive cavern, Dulak's Harbor is a rou
 **Warning:** A temple to Innoruuk sits near the harbor, heavily guarded by Luggald minions. The hatred emanating from this place is palpable—avoid it unless you're prepared for a fight.
 
 ### Torgiran Mines
-**Level Range:** 45-50 | **Type:** Underground mines
+**Level Range:** 45-60 | **Type:** Underground mines
 
 ![torgiran_mines.png](/torgiran_mines.png =250x) ![torgiran_mines2.png](/torgiran_mines2.png =250x)
 
@@ -150,7 +150,7 @@ Deep beneath Broken Skull Rock lie the Torgiran Mines, rich with precious metals
 **Environment:** Strange etchings on the cavern walls, empowered by Innoruuk, prevent flooding—though when the tides recede, deadly lava pools are exposed.
 
 ### Hate's Fury, The Scorned Maiden
-**Level Range:** 55-60 | **Type:** Pirate ship zone
+**Level Range:** 55-65 | **Type:** Pirate ship zone
 
 ![hates_fury_scorned_maiden.png](/hates_fury_scorned_maiden.png =250x) ![hates_fury_scorned_maiden2.png](/hates_fury_scorned_maiden2.png =250x)
 
@@ -159,7 +159,7 @@ This legendary pirate vessel isn't just a sailor's tale—it's real, and it's te
 **Access:** Even with excellent Broken Skull Clan faction, approaching this ship is extraordinarily dangerous. Only the most confident adventurers should attempt it.
 
 ### The Crypt of Nadox
-**Level Range:** 50-55 | **Type:** Dungeon | **Status:** Restricted
+**Level Range:** 50-65 | **Type:** Dungeon | **Status:** Restricted
 
 ![crypt_of_nadox.png](/crypt_of_nadox.png =250x)
 
