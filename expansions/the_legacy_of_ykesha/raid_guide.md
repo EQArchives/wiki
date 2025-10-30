@@ -2,7 +2,7 @@
 title: Raid Guide
 description: The Legacy of Ykesha Expansion
 published: true
-date: 2025-10-30T15:24:43.278Z
+date: 2025-10-30T15:27:37.978Z
 tags: guides, guide, raiding guides, raid guides, legacy_of_ykesha
 editor: markdown
 dateCreated: 2025-10-30T15:24:12.577Z
@@ -21,5 +21,5 @@ Captain Krasnok is the end Boss for Legacy of Ykesha.	Area effects include PB Ma
 
 Crypt of Nadox	Innoruuk is spawned by killing The Luggald Broodmother and the 'chosen' trash MoB's in the area. Innoruuk has a knock back and dispels.	If the trigger (Luggald Broodmother) is not up, you can not activate this event.
 
->Note: Spiritseeker Nadox (L60, Crypt of Nadox) was added after this expansion as part of Shaman Epic 1.5.  Uses a 100 HP DoT with a 100 HP DD.
+>Note: Spiritseeker Nadox (L60, Crypt of Nadox) was added after this expansion as part of Shaman Epic 1.5.  The Epic 1.5 quests were added in the Omens of War expansion which was originally released in September 14, 2004.  Uses a 100 HP DoT with a 100 HP DD.
 {.is-info}
