@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T13:44:52.656Z
+date: 2025-10-30T13:47:59.680Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -130,11 +130,11 @@ The final resting place of the legendary troll shaman Nadox, this crypt is the m
 
 The expansion also includes revamped versions of classic dungeons:
 - **Caverns of Exile** (Solusek C) - Introduced in the August 6, 2003 patch on EQ Live
-- **Cazic-Thule 2.0**
+- **Cazic-Thule 2.0** - Partial revamp went to live servers on August 26, 2003 patch on EQ Live
 - **Halls of Betrayal** (Chardok B) - Introduced in the July 10, 2003 patch on EQ Live
-- **Mines of Nurga 2.0**
-- **Plane of Hate B**
-- **Temple of Droga 2.0**
+- **Mines of Nurga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
+- **Plane of Hate B** - Added to live servers in the April 8, 2003 patch on EQ Live
+- **Temple of Droga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
 - **Veksar** (HOT ZONE) - Introduced in the July 11, 2003 patch on EQ Live
 
 ---
