@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha Lore
 description: Lore associated with the Legacy of Ykesha expansion
 published: true
-date: 2025-10-30T16:39:15.809Z
+date: 2025-10-30T16:40:32.702Z
 tags: lore, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T16:33:24.592Z
