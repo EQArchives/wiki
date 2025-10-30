@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-25T14:03:37.039Z
+date: 2025-10-30T14:51:19.781Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -20,7 +20,7 @@ dateCreated: 2025-08-10T05:21:42.868Z
 > - **Raid Zones**: Ssraeshza Temple, Sanctus Seru, Vex Thal, plus boss mobs in many zones
 {.is-info}
 
-![shadows_of_luclin.png](/shadows_of_luclin.png)
+![shadows_of_luclin.png](/shadows_of_luclin.png =350x){.align-right}
 **Major Features:**
 - **New Race**: Vah Shir (feline race)
 - **New Class**: Beastlord
@@ -32,7 +32,7 @@ dateCreated: 2025-08-10T05:21:42.868Z
 
 ## Overview
 
-![shadows_of_luclin_loading_screen.jpg](/shadows_of_luclin_loading_screen.jpg)
+![shadows_of_luclin_loading_screen.jpg](/shadows_of_luclin_loading_screen.jpg =350x)
 The Shadows of Luclin was the **third** expansion released for EverQuest on **December 4, 2001**. With this expansion, players could travel outside of the realm of Norrath for the first time, journeying to Luclin—one of Norrath's two moons—which offered a whole new world to explore.
 
 ### What Made Luclin Special
@@ -110,7 +110,7 @@ See the [Travel Guide](/expansions/shadows_of_luclin/travel_guide) section for d
 ## Character Options
 
 ### Vah Shir (The New Race)
-![vah_shir_large.jpeg](/vah_shir_large.jpeg)
+![vah_shir_large.jpeg](/vah_shir_large.jpeg =250x)
 The Vah Shir are a race of noble feline people who have resided on Luclin for several hundred years. When the Erudites of Odus went to war, a devastating explosion launched a chunk of the continent into space, taking with it a majority of the Kerran population. 
 
 Trapped on the moon, the survivors adapted to their new environment and grew stronger, forced to make themselves a new home on Luclin in **Shar Vahl**. Over time, their people evolved into the Vah Shir, and are now differentiated from their Kerran ancestors.
