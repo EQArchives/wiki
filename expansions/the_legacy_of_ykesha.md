@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T15:58:35.732Z
+date: 2025-10-30T16:01:24.334Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -163,7 +163,7 @@ The expansion also includes revamped versions of classic dungeons:
 - **Caverns of Exile** (Solusek C) - Introduced in the August 6, 2003 patch on EQ Live
 - **Cazic-Thule 2.0** - Partial revamp went to live servers on August 26, 2003 patch on EQ Live
 
->On Modern TLP's, Veksar unlocks during the LDoN expansion despite the fact that it originally released during the LoY expansion on June 11, 2003.  This has been verified by several players.[^1]
+>On Modern TLP's, Veksar unlocks during the LDoN expansion despite the fact that it originally released during the LoY expansion on June 11, 2003.  This has been verified by several players.[^1] On emulators that follow the historical timeline, however (EQA), it will release during the Legacy of Ykesha expansion.
 {.is-warning}
 
 ---
