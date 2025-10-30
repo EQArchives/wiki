@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-30T16:49:02.963Z
+date: 2025-10-30T16:50:31.971Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -43,7 +43,7 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 ![froglok_race.png](/froglok_race.png =250x)
 Frogloks are now available as a playable race—an amicable, **good-aligned*** people with a complex history. They worship Mithaniel Marr, a deity of honor and valor. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
 
->While the Froglok race is good-aligned, the lore states that some of their number are corrupted after The War with the Trolls and the Fall of Gukta.  This corresponds with the later introduction of evil-aligned classes (see below).
+>Froglok's are good-aligned at expansion release until The Fall of Gukta when some Froglok's adopt evil-aligned classes (see below).
 {.is-info}
 
 **Racial Traits:**
