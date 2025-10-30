@@ -2,7 +2,7 @@
 title: Charm Guide
 description: Where to find the new charm items introduced in Legacy of Ykesha
 published: true
-date: 2025-10-30T17:33:03.288Z
+date: 2025-10-30T17:37:47.944Z
 tags: guides, guide, the legacy of ykesha, charms, charm
 editor: markdown
 dateCreated: 2025-10-30T17:04:22.586Z
@@ -29,7 +29,7 @@ These are quest items for Gandak's Ill-Fated Trip.  This quest starts in Greater
 
 **Other Charms:**
 - **Bundle of Tiger Whiskers** - Improves with high AGI/DEX. Dropped from Galikor Sevalin[^4]
-
+- **Crystal Dewdrop** - AC 4, +4 to all saves. Effect improves during rain/weather[^4]. Drops from an Oceancrasher assassin and an Oceancrasher deckhand.
 ### Gulf of Gunthak
 - **Mammoth Tusk Powder** - STA +3, MANA +7, improves with Wisdom stat. Dropped from Broken Skull Augur in the temple[^4]
 - **Idol of the Juggler** - Stats improve based on number of open inventory slots (up to 8 slots: DEX +10, STA +10, MANA +25). Dropped from Mokon Brokenskull on the beach[^4]
@@ -37,10 +37,10 @@ These are quest items for Gandak's Ill-Fated Trip.  This quest starts in Greater
 
 ### Hate's Fury
 - **Charm of Solitude** - Stats improve when fewer players are in the zone (max solo: STA +6, WIS +6, INT +6, HP +20, MANA +30, SV FIRE +10). Dropped from Cabin Gnome Fitzgerald[^5]
-- **Shimmering Emerald Crystal** - WIS +1, INT +1, HP +2, MANA +2, SV MAGIC +2, with Spell Haste II focus effect[^6]
+- **Shimmering Emerald Crystal** - WIS +1, INT +1, HP +2, MANA +2, SV MAGIC +2, with Spell Haste II focus effect. Dropped from Captain Osaftars.[^6] 
 
 ### Torgiran Mines
-- **Carved Fox Ear** - STA +3, CHA +3, MANA +7, SV FIRE +2. Dropped from Luggald Abominations through the underwater passage[^6]
+- **Carved Fox Ear** - STA +3, CHA +3, MANA +7, SV FIRE +2. Dropped from Luggald Abominations through the underwater passage[^6] and an emissary of hate.
 - **Charm of Conservation** - STA +4, WIS +3, INT +3, MANA +10. Dropped from Bishop Rimak [^1]
 
 ### Class-Specific Figurine Charms
@@ -48,9 +48,6 @@ These are quest items for Gandak's Ill-Fated Trip.  This quest starts in Greater
 - **Ebony Dragon Figurine** - AC 7, STR +6, STA +3, WIS +4, HP +20, SV MAGIC +3, Haste effect (worn). For RNG/MNK/ROG/BST[^4]
 - **Ruby Staff Figurine** - AC 3, INT +5[^4]
 - **Ivory Fang Figurine** - Stats incomplete in available sources[^1]
-
-### Other Charms
-- **Crystal Dewdrop** - AC 4, +4 to all saves. Effect improves during rain/weather[^4]
 
 ### Planes of Power Progression Charm
 - **Intricate Wooden Figurine** - Added to the game on June 11, 2003 during the Legacy of Ykesha expansion period. This charm was obtained from Gram Dunnar in Plane of Knowledge and improved based on Planes of Power progression flags completed.[^7]
