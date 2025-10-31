@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:53:28.489Z
+date: 2025-10-31T21:02:44.145Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -49,12 +49,14 @@ dateCreated: 2025-10-31T20:10:52.222Z
 
 ## Focus Effect Potions {#focus-potions}
 
-> **All potions:**  
-> - **Weight:** 0.4  
-> - **Cast Time:** 10 sec  
-> - **Stack with item foci**  
-> - **Mana Reduction:** 5% on matching spell type
-
+> All potions have the following properties:  
+>  
+> **Weight:** 0.4  
+> **Cast Time:** 10 sec  
+> **Stack with item foci**  
+> **Mana Reduction:** 5% on matching spell type
+{.is-info}
+  
 ### Duration (Scales by Caster Level)
 | Level | Duration |
 |-------|----------|
@@ -70,8 +72,8 @@ dateCreated: 2025-10-31T20:10:52.222Z
 | Awareness III | ≤60 |
 | Awareness IV  | ≤65 |
 
-> - **Turgurs/Tigirs/Tagars** slows → **Magic-based**  
-> - **Complete Heal** → **NOT affected** by Beneficial Awareness potions
+> **Turgurs/Tigirs/Tagars** slows → **Magic-based**  
+> **Complete Heal** → **NOT affected** by Beneficial Awareness potions
 {.is-warning}
   
 <details>
@@ -123,7 +125,7 @@ dateCreated: 2025-10-31T20:10:52.222Z
 | 3 | **Vial of Prismatic Dye** | Prismatic Dye + Dye Vial | **68** | Brew Barrel **or** Medicine Bag |
 
 > **Note:** Steps 2 & 3 support **both Brewing and Alchemy**
-
+{.is-info}
 ---
 
 ## Update History {#update-history}
