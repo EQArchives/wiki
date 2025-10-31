@@ -2,7 +2,7 @@
 title: Launch Week Strategy
 description: What to do when Legacy of Ykesha launches
 published: true
-date: 2025-10-31T14:52:36.136Z
+date: 2025-10-31T15:03:24.718Z
 tags: guides, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T14:50:10.915Z
@@ -13,7 +13,7 @@ dateCreated: 2025-10-31T14:50:10.915Z
 
 Legacy of Ykesha (LoY) does not require much in terms of strategy.  It was closer to an "adventure pack" than a full expansion that takes place between PoP and LDoN.  There are no level cap increases, no keying or flagging, no AA's, and no new mechanics.
 
-On initial release, it only has two [raid targets](/expansions/the_legacy_of_ykesha/raids) - with a third that opens up for Shaman Epic 1.5 when Omens of War releases.
+On initial release, it only has two [raid targets](/expansions/the_legacy_of_ykesha/raid_guide) - with a third that opens up for Shaman Epic 1.5 when Omens of War releases.
 
 ## What Should I do then?
 1. Make a Froglok (or a few)
