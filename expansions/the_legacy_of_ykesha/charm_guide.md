@@ -2,14 +2,26 @@
 title: Charm Guide
 description: Where to find the new charm items introduced in Legacy of Ykesha
 published: true
-date: 2025-10-30T17:37:47.944Z
+date: 2025-10-31T15:05:04.845Z
 tags: guides, guide, the legacy of ykesha, charms, charm
 editor: markdown
 dateCreated: 2025-10-30T17:04:22.586Z
 ---
 
 # The Legacy of Ykesha Guide to Charm Items
-## Charm Items
+
+## Camps
+| Zone                | Camp/Mob                                      | Level | Charm Drop(s)                          | Effect/Stats                                      | Notes                                      |
+|---------------------|-----------------------------------------------|-------|----------------------------------------|---------------------------------------------------|--------------------------------------------|
+| **Dulak's Harbor**  | **Tavern Mobs** (e.g., Shady Treasure Sorter Neiben PH) | 55-60 | **Bundle of Tiger Whiskers**           | +Agi/Dex proc (AC/MR/DR up to +6/+12 at 305 Dex)  | **#1 Solo/Group Camp**. 15–20 min PH cycle. Easy pull. |
+| **Dulak's Harbor**  | **Broken Skull Mobs** (Initiates/Bruisers)    | 55-60 | **Insignia of Hatred**<br>**Insignia of Slaying**<br>**Insignia of Suffering**<br>**Insignia of the Blackblood** | Faction-based: +Dex/HP/SV Poison (up to +10 HP at Ally) | **Quested Upgrades**. Collect set for Emerald Warriors. Great for melee. |
+| **Dulak's Harbor**  | **Luggald Assassin** (Named rare)             | 58-60 | **Charm of Deception**                 | +Dex/Cha (up to +10), Illusion clicky             | Risky pull; high-resist. Duo viable.       |
+| **Crypt of Nadox**  | **Luggalds** (Named near Ambassador room)     | 55-65 | **Charm of Exotic Speech**             | Illusion: Froglok (faction aid)                   | **Raid Puller Essential**. 30–45 min cycle. |
+| **Crypt of Nadox**  | **Undead Trolls** (Waterlogged/Sodden)        | 50-55 | **Charm of Conservation**<br>**Coral Ring** | +Sta/Wis/Int/Mana (up to +10 Mana)                | Common drop (~2 in 45 min). XP bonus.      |
+| **Gulf of Gunthak** | **Ogre Marauders/Architects** (Fort/Ship)     | 45-55 | **Xoomix's Mystical Charm** (quest pieces) | Extended Range II focus (+Mana/Str at 255+ Dex)   | **Gnome Quest**. Combine pieces. Low comp. |
+| **Hate's Fury**     | **Named Pirates** (e.g., Fitzgerald)          | 60+   | **Charm of Solitude**                  | +HP/Mana/SV Fire (scales with zone pop: +2/+3 → +10/+15) | **Guild Raid Lock**. Best solo. L60 req.   |
+
+## Full Index of Legacy of Ykesha-era Charm Items
 
 Legacy of Ykesha introduced the charm equipment slot along with numerous charm items that drop throughout the expansion's zones. Many of these charms featured unique mechanics where stats improved based on various conditions.
 
