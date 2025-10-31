@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:51:56.093Z
+date: 2025-10-31T20:52:44.073Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -27,7 +27,7 @@ dateCreated: 2025-10-31T20:10:52.222Z
 
 | Potion | Ingredients | Trivial | Effect & Stats |
 |--------|-------------|--------|----------------|
-| **Essence of [Race]** *(Illusion)* | [Wormwood](http://www.eqtraders.com/location/gunthak.htm) + **Race Meat** *(not Froglok)* | [See below](#illusion-trivials) | Grants illusion of target race |
+| **Essence of [Race]** *(Illusion)* | [Wormwood](http://www.eqtraders.com/location/gunthak.htm) + **Race Meat** *(not Froglok)* | See **Illusion Potion Trivials** Below | Grants illusion of target race |
 | **Gate Potion** | 3 × Heliotrope | **176** | Gate to bind • **10 sec** cast |
 | **Army Ant Potion** | Sumbul, Celandine, Valerian Root, Feverfew | **187** | Group shrink (*Donlo's Dementia*) • **10 sec** • 0.4 wt • SMALL • ALL/ALL |
 | **Spirit Shift** | Sumbul, Mystic Ash, Mercury | **≤87** | Shadow step • **3 sec** • 0.4 wt • SMALL • ALL/ALL |
