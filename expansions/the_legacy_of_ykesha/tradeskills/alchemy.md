@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:43:27.656Z
+date: 2025-10-31T20:46:56.196Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -10,9 +10,8 @@ dateCreated: 2025-10-31T20:10:52.222Z
 
 # Alchemy: Legacy of Ykesha (LoY) Recipes
 
-> **All recipes require a Shaman using their Medicine Bag**  
-> *(except where noted)*
-
+> All recipes require a **Shaman** using their **Medicine Bag**. 
+{.is-info}
 ---
 
 ## Quick Navigation
