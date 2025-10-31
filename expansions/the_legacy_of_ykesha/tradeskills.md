@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T21:55:02.455Z
+date: 2025-10-31T21:57:02.521Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -164,16 +164,12 @@ For **Tailoring**, see: [LoY Tailoring](LoY-Tailoring)
 
 ---
 
-## Update History
-
-{.is-info}
-**Last Updated:** 19 May 2003
 
 ---
 
 > **Source:**  
 > [EQ Traders Corner – LoY Recipes](https://web.archive.org/web/20030604100412/http://www.eqtraders.com/secrets/LoYrecipes.htm)  
-> *(Archived June 4, 2003)*
+> *(Last Updated: 19 May 2003 | Archived June 4, 2003)*
 
 > **Related Pages:**  
 > [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy) 
