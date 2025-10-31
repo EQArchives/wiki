@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:39:32.359Z
+date: 2025-10-31T20:39:44.664Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -163,8 +163,3 @@ dateCreated: 2025-10-31T20:10:52.222Z
 > *(Updated: May 20, 2003 | Archived: June 2, 2003)*
 
 > **Vendor Info:** [Alchemy Trade Supplies](http://www.eqtraders.com/location/alchemy.htm)
-
----
-
-> **Disclaimer:** EverQuest © Sony Computer Entertainment America, Inc.  
-> This page is community-maintained and not official policy.
