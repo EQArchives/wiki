@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T22:50:40.483Z
+date: 2025-10-31T22:51:47.935Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -12,7 +12,7 @@ dateCreated: 2025-10-31T15:24:47.266Z
 
 >**All LoY-specific recipes** (except **Tailoring** and **Alchemy**) are listed below.  
 For **Alchemy**, see: [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy)
-For **Tailoring**, see: [LoY Tailoring](LoY-Tailoring)  
+For **Tailoring**, see: [LoY Tailoring](/expansions/the_legacy_of_ykesha/tradeskills/tailoring)  
 **Armor Dyes** → [See section below](#armor-dyes)
 {.is-info}
 
@@ -150,7 +150,7 @@ See also [Spell Research](/expansions/the_legacy_of_ykesha/tradeskills/spell_res
 | **Folded Medicine Bag** | High Quality Bear Skin, **Silver Ribbon** *(NO DROP)* | **136** | MAGIC • LORE • Cast: **Unfold Medicine Bag** (1.0 sec) → 6 LARGE slots, 0% WR, 0.4 wt |
 | **Folded Bearskin Potion Bag** | Thick Grizzly Bear Skin, Silk Cord, **Gold Ribbon** *(NO DROP)* | **162** | MAGIC • LORE • Cast: **Unfold Bearskin Bag** (1.0 sec) → 10 SMALL slots, 0% WR, 2.5 wt |
 
-> **36 ribbon combines** for racial robes → [See Racial Robe Recipes](LoY-Racial-Robes)
+> **36 ribbon combines** for racial robes → See [Racial Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes)
 
 ---
 
