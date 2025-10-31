@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T21:54:34.586Z
+date: 2025-10-31T21:55:02.455Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -21,6 +21,7 @@ For **Tailoring**, see: [LoY Tailoring](LoY-Tailoring)
 ## Baking {#baking}
 
 > **All recipes** (except **clump of dough**) can be combined in **spit or oven**
+{.is-info}
 
 | Item | Recipe | Trivial | Notes |
 |------|--------|--------|-------|
