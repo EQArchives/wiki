@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:52:44.073Z
+date: 2025-10-31T20:53:28.489Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -12,15 +12,6 @@ dateCreated: 2025-10-31T20:10:52.222Z
 
 > All recipes require a **Shaman** using their **Medicine Bag**. 
 {.is-info}
----
-
-## Quick Navigation
-- [Basic Potions](#basic-potions)
-- [Focus Effect Potions](#focus-potions)
-- [Armor Dyes](#armor-dyes)
-- [Update History](#update-history)
-- [Source](#source)
-
 ---
 
 ## Basic Potions {#basic-potions}
