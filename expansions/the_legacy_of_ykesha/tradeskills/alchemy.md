@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:39:44.664Z
+date: 2025-10-31T20:43:27.656Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -83,7 +83,7 @@ dateCreated: 2025-10-31T20:10:52.222Z
 | Awareness IV  | ≤65 |
 
 > - **Turgurs/Tigirs/Tagars** slows → **Magic-based**  
-> - **Complete Heal** → **NOT affected** by Beneficial potions
+> - **Complete Heal** → **NOT affected** by Beneficial Awareness potions
 {.is-warning}
   
 <details>
