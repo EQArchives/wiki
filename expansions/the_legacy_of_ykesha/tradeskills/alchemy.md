@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:34:42.790Z
+date: 2025-10-31T20:39:32.359Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -34,7 +34,7 @@ dateCreated: 2025-10-31T20:10:52.222Z
 | **Spirit Shift** | Sumbul, Mystic Ash, Mercury | **≤87** | Shadow step • **3 sec** • 0.4 wt • SMALL • ALL/ALL |
 
 <details>
-<summary><strong>Illusion Potion Trivials (Click to Expand)</strong></summary>
+<summary style="background:#2d6a4f;color:#fff;padding:0.75rem 1rem;border-radius:6px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:0.5rem;"><strong>Illusion Potion Trivials (Click to Expand)</strong></summary>
 
 | Race | Trivial |
 |------|--------|
@@ -82,12 +82,12 @@ dateCreated: 2025-10-31T20:10:52.222Z
 | Awareness III | ≤60 |
 | Awareness IV  | ≤65 |
 
-> **Warning:**  
 > - **Turgurs/Tigirs/Tagars** slows → **Magic-based**  
 > - **Complete Heal** → **NOT affected** by Beneficial potions
-
+{.is-warning}
+  
 <details>
-<summary><strong>Full Recipe Table (Click to Expand)</strong></summary>
+<summary style="background:#2d6a4f;color:#fff;padding:0.75rem 1rem;border-radius:6px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:0.5rem;"><strong>Full Recipe Table (Click to Expand)</strong></summary>
 
 | Type | Potion | Ingredients | Trivial |
 |------|--------|-------------|---------|
@@ -141,7 +141,7 @@ dateCreated: 2025-10-31T20:10:52.222Z
 ## Update History {#update-history}
 
 <details>
-<summary><strong>May 20, 2003 Patch Notes</strong></summary>
+<summary style="background:#2d6a4f;color:#fff;padding:0.75rem 1rem;border-radius:6px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:0.5rem;"><strong>May 20, 2003 Patch Notes</strong></summary>
 
 - Focus potions now **scale duration** with level (3 min @ L1 → 3 hr @ L65)  
 - **Complete Heal excluded** from Beneficial Awareness  
