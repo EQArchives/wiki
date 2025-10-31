@@ -2,7 +2,7 @@
 title: Launch Week Strategy
 description: What to do when Legacy of Ykesha launches
 published: true
-date: 2025-10-31T15:03:45.372Z
+date: 2025-10-31T15:07:43.771Z
 tags: guides, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T14:50:10.915Z
@@ -20,18 +20,9 @@ On initial release, it only has two [raid targets](/expansions/the_legacy_of_yke
 2. Camp for new Charm items
 3. Farm dyes
 
-## Top Charm Camps
-See also the [charm guide](/expansions/the_legacy_of_ykesha/charm_guide)
+## Camp for New Charm Items
+While you are exploring the five new zones in this expansion, get yourself some charms for the new charm slots. See the[Legacy of Ykesha Charm Guide](/expansions/the_legacy_of_ykesha/charm_guide) for more information.
 
-| Zone                | Camp/Mob                                      | Level | Charm Drop(s)                          | Effect/Stats                                      | Notes                                      |
-|---------------------|-----------------------------------------------|-------|----------------------------------------|---------------------------------------------------|--------------------------------------------|
-| **Dulak's Harbor**  | **Tavern Mobs** (e.g., Shady Treasure Sorter Neiben PH) | 55-60 | **Bundle of Tiger Whiskers**           | +Agi/Dex proc (AC/MR/DR up to +6/+12 at 305 Dex)  | **#1 Solo/Group Camp**. 15–20 min PH cycle. Easy pull. |
-| **Dulak's Harbor**  | **Broken Skull Mobs** (Initiates/Bruisers)    | 55-60 | **Insignia of Hatred**<br>**Insignia of Slaying**<br>**Insignia of Suffering**<br>**Insignia of the Blackblood** | Faction-based: +Dex/HP/SV Poison (up to +10 HP at Ally) | **Quested Upgrades**. Collect set for Emerald Warriors. Great for melee. |
-| **Dulak's Harbor**  | **Luggald Assassin** (Named rare)             | 58-60 | **Charm of Deception**                 | +Dex/Cha (up to +10), Illusion clicky             | Risky pull; high-resist. Duo viable.       |
-| **Crypt of Nadox**  | **Luggalds** (Named near Ambassador room)     | 55-65 | **Charm of Exotic Speech**             | Illusion: Froglok (faction aid)                   | **Raid Puller Essential**. 30–45 min cycle. |
-| **Crypt of Nadox**  | **Undead Trolls** (Waterlogged/Sodden)        | 50-55 | **Charm of Conservation**<br>**Coral Ring** | +Sta/Wis/Int/Mana (up to +10 Mana)                | Common drop (~2 in 45 min). XP bonus.      |
-| **Gulf of Gunthak** | **Ogre Marauders/Architects** (Fort/Ship)     | 45-55 | **Xoomix's Mystical Charm** (quest pieces) | Extended Range II focus (+Mana/Str at 255+ Dex)   | **Gnome Quest**. Combine pieces. Low comp. |
-| **Hate's Fury**     | **Named Pirates** (e.g., Fitzgerald)          | 60+   | **Charm of Solitude**                  | +HP/Mana/SV Fire (scales with zone pop: +2/+3 → +10/+15) | **Guild Raid Lock**. Best solo. L60 req.   |
 
 ## Notable New Tradeskill Recipes
 | Tradeskill     | Key Recipes                        | Trivial | Ingredients (LoY-Specific)                     | Why Farm It?                                |
