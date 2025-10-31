@@ -2,15 +2,14 @@
 title: Legacy of Ykesha Research
 description: A guide to Research after the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T22:36:38.493Z
+date: 2025-10-31T22:47:54.042Z
 tags: research, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T22:36:38.493Z
 ---
 
 # LoY Spell Research Recipes
-
->Some **level 50–60 dropped spells are LORE**.  
+>Some **level 50–60 dropped spells are LORE**.
 >
 >Check if you already have a **Lore spell** before researching — **dropped and researched versions are identical**.
 {.is-warning}
@@ -24,56 +23,51 @@ dateCreated: 2025-10-31T22:36:38.493Z
 
 ---
 
-
 ## All INT Casters (Robes) {#all-int-casters}
-
 > **Used in 6 INT-class racial robes**  
 > Can be made by **any ENC / MAG / NEC / WIZ** in **advanced container**
 {.is-info}
 
 | Swatch | Ingredients | Trivial | Used In |
 |--------|-------------|---------|--------|
-| **Cyclone Runed Swatch** | Rune of the Cyclone + Parchment + Quill | **≤102** | [Dark Elf Robes](LoYrobes_darkelf) |
-| **Burnish Scried Swatch** | Words of Burnishing + Parchment + Quill | **≤112** | [Dark Elf Robes](LoYrobes_darkelf) |
-| **Wing Etched Swatch** | Wing of Xegony + Parchment + Quill | **132** | [Dark Elf Robes](LoYrobes_darkelf) |
-| **Ellipse Runed Swatch** | Rune of Ellipse + Parchment + Quill | **≤164** | [Dark Elf Robes](LoYrobes_darkelf) |
-| **Argli Scribed Swatch** | Yaeth's Compendium pg. 73 (right) + Parchment + Quill | — | [Dark Elf Robes](LoYrobes_darkelf) |
-| **Abrogation Scribed Swatch** | Words of Abrogation + Parchment + Quill | — | [Dark Elf Robes](LoYrobes_darkelf) |
-| **Radiant Scried Swatch** | Salil's Writ pg. 64 (right) + Parchment + Quill | **111** | [Erudite Robes](LoYrobes_erudite) |
-| **Inverse Runed Swatch** | Rune of Inverse + Parchment + Quill | **≤112** | [Erudite Robes](LoYrobes_erudite) |
-| **Ethereal Scried Swatch** | Words of the Ethereal + Parchment + Quill | **131–132** | [Erudite Robes](LoYrobes_erudite) |
-| **Dew Clover Etched Swatch** | Dew Clover + Parchment + Quill | **≤200** | [Erudite Robes](LoYrobes_erudite) |
-| **Visage Scribed Swatch** | Yaeth's Compendium pg. 78 (right) + Parchment + Quill | — | [Erudite Robes](LoYrobes_erudite) |
-| **Tempest Runed Swatch** | Rune of Tempest + Parchment + Quill | **151–163** | [Erudite Robes](LoYrobes_erudite) |
-| **Neglect Scried Swatch** | Words of Neglect + Parchment + Quill | **≤102** | [Gnome Robes](LoYrobes_gnome) |
-| **Breath Etched Swatch** | Breath of Ro + Parchment + Quill | **112** | [Gnome Robes](LoYrobes_gnome) |
-| **Astral Runed Swatch** | Rune of the Astral + Parchment + Quill | **132** | [Gnome Robes](LoYrobes_gnome) |
-| **Tashani Scribed Swatch** | Toharon's Memoirs pg. 15 (right) + Parchment + Quill | **≤160** | [Gnome Robes](LoYrobes_gnome) |
-| **Expertise Etched Swatch** | Words of Expertise + Parchment + Quill | **>184 ≤190** | [Gnome Robes](LoYrobes_gnome) |
-| **Intellect Scribed Swatch** | Yaeth's Compendium pg. 25 (right) + Parchment + Quill | — | [Gnome Robes](LoYrobes_gnome) |
-| **Sorcery Runed Swatch** | Rune of Sorcery + Parchment + Quill | **≤101** | [High Elf Robes](LoYrobes_highelf) |
-| **Color Skewn Scried Swatch** | Nitilim's Grimoire pg. 115 + Parchment + Quill | **112** | [High Elf Robes](LoYrobes_highelf) |
-| **Tear Scried Swatch** | Tears of Prexus + Parchment + Quill | **132** | [High Elf Robes](LoYrobes_highelf) |
-| **Slant Scried Swatch** | Keri's Dissertation pg. 5 (right) + Parchment + Quill | **≤150** | [High Elf Robes](LoYrobes_highelf) |
-| **Impulse Runed Swatch** | Rune of Impulse + Parchment + Quill | **≤145** | [High Elf Robes](LoYrobes_highelf) |
-| **Virtue Scried Swatch** | Words of Virtue + Parchment + Quill | **>101 ≤200** | [High Elf Robes](LoYrobes_highelf) |
-| **Mana Scried Swatch** | Salil's Writ pg. 90 (right) + Parchment + Quill | **≤154** | [Human Robes](LoYrobes_human) |
-| **Scent Etched Swatch** | Essence of Rathe + Parchment + Quill | **111–112** | [Human Robes](LoYrobes_human) |
-| **Concussion Runed Swatch** | Rune of Concussion + Parchment + Quill | **132** | [Human Robes](LoYrobes_human) |
-| **Lodestone Etched Swatch** | Flake of Lodestone + Parchment + Quill | **≤148** | [Human Robes](LoYrobes_human) |
-| **Obliteration Scried Swatch** | Words of Obliteration + Parchment + Quill | **≤148** | [Human Robes](LoYrobes_human) |
-| **Capacity Scried Swatch** | Words of Capacity + Parchment + Quill | **>148** | [Human Robes](LoYrobes_human) |
-| **Abatement Scried Swatch** | Words of Abatement + Parchment + Quill | **≤102** | [Iksar Robes](LoYrobes_iksar) |
-| **Obligation Scried Swatch** | Words of Obligation + Parchment + Quill | **≤112** | [Iksar Robes](LoYrobes_iksar) |
-| **Requisition Scried Swatch** | Words of Requisition + Parchment + Quill | **131–132** | [Iksar Robes](LoYrobes_iksar) |
-| **Asylum Scried Swatch** | Words of Asylum + Parchment + Quill | **≤200** | [Iksar Robes](LoYrobes_iksar) |
-| **Tenancy Scried Swatch** | Words of Tenancy + Parchment + Quill | **≤200** | [Iksar Robes](LoYrobes_iksar) |
-| **Misery Scried Swatch** | Words of Misery + Parchment + Quill | **≤200** | [Iksar Robes](LoYrobes_iksar) |
-
+| **Cyclone Runed Swatch** | Rune of the Cyclone + Parchment + Quill | **≤102** | [Dark Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/dark_elf) |
+| **Burnish Scried Swatch** | Words of Burnishing + Parchment + Quill | **≤112** | [Dark Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/dark_elf) |
+| **Wing Etched Swatch** | Wing of Xegony + Parchment + Quill | **132** | [Dark Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/dark_elf) |
+| **Ellipse Runed Swatch** | Rune of Ellipse + Parchment + Quill | **≤164** | [Dark Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/dark_elf) |
+| **Argli Scribed Swatch** | Yaeth's Compendium pg. 73 (right) + Parchment + Quill | — | [Dark Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/dark_elf) |
+| **Abrogation Scribed Swatch** | Words of Abrogation + Parchment + Quill | — | [Dark Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/dark_elf) |
+| **Radiant Scried Swatch** | Salil's Writ pg. 64 (right) + Parchment + Quill | **111** | [Erudite Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/erudite) |
+| **Inverse Runed Swatch** | Rune of Inverse + Parchment + Quill | **≤112** | [Erudite Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/erudite) |
+| **Ethereal Scried Swatch** | Words of the Ethereal + Parchment + Quill | **131–132** | [Erudite Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/erudite) |
+| **Dew Clover Etched Swatch** | Dew Clover + Parchment + Quill | **≤200** | [Erudite Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/erudite) |
+| **Visage Scribed Swatch** | Yaeth's Compendium pg. 78 (right) + Parchment + Quill | — | [Erudite Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/erudite) |
+| **Tempest Runed Swatch** | Rune of Tempest + Parchment + Quill | **151–163** | [Erudite Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/erudite) |
+| **Neglect Scried Swatch** | Words of Neglect + Parchment + Quill | **≤102** | [Gnome Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/gnome) |
+| **Breath Etched Swatch** | Breath of Ro + Parchment + Quill | **112** | [Gnome Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/gnome) |
+| **Astral Runed Swatch** | Rune of the Astral + Parchment + Quill | **132** | [Gnome Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/gnome) |
+| **Tashani Scribed Swatch** | Toharon's Memoirs pg. 15 (right) + Parchment + Quill | **≤160** | [Gnome Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/gnome) |
+| **Expertise Etched Swatch** | Words of Expertise + Parchment + Quill | **>184 ≤190** | [Gnome Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/gnome) |
+| **Intellect Scribed Swatch** | Yaeth's Compendium pg. 25 (right) + Parchment + Quill | — | [Gnome Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/gnome) |
+| **Sorcery Runed Swatch** | Rune of Sorcery + Parchment + Quill | **≤101** | [High Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/high_elf) |
+| **Color Skewn Scried Swatch** | Nitilim's Grimoire pg. 115 + Parchment + Quill | **112** | [High Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/high_elf) |
+| **Tear Scried Swatch** | Tears of Prexus + Parchment + Quill | **132** | [High Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/high_elf) |
+| **Slant Scried Swatch** | Keri's Dissertation pg. 5 (right) + Parchment + Quill | **≤150** | [High Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/high_elf) |
+| **Impulse Runed Swatch** | Rune of Impulse + Parchment + Quill | **≤145** | [High Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/high_elf) |
+| **Virtue Scried Swatch** | Words of Virtue + Parchment + Quill | **>101 ≤200** | [High Elf Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/high_elf) |
+| **Mana Scried Swatch** | Salil's Writ pg. 90 (right) + Parchment + Quill | **≤154** | [Human Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/human) |
+| **Scent Etched Swatch** | Essence of Rathe + Parchment + Quill | **111–112** | [Human Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/human) |
+| **Concussion Runed Swatch** | Rune of Concussion + Parchment + Quill | **132** | [Human Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/human) |
+| **Lodestone Etched Swatch** | Flake of Lodestone + Parchment + Quill | **≤148** | [Human Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/human) |
+| **Obliteration Scried Swatch** | Words of Obliteration + Parchment + Quill | **≤148** | [Human Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/human) |
+| **Capacity Scried Swatch** | Words of Capacity + Parchment + Quill | **>148** | [Human Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/human) |
+| **Abatement Scried Swatch** | Words of Abatement + Parchment + Quill | **≤102** | [Iksar Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/iksar) |
+| **Obligation Scried Swatch** | Words of Obligation + Parchment + Quill | **≤112** | [Iksar Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/iksar) |
+| **Requisition Scried Swatch** | Words of Requisition + Parchment + Quill | **131–132** | [Iksar Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/iksar) |
+| **Asylum Scried Swatch** | Words of Asylum + Parchment + Quill | **≤200** | [Iksar Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/iksar) |
+| **Tenancy Scried Swatch** | Words of Tenancy + Parchment + Quill | **≤200** | [Iksar Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/iksar) |
+| **Misery Scried Swatch** | Words of Misery + Parchment + Quill | **≤200** | [Iksar Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/iksar) |
 ---
-
 ## Enchanters {#enchanters}
-
 > **Container:** *Phantasmal Tome*
 {.is-info}
 
@@ -108,11 +102,8 @@ dateCreated: 2025-10-31T22:36:38.493Z
 | **Visions of Grandeur (60)** | Yaeth's pg. 114 (L), Yaeth's pg. 114 (R), Yaeth's pg. 115 + Parchment + Quill | — |
 | **Gift of Brilliance (60)** | Yaeth's pg. 107 (L), Yaeth's pg. 107 (R), Yaeth's pg. 108 + Parchment + Quill | — |
 | **Wind of Tashanian (60)** | Toharon's pg. 21 (L), Toharon's pg. 21 (R), Toharon's pg. 22 + Parchment + Quill | — |
-
 ---
-
 ## Mages {#mages}
-
 > **Container:** *Arch Magus Grimoire*
 {.is-info}
 
@@ -145,11 +136,8 @@ dateCreated: 2025-10-31T22:36:38.493Z
 | **Transon's Elemental Renewal (60)** | Writ of Quellious, Etched Signet, Words of Virtue, Words of Aptitude + Parchment + Quill | **>200** |
 | **Aegis of Ro (60)** | Flame of Fennin, Etched Signet, Words of Expertise + Parchment + Quill | — |
 | **Mala (60)** | Card of Bristlebane, Sliver of Moonstone, Words of Virtue + Parchment + Quill | — |
-
 ---
-
 ## Necromancers {#necromancers}
-
 > **Container:** *Warlock's Book of Binding*
 {.is-info}
 
@@ -185,11 +173,8 @@ dateCreated: 2025-10-31T22:36:38.493Z
 | **Gangrenous Touch of Zum'uul (60)** | Words of Constancy, Words of Distress, Words of Abrogation + Parchment + Quill | **>200** |
 | **Trucidation (60)** | Words of Apparition, Words of Intent, Words of Misery + Parchment + Quill | — |
 | **Zefveer's Theft of Vitae (60)** | Words of Recall, Words of Recourse, Words of Abrogation, Words of Retention + Parchment + Quill | — |
-
 ---
-
 ## Wizards {#wizards}
-
 > **Container:** *Sorceror's Lexicon*
 {.is-info}
 
@@ -228,17 +213,12 @@ dateCreated: 2025-10-31T22:36:38.493Z
 | **Ice Spear of Solist (60)** | Rune of Prexus, Rune of Gale, Rune of Divergency + Parchment + Quill | — |
 | **Disintegrate (60)** | Rune of Incitement, Rune of Antithesis, Rune of Incitation + Parchment + Quill | **>200** |
 | **Lure of Ice (60)** | Rune of Synergy, Rune of Current, Rune of Incitation + Parchment + Quill | — |
-
 ---
-
 ## Priest Classes {#priest-classes}
-
-> See separate page: [LoY Priest Spell Research](LoYresearch_priest)
-
+> See separate page: [LoY Priest Spell Research](/expansions/the_legacy_of_ykesha/tradeskills/spell_research/priests)
+{.is-info}
 ---
-
 ## Pre-LoY Spell Research Trivials (Reference)
-
 | Spell Level | Trivial |
 |-------------|--------|
 | 16 | 26 |
@@ -249,18 +229,18 @@ dateCreated: 2025-10-31T22:36:38.493Z
 | 39 | 140 |
 | 44 | 166 |
 | 49 | 184 |
-
 ---
-
 > **Source:**  
 > [EQ Traders Corner – LoY Spell Research](https://web.archive.org/web/20030602123915/http://www.eqtraders.com/secrets/LoYresearch_int.htm)  
-> *(Last Updated 27 May 2003 | Archived June 2, 2003)*
+> *(Last Updated 27 May 2003 | Archived June 2, 2003)* 
 
 > **Related:**  
-> - [LoY Recipes](LoY-Recipes)  
-> - [Racial Robes](LoY-Racial-Robes)  
-> - [Gukta Trade Supplies](Gukta-Trade-Supplies)
+> [LoY Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy)  
+> [Gukta Trade Supplies](/expansions/the_legacy_of_ykesha/tradeskills/locations/gukta)  
+> [Gunthak Trade Supplies](/expansions/the_legacy_of_ykesha/tradeskills/locations/gunthak)
+{.is-info}
 
 > **External Resources (Pre-LoY):**  
-> - [Mythiran Tower](https://web.archive.org/web/20030602123915/http://mythiran.allakhazam.com/)  
-> - [Caster's Realm](https://web.archive.org/web/20030602123915/http://eq.crgaming.com/)
+> [Mythiran Tower](https://web.archive.org/web/20030602123915/http://mythiran.allakhazam.com/)  
+> [Caster's Realm](https://web.archive.org/web/20030602123915/http://eq.crgaming.com/)
+{.is-info}
