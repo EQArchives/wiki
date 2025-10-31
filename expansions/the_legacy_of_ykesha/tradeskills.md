@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T21:57:02.521Z
+date: 2025-10-31T22:10:24.706Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -70,8 +70,9 @@ For **Tailoring**, see: [LoY Tailoring](LoY-Tailoring)
 ## Armor Dyes {#armor-dyes}
 
 > **How to Apply:**  
-> Use **"Dye" button** in inventory → applies tint to **armor slot**, **not item**.  
+> Use **"Dye" button** in inventory → applies tint to **armor slot**, **not item**. 
 > Color selected at application — **no need to craft shades**.
+{.is-info}
 
 ### Recipe Chain
 
