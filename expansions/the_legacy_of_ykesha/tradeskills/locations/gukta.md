@@ -2,7 +2,7 @@
 title: Gukta Tradeskill Vendors
 description: A guide to finding tradeskill items in Gukta
 published: true
-date: 2025-10-31T21:40:58.536Z
+date: 2025-10-31T21:41:37.503Z
 tags: tradeskills, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T21:40:58.536Z
@@ -145,9 +145,9 @@ dateCreated: 2025-10-31T21:40:58.536Z
 | **Zok Glag** | Large Lantern, Water Flask | `395, 219` |
 
 ---
+> **Related:** [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy) • [Gulf of Gunthak Supplies](/expansions/the_legacy_of_ykesha/tradeskills/locations/gunthak)
+{.is-info}
 
 > **Source:**  
 > [EQ Traders Corner – Gukta Trade Supplies](https://web.archive.org/web/20030604100412/http://www.eqtraders.com/location/gukta.htm)  
 > *(Archived June 4, 2003)*
-
-> **Related:** [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy) • [Gulf of Gunthak Supplies](/expansions/the_legacy_of_ykesha/tradeskills/locations/gunthak)
