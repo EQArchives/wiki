@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T21:02:44.145Z
+date: 2025-10-31T21:05:43.584Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -115,7 +115,8 @@ dateCreated: 2025-10-31T20:10:52.222Z
 > **How to Apply:**  
 > Use the **"Dye" button** in inventory → applies tint to **armor slot**, **not item**.  
 > Select color at application — **no need to craft shades**.
-
+{.is-info}
+  
 ### Recipe Chain
 
 | Step | Result | Ingredients | Trivial | Container |
