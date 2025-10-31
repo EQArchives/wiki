@@ -2,7 +2,7 @@
 title: Gulf of Gunthak Trade Supplies
 description: A guide to what tradeskill supplies you can find in the Gulf of Gunthak
 published: true
-date: 2025-10-31T21:35:20.271Z
+date: 2025-10-31T21:35:33.723Z
 tags: tradeskills, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T21:30:59.373Z
@@ -115,4 +115,4 @@ dateCreated: 2025-10-31T21:30:59.373Z
 > [EQ Traders Corner – Gulf of Gunthak Trade Supplies](https://web.archive.org/web/20030604100412/http://www.eqtraders.com/location/gunthak.htm)  
 > *(Archived June 4, 2003)*
 
-> **Related:** [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy) • [Armor Dyes](LoY-Alchemy-Recipes#armor-dyes)
+> **Related:** [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy) • [Armor Dyes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy#armor-dyes)
