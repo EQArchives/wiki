@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:17:17.614Z
+date: 2025-10-31T20:25:43.032Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -13,7 +13,8 @@ dateCreated: 2025-10-31T20:10:52.222Z
 
 *All recipes must be combined by a **shaman** using their **medicine bag**.*
 
-> **Note:** Two steps for the new armor dyes can also be combined via alchemy, but they are listed only on the [main LoY recipes page](#dyes) to avoid duplication. Exact names (especially for focus effect potions) and further details will be added as they become available.  
+> **Note:** Two steps for the new armor dyes can also be combined via alchemy, see [Armor Dyes section below](#dyes). Exact names (especially for focus effect potions) and further details will be added as they become available.
+>
 > For component vendors, check the [Alchemy Trade Supplies page](http://www.eqtraders.com/location/alchemy.htm).
 
 ---
@@ -73,12 +74,6 @@ All focus potions: **Weight 0.4**, **10-second cast time**
 | | Beneficial Awareness III | sage, figwort, briar thistle | **>191** |
 | | Beneficial Awareness IV | sage, agrimony, dhea, clover, briar thistle | **>200** |
 
----
-
-*Last updated: **20 May 2003***
-
----
-
 > **Update Notes (May 20, 2003):**  
 > - Focus potion **duration now scales** with caster level (3 min at L1 → 3 hr at L65)  
 > - **Complete Heal** excluded from Beneficial Awareness effects  
@@ -86,10 +81,23 @@ All focus potions: **Weight 0.4**, **10-second cast time**
 > - Illusion trivials refined: Half Elf **≤167**, Human **162 or 163**, Iksar **≤187**  
 > - Poison Awareness III trivial corrected to **>191**
 
+## Armor Dyes
+
+> **How to Apply:**  
+> Dye tints are applied to the **player's armor slot** (not directly to the armor) using the **"Dye" button** on your inventory screen. You select the desired color at this stage — **no need to craft different shades of dye**.
+
+---
+
+### Dye Recipe Chain
+
+| Step | Result | Ingredients | Trivial | Combine In |
+|------|--------|-------------|--------|------------|
+| 1 | **Dye Vial** *(unfired vial)* | Vendor-sold **unfired vial** | — | Fire in **kiln** with **Quality Firing Sheet** |
+| 2 | **Prismatic Dye** | **Prism Shard** (vendor-sold), **Glaze Lacquer** | **54** | **Brew Barrel** *(Brewing)* **or** **Medicine Bag** *(Alchemy)* |
+| 3 | **Vial of Prismatic Dye** | **Prismatic Dye**, **Dye Vial** | **68** | **Brew Barrel** *(Brewing)* **or** **Medicine Bag** *(Alchemy)* |
+
+> **Note:** Steps 2 and 3 can be performed using **either Brewing or Alchemy** — both skills work in their respective containers.
+
 ---
 
 > **Source:** [EQ Traders Corner – LoY Alchemy Recipes](https://web.archive.org/web/20030602114737/http://www.eqtraders.com/secrets/LoY_alchemy.htm) (updated May 20, 2003; archived June 2, 2003)
-
----
-
-> **Disclaimer:** All text is copyright by the respective authors. EverQuest is a registered trademark of Sony Computer Entertainment America, Inc. This page is not official EQ policy and is not responsible for errors due to in-game changes.
