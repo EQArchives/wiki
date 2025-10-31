@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T22:51:47.935Z
+date: 2025-10-31T22:52:29.326Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -157,6 +157,7 @@ See also [Spell Research](/expansions/the_legacy_of_ykesha/tradeskills/spell_res
 ## Tinkering {#tinkering}
 
 > **Mob drops** from **Gulf of Gunthak beach**
+{.is-info}
 
 | Item | Recipe | Trivial | Effect |
 |------|--------|--------|--------|
