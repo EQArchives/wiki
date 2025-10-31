@@ -2,7 +2,7 @@
 title: The Cannibal's Guide to People Part Drops
 description: A LoY-era guide to finding meat of playable races for Baking and Alchemy
 published: true
-date: 2025-10-31T21:19:03.728Z
+date: 2025-10-31T21:20:20.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-31T21:15:52.026Z
@@ -55,9 +55,10 @@ This is a **curated list** of **playable-race NPCs** that drop **meat or parts**
 | **Wood Elf** | Yes | Yes | <ul><li>Wood elf bandits in **Greater & Lesser Faydark**</li><li>Wood elf slaves in **Crushbone**</li><li>Rangers at station in **Lesser Faydark**</li><li>Wood elves on **Sister Island** (Ocean of Tears)</li><li>**Lockjaw** in **Oasis**</li><li>Wood elves in **Timorous Deep**</li></ul> |
 
 ---
+> **Related:** [LoY Alchemy Recipes – Illusion Potions](/expansions/the_legacy_of_ykesha/tradeskills/alchemy)
+{.is-info}
 
 > **Source:**  
-> [EQ Traders Corner – The Cannibal's Guide to People Part Drops](https://web.archive.org/web/20030604100412/http://eqtraders.com/secrets/info/racialdrops.htm)  
+> [EQ Traders Corner – The Cannibal's Guide to People Part Drops](https://web.archive.org/web/20030604100412/http://eqtraders.com/secrets/info/racialdrops.htm) 
 > *(Last Updated: 12 April 2003 | Archived June 4, 2003)*
 
-> **Related:** [LoY Alchemy Recipes – Illusion Potions](/expansions/the_legacy_of_ykesha/tradeskills/alchemy)
