@@ -2,7 +2,7 @@
 title: Launch Week Strategy
 description: What to do when Legacy of Ykesha launches
 published: true
-date: 2025-10-31T15:07:43.771Z
+date: 2025-10-31T15:07:50.362Z
 tags: guides, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T14:50:10.915Z
@@ -21,7 +21,7 @@ On initial release, it only has two [raid targets](/expansions/the_legacy_of_yke
 3. Farm dyes
 
 ## Camp for New Charm Items
-While you are exploring the five new zones in this expansion, get yourself some charms for the new charm slots. See the[Legacy of Ykesha Charm Guide](/expansions/the_legacy_of_ykesha/charm_guide) for more information.
+While you are exploring the five new zones in this expansion, get yourself some charms for the new charm slots. See the [Legacy of Ykesha Charm Guide](/expansions/the_legacy_of_ykesha/charm_guide) for more information.
 
 
 ## Notable New Tradeskill Recipes
