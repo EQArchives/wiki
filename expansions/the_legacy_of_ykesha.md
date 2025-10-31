@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-31T15:33:59.145Z
+date: 2025-10-31T16:44:42.247Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -167,20 +167,40 @@ The final resting place of the legendary troll shaman Nadox, this crypt is the m
 
 **Warning:** Only the highest-ranking clan members may enter. Disturbing this place is said to invoke Innoruuk's wrath directly.
 
-## Additional Zones
-**Note:** Several of these zones were added in patches following the expansion's February 2003 release.
+## Additional New Zones
+The following zones were first introduced following the expansion's February 2003 release, but are more extensions of older areas and don't naturally "belong" to the expansion itself.
 
-The expansion also includes revamped versions of classic dungeons:
-- **Plane of Hate B** - Added to live servers in the April 8, 2003 patch on EQ Live
 - **Chardok: Halls of Betrayal** (Chardok B) - Introduced in the July 10, 2003 patch on EQ Live
-- **Temple of Droga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
-- **Mines of Nurga 2.0** - Added to live servers in the July 10, 2003 patch on EQ Live
 - **Veksar** - Introduced in the June 11, 2003 patch on EQ Live.  This zone "completes" the Ruins of Kunark expansion as the previously lost city buried under the Lake of Ill Omen.
 - **Caverns of Exile** (Solusek C) - Introduced in the August 6, 2003 patch on EQ Live
-- **Cazic-Thule 2.0** - Partial revamp went to live servers on August 26, 2003 patch on EQ Live
 
 >On Modern TLP's, Veksar unlocks during the LDoN expansion despite the fact that it originally released during the LoY expansion on June 11, 2003.  This has been verified by several players.[^1] On emulators that follow the historical timeline, however (EQA), it will release during the Legacy of Ykesha expansion.
 {.is-warning}
+
+### Revamped Zones
+
+The following pre-existing zones from earlier expansions and the original game were revamped while Legacy of Ykesha was the most current expansion.
+
+| Zone | Date | Continent | Revamp Details |
+|------|------|-----------|----------------|
+| **Grobb** | 24 February 2003 | Antonica | Froglok Invasion Event of Grobb; renamed to **Gukta**. Froglok NPCs take over zone. Troll NPCs relocated to Neriak - Foreign Quarter. |
+| **Grimling Forest** | 23 April 2003 | Luclin | **1st revamp**; "We have updated the content in these zones to more accurately represent their design intentions and to address concerns voiced by players." |
+| **Hollowshade Moor** | 23 April 2003 | Luclin | **1st revamp**; "We have updated the content in these zones to more accurately represent their design intentions and to address concerns voiced by players." |
+| **Acrylia Caverns** | 23 April 2003 | Velious | **1st revamp**; "We have updated the content in these zones to more accurately represent their design intentions and to address concerns voiced by players." |
+| **Plane of Hate** | 14 May 2003 (All Servers),<br>8 April 2003 (Stormhammer) | Planes | **2nd revamp** |
+| **The Temple of Droga** | 10 July 2003 | Kunark | **1st revamp** |
+| **The Mines of Nurga** | 10 July 2003 | Kunark | **1st revamp** |
+| **The Accursed Temple of Cazic-Thule** | 26 August 2003 | Antonica | **Partial revamp**. "Gameplay in these zones has been improved, based on feedback from players and careful review of the content. The changes are not dramatic, but make these zones more entertaining to play in." |
+| **The City of Mist** | 26 August 2003 | Kunark | **Partial revamp**. "Gameplay in these zones has been improved, based on feedback from players and careful review of the content. The changes are not dramatic, but make these zones more entertaining to play in." |
+| **The Ruins of Old Paineel (The Hole)** | 26 August 2003 | Odus | **Partial revamp**. "Gameplay in these zones has been improved, based on feedback from players and careful review of the content. The changes are not dramatic, but make these zones more entertaining to play in." |
+| **Siren's Grotto** | 26 August 2003 | Velious | **Partial revamp**. "Gameplay in these zones has been improved, based on feedback from players and careful review of the content. The changes are not dramatic, but make these zones more entertaining to play in." |
+| **Dragon Necropolis** | 26 August 2003 | Velious | **Partial revamp**. "Gameplay in these zones has been improved, based on feedback from players and careful review of the content. The changes are not dramatic, but make these zones more entertaining to play in." |
+| **Charasis (Howling Stones)** | 26 August 2003 | Kunark | **Partial revamp**. "Gameplay in these zones has been improved, based on feedback from players and careful review of the content. The changes are not dramatic, but make these zones more entertaining to play in." |
+| **The Deep** | 26 August 2003 | Luclin | **Partial revamp**. "Gameplay in these zones has been improved, based on feedback from players and careful review of the content. The changes are not dramatic, but make these zones more entertaining to play in." |
+| **Greig's End** | 26 August 2003 | Luclin | **1st revamp**. "The redesign includes new encounters, items, traps, and events that make the zone a challenge for the experience group, with plenty of events for a raid group." |
+
+> **Note:** Zones like *Veksar*, *The Halls of Betrayal*, and *Caverns of Exile* were **initially released** during this period and are listed in the previous section.
+{.is-info}
 
 ---
 ## Evolution of the Froglok Storyline
