@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T22:38:06.378Z
+date: 2025-10-31T22:50:40.483Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -115,7 +115,7 @@ For **Tailoring**, see: [LoY Tailoring](LoY-Tailoring)
 
 > **36 recipes** used in **racial robes**  
 > Can be made by **any ENC, MAG, NEC, WIZ**  
-> Full list: [Racial Robe Recipes](LoY-Racial-Robes)
+> Full list: [Racial Robe Recipes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes)
 
 See also [Spell Research](/expansions/the_legacy_of_ykesha/tradeskills/spell_research/casters)
 
