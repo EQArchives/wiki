@@ -2,7 +2,7 @@
 title: The Cannibal's Guide to People Part Drops
 description: A LoY-era guide to finding meat of playable races for Baking and Alchemy
 published: true
-date: 2025-10-31T21:20:20.088Z
+date: 2025-10-31T21:21:05.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-31T21:15:52.026Z
@@ -16,7 +16,7 @@ You're probably here because you either **wanna look like someone else**, or you
 
 
 This is a **curated list** of **playable-race NPCs** that drop **meat or parts** usable in:
-- **Alchemy** → Illusion potions (via [LoY Alchemy](LoY-Alchemy-Recipes))
+- **Alchemy** → Illusion potions (via [LoY Alchemy](/expansions/the_legacy_of_ykesha/tradeskills/alchemy))
 - **Baking** → Tasty treats
 
 > **Not every NPC of a race drops parts.**  
