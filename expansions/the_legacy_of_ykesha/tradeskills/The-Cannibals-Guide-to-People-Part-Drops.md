@@ -2,7 +2,7 @@
 title: The Cannibal's Guide to People Part Drops
 description: A LoY-era guide to finding meat of playable races for Baking and Alchemy
 published: true
-date: 2025-10-31T21:15:52.026Z
+date: 2025-10-31T21:19:03.728Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-31T21:15:52.026Z
@@ -60,4 +60,4 @@ This is a **curated list** of **playable-race NPCs** that drop **meat or parts**
 > [EQ Traders Corner – The Cannibal's Guide to People Part Drops](https://web.archive.org/web/20030604100412/http://eqtraders.com/secrets/info/racialdrops.htm)  
 > *(Last Updated: 12 April 2003 | Archived June 4, 2003)*
 
-> **Related:** [LoY Alchemy Recipes – Illusion Potions](LoY-Alchemy-Recipes)
+> **Related:** [LoY Alchemy Recipes – Illusion Potions](/expansions/the_legacy_of_ykesha/tradeskills/alchemy)
