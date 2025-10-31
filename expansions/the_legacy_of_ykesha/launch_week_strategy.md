@@ -2,7 +2,7 @@
 title: Launch Week Strategy
 description: What to do when Legacy of Ykesha launches
 published: true
-date: 2025-10-31T15:27:18.626Z
+date: 2025-10-31T15:30:28.484Z
 tags: guides, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T14:50:10.915Z
@@ -16,10 +16,10 @@ Legacy of Ykesha (LoY) does not require much in terms of strategy.  It was close
 On initial release, it only has two [raid targets](/expansions/the_legacy_of_ykesha/raid_guide) - with a third that opens up for Shaman Epic 1.5 when Omens of War releases.
 
 ## What Should I do then?
-1. Make a Froglok (or a few)
-2. Camp for new Charm items
-3. Farm dyes
-4. Work on tradeskills
+1. Make a **Froglok** (or a few)
+2. Camp for new **Charm** items
+3. Farm **dyes**
+4. Work on **tradeskills**
 
 ## Camp for New Charm Items
 While you are exploring the five new zones in this expansion, get yourself some charms for the new charm slots. See the [Legacy of Ykesha Charm Guide](/expansions/the_legacy_of_ykesha/charm_guide) for more information.
