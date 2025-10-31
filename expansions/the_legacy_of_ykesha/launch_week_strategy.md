@@ -2,7 +2,7 @@
 title: Launch Week Strategy
 description: What to do when Legacy of Ykesha launches
 published: true
-date: 2025-10-31T15:30:28.484Z
+date: 2025-10-31T15:32:06.261Z
 tags: guides, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T14:50:10.915Z
@@ -16,6 +16,7 @@ Legacy of Ykesha (LoY) does not require much in terms of strategy.  It was close
 On initial release, it only has two [raid targets](/expansions/the_legacy_of_ykesha/raid_guide) - with a third that opens up for Shaman Epic 1.5 when Omens of War releases.
 
 ## What Should I do then?
+1. Take out **Captain Krasnok** with your raid force
 1. Make a **Froglok** (or a few)
 2. Camp for new **Charm** items
 3. Farm **dyes**
