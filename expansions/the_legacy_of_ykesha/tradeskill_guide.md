@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T20:04:11.599Z
+date: 2025-10-31T20:30:04.497Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
