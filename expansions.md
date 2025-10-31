@@ -2,7 +2,7 @@
 title: Expansions
 description: A list of EverQuest expansions
 published: true
-date: 2025-10-31T17:30:21.565Z
+date: 2025-10-31T17:31:22.375Z
 tags: expansions
 editor: markdown
 dateCreated: 2025-10-31T17:30:21.565Z
@@ -43,3 +43,5 @@ Besides the obvious need for the list, matching release dates to expansion numbe
 | 27 |  | Claws of Veeshan | Daybreak Game Company | Daybreak Game Company | December 8, 2020 |
 | 28 |  | Terror of Luclin | Daybreak Game Company | Daybreak Game Company | December 7, 2021 |
 | 29 |  | Night of Shadows | Daybreak Game Company | Daybreak Game Company | December 6, 2022 |
+| 30 |  | [The Outer Brood](/expansions/the_outer_brood) | Daybreak Game Company | Daybreak Game Company | December 2024 |
+| 31 |  | [Shattering of Ro](/expansions/shattering_of_ro) | Daybreak Game Company | Daybreak Game Company | December 2025 |
