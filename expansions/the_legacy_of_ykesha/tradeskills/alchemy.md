@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:46:56.196Z
+date: 2025-10-31T20:51:56.093Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -51,8 +51,6 @@ dateCreated: 2025-10-31T20:10:52.222Z
 | Troll | 174 |
 | Vah Shir | ≤184 |
 | Wood Elf | 164 |
-
-> *Source: [Racial Drops Info](/info/racialdrops.htm)*
 
 </details>
 
