@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:10:52.222Z
+date: 2025-10-31T20:17:17.614Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
@@ -10,7 +10,6 @@ dateCreated: 2025-10-31T20:10:52.222Z
 
 # Alchemy
 ## LoY Alchemy Recipes
-> **Source:** [EQ Traders Corner – LoY Alchemy Recipes](https://web.archive.org/web/20030409073507/http://www.eqtraders.com/secrets/LoY_alchemy.htm) (archived April 9, 2003)
 
 *All recipes must be combined by a **shaman** using their **medicine bag**.*
 
@@ -23,16 +22,16 @@ dateCreated: 2025-10-31T20:10:52.222Z
 
 | Item | Ingredients | Trivial / Notes |
 |------|-------------|-----------------|
-| **Essence of _____** *(illusion potions)* | [wormwood](/web/20030409073507/http://www.eqtraders.com/location/gunthak.htm), [meat of a playable race](/info/racialdrops.htm) *(except froglok)* | <ul><li>Barbarian: < 187</li><li>Dark Elf: 164</li><li>Dwarf: 171</li><li>Erudite: >160 ≤163</li><li>Gnome: 172</li><li>Halfling: 170</li><li>Half Elf: ≤171</li><li>High Elf: >166 ≤170</li><li>Human: 162</li><li>Iksar: >171 ≤180</li><li>Ogre: >161 ≤164</li><li>Troll: 174</li><li>Vah Shir: ≤184</li><li>Wood Elf: 164</li></ul> |
+| **Essence of _____** *(illusion potions)* | [wormwood](/web/20030602114737/http://www.eqtraders.com/location/gunthak.htm), [meat of a playable race](/info/racialdrops.htm) *(except froglok)* | <ul><li>Barbarian: < 187</li><li>Dark Elf: 164</li><li>Dwarf: 171</li><li>Erudite: >160 ≤163</li><li>Gnome: 172</li><li>Halfling: 170</li><li>Half Elf: **≤167**</li><li>High Elf: >166 ≤170</li><li>Human: **162 or 163**</li><li>Iksar: **>171 ≤187**</li><li>Ogre: >161 ≤164</li><li>Troll: 174</li><li>Vah Shir: ≤184</li><li>Wood Elf: 164</li></ul> |
 | **Gate Potion** | 3 × heliotrope | Trivial **176** – Gates to bind point, **10 sec** cast time |
 | **Army Ant Potion** | sumbul, celandine, valerian root, feverfew | Trivial **187** – Group shrink (*Donlo's Dementia*), **10.0 sec** cast, wt **0.4**, size **SMALL**, ALL/ALL |
-| **Spirit Shift** | sumbul, mystic ash, mercury | Trivial **≤100** – Shadow step, **3.0 sec** cast, wt **0.4**, size **SMALL**, ALL/ALL |
+| **Spirit Shift** | sumbul, mystic ash, mercury | Trivial **≤87** – Shadow step, **3.0 sec** cast, wt **0.4**, size **SMALL**, ALL/ALL |
 
 ---
 
 ### Focus Effect Potions
 
-> **Duration:** 3 hours  
+> **Duration:** **Scales with caster level** – **3 minutes at level 1**, **3 hours at level 65** (increases gradually between)  
 > **Effect:** 5% mana reduction on spells of the matching type and level range  
 > **Stacking:** Yes – stacks with item focus effects  
 > **Level Ranges:**  
@@ -41,7 +40,9 @@ dateCreated: 2025-10-31T20:10:52.222Z
 > - **Awareness III:** ≤ Level 60  
 > - **Awareness IV:** ≤ Level 65  
 >  
-> **Important:** The shaman *Turgurs / Tigirs / Tagars* line of slows are **MAGIC-based**, **not** disease-based.
+> **Important Notes:**  
+> - The shaman *Turgurs / Tigirs / Tagars* line of slows are **MAGIC-based**, **not** disease-based.  
+> - **Complete Heal is NOT included** on the Beneficial Awareness potions.
 
 All focus potions: **Weight 0.4**, **10-second cast time**
 
@@ -74,7 +75,20 @@ All focus potions: **Weight 0.4**, **10-second cast time**
 
 ---
 
-*Last updated: **5 April 2003***
+*Last updated: **20 May 2003***
+
+---
+
+> **Update Notes (May 20, 2003):**  
+> - Focus potion **duration now scales** with caster level (3 min at L1 → 3 hr at L65)  
+> - **Complete Heal** excluded from Beneficial Awareness effects  
+> - Spirit Shift trivial lowered to **≤87**  
+> - Illusion trivials refined: Half Elf **≤167**, Human **162 or 163**, Iksar **≤187**  
+> - Poison Awareness III trivial corrected to **>191**
+
+---
+
+> **Source:** [EQ Traders Corner – LoY Alchemy Recipes](https://web.archive.org/web/20030602114737/http://www.eqtraders.com/secrets/LoY_alchemy.htm) (updated May 20, 2003; archived June 2, 2003)
 
 ---
 
