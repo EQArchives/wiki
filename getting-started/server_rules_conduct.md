@@ -2,7 +2,7 @@
 title: Server Rules & Player Conduct
 description: 
 published: true
-date: 2025-08-10T21:50:02.563Z
+date: 2025-10-31T16:55:51.935Z
 tags: rules, conduct, ruleset
 editor: markdown
 dateCreated: 2025-08-10T19:10:23.660Z
@@ -14,8 +14,8 @@ dateCreated: 2025-08-10T19:10:23.660Z
     * When the server is ready to progress beyond PoP, we will upgrade clients and migrate to the EQEMU Server source.  *If there is a desire to maintain the classic server once this happens, that option is on the table.*
 * New expansions will be released 3 months after all raid targets in the current expansion have been defeated
 * World configuration (rules, quests, spawn rates, drop rates) will attempt era accuracy unless otherwise noted
-* Server is currently in the **Scars of Velious** expansion
-    * Shadows of Luclin launches August 28, 2025
+* Server is currently in the **Shadows of Luclin** expansion
+    * Planes of Power release date is still TBD
 * Firiona Vie (FV)-style loot rules: most items are tradeable!
 * **3-box limit**
     * This is enforced by IP and GM logs.
