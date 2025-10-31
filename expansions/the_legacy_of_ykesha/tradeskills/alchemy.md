@@ -2,7 +2,7 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T21:28:26.283Z
+date: 2025-10-31T21:34:02.382Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
