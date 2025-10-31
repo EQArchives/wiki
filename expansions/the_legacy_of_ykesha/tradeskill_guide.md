@@ -2,13 +2,15 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-10-31T15:24:47.266Z
+date: 2025-10-31T15:25:18.928Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
 ---
 
 # Legacy of Ykesha Tradeskill Guide
+
+## Notable Tradeskill Recipes
 | Tradeskill     | Key Recipes                        | Trivial | Ingredients (LoY-Specific)                     | Why Farm It?                                |
 |----------------|------------------------------------|---------|-----------------------------------------------|---------------------------------------------|
 | **Tailoring**  | **Pirate's Sash of Agility**<br>**Luggald Skin Leggings** | 150-180 | Spiderling Silk (Dulak spiders), Luggald Scales (Nadox) | +Agi belts/legs for monks. Uses camp trash. |
