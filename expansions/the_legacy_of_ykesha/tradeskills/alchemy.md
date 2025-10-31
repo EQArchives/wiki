@@ -2,102 +2,169 @@
 title: Alchemy
 description: A consolidation of alchemy knowledge from the Legacy of Ykesha expansion
 published: true
-date: 2025-10-31T20:25:43.032Z
+date: 2025-10-31T20:34:42.790Z
 tags: tradeskills, the legacy of ykesha, alchemy
 editor: markdown
 dateCreated: 2025-10-31T20:10:52.222Z
 ---
 
-# Alchemy
-## LoY Alchemy Recipes
+# Alchemy: Legacy of Ykesha (LoY) Recipes
 
-*All recipes must be combined by a **shaman** using their **medicine bag**.*
-
-> **Note:** Two steps for the new armor dyes can also be combined via alchemy, see [Armor Dyes section below](#dyes). Exact names (especially for focus effect potions) and further details will be added as they become available.
->
-> For component vendors, check the [Alchemy Trade Supplies page](http://www.eqtraders.com/location/alchemy.htm).
+> **All recipes require a Shaman using their Medicine Bag**  
+> *(except where noted)*
 
 ---
 
-### Basic Potions
-
-| Item | Ingredients | Trivial / Notes |
-|------|-------------|-----------------|
-| **Essence of _____** *(illusion potions)* | [wormwood](/web/20030602114737/http://www.eqtraders.com/location/gunthak.htm), [meat of a playable race](/info/racialdrops.htm) *(except froglok)* | <ul><li>Barbarian: < 187</li><li>Dark Elf: 164</li><li>Dwarf: 171</li><li>Erudite: >160 ≤163</li><li>Gnome: 172</li><li>Halfling: 170</li><li>Half Elf: **≤167**</li><li>High Elf: >166 ≤170</li><li>Human: **162 or 163**</li><li>Iksar: **>171 ≤187**</li><li>Ogre: >161 ≤164</li><li>Troll: 174</li><li>Vah Shir: ≤184</li><li>Wood Elf: 164</li></ul> |
-| **Gate Potion** | 3 × heliotrope | Trivial **176** – Gates to bind point, **10 sec** cast time |
-| **Army Ant Potion** | sumbul, celandine, valerian root, feverfew | Trivial **187** – Group shrink (*Donlo's Dementia*), **10.0 sec** cast, wt **0.4**, size **SMALL**, ALL/ALL |
-| **Spirit Shift** | sumbul, mystic ash, mercury | Trivial **≤87** – Shadow step, **3.0 sec** cast, wt **0.4**, size **SMALL**, ALL/ALL |
+## Quick Navigation
+- [Basic Potions](#basic-potions)
+- [Focus Effect Potions](#focus-potions)
+- [Armor Dyes](#armor-dyes)
+- [Update History](#update-history)
+- [Source](#source)
 
 ---
 
-### Focus Effect Potions
+## Basic Potions {#basic-potions}
 
-> **Duration:** **Scales with caster level** – **3 minutes at level 1**, **3 hours at level 65** (increases gradually between)  
-> **Effect:** 5% mana reduction on spells of the matching type and level range  
-> **Stacking:** Yes – stacks with item focus effects  
-> **Level Ranges:**  
-> - **Awareness I:** ≤ Level 20  
-> - **Awareness II:** ≤ Level 44  
-> - **Awareness III:** ≤ Level 60  
-> - **Awareness IV:** ≤ Level 65  
->  
-> **Important Notes:**  
-> - The shaman *Turgurs / Tigirs / Tagars* line of slows are **MAGIC-based**, **not** disease-based.  
-> - **Complete Heal is NOT included** on the Beneficial Awareness potions.
+| Potion | Ingredients | Trivial | Effect & Stats |
+|--------|-------------|--------|----------------|
+| **Essence of [Race]** *(Illusion)* | [Wormwood](http://www.eqtraders.com/location/gunthak.htm) + **Race Meat** *(not Froglok)* | [See below](#illusion-trivials) | Grants illusion of target race |
+| **Gate Potion** | 3 × Heliotrope | **176** | Gate to bind • **10 sec** cast |
+| **Army Ant Potion** | Sumbul, Celandine, Valerian Root, Feverfew | **187** | Group shrink (*Donlo's Dementia*) • **10 sec** • 0.4 wt • SMALL • ALL/ALL |
+| **Spirit Shift** | Sumbul, Mystic Ash, Mercury | **≤87** | Shadow step • **3 sec** • 0.4 wt • SMALL • ALL/ALL |
 
-All focus potions: **Weight 0.4**, **10-second cast time**
+<details>
+<summary><strong>Illusion Potion Trivials (Click to Expand)</strong></summary>
+
+| Race | Trivial |
+|------|--------|
+| Barbarian | < 187 |
+| Dark Elf | 164 |
+| Dwarf | 171 |
+| Erudite | >160 ≤163 |
+| Gnome | 172 |
+| Halfling | 170 |
+| **Half Elf** | **≤167** |
+| High Elf | >166 ≤170 |
+| **Human** | **162 or 163** |
+| **Iksar** | **>171 ≤187** |
+| Ogre | >161 ≤164 |
+| Troll | 174 |
+| Vah Shir | ≤184 |
+| Wood Elf | 164 |
+
+> *Source: [Racial Drops Info](/info/racialdrops.htm)*
+
+</details>
+
+---
+
+## Focus Effect Potions {#focus-potions}
+
+> **All potions:**  
+> - **Weight:** 0.4  
+> - **Cast Time:** 10 sec  
+> - **Stack with item foci**  
+> - **Mana Reduction:** 5% on matching spell type
+
+### Duration (Scales by Caster Level)
+| Level | Duration |
+|-------|----------|
+| 1     | 3 minutes |
+| 65    | **3 hours** |
+| *In-between* | Scales linearly |
+
+### Spell Level Caps
+| Tier | Max Spell Level |
+|------|-----------------|
+| Awareness I   | ≤20 |
+| Awareness II  | ≤44 |
+| Awareness III | ≤60 |
+| Awareness IV  | ≤65 |
+
+> **Warning:**  
+> - **Turgurs/Tigirs/Tagars** slows → **Magic-based**  
+> - **Complete Heal** → **NOT affected** by Beneficial potions
+
+<details>
+<summary><strong>Full Recipe Table (Click to Expand)</strong></summary>
 
 | Type | Potion | Ingredients | Trivial |
 |------|--------|-------------|---------|
-| **Fire** | Heat Awareness I | lucerne, sumbul, aloe | **51** |
-| | Heat Awareness II | lucerne, elderberry, aloe | **116** |
-| | Heat Awareness III | lucerne, figwort, briar thistle | **>190** |
-| | Heat Awareness IV | lucerne, agrimony, dhea, clover, briar thistle | **>200** |
-| **Ice** | Cold Awareness I | benzoin, sumbul, aloe | **51** |
-| | Cold Awareness II | benzoin, elderberry, aloe | **116** |
-| | Cold Awareness III | benzoin, figwort, briar thistle | **>191** |
-| | Cold Awareness IV | benzoin, agrimony, dhea, clover, briar thistle | **>200** |
-| **Magic** | Magic Awareness I | mandrake, sumbul, aloe | **51** |
-| | Magic Awareness II | mandrake, elderberry, aloe | **116** |
-| | Magic Awareness III | mandrake, figwort, briar thistle | **>191** |
-| | Magic Awareness IV | mandrake, agrimony, dhea, clover, briar thistle | **>200** |
-| **Poison** | Poison Awareness I | nightshade, sumbul, aloe | **51** |
-| | Poison Awareness II | nightshade, elderberry, aloe | **116** |
-| | Poison Awareness III | nightshade, figwort, briar thistle | **>191** |
-| | Poison Awareness IV | nightshade, agrimony, dhea, clover, briar thistle | **>200** |
-| **Disease** | Disease Awareness I | birthwart, sumbul, aloe | **51** |
-| | Disease Awareness II | birthwart, elderberry, aloe | **116** |
-| | Disease Awareness III | birthwart, figwort, briar thistle | **>191** |
-| | Disease Awareness IV | birthwart, agrimony, dhea, clover, briar thistle | **>200** |
-| **Beneficial** | Beneficial Awareness I | sage, sumbul, aloe | **51** |
-| | Beneficial Awareness II | sage, elderberry, aloe | **116** |
-| | Beneficial Awareness III | sage, figwort, briar thistle | **>191** |
-| | Beneficial Awareness IV | sage, agrimony, dhea, clover, briar thistle | **>200** |
+| **Fire** | Heat Awareness I | Lucerne, Sumbul, Aloe | **51** |
+| | Heat Awareness II | Lucerne, Elderberry, Aloe | **116** |
+| | Heat Awareness III | Lucerne, Figwort, Briar Thistle | **>190** |
+| | Heat Awareness IV | Lucerne, Agrimony, Dhea, Clover, Briar Thistle | **>200** |
+| **Ice** | Cold Awareness I | Benzoin, Sumbul, Aloe | **51** |
+| | Cold Awareness II | Benzoin, Elderberry, Aloe | **116** |
+| | Cold Awareness III | Benzoin, Figwort, Briar Thistle | **>191** |
+| | Cold Awareness IV | Benzoin, Agrimony, Dhea, Clover, Briar Thistle | **>200** |
+| **Magic** | Magic Awareness I | Mandrake, Sumbul, Aloe | **51** |
+| | Magic Awareness II | Mandrake, Elderberry, Aloe | **116** |
+| | Magic Awareness III | Mandrake, Figwort, Briar Thistle | **>191** |
+| | Magic Awareness IV | Mandrake, Agrimony, Dhea, Clover, Briar Thistle | **>200** |
+| **Poison** | Poison Awareness I | Nightshade, Sumbul, Aloe | **51** |
+| | Poison Awareness II | Nightshade, Elderberry, Aloe | **116** |
+| | Poison Awareness III | Nightshade, Figwort, Briar Thistle | **>191** |
+| | Poison Awareness IV | Nightshade, Agrimony, Dhea, Clover, Briar Thistle | **>200** |
+| **Disease** | Disease Awareness I | Birthwart, Sumbul, Aloe | **51** |
+| | Disease Awareness II | Birthwart, Elderberry, Aloe | **116** |
+| | Disease Awareness III | Birthwart, Figwort, Briar Thistle | **>191** |
+| | Disease Awareness IV | Birthwart, Agrimony, Dhea, Clover, Briar Thistle | **>200** |
+| **Beneficial** | Beneficial Awareness I | Sage, Sumbul, Aloe | **51** |
+| | Beneficial Awareness II | Sage, Elderberry, Aloe | **116** |
+| | Beneficial Awareness III | Sage, Figwort, Briar Thistle | **>191** |
+| | Beneficial Awareness IV | Sage, Agrimony, Dhea, Clover, Briar Thistle | **>200** |
 
-> **Update Notes (May 20, 2003):**  
-> - Focus potion **duration now scales** with caster level (3 min at L1 → 3 hr at L65)  
-> - **Complete Heal** excluded from Beneficial Awareness effects  
-> - Spirit Shift trivial lowered to **≤87**  
-> - Illusion trivials refined: Half Elf **≤167**, Human **162 or 163**, Iksar **≤187**  
-> - Poison Awareness III trivial corrected to **>191**
+</details>
 
-## Armor Dyes
+---
+
+## Armor Dyes {#armor-dyes}
 
 > **How to Apply:**  
-> Dye tints are applied to the **player's armor slot** (not directly to the armor) using the **"Dye" button** on your inventory screen. You select the desired color at this stage — **no need to craft different shades of dye**.
+> Use the **"Dye" button** in inventory → applies tint to **armor slot**, **not item**.  
+> Select color at application — **no need to craft shades**.
+
+### Recipe Chain
+
+| Step | Result | Ingredients | Trivial | Container |
+|------|--------|-------------|--------|-----------|
+| 1 | **Dye Vial** | Unfired Vial *(vendor)* | — | Kiln + **Quality Firing Sheet** |
+| 2 | **Prismatic Dye** | Prism Shard *(vendor)*, Glaze Lacquer | **54** | Brew Barrel **or** Medicine Bag |
+| 3 | **Vial of Prismatic Dye** | Prismatic Dye + Dye Vial | **68** | Brew Barrel **or** Medicine Bag |
+
+> **Note:** Steps 2 & 3 support **both Brewing and Alchemy**
 
 ---
 
-### Dye Recipe Chain
+## Update History {#update-history}
 
-| Step | Result | Ingredients | Trivial | Combine In |
-|------|--------|-------------|--------|------------|
-| 1 | **Dye Vial** *(unfired vial)* | Vendor-sold **unfired vial** | — | Fire in **kiln** with **Quality Firing Sheet** |
-| 2 | **Prismatic Dye** | **Prism Shard** (vendor-sold), **Glaze Lacquer** | **54** | **Brew Barrel** *(Brewing)* **or** **Medicine Bag** *(Alchemy)* |
-| 3 | **Vial of Prismatic Dye** | **Prismatic Dye**, **Dye Vial** | **68** | **Brew Barrel** *(Brewing)* **or** **Medicine Bag** *(Alchemy)* |
+<details>
+<summary><strong>May 20, 2003 Patch Notes</strong></summary>
 
-> **Note:** Steps 2 and 3 can be performed using **either Brewing or Alchemy** — both skills work in their respective containers.
+- Focus potions now **scale duration** with level (3 min @ L1 → 3 hr @ L65)  
+- **Complete Heal excluded** from Beneficial Awareness  
+- **Spirit Shift** trivial → **≤87**  
+- Illusion trivials updated:  
+  - Half Elf: **≤167**  
+  - Human: **162 or 163**  
+  - Iksar: **≤187**  
+- Poison Awareness III trivial → **>191**
+
+</details>
 
 ---
 
-> **Source:** [EQ Traders Corner – LoY Alchemy Recipes](https://web.archive.org/web/20030602114737/http://www.eqtraders.com/secrets/LoY_alchemy.htm) (updated May 20, 2003; archived June 2, 2003)
+## Source {#source}
+
+> **Original Source:**  
+> [EQ Traders Corner – LoY Alchemy Recipes](https://web.archive.org/web/20030602114737/http://www.eqtraders.com/secrets/LoY_alchemy.htm)  
+> *(Updated: May 20, 2003 | Archived: June 2, 2003)*
+
+> **Vendor Info:** [Alchemy Trade Supplies](http://www.eqtraders.com/location/alchemy.htm)
+
+---
+
+> **Disclaimer:** EverQuest © Sony Computer Entertainment America, Inc.  
+> This page is community-maintained and not official policy.
