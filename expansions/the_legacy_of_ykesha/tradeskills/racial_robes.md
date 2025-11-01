@@ -2,7 +2,7 @@
 title: Legacy of Ykesha-Era Crafted Racial Robes
 description: A guide to player crafted racial robes
 published: true
-date: 2025-11-01T20:37:55.486Z
+date: 2025-11-01T20:41:44.468Z
 tags: tradeskills, cultural tradeskills, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-11-01T20:23:16.339Z
@@ -16,7 +16,6 @@ dateCreated: 2025-11-01T20:23:16.339Z
 
 * [Dark Elf](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/dark_elf)
 * [Erudite](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/erudite)
-* [Froglok](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/froglok)
 * [Gnome](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/gnome)
 * [High Elf](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/high_elf)
 * [Human](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes/human)
