@@ -2,7 +2,7 @@
 title: Launch Week Strategy
 description: What to do when Legacy of Ykesha launches
 published: true
-date: 2025-10-31T15:32:52.316Z
+date: 2025-11-01T19:04:17.107Z
 tags: guides, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T14:50:10.915Z
@@ -28,4 +28,4 @@ While you are exploring the five new zones in this expansion, get yourself some 
 
 
 ## Legacy of Ykesha Tradeskills
-Want to see whats new in the tradeskill arena? See the [Legacy of Ykesha Tradeskill Guide](/expansions/the_legacy_of_ykesha/tradeskill_guide) for more information.
+Want to see whats new in the tradeskill arena? See the [Legacy of Ykesha Tradeskill Guide](/expansions/the_legacy_of_ykesha/tradeskills) for more information.
