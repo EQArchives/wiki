@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-11-01T22:35:07.376Z
+date: 2025-11-01T23:06:11.747Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -12,7 +12,6 @@ dateCreated: 2025-10-31T15:24:47.266Z
 
 >**All LoY-specific recipes** (except **Tailoring** and **Alchemy**) are listed below.  
 For **Alchemy**, see: [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy)
-For **Tailoring**, see: [LoY Tailoring](/expansions/the_legacy_of_ykesha/tradeskills/tailoring)  
 **Armor Dyes** → [See section below](#armor-dyes)
 {.is-info}
 
