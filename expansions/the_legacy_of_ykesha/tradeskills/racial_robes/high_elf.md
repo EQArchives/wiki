@@ -2,7 +2,7 @@
 title: Legacy of Ykesha Era Cultural High Elf Robes
 description: 
 published: true
-date: 2025-11-01T20:44:29.765Z
+date: 2025-11-01T20:45:56.206Z
 tags: cultural tradeskills, high elf, the legacy of ykesha, tailoring
 editor: markdown
 dateCreated: 2025-11-01T20:43:10.000Z
@@ -20,4 +20,4 @@ dateCreated: 2025-11-01T20:43:10.000Z
 | **Robe of Tears**<br>Slot: CHEST<br>AC: 9<br>STA: +4 INT: +8 AGI: +2 HP: +10<br>SV FIRE: +6 SV COLD: +6<br>WT: 0.0 Size: TINY<br>Class: NEC WIZ MAG ENC<br>Race: ALL | **Components:** Feir'Dal Robe Pattern, Golden Crimson Ribbon, Koada'Dal Needle, Tear Etched Swatch<br>**In:** Deluxe Sewing Kit, Large Sewing Kit, Loom, Tanaan Loom, Collapsible Sewing Kit<br>**Yield:** 1<br>**Also Returns:** Koada'Dal Needle (1)<br>**On Failure Returns:** Koada'Dal Needle<br>*This combine may only be made by High Elves* | **232** |
 | **Robe of Virtue**<br>Slot: CHEST<br>AC: 11<br>**Focus Effect:** Reagent Conservation III<br>DEX: +2 STA: +10 INT: +11 HP: +25 MANA: +25<br>SV COLD: +20<br>WT: 0.0 Size: TINY<br>Class: NEC WIZ MAG ENC<br>Race: ALL | **Components:** Feir'Dal Robe Pattern, Koada'Dal Needle, Platinum Forestgreen Ribbon, Virtue Etched Swatch<br>**In:** Deluxe Sewing Kit, Large Sewing Kit, Loom, Tanaan Loom, Collapsible Sewing Kit<br>**Yield:** 1<br>**Also Returns:** Koada'Dal Needle (1)<br>**On Failure Returns:** Koada'Dal Needle<br>*This combine may only be made by High Elves* | **262** |
 
-> Source: EQ Traders Corner - High Elf LoY Tailoring (Last Modified: 2005-05-14)
+> **Source:** [EQ Traders Corner - High Elf LoY Tailoring](https://www.eqtraders.com/recipes/recipe_page.php?article=158&rsa=Tailoring&rc=HIE&sb=item&sub=loyek&menustr=080040060040) (Last Modified: 2005-05-14)
