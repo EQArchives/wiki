@@ -2,7 +2,7 @@
 title: Legacy of Ykesha Faction Guide
 description: A guide to factions introduced in the Legacy of Ykesha expansion
 published: true
-date: 2025-11-01T16:55:08.876Z
+date: 2025-11-01T16:55:34.211Z
 tags: the legacy of ykesha, factions, faction
 editor: markdown
 dateCreated: 2025-11-01T16:55:08.876Z
@@ -87,7 +87,3 @@ These are narrative factions and organizations central to LoY's storyline, even 
 20. Faction hit logs on Allakhazam mob pages  
 21. Quest entries on Allakhazam and Bon 2025 archives  
 22. [Gukta Zone Page](https://everquest.allakhazam.com/db/zone.html?zstrat=223)
-
----
-
-*All information is sourced from public, community-verified EverQuest databases active as of 2025. No speculation or fan fiction included.*
