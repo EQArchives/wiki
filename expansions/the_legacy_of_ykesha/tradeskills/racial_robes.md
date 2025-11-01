@@ -2,7 +2,7 @@
 title: Legacy of Ykesha-Era Crafted Racial Robes
 description: A guide to player crafted racial robes
 published: true
-date: 2025-11-01T20:46:18.667Z
+date: 2025-11-01T20:51:08.259Z
 tags: tradeskills, cultural tradeskills, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-11-01T20:23:16.339Z
