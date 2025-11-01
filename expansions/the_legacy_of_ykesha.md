@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-10-31T20:30:24.615Z
+date: 2025-11-01T16:57:07.373Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -28,7 +28,7 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 
 ## Detailed Guides
 - **[Froglok Starting Guide](/expansions/the_legacy_of_ykesha/froglok_guide)** - TODO
-- **[Faction Guide](/expansions/the_legacy_of_ykesha/faction_guide)** - TODO
+- **[Faction Guide](/expansions/the_legacy_of_ykesha/faction_guide)** - Details in-game reputation factions (e.g., Broken Skull Clan, Pirates of Gunthak) and lore groups (Luggalds, Clan Ykesha) introduced in Legacy of Ykesha
 - **[Launch Week Strategy](/expansions/the_legacy_of_ykesha/launch_week_strategy)** - What you should expect when the expansion releases.
 - Leveling Guide
 - Quest Guide
