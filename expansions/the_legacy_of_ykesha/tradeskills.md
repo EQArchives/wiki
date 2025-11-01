@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-11-01T20:51:27.299Z
+date: 2025-11-01T22:35:07.376Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -150,7 +150,7 @@ See also [Spell Research](/expansions/the_legacy_of_ykesha/tradeskills/spell_res
 | **Folded Medicine Bag** | High Quality Bear Skin, **Silver Ribbon** *(NO DROP)* | **136** | MAGIC • LORE • Cast: **Unfold Medicine Bag** (1.0 sec) → 6 LARGE slots, 0% WR, 0.4 wt |
 | **Folded Bearskin Potion Bag** | Thick Grizzly Bear Skin, Silk Cord, **Gold Ribbon** *(NO DROP)* | **162** | MAGIC • LORE • Cast: **Unfold Bearskin Bag** (1.0 sec) → 10 SMALL slots, 0% WR, 2.5 wt |
 
-> **36 ribbon combines** for racial robes → See [Racial Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes)
+> **36 ribbon combines** for racial robes can be done by any race → See [Racial Robes](/expansions/the_legacy_of_ykesha/tradeskills/racial_robes)
 
 ---
 
