@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-11-01T17:08:04.466Z
+date: 2025-11-01T17:08:38.128Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -35,7 +35,7 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 - **[Tradeskill Guide](/expansions/the_legacy_of_ykesha/tradeskills)** - New recipes, and materials
     - Guide to Armor Dyes
 - **[Spell Guide](/expansions/the_legacy_of_ykesha/spell_guide)** - What spells are introduced, and how to get them
-- **[Travel Guide](/expansions/shadows_of_luclin/travel_guide)** - LoY-era guide to reaching Broken Skull Rock (via Stonebrunt ship) and Gukta, with inter-zone paths and post-LoY additions noted.
+- **[Travel Guide](/expansions/the_legacy_of_ykesha/travel_guide)** - LoY-era guide to reaching Broken Skull Rock (via Stonebrunt ship) and Gukta, with inter-zone paths and post-LoY additions noted.
 - **[Charm Guide](/expansions/the_legacy_of_ykesha/charm_guide)** - Guide to Charm items introduced and where to find them
 - **[Raid Guide](/expansions/the_legacy_of_ykesha/raid_guide)** - Legacy of Ykesha is sparse in terms of raids with only 2 (eventually 3) options.
 - **[Lore Guide](/expansions/the_legacy_of_ykesha/lore)** - Original lore released with the expansion (Prophecy of Grozmok, The Stone is Stolen, Mithaniel Marr's Blessing, The Fall of Grobb, The Exodus to Neriak, In Pursuit of the Stone)
