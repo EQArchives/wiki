@@ -2,7 +2,7 @@
 title: Legacy of Ykesha (LoY) Cultural Robes - Dark Elf (Teir'Dal)
 description: 
 published: true
-date: 2025-11-02T18:45:16.956Z
+date: 2025-11-02T18:47:14.461Z
 tags: tradeskills, the legacy of ykesha, tailoring
 editor: markdown
 dateCreated: 2025-11-01T20:31:56.755Z
@@ -64,7 +64,6 @@ dateCreated: 2025-11-01T20:31:56.755Z
 
 ## Final Robe Combines (Dark Elf Only)
 
-> **Final robe combines** must be performed by **a Dark Elf** (any class) in a sewing kit/loom. Illusions do **not** work to obtain the no-drop **Dark Robe Pattern**.  
 > Robes are **tradable** and usable by **NEC, WIZ, MAG, ENC** of **any race**.  
 {.is-info}
 
