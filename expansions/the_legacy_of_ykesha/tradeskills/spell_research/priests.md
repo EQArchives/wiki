@@ -2,7 +2,7 @@
 title: Legacy of Ykesha Priest Research
 description: 
 published: true
-date: 2025-11-02T21:35:31.924Z
+date: 2025-11-02T21:37:11.311Z
 tags: tradeskills, research, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-11-02T21:35:31.924Z
@@ -10,7 +10,7 @@ dateCreated: 2025-11-02T21:35:31.924Z
 
 # LoY Priest Spell Research Recipes
 
-**These research combines can be performed by ANY researcher**, regardless of caster class. They must be combined in the appropriate **advanced research container** (see [LoY Caster Research Recipes](/expansions/the_legacy_of_ykesha/tradeskills/research/casters)).
+**These research combines can be performed by ANY researcher**, regardless of caster class. They must be combined in the appropriate **advanced research container** (see [LoY Caster Research Recipes](/expansions/the_legacy_of_ykesha/tradeskills/spell_research/casters)).
 
 > **⚠️ WARNING:** Some 50-60 dropped spells are **LORE**. Check if you already have a copy before researching!
 
