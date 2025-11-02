@@ -2,7 +2,7 @@
 title: Legacy of Ykesha Priest Research
 description: 
 published: true
-date: 2025-11-02T21:40:19.900Z
+date: 2025-11-02T21:43:42.523Z
 tags: tradeskills, research, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-11-02T21:35:31.924Z
