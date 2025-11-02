@@ -2,7 +2,7 @@
 title: Legacy of Ykesha Priest Research
 description: 
 published: true
-date: 2025-11-02T21:37:11.311Z
+date: 2025-11-02T21:40:19.900Z
 tags: tradeskills, research, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-11-02T21:35:31.924Z
@@ -15,7 +15,7 @@ dateCreated: 2025-11-02T21:35:31.924Z
 > **⚠️ WARNING:** Some 50-60 dropped spells are **LORE**. Check if you already have a copy before researching!
 
 **Notes:**
-- **Parchment and Quill** are [standard spell research components](/wiki/Spell_Research_Components).
+- **Parchment and Quill** are [standard spell research components](/expansions/the_legacy_of_ykesha/tradeskills/location/spell_research).
 - Other items (**Words, Pages, Runes**) are random drops from higher-level mobs.
 - Enchanter page abbreviations:  
   **Finnok's** = Finnok's Treatise  
