@@ -2,7 +2,7 @@
 title: Spell Guide
 description: Legacy of Ykesha Spells
 published: true
-date: 2025-11-02T23:49:36.215Z
+date: 2025-11-02T23:49:55.355Z
 tags: guide, spells, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T18:06:02.336Z
@@ -42,7 +42,7 @@ When the Legacy of Ykesha expansion released, each class got two new spells that
 ---
 
 ## Sources
-- [Lucy Allakhazam Spell Database](https://lucy.allakhazam.com/) (LoY-era spell data)
+- [Lucy Allakhazam Spell Database](https://lucy.allakhazam.com/)
 
 On **March 16, 2012** (approximately 9 years after the expansion's release), a major change was implemented:
 
