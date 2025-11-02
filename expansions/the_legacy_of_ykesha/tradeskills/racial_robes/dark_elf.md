@@ -2,7 +2,7 @@
 title: Legacy of Ykesha (LoY) Cultural Robes - Dark Elf (Teir'Dal)
 description: 
 published: true
-date: 2025-11-02T19:11:01.492Z
+date: 2025-11-02T19:14:32.300Z
 tags: tradeskills, the legacy of ykesha, tailoring
 editor: markdown
 dateCreated: 2025-11-01T20:31:56.755Z
@@ -13,7 +13,7 @@ dateCreated: 2025-11-01T20:31:56.755Z
 ---
 
 ## Acquisition & Vendors
-- **Dark Robe Pattern** (no-drop): Javan TaVas, Neriak Foreign Quarter (loc 175, -170). Sells recipe books. *Illusions do not work* to obtain the no-drop Dark Robe Pattern.
+- **Dark Robe Pattern** (no-drop): Javan TaVas, Neriak Foreign Quarter (loc 175, -170). He will only give out the pattern to Dark Elves (*Illusions do not work*).  He also sells the two recipes books containing these robe patterns.
 - **Advanced Research Container**: Researcher Alvarik (Gulf of Gunthak) – hail for class-specific container (requires Research >100).
 
 ---
