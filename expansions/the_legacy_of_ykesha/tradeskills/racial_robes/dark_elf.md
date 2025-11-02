@@ -2,7 +2,7 @@
 title: Legacy of Ykesha (LoY) Cultural Robes - Dark Elf (Teir'Dal)
 description: 
 published: true
-date: 2025-11-02T18:47:14.461Z
+date: 2025-11-02T18:56:58.035Z
 tags: tradeskills, the legacy of ykesha, tailoring
 editor: markdown
 dateCreated: 2025-11-01T20:31:56.755Z
@@ -47,7 +47,8 @@ dateCreated: 2025-11-01T20:31:56.755Z
 | Platinum Black Ribbon | Platinum Ribbon, **Elm** Handled Shears, **Ashen Dye** | 187 |
 
 ### Spell Research (Swatches) – Any INT Caster
-*(In class-specific advanced container; Parchment & Quill vendor-bought)*
+**Container:** Advanced Research container (specific to the int caster making the combine)
+
 | Swatch | Components | Trivial |
 |--------|------------|---------|
 | Cyclone Runed Swatch | Rune of Cyclone, Parchment, Quill | ≤101 |
@@ -57,15 +58,12 @@ dateCreated: 2025-11-01T20:31:56.755Z
 | Argli Scribed Swatch | Yaeth's Compendium Pg. 73 (Right), Parchment, Quill | — |
 | Abrogation Scried Swatch | Words of Abrogation, Parchment, Quill | — |
 
-> **Note:** Swatch creation (via Spell Research) can be done by **any INT caster** (not just Dark Elves) with Research skill >100 in the appropriate advanced research container (obtained from Researcher Alvarik in Gulf of Gunthak). 
+> **Note:** Advanced Research containers - Arch Magus Grimoire (MAG), Phantasmal Tome (ENC), Sorceror's Lexicon (WIZ), and Warlock's Book of Binding (NEC) -  can be obtained from Researcher Alvarik in Gulf of Gunthak just SW of the light house. Loc is +1374, +76.  INT casters must have a research skill over 100.  See the details for his "High Level Research" quest.
 {.is-info}
 
 ---
 
 ## Final Robe Combines (Dark Elf Only)
-
-> Robes are **tradable** and usable by **NEC, WIZ, MAG, ENC** of **any race**.  
-{.is-info}
 
 **Container:** Deluxe Sewing Kit, Large Sewing Kit, Loom, Tanaan Loom, or Collapsible Sewing Kit  
 **Required (all robes):**  
@@ -82,6 +80,9 @@ dateCreated: 2025-11-01T20:31:56.755Z
 | **Robe of Ellipse**<br>AC: 10<br>DEX+5 STA+3 INT+9 HP+10 MANA+15<br>SV FIRE+8 SV MAGIC+8<br>WT: 0.0 TINY  \|  NEC WIZ MAG ENC  \|  ALL | `Ellipse Runed Swatch`<br>`Golden Black Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **242** |
 | **Robe of the Cyclone**<br>AC: 8<br>DEX+2 INT+5<br>SV FIRE+3 SV COLD+4 SV MAGIC+3<br>WT: 0.0 TINY  \|  NEC WIZ MAG ENC  \|  ALL | `Cyclone Runed Swatch`<br>`Silvery Grey Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **212** |
 | **Robe of Wings**<br>AC: 9<br>DEX+3 STA+3 INT+8 HP+10 MANA+5<br>SV DISEASE+7 SV COLD+7<br>WT: 0.0 TINY  \| NEC WIZ MAG ENC \| ALL | `Wing Etched Swatch`<br>`Golden Grey Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **232** |
+
+> Robes are **tradable** and usable by **NEC, WIZ, MAG, ENC** of **any race**.  
+{.is-info}
 
 ---
 
