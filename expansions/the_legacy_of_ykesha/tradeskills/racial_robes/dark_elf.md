@@ -2,7 +2,7 @@
 title: Legacy of Ykesha (LoY) Cultural Robes - Dark Elf (Teir'Dal)
 description: 
 published: true
-date: 2025-11-02T18:56:58.035Z
+date: 2025-11-02T19:11:01.492Z
 tags: tradeskills, the legacy of ykesha, tailoring
 editor: markdown
 dateCreated: 2025-11-01T20:31:56.755Z
@@ -10,9 +10,6 @@ dateCreated: 2025-11-01T20:31:56.755Z
 
 # Legacy of Ykesha (LoY) Cultural Robes – Dark Elves (Teir'Dal)
 
-> **Teir'Dal Needle** and **shears** are returned on all combines (success or failure).  
-> Dye components are foraged/dropped in LoY zones; spell research drops are world-wide (higher-level mobs).
-{.is-info}
 ---
 
 ## Acquisition & Vendors
@@ -24,6 +21,8 @@ dateCreated: 2025-11-01T20:31:56.755Z
 ## Subcombines
 
 ### Brewing (Dyes)
+Dye components are foraged/dropped in LoY zones;
+
 | Item | Components | Trivial |
 |------|------------|---------|
 | Cursed Dye | Cursed Clover of Viesar, Water Flask | 127 |
@@ -37,6 +36,8 @@ dateCreated: 2025-11-01T20:31:56.755Z
 | **Teir'Dal Needle** | Embroidery Needle, Nektulos Essence | 132 |
 
 ### Tailoring – Ribbons (Any Race)
+Shears are returned on all combines (success or failure).
+
 | Item | Components | Trivial |
 |------|------------|---------|
 | Silvery Grey Ribbon | Silver Ribbon, Hickory Handled Shears, **Cursed Dye** | 116 |
@@ -47,7 +48,9 @@ dateCreated: 2025-11-01T20:31:56.755Z
 | Platinum Black Ribbon | Platinum Ribbon, **Elm** Handled Shears, **Ashen Dye** | 187 |
 
 ### Spell Research (Swatches) – Any INT Caster
-**Container:** Advanced Research container (specific to the int caster making the combine)
+The spell research items other than parchment and quill (vendor sold) are random mob drops off higher level mobs throughout the world.
+
+**Container:** Arch Magus Grimoire (MAG), Phantasmal Tome (ENC), Sorceror's Lexicon (WIZ), and Warlock's Book of Binding (NEC)
 
 | Swatch | Components | Trivial |
 |--------|------------|---------|
@@ -58,7 +61,7 @@ dateCreated: 2025-11-01T20:31:56.755Z
 | Argli Scribed Swatch | Yaeth's Compendium Pg. 73 (Right), Parchment, Quill | — |
 | Abrogation Scried Swatch | Words of Abrogation, Parchment, Quill | — |
 
-> **Note:** Advanced Research containers - Arch Magus Grimoire (MAG), Phantasmal Tome (ENC), Sorceror's Lexicon (WIZ), and Warlock's Book of Binding (NEC) -  can be obtained from Researcher Alvarik in Gulf of Gunthak just SW of the light house. Loc is +1374, +76.  INT casters must have a research skill over 100.  See the details for his "High Level Research" quest.
+> **Note:** The advanced research container used has to match the INT caster making the combine.  They can be obtained from Researcher Alvarik in Gulf of Gunthak just SW of the light house. Loc is +1374, +76.  INT casters must have a research skill over 100.  See the details for his "High Level Research" quest.
 {.is-info}
 
 ---
