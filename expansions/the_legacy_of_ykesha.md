@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-11-01T17:16:15.785Z
+date: 2025-11-02T01:33:10.994Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -33,7 +33,7 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 - Leveling Guide
 - Quest Guide
 - **[Tradeskill Guide](/expansions/the_legacy_of_ykesha/tradeskills)** - New recipes, and materials
-    - Guide to Armor Dyes
+    - [Armor Dyes](/expansions/the_legacy_of_ykesha/tradeskills#armor-dyes)
 - **[Spell Guide](/expansions/the_legacy_of_ykesha/spell_guide)** - What spells are introduced, and how to get them
 - **[Travel Guide](/expansions/the_legacy_of_ykesha/travel_guide)** - LoY-era guide to reaching Broken Skull Rock (via Stonebrunt ship) and Gukta, with inter-zone paths and post-LoY additions noted.
 - **[Charm Guide](/expansions/the_legacy_of_ykesha/charm_guide)** - Guide to Charm items introduced and where to find them
