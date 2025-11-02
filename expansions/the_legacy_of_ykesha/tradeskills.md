@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-11-02T22:37:10.882Z
+date: 2025-11-02T22:37:42.200Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -129,7 +129,7 @@ For **Alchemy**, see: [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tra
 ### Racial Needles *(Trivial 132)*
 
 | Item | Recipe | Trivial |
-|--------|-------------|
+|--------|-------------| ------- |
 | **Clockwork Needle** | Embroidering Needle, Clockwork Essence | **132** |
 | **Antonican Needle** | Embroidering Needle, Vital Essence | **132** |
 | **Cabilisian Needle** | Embroidering Needle, Cabilis Essence | **132** |
