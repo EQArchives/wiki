@@ -2,7 +2,7 @@
 title: Legacy of Ykesha (LoY) Cultural Robes - Dark Elf (Teir'Dal)
 description: 
 published: true
-date: 2025-11-02T19:14:32.300Z
+date: 2025-11-02T20:34:00.884Z
 tags: tradeskills, the legacy of ykesha, tailoring
 editor: markdown
 dateCreated: 2025-11-01T20:31:56.755Z
@@ -21,7 +21,8 @@ dateCreated: 2025-11-01T20:31:56.755Z
 ## Subcombines
 
 ### Brewing (Dyes)
-Dye components are foraged/dropped in LoY zones;
+*Cursed Clover of Viesar* drops in **The Overthere** from a thorny, spiked, barbed, prickly, or bristly succulent.
+*Ashweed* drops in the **Lavastorm Mountains** from a fire imp, a fire goblin wizard, a fire goblin scout, a fire goblin, a goblin scout, and a goblin warrior.
 
 | Item | Components | Trivial |
 |------|------------|---------|
