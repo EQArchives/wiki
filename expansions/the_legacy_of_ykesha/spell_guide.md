@@ -2,7 +2,7 @@
 title: Spell Guide
 description: Legacy of Ykesha Spells
 published: true
-date: 2025-11-02T23:49:55.355Z
+date: 2025-11-02T23:51:26.342Z
 tags: guide, spells, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T18:06:02.336Z
@@ -44,9 +44,10 @@ When the Legacy of Ykesha expansion released, each class got two new spells that
 ## Sources
 - [Lucy Allakhazam Spell Database](https://lucy.allakhazam.com/)
 
-On **March 16, 2012** (approximately 9 years after the expansion's release), a major change was implemented:
+On **March 16, 2012** (approximately 9 years after the expansion's release), a major change was implemented.
 
-From the patch notes: "*The scholars of the Library of Myrist in the Plane of Knowledge have expanded their inventories. They now carry most spells, tomes, or songs that an adventurer will need. They do not carry ancient spells or advanced spell ranks.*"
+**From the patch notes:**
+>"The scholars of the Library of Myrist in the Plane of Knowledge have expanded their inventories. They now carry most spells, tomes, or songs that an adventurer will need. They do not carry ancient spells or advanced spell ranks."
 
 This patch made formerly quest-only and research-only spells (including the Legacy of Ykesha quest spells) available for purchase from vendors in the Plane of Knowledge Library. However, this change also significantly increased spell prices - spells that previously cost 10 platinum now cost 40+ platinum, and level 50+ spells exceeded 100 platinum.
 
