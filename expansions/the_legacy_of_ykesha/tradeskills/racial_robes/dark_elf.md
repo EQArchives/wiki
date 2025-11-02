@@ -2,7 +2,7 @@
 title: Legacy of Ykesha (LoY) Cultural Robes - Dark Elf (Teir'Dal)
 description: 
 published: true
-date: 2025-11-02T18:35:28.013Z
+date: 2025-11-02T18:44:15.554Z
 tags: tradeskills, the legacy of ykesha, tailoring
 editor: markdown
 dateCreated: 2025-11-01T20:31:56.755Z
@@ -10,8 +10,6 @@ dateCreated: 2025-11-01T20:31:56.755Z
 
 # Legacy of Ykesha (LoY) Cultural Robes – Dark Elves (Teir'Dal)
 
-> **Final robe combines** must be performed by **a Dark Elf** (any class) in a sewing kit/loom. Illusions do **not** work to obtain the no-drop **Dark Robe Pattern**.  
-> Robes are **tradable** and usable by **NEC, WIZ, MAG, ENC** of **any race**.  
 > **Teir'Dal Needle** and **shears** are returned on all combines (success or failure).  
 > Dye components are foraged/dropped in LoY zones; spell research drops are world-wide (higher-level mobs).
 {.is-info}
@@ -66,6 +64,10 @@ dateCreated: 2025-11-01T20:31:56.755Z
 
 ## Final Robe Combines (Dark Elf Only)
 
+> **Final robe combines** must be performed by **a Dark Elf** (any class) in a sewing kit/loom. Illusions do **not** work to obtain the no-drop **Dark Robe Pattern**.  
+> Robes are **tradable** and usable by **NEC, WIZ, MAG, ENC** of **any race**.  
+{.is-info}
+
 **Container:** Deluxe Sewing Kit, Large Sewing Kit, Loom, Tanaan Loom, or Collapsible Sewing Kit  
 **Required (all robes):**  
 - 1x **Dark Robe Pattern** (no-drop, from Javan TaVas in Neriak)  
@@ -80,7 +82,7 @@ dateCreated: 2025-11-01T20:31:56.755Z
 | **Robe of Burnishing**<br>AC: 9<br>INT+6 AGI+2 HP+5 MANA+5<br>SV DISEASE+6 SV POISON+6<br>WT: 0.0 TINY  \|  NEC WIZ MAG ENC  \|  ALL | `Burnish Scried Swatch`<br>`Silvery Black Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **222** |
 | **Robe of Ellipse**<br>AC: 10<br>DEX+5 STA+3 INT+9 HP+10 MANA+15<br>SV FIRE+8 SV MAGIC+8<br>WT: 0.0 TINY  \|  NEC WIZ MAG ENC  \|  ALL | `Ellipse Runed Swatch`<br>`Golden Black Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **242** |
 | **Robe of the Cyclone**<br>AC: 8<br>DEX+2 INT+5<br>SV FIRE+3 SV COLD+4 SV MAGIC+3<br>WT: 0.0 TINY  \|  NEC WIZ MAG ENC  \|  ALL | `Cyclone Runed Swatch`<br>`Silvery Grey Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **212** |
-| **Robe of Wings**<br>AC: 9<br>DEX+3 STA+3 INT+8 HP+10 MANA+5<br>SV DISEASE+7 SV COLD+7<br>WT: 0.0 TINY  \|  (No class/race listed) | `Wing Etched Swatch`<br>`Golden Grey Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **232** |
+| **Robe of Wings**<br>AC: 9<br>DEX+3 STA+3 INT+8 HP+10 MANA+5<br>SV DISEASE+7 SV COLD+7<br>WT: 0.0 TINY  \| NEC WIZ MAG ENC \| ALL | `Wing Etched Swatch`<br>`Golden Grey Ribbon`<br>`Dark Robe Pattern`<br>`Teir'Dal Needle` | **232** |
 
 ---
 
