@@ -2,7 +2,7 @@
 title: Spell Guide
 description: Legacy of Ykesha Spells
 published: true
-date: 2025-11-02T23:15:35.872Z
+date: 2025-11-02T23:15:56.719Z
 tags: guide, spells, legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T18:06:02.336Z
@@ -10,8 +10,6 @@ dateCreated: 2025-10-30T18:06:02.336Z
 
 # LoY Spell Guide
 When the Legacy of Ykesha expansion released, each class got two new spells that had to be obtained through specific quests in the new zones (primarily Gunthak, Dulak's Harbor, Togiran Mines).  These spells were originally marked as No Drop and could not be purchased from vendors.
-
-# Level 40-52 Key Spells (Luclin Era - Project 1999 / FV Project)
 
 | Spell Name | Level | Class | Spell Type | School | Effect |
 |------------|-------|-------|------------|--------|--------|
