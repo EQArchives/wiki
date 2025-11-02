@@ -2,7 +2,7 @@
 title: Legacy of Ykesha Research
 description: A guide to Research after the Legacy of Ykesha expansion
 published: true
-date: 2025-11-02T02:06:29.285Z
+date: 2025-11-02T21:30:59.679Z
 tags: research, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T22:36:38.493Z
@@ -231,7 +231,7 @@ dateCreated: 2025-10-31T22:36:38.493Z
 | 49 | 184 |
 ---
 > **Source:**  
-> [EQ Traders Corner – LoY Spell Research](https://web.archive.org/web/20030602123915/http://www.eqtraders.com/secrets/LoYresearch_int.htm)  
+> [EQ Traders Corner – LoY Spell Research](https://web.archive.org/web/20030602123915/http://www.eqtraders.com/secrets/LoYresearch.htm)  
 > *(Last Updated 27 May 2003 | Archived June 2, 2003)* 
 
 > **Related:**  
