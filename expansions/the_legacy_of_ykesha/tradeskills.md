@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-11-02T22:20:43.681Z
+date: 2025-11-02T22:21:14.532Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -175,7 +175,7 @@ For **Alchemy**, see: [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tra
 
 > **Related Pages:**  
 > [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tradeskills/alchemy) 
-> [Gukta Trade Supplies](/expansions/the_legacy_of_ykesha/tradeskills/locations/gukta)  
-> [Gulf of Gunthak Supplies](/expansions/the_legacy_of_ykesha/tradeskills/locations/gunthak)
+> [Gukta Trade Supplies](/expansions/the_legacy_of_ykesha/tradeskills/location/gukta)  
+> [Gulf of Gunthak Supplies](/expansions/the_legacy_of_ykesha/tradeskills/location/gunthak)
 {.is-info}
 ---
