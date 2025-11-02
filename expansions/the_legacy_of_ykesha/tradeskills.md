@@ -2,7 +2,7 @@
 title: Tradeskill Guide
 description: A guide to tradeskill components and recipes introduced in the LoY expansion
 published: true
-date: 2025-11-02T22:21:14.532Z
+date: 2025-11-02T22:30:57.290Z
 tags: tradeskills, guides, guide, tradeskill
 editor: markdown
 dateCreated: 2025-10-31T15:24:47.266Z
@@ -130,12 +130,12 @@ For **Alchemy**, see: [LoY Alchemy Recipes](/expansions/the_legacy_of_ykesha/tra
 
 | Needle | Ingredients |
 |--------|-------------|
-| **Clockwork** | Embroidery Needle, Clockwork Essence |
-| **Antonica** | Embroidery Needle, Vital Essence |
-| **Cabilis** | Embroidery Needle, Cabilis Essence |
-| **Erud** | Embroidery Needle, Erud's Essence |
-| **Fier'dal** | Embroidery Needle, Faydark Essence |
-| **Tier'dal** | Embroidery Needle, Nektulos Essence |
+| **Clockwork Needle** | Embroidery Needle, Clockwork Essence |
+| **Antonica Needle** | Embroidery Needle, Vital Essence |
+| **Cabilis Needle** | Embroidery Needle, Cabilis Essence |
+| **Erud Needle** | Embroidery Needle, Erud's Essence |
+| **Feir\`dal Needle** | Embroidery Needle, Faydark Essence |
+| **Teir\`dal Needle** | Embroidery Needle, Nektulos Essence |
 
 ---
 
