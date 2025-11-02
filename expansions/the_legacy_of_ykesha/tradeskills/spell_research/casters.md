@@ -2,7 +2,7 @@
 title: Legacy of Ykesha Research
 description: A guide to Research after the Legacy of Ykesha expansion
 published: true
-date: 2025-11-02T21:30:59.679Z
+date: 2025-11-02T21:37:43.959Z
 tags: research, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-31T22:36:38.493Z
