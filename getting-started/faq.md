@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: 
 published: true
-date: 2025-08-10T20:23:20.189Z
+date: 2025-11-10T01:48:08.907Z
 tags: getting-started, faq
 editor: markdown
 dateCreated: 2025-08-10T18:33:22.953Z
@@ -62,7 +62,7 @@ A: It depends.  Some client features are gated to the expansion they were introd
 
 ---
 
-Q: How do group experience bonuses work on this server?
+>Q: How do group experience bonuses work on this server?
 
 A:  We have configured server rules to specifically incentivize groups larger than 3 (since this server permits a 3-box limit)
 This is accomplished by setting two server rules: GroupExpMultiplier = 2 and GroupExpBonuses = True.  This results in a formula as follows:
