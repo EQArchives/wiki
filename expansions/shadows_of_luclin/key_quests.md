@@ -2,7 +2,7 @@
 title: Shadows of Luclin Key Quests & Raid Access Guide
 description: Accessing the Final Raid Zones in the Shadows of Luclin Expansion
 published: true
-date: 2025-10-13T03:54:06.735Z
+date: 2025-11-13T15:41:27.957Z
 tags: shadows of luclin, raiding guides
 editor: markdown
 dateCreated: 2025-10-13T03:54:06.735Z
@@ -19,7 +19,9 @@ dateCreated: 2025-10-13T03:54:06.735Z
 
 ## Raid Access Keys
 
-**[Key to Vex Thal](https://everquest.allakhazam.com/db/quest.html?quest=2000){:target="_blank"}** - Lets you zone into Vex Thal. **THE SHARDS ARE NOW ZONE WIDE DROPS** (much like the VP key)
+**[Abom's Guide to Vex Thal Keying](/world/VT_Key_Guide)** - Lets you zone into Vex Thal. **THE SHARDS ARE NOW ZONE WIDE DROPS** (much like the VP key)
+
+  * **[Allakhazam's Guide to Vex Thal Keying](https://everquest.allakhazam.com/db/quest.html?quest=2000){:target="_blank"}**
 
 **[Key to the Emperor's Chamber](https://everquest.allakhazam.com/db/quest.html?quest=1999){:target="_blank"}** - Requires four drops from Ssra. Video linked in Zam article.
 
