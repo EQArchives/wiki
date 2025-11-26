@@ -2,7 +2,7 @@
 title: Shadows of Luclin Key Quests & Raid Access Guide
 description: Accessing the Final Raid Zones in the Shadows of Luclin Expansion
 published: true
-date: 2025-11-26T16:16:23.598Z
+date: 2025-11-26T16:17:12.830Z
 tags: shadows of luclin, raiding guides
 editor: markdown
 dateCreated: 2025-10-13T03:54:06.735Z
@@ -29,7 +29,7 @@ dateCreated: 2025-10-13T03:54:06.735Z
 
 ## Bane Weapons (Required for Endgame)
 
-**[Seru Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1997){:target="_blank"}** - Requires ~300 blacksmithing skill to reliably make the Yttrium forged sheets. The weapons themselves are no drop and are about 150 trivial.
+**[Seru Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1997){:target="_blank"}** - Requires ~300 blacksmithing skill to reliably make the Yttrium forged sheets. The weapons themselves are droppable here and are about 150 trivial.
 
 **[Emperor Bane Weapons](https://everquest.allakhazam.com/db/quest.html?quest=1998){:target="_blank"}** - Requires an ore drop from the basement of Ssra. No skill requirement on the weapons.
 
