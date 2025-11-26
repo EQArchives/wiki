@@ -2,7 +2,7 @@
 title: Shadows of Luclin Key Quests & Raid Access Guide
 description: Accessing the Final Raid Zones in the Shadows of Luclin Expansion
 published: true
-date: 2025-11-13T15:41:27.957Z
+date: 2025-11-26T16:16:23.598Z
 tags: shadows of luclin, raiding guides
 editor: markdown
 dateCreated: 2025-10-13T03:54:06.735Z
@@ -19,7 +19,7 @@ dateCreated: 2025-10-13T03:54:06.735Z
 
 ## Raid Access Keys
 
-**[Abom's Guide to Vex Thal Keying](/world/VT_Key_Guide)** - Lets you zone into Vex Thal. **THE SHARDS ARE NOW ZONE WIDE DROPS** (much like the VP key)
+**[Abom's Guide to Vex Thal Keying](/world/VT_Key_Guide)** - Lets you zone into Vex Thal
 
   * **[Allakhazam's Guide to Vex Thal Keying](https://everquest.allakhazam.com/db/quest.html?quest=2000){:target="_blank"}**
 
