@@ -2,7 +2,7 @@
 title: Miragul's Highway
 description: a network of portals used by Miragul to travel across Norrath
 published: true
-date: 2025-08-10T21:42:51.787Z
+date: 2025-11-27T18:55:29.969Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T20:32:49.377Z
@@ -21,7 +21,7 @@ Numerous curious adventurers have written about Miragul's Highway over the years
 ## Timorous Deep Firepot Room
 The firepot room was discovered in Timorous Deep shortly after first adventurers began venturing from Oasis to the The Ruins of Kunark.  It is perhaps the only accessible part of Miragul's Highway - however it is unfortunately well within aggro range of Faydedar.  Opportunistic adventurers should be careful about binding in the firepot room - some say that death loops have happened.
 
-> Note: On live, there was a patch that prevented binding in the firepot room about three or four days after Kunark came out. {.is-info}
+> Note: On live, there was a patch that prevented binding in the firepot room about three or four days after Kunark came out. On EQA, the firepot room is bindable permanently.{.is-info}
 
 <figure style="margin: 0 0 15px 15px; border: 1px solid #a2a9b1; padding: 3px; background: #f8f9fa; font-size: 0.9em; max-width: 440px;">
   <img src="/firepot_room.jpg" alt="The Firepot's and their Destination" style="width: 100%; height: auto; display: block;">
