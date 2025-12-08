@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-10-30T21:21:23.331Z
+date: 2025-12-08T00:06:36.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -97,3 +97,11 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 | 1 | No | Fishing | 200 | 200 |
 | 1 | No | Sense Heading | 200 | 200 |
 | 1 | No | Swimming | 200 | 200 |
+
+## Pet Information
+* Barb: Wolf
+* Iksar: Scaled Wolf
+* Ogre: Bear
+* Troll: Alligator
+* Vah Shir: Tiger
+
