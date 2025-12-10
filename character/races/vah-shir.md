@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-10T04:27:46.014Z
+date: 2025-12-10T04:33:35.798Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -20,15 +20,15 @@ Because the Vah Shir are not exposed to the daily struggles in Norrath, they are
 Shar Vahl is the majestic den of the Vah Shir. The city was built high above Norrath, on the moon Luclin. The city is located between the Hollowshade Moor and Shadeweaver's Thicket.
 
 ## Basic Information
-- **Faction Alignment:** Neutral
+- **Faction Alignment:** Neutral (Agnostic deities; evil races/classes tolerated without attack)
 - **Racial(s):** 
     - **Abilities:** Infravision, Safe Fall (Starts at 100 skill)
-    - **Penalties:** Increased Consumption Rate (2x as fast)
+    - **Penalties:** Increased Consumption Rate (2x rate food/drink)
 - **Starting City:** Shar Vahl
-- **Playable Clases:** Warrior, Bard, Rogue, Shaman, Beastlord
-- **Experience Modifier:** 5% Less Gained 
+- **Playable Clases:** Warrior, Bard, Rogue, Shaman, Beastlord, ~~Berserker (GoD)~~
+- **Experience Modifier:** -5% (5% less XP gained; *gets removed in modern EQ*)
 - **Armor:** Large
-- **Known Languages:** Common
+- **Known Languages:** Common Tongue (Combine, 100), Erudian (32), Vah Shir (racial)
 - **Abbreviation:** VAH
 
 ## New Characters
