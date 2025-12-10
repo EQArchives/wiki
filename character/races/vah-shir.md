@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-10T03:36:43.569Z
+date: 2025-12-10T03:38:05.076Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -23,4 +23,5 @@ Shar Vahl is the majestic den of the Vah Shir. The city was built high above Nor
 - **Faction Alignment:** Neutral
 - **Racial(s):** Increased Consumption Rate, Safe Fall
 - **Starting City:** Shar Vahl
+- **Playable Clases:** Warrior, Bard, Rogue, Shaman, Beastlord
 - **Armor:** Large
