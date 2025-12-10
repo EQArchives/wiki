@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-10T03:48:12.985Z
+date: 2025-12-10T03:52:44.620Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -28,8 +28,10 @@ Shar Vahl is the majestic den of the Vah Shir. The city was built high above Nor
 - **Known Languages:** Common
 - **Abbreviation:** VAH
 
-## Starting Locations
-New Vah Shir characters start in Shar Vahl.  Their starting location in the city depends on their chosen class.
+## New Characters
+
+### Starting Locations
+New Vah Shir characters start in **Shar Vahl**.  Their starting location in the city depends on their chosen class.
 
 | Class | Y | X | Z | Heading |
 | --- | --- | --- | --- | --- |
@@ -38,6 +40,9 @@ New Vah Shir characters start in Shar Vahl.  Their starting location in the city
 | Rogue | 190.0 | -300.0 | -248.0 | 128.0 |
 | Shaman | 55.0 | 100.0 | -260.0 | 256.0 |
 | Beastlord | 275.0 | 90.0 | -260.0 | 0.0 |
+
+### Bind Location
+All new Vah Shir characters have a starting bind location at Y: -1132, X: 86.0, Z: -187.0.
 
 ## Base Stats
 TODO
