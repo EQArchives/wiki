@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T04:58:23.267Z
+date: 2025-12-14T04:59:18.063Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -64,7 +64,10 @@ All new Iksar characters have a starting bind location in **Field of Bone** at: 
 | Warrior | 80 | 80 | 95 | 85 | 80 | 75 | 55 | 25 |
 
 ## Hit Point Regeneration
-
+Both Iksar and Trolls have higher HP regeneration rates (per tick):
+- A "tick" happens every 6 seconds (server side).
+- It does not matter whether you are sitting or standing between seconds 1 and 5, only the 6th second. 
+    
 | Iksar/Troll | | | | All other races | | |
 |-------------|---|---|--------------|-----------------|---|---|
 | **Standing** | **Feigned** | **Sitting** | **Level Range** | **Standing** | **Feigned** | **Sitting** |
