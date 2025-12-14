@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T04:33:15.757Z
+date: 2025-12-14T04:42:07.225Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -46,5 +46,15 @@ New Iksar characters start in either **East Cabilis** or **West Cabilis** depend
 ### Bind Location
 All new Iksar characters have a starting bind location in **Field of Bone** at: **Y**: -2394.0, **X**: 3244.0, **Z**: 12.0.
 ## Base Stats
-
+| STR | STA | AGI | DEX | WIS | INT | CHA |
+| --- | --- | --- | --- | --- | --- | --- |
+| 70 | 70 | 90 | 85 | 80 | 75 | 55 |
 ## Starting Stats
+| Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Beastlord* | | | | | | | | |
+| Monk | 75 | 75 | 100 | 95 | 80 | 75 | 55 | 20 |
+| Necromancer | 70 | 70 | 90 | 95 | 80 | 85 | 55 | 30 |
+| Shadowknight | 80 | 75 | 90 | 85 | 80 | 85 | 60 | 20 |
+| Shaman | 70 | 75 | 90 | 85 | 90 | 75 | 60 | 30 |
+| Warrior | 80 | 80 | 95 | 85 | 80 | 75 | 55 | 25 |
