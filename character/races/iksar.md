@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T04:42:07.225Z
+date: 2025-12-14T04:46:23.300Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -58,3 +58,18 @@ All new Iksar characters have a starting bind location in **Field of Bone** at: 
 | Shadowknight | 80 | 75 | 90 | 85 | 80 | 85 | 60 | 20 |
 | Shaman | 70 | 75 | 90 | 85 | 90 | 75 | 60 | 30 |
 | Warrior | 80 | 80 | 95 | 85 | 80 | 75 | 55 | 25 |
+
+## Hit Point Regeneration
+
+| Iksar/Troll | | | | All other races | | |
+|-------------|---|---|--------------|-----------------|---|---|
+| **Standing** | **Feigned** | **Sitting** | **Level Range** | **Standing** | **Feigned** | **Sitting** |
+| 2 | 2 | 4 | 01 - 19 | 1 | 1 | 2 |
+| 2 | 2 | 6 | 20 - 49 | 1 | 1 | 3 |
+| 2 | 2 | 8 | 50 | 1 | 1 | 4 |
+| 6 | 8 | 12 | 51 - 55 | 2 | 3 | 5 |
+| 10 | 12 | 16 | 56 - 59 | 3 | 4 | 6 |
+| 12 | 14 | 18 | 60 | 4 | 5 | 7 |
+| 14 | 16 | 20 | 61 - 62 | 5 | 6 | 8 |
+| 16 | 18 | 22 | 63 - 64 | 6 | 7 | 9 |
+| 18 | 20 | 24 | 65 | 7 | 8 | 10 |
