@@ -2,7 +2,7 @@
 title: Planes of Power
 description: 
 published: true
-date: 2025-12-14T04:10:31.960Z
+date: 2025-12-14T04:13:46.476Z
 tags: guides, expansions, planes of power
 editor: markdown
 dateCreated: 2025-12-14T04:10:31.960Z
@@ -70,3 +70,42 @@ Zone Organization by Tier
 
 - Plane of Time A
 - Plane of Time B
+
+### Major Deities & Bosses
+- Grummus (Plane of Disease)
+- Terris Thule (Lair of Terris Thule)
+- The Tribunal (Plane of Justice trials)
+- Bertoxxulous (Ruins of Lxanvom)
+- Saryrn (Plane of Torment)
+- Aerin'Dar (Plane of Valor)
+- Mithaniel Marr (Temple of Marr)
+- Agnarr the Storm Lord (Bastion of Thunder)
+- Karana (Bastion of Thunder)
+- Rallos Zek the Warlord (Drunder, Fortress of Zek)
+- Tallon Zek and Vallon Zek (Drunder, Fortress of Zek)
+- Solusek Ro (Tower of Solusek Ro)
+- Fennin Ro (Plane of Fire)
+- Xegony (Plane of Air)
+- Coirnav (Plane of Water)
+- The Rathe Council (Plane of Earth B)
+
+## Getting Started
+
+### Initial Access
+1. Reach Level 46 to access Tier 1 planes
+1. Find a Portal Book located throughout Norrath to teleport to the Plane of Knowledge
+1. Use Plane of Knowledge as your central hub for banking, shopping, and travel
+
+### Progression Helpers
+1. Seer Mal Nae'Shi: Located in Plane of Knowledge, can help fix out-of-order flags (sit down and say "guided meditation" and "unlock memories")
+1. Gram Dunnar: Provides the Intricate Wooden Figurine charm that tracks progression and provides rewards
+1. Grand Librarian Maelin: Provides flags during later progression stages
+
+## Lore & Background
+The gods of Norrath reside in astral realms collectively known as the Planes of Power. Each plane is ruled by a unique deity who guards their realm against mortal trespassers. The planes are organized by tiers of divinity:
+
+- Demigods and lesser entities
+- Gods of nature and influence
+- Gods of elemental power
+
+The ultimate goal is reaching the Plane of Time, which requires defeating the four elemental gods: Fennin Ro (Fire), Xegony (Air), Coirnav (Water), and The Rathe Council (Earth).
