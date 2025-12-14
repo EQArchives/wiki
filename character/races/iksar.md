@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T04:31:11.454Z
+date: 2025-12-14T04:33:04.871Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -20,6 +20,12 @@ The Iksar depend only on their god and creator, Cazic Thule. Iksar are unwelcome
 The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Omen. It is a dark place with a maze of canals, which the Iksar use for travel around their city.
 
 ## Basic Information
+- **Faction Alignmen**t: "Evil" ("Independent", not friendly with the other races of Antonica)
+- **Racial(s)**: Forage, Increased Armor Class, Increased HP Regeneration, Infravision, Swimming (100), -10 Cold Resist, +5 Fire Resist
+- **Starting City**: Cabilis
+- **Playable Classes**: Monk, Necromancer, Shadow Knight, Shaman, Warrior
+- **Race Experience Modifier**: 20% More Required
+- **Armor**: Medium, Cannot Wear Plate
 
 ## New Characters
 > The Iksar race became playable with the Ruins of Kunark expansion. The Beastlord class became playable with the Shadows of Luclin expansion.
