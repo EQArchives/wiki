@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T04:47:29.889Z
+date: 2025-12-14T04:58:23.267Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -27,6 +27,9 @@ The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Om
 - **Race Experience Modifier**: 20% More Required
 - **Armor**: Medium, Cannot Wear Plate
 - **Deities**: Cazic-Thule
+
+>**Regarding Increased Armor Class**: Iksar start with a +15 AC bonus (+17 if they are a Warrior) over other races, which scales(!) with level. However, they cannot wear plate armor until the Velious expansion. 
+{.is-info}
 
 ## New Characters
 > The Iksar race became playable with the Ruins of Kunark expansion. The Beastlord class became playable with the Shadows of Luclin expansion.
