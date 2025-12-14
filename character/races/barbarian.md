@@ -2,7 +2,7 @@
 title: Barbarian
 description: 
 published: true
-date: 2025-12-14T03:57:27.547Z
+date: 2025-12-14T04:00:22.584Z
 tags: barbarian, races
 editor: markdown
 dateCreated: 2025-12-14T03:57:27.547Z
@@ -43,7 +43,7 @@ New Barbarian characters start in **Halas**.  Their starting location in the cit
 {.is-success}
 
 ### Bind Location
-All new Barbarian characters have a starting bind location at:
+All new Barbarian characters have a starting bind location in **Everfrost** at: **Y**: 3139.0, **X**: 629.0, **Z**: -57.0.
 
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
