@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T04:59:18.063Z
+date: 2025-12-14T05:00:20.570Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -28,8 +28,27 @@ The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Om
 - **Armor**: Medium, Cannot Wear Plate
 - **Deities**: Cazic-Thule
 
->**Regarding Increased Armor Class**: Iksar start with a +15 AC bonus (+17 if they are a Warrior) over other races, which scales(!) with level. However, they cannot wear plate armor until the Velious expansion. 
+### Increased Armor Class
+Iksar start with a +15 AC bonus (+17 if they are a Warrior) over other races, which scales(!) with level. However, they cannot wear plate armor until the Velious expansion. 
 {.is-info}
+
+### Hit Point Regeneration
+Both Iksar and Trolls have higher HP regeneration rates (per tick):
+- A "tick" happens every 6 seconds (server side).
+- It does not matter whether you are sitting or standing between seconds 1 and 5, only the 6th second. 
+    
+| Iksar/Troll | | | | All other races | | |
+|-------------|---|---|--------------|-----------------|---|---|
+| **Standing** | **Feigned** | **Sitting** | **Level Range** | **Standing** | **Feigned** | **Sitting** |
+| 2 | 2 | 4 | 01 - 19 | 1 | 1 | 2 |
+| 2 | 2 | 6 | 20 - 49 | 1 | 1 | 3 |
+| 2 | 2 | 8 | 50 | 1 | 1 | 4 |
+| 6 | 8 | 12 | 51 - 55 | 2 | 3 | 5 |
+| 10 | 12 | 16 | 56 - 59 | 3 | 4 | 6 |
+| 12 | 14 | 18 | 60 | 4 | 5 | 7 |
+| 14 | 16 | 20 | 61 - 62 | 5 | 6 | 8 |
+| 16 | 18 | 22 | 63 - 64 | 6 | 7 | 9 |
+| 18 | 20 | 24 | 65 | 7 | 8 | 10 |
 
 ## New Characters
 > The Iksar race became playable with the Ruins of Kunark expansion. The Beastlord class became playable with the Shadows of Luclin expansion.
@@ -62,21 +81,3 @@ All new Iksar characters have a starting bind location in **Field of Bone** at: 
 | Shadowknight | 80 | 75 | 90 | 85 | 80 | 85 | 60 | 20 |
 | Shaman | 70 | 75 | 90 | 85 | 90 | 75 | 60 | 30 |
 | Warrior | 80 | 80 | 95 | 85 | 80 | 75 | 55 | 25 |
-
-## Hit Point Regeneration
-Both Iksar and Trolls have higher HP regeneration rates (per tick):
-- A "tick" happens every 6 seconds (server side).
-- It does not matter whether you are sitting or standing between seconds 1 and 5, only the 6th second. 
-    
-| Iksar/Troll | | | | All other races | | |
-|-------------|---|---|--------------|-----------------|---|---|
-| **Standing** | **Feigned** | **Sitting** | **Level Range** | **Standing** | **Feigned** | **Sitting** |
-| 2 | 2 | 4 | 01 - 19 | 1 | 1 | 2 |
-| 2 | 2 | 6 | 20 - 49 | 1 | 1 | 3 |
-| 2 | 2 | 8 | 50 | 1 | 1 | 4 |
-| 6 | 8 | 12 | 51 - 55 | 2 | 3 | 5 |
-| 10 | 12 | 16 | 56 - 59 | 3 | 4 | 6 |
-| 12 | 14 | 18 | 60 | 4 | 5 | 7 |
-| 14 | 16 | 20 | 61 - 62 | 5 | 6 | 8 |
-| 16 | 18 | 22 | 63 - 64 | 6 | 7 | 9 |
-| 18 | 20 | 24 | 65 | 7 | 8 | 10 |
