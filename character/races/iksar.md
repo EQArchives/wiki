@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T04:46:23.300Z
+date: 2025-12-14T04:47:29.889Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -26,6 +26,7 @@ The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Om
 - **Playable Classes**: Beastlord*, Monk, Necromancer, Shadow Knight, Shaman, Warrior
 - **Race Experience Modifier**: 20% More Required
 - **Armor**: Medium, Cannot Wear Plate
+- **Deities**: Cazic-Thule
 
 ## New Characters
 > The Iksar race became playable with the Ruins of Kunark expansion. The Beastlord class became playable with the Shadows of Luclin expansion.
