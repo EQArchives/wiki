@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T05:00:20.570Z
+date: 2025-12-14T14:42:17.824Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -75,7 +75,7 @@ All new Iksar characters have a starting bind location in **Field of Bone** at: 
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beastlord* | | | | | | | | |
+| Beastlord* | 70 | 80 | 95 | 85 | 90 | 75 | 60 | 20 |
 | Monk | 75 | 75 | 100 | 95 | 80 | 75 | 55 | 20 |
 | Necromancer | 70 | 70 | 90 | 95 | 80 | 85 | 55 | 30 |
 | Shadowknight | 80 | 75 | 90 | 85 | 80 | 85 | 60 | 20 |
