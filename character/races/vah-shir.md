@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-14T03:44:21.017Z
+date: 2025-12-14T14:49:01.137Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -38,17 +38,24 @@ New Vah Shir characters start in **Shar Vahl**.  Their starting location in the 
 
 | Class | Y | X | Z | Heading |
 | --- | --- | --- | --- | --- |
-| Warrior | -143.0 | -535.0 | -260.0 | 128.0 |
 | Bard | 0.0 | 550.0 | -104.0 | 385.0 |
+| Beastlord | 275.0 | 90.0 | -260.0 | 0.0 |
 | Rogue | 190.0 | -300.0 | -248.0 | 128.0 |
 | Shaman | 55.0 | 100.0 | -260.0 | 256.0 |
-| Beastlord | 275.0 | 90.0 | -260.0 | 0.0 |
+| Warrior | -143.0 | -535.0 | -260.0 | 128.0 |
 
 ### Bind Location
 All new Vah Shir characters have a starting bind location at Y: -1132, X: 86.0, Z: -187.0.
 
 ## Base Stats
-TODO
+| STR | STA | AGI | DEX | WIS | INT | CHA |
+| --- | --- | --- | --- | --- | --- | --- |
 
 ## Starting Stats
-TODO
+| Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bard | --- | --- | --- | --- | --- | --- | --- | --- |
+| Beastlord | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rogue | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shaman | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warrior | --- | --- | --- | --- | --- | --- | --- | --- |
