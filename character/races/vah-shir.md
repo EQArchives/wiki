@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-14T14:49:01.137Z
+date: 2025-12-14T14:52:27.412Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -54,8 +54,8 @@ All new Vah Shir characters have a starting bind location at Y: -1132, X: 86.0, 
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bard | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beastlord | --- | --- | --- | --- | --- | --- | --- | --- |
-| Rogue | --- | --- | --- | --- | --- | --- | --- | --- |
-| Shaman | --- | --- | --- | --- | --- | --- | --- | --- |
-| Warrior | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bard | 95 | 75 | 90 | 80 | 70 | 65 | 75 | 25 |
+| Beastlord | 90 | 85 | 95 | 70 | 80 | 65 | 70 | 20 |
+| Rogue | 90 | 75 | 100 | 80 | 70 | 65 | 65 | 30 |
+| Shaman | 90 | 80 | 90 | 70 | 80 | 65 | 70 | 30 |
+| Warrior | 100 | 85 | 95 | 70 | 70 | 65 | 65 | 25 |
