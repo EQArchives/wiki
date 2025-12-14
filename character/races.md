@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-08-10T15:32:58.281Z
+date: 2025-12-14T14:45:33.244Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -22,8 +22,8 @@ From the barbarians of the frozen north to the trolls in the southern swamps, th
 
 | Race | Expansion Required |
 |------|-------------------|
-| Iksar | The Ruins of Kunark (RoK) |
-| Vah Shir | The Shadows of Luclin (SoL) |
+| [Iksar](/character/races/iksar) | The Ruins of Kunark (RoK) |
+| [Vah Shir](/character/races/vah-shir) | The Shadows of Luclin (SoL) |
 | Froglok | Legacy of Ykesha (LoY) |
 | Drakkin | The Serpent's Spine (TSS) |
 
@@ -40,7 +40,7 @@ From the barbarians of the frozen north to the trolls in the southern swamps, th
 
 At initial launch, there were 12 playable races. This increased to 13 when Kunark launched, and 14 when Luclin launched.  Each playable race has a number of Classes from which they can choose.
 
-### Barbarian (BAR)
+### [Barbarian](/character/races/barbarian) (BAR)
 
 * **Armor**: Large and Medium, *Cannot Wear Robes*
 * **Experience Modifier**: 5% More Required per Level
@@ -199,7 +199,7 @@ The port cities of Qeynos and Freeport lie on opposite coasts of Antonica, and a
 
 *Note: In classic-era game clients, night blindness was a real problem with humans; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
 
-### Iksar (IKS)
+### [Iksar](/character/races/iksar) (IKS)
 
 * **Armor**: Medium, **Cannot Wear Plate**
 * **Experience Modifier**: 20% More Required per Level
