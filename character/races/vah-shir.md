@@ -2,13 +2,13 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-10T04:33:35.798Z
+date: 2025-12-14T03:44:21.017Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
 ---
 
-# Vah Shir
+# Vah Shir (VAH)
 
 ## Description
 The Vah Shir are a regal feline race that walk upright. They were once the ruling class of other similar cat-like races on Odus. Since being translocated onto the moon called Luclin by a collision of Erudite magic, they learned to survive and became stronger. Vah Shir are as tall as Barbarians and display a variety of different markings on their fur based on their lineage. Despite of their height, they are very agile and graceful. They are known for their integrity and the destructive feral power they bring down on their enemies.
@@ -20,14 +20,14 @@ Because the Vah Shir are not exposed to the daily struggles in Norrath, they are
 Shar Vahl is the majestic den of the Vah Shir. The city was built high above Norrath, on the moon Luclin. The city is located between the Hollowshade Moor and Shadeweaver's Thicket.
 
 ## Basic Information
+- **Armor:** Large
+- **Experience Modifier:** -5% (5% less XP gained; *gets removed in modern EQ*)
 - **Faction Alignment:** Neutral (Agnostic deities; evil races/classes tolerated without attack)
+- **Playable Classes:** Warrior, Bard, Rogue, Shaman, Beastlord, ~~Berserker (GoD)~~
 - **Racial(s):** 
     - **Abilities:** Infravision, Safe Fall (Starts at 100 skill)
     - **Penalties:** Increased Consumption Rate (2x rate food/drink)
 - **Starting City:** Shar Vahl
-- **Playable Clases:** Warrior, Bard, Rogue, Shaman, Beastlord, ~~Berserker (GoD)~~
-- **Experience Modifier:** -5% (5% less XP gained; *gets removed in modern EQ*)
-- **Armor:** Large
 - **Known Languages:** Common Tongue (Combine, 100), Erudian (32), Vah Shir (racial)
 - **Abbreviation:** VAH
 
