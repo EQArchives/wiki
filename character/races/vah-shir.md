@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-14T14:52:27.412Z
+date: 2025-12-15T01:02:28.542Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -25,10 +25,10 @@ Shar Vahl is the majestic den of the Vah Shir. The city was built high above Nor
 - **Faction Alignment:** Neutral (Agnostic deities; evil races/classes tolerated without attack)
 - **Playable Classes:** Warrior, Bard, Rogue, Shaman, Beastlord, ~~Berserker (GoD)~~
 - **Racial(s):** 
-    - **Abilities:** Infravision, Safe Fall (Starts at 100 skill)
+    - **Abilities:** Infravision, Safe Fall (50), Sneak (50)
     - **Penalties:** Increased Consumption Rate (2x rate food/drink)
 - **Starting City:** Shar Vahl
-- **Known Languages:** Common Tongue (Combine, 100), Erudian (32), Vah Shir (racial)
+- **Known Languages:** Common Tongue (100), Combine Tongue (100), Erudian (32), Vah Shir (100, racial)
 - **Abbreviation:** VAH
 
 ## New Characters
@@ -50,7 +50,7 @@ All new Vah Shir characters have a starting bind location at Y: -1132, X: 86.0, 
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
-
+| - | - | - | - | - | - | - |
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
