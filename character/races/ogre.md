@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:09:49.465Z
+date: 2025-12-15T02:11:49.541Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -35,6 +35,12 @@ Ogres cannot be stunned from the front, which gives them a great advantage over 
 
 > Tip: You can stand in a corner to avoid being pushed back.
 {.is-info}
+
+### Increased Consumption Rate
+[Barbarians](/character/races/barbarian), [Halflings](character/races/halfling), **Ogres**, and [Trolls](/character/races/troll) all consume food and drink slightly faster than other races.
+
+### Infravision
+Slightly improved night vision, not as good as the Dark Elf's Ultravision.
 
 ## New Characters
 
