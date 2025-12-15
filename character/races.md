@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-15T02:19:29.655Z
+date: 2025-12-15T02:54:33.607Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -31,10 +31,10 @@ From the barbarians of the frozen north to the trolls in the southern swamps, th
 
 | Race | Modifier |
 |------|----------|
-| Troll | 20% penalty |
-| Ogre | 15% penalty |
-| Barbarian | 5% penalty |
-| Halfling | 5% bonus |
+| [Troll](/character/races/troll) | 20% penalty |
+| [Ogre](/character/races/ogre) | 15% penalty |
+| [Barbarian](/character/races/barbarian) | 5% penalty |
+| [Halfling](/character/races/halfling) | 5% bonus |
 
 ## PLAYABLE Races
 
@@ -233,7 +233,7 @@ Ogres have been known to be cannibalistic, but are more partial to eating Humans
 
 The crude tunneled city of Oggok lies within the Feerrott, a jungle-like area bordering the Innothule Swamp and Rathe Mountains in southern Antonica. The home city for the Ogres is a fairly slow-paced civilization that focuses on battle training and magic to give them an upper hand in battle.
 
-### Troll (TRL)
+### [Troll](/character/races/troll) (TRL)
 
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 20% more experience required per level
