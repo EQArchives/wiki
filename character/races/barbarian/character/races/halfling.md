@@ -2,7 +2,7 @@
 title: Halfling (HFL)
 description: 
 published: true
-date: 2025-12-15T03:31:02.886Z
+date: 2025-12-15T03:32:53.546Z
 tags: halfling, races
 editor: markdown
 dateCreated: 2025-12-15T03:31:02.886Z
@@ -23,9 +23,6 @@ Halflings tend to get along well with most races, except those that are truly ev
 
 The quaint, stunted city of Rivervale lies between the Kithicor Forest and Misty Thicket in central Antonica. It is crowded with skilled tradesman, taverns, and friendly folk.
 
->Note: In the original timeline, Halfling Paladin and Halfling Ranger combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).
-{.is-info}
-
 ## Basic Information
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: 5% less experience required per level
@@ -35,6 +32,9 @@ The quaint, stunted city of Rivervale lies between the Kithicor Forest and Misty
 * **Starting City**: Rivervale
 * **Languages**: Common Tongue (100), Halfling (100, racial)
 * **Abreviation**: HFL
+
+>Note: In the original timeline, Halfling Paladin and Halfling Ranger combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).
+{.is-info}
 
 ### Increased Consumption Rate
 [Barbarians](/character/races/barbarian), **Halflings**, [Ogres](/character/races/ogre), and [Trolls](/character/races/troll), and [Vah Shir](/character/races/vah-shir) all consume food and drink slightly faster than other races.
@@ -60,6 +60,8 @@ All new Halfling characters have a starting bind location in **Misty Thicket** a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cleric | 75 | 80 | 95 | 90 | 90 | 67 | 50 | 30 |
 | Druid | 70 | 85 | 95 | 90 | 90 | 67 | 50 | 30 |
+| Paladin* | | | | | | | | |
+| Ranger* | | | | | | | | |
 | Rogue | 70 | 75 | 105 | 100 | 80 | 67 | 50 | 30 |
 | Warrior | 80 | 85 | 100 | 90 | 80 | 67 | 50 | 25 |
 
