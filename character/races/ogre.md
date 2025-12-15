@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:58:48.826Z
+date: 2025-12-15T03:39:20.085Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -37,7 +37,7 @@ Ogres cannot be stunned from the front, which gives them a great advantage over 
 {.is-info}
 
 ### Increased Consumption Rate
-[Barbarians](/character/races/barbarian), [Halflings](character/races/halfling), **Ogres**, [Trolls](/character/races/troll), and [Vah Shir](/character/races/vah-shir) all consume food and drink slightly faster than other races.
+[Barbarians](/character/races/barbarian), [Halflings](/character/races/halfling), **Ogres**, [Trolls](/character/races/troll), and [Vah Shir](/character/races/vah-shir) all consume food and drink slightly faster than other races.
 
 ### Infravision
 Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
