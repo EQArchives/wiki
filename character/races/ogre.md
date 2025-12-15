@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:13:41.854Z
+date: 2025-12-15T02:15:08.423Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -49,10 +49,10 @@ New Ogre characters start in **Oggok**.  Their starting location in the city dep
 
 | Class | Y | X | Z | Heading |
 | --- | --- | --- | --- | --- |
-| Beastlord | - | - | - | 0.0 |
-| Shadow Knight | - | - | - | - |
-| Shaman | - | - | - | - |
-| Warrior | - | - | - |  |
+| Beastlord | 288.0 | 1074.0 | 80.0 | - |
+| Shadow Knight | 333.0 | 9.0 | 5.0 | - |
+| Shaman | 656.0 | 1006.0 | 80.0 | - |
+| Warrior | -2.0 | 71.0 | -27.0 | -  |
 
 ### Bind Location
 All new Ogre characters have a starting bind location in **Feerott** at Y: 1103.0, X: 948.0, Z: 31.0.
