@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-15T02:54:33.607Z
+date: 2025-12-15T03:23:29.029Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -144,7 +144,7 @@ The difficult lives of the Half Elves and their lack of ties to any one place ma
 
 While Half Elves can be seen in many areas of the world, they are primarily found in the Wood Elf city of Kelethin and within the Surefall Glade.
 
-### Halfling (HFL)
+### [Halfling](/character/races/halfling) (HFL)
 
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: 5% less experience required per level
