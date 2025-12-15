@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-14T14:45:33.244Z
+date: 2025-12-15T01:54:39.287Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -59,7 +59,7 @@ Barbarians live in the frigid city of Halas, nestled amidst the icy peaks of Eve
 
 *Note: In classic-era game clients, night blindness was a real problem with Barbarians; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
 
-### Dark Elf (DEF)
+### [Dark Elf](/character/races/dark-elf) (DEF)
 
 * **Armor**: Medium and Small
 * **Experience Modifier**: None
