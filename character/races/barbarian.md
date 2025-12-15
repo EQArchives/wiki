@@ -2,7 +2,7 @@
 title: Barbarian
 description: 
 published: true
-date: 2025-12-14T04:00:22.584Z
+date: 2025-12-15T02:27:45.191Z
 tags: barbarian, races
 editor: markdown
 dateCreated: 2025-12-14T03:57:27.547Z
@@ -34,10 +34,10 @@ New Barbarian characters start in **Halas**.  Their starting location in the cit
 
 | Class | Y | X | Z | Heading |
 | --- | --- | --- | --- | --- |
-| Beastlord* | 585.0 | 208.0 | 4.0 | - |
-| Rogue | 186.0 | 171.0 | 29.0 | - |
-| Shaman | 334.0 | 448.0 | -20.0 | - |
-| Warrior | 487.0 | -448.0 | 4.0 | - |
+| [Beastlord](/character/classes/beastlord)* | 585.0 | 208.0 | 4.0 | - |
+| [Rogue](/character/classes/rogue) | 186.0 | 171.0 | 29.0 | - |
+| [Shaman](/character/classes/shaman) | 334.0 | 448.0 | -20.0 | - |
+| [Warrior](/character/classes/warrior) | 487.0 | -448.0 | 4.0 | - |
 
 > *Beastlord became playable at the Shadows of Luclin expansion.
 {.is-success}
@@ -53,10 +53,10 @@ All new Barbarian characters have a starting bind location in **Everfrost** at: 
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beastlord* | ? | ? | ? | ? | ? | ? | ? | ? |
-| Rogue | 103 | 95 | 92 | 80 | 70 | 60 | 55 | 30 |
-| Shaman | 103 | 100 | 82 | 70 | 80 | 60 | 60 | 30 |
-| Warrior | 113 | 105 | 87 | 70 | 70 | 60 | 55 | 25 |
+| [Beastlord](/character/classes/beastlord)* | ? | ? | ? | ? | ? | ? | ? | ? |
+| [Rogue](/character/classes/rogue) | 103 | 95 | 92 | 80 | 70 | 60 | 55 | 30 |
+| [Shaman](/character/classes/shaman) | 103 | 100 | 82 | 70 | 80 | 60 | 60 | 30 |
+| [Warrior](/character/classes/warrior) | 113 | 105 | 87 | 70 | 70 | 60 | 55 | 25 |
 
 ---
 
