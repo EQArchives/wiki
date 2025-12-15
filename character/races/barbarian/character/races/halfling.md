@@ -2,7 +2,7 @@
 title: Halfling (HFL)
 description: 
 published: true
-date: 2025-12-15T03:32:53.546Z
+date: 2025-12-15T03:35:52.352Z
 tags: halfling, races
 editor: markdown
 dateCreated: 2025-12-15T03:31:02.886Z
@@ -60,8 +60,8 @@ All new Halfling characters have a starting bind location in **Misty Thicket** a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cleric | 75 | 80 | 95 | 90 | 90 | 67 | 50 | 30 |
 | Druid | 70 | 85 | 95 | 90 | 90 | 67 | 50 | 30 |
-| Paladin* | | | | | | | | |
-| Ranger* | | | | | | | | |
+| Paladin* | 80 | 80 | 95 | 90 | 85 | 67 | 60 | 20 |
+| Ranger* | 75 | 85 | 105 | 90 | 85 | 67 | 50 | 20 |
 | Rogue | 70 | 75 | 105 | 100 | 80 | 67 | 50 | 30 |
 | Warrior | 80 | 85 | 100 | 90 | 80 | 67 | 50 | 25 |
 
