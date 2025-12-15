@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-15T02:52:37.169Z
+date: 2025-12-15T02:56:00.748Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -30,6 +30,9 @@ Shar Vahl is the majestic den of the Vah Shir. The city was built high above Nor
 - **Starting City:** Shar Vahl
 - **Known Languages:** Common Tongue (100), Combine Tongue (100), Erudian (32), Vah Shir (100, racial)
 - **Abbreviation:** VAH
+
+### Increased Consumption Rate
+[Barbarians](/character/races/barbarian), [Halflings](character/races/halfling), [Ogres](/character/races/ogre), [Trolls](/character/races/troll), and **Vah Shir** all consume food and drink slightly faster than other races.
 
 ### Infravision
 Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
