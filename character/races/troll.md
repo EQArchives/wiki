@@ -2,7 +2,7 @@
 title: Troll (TRL)
 description: 
 published: true
-date: 2025-12-15T02:56:42.493Z
+date: 2025-12-15T03:39:39.453Z
 tags: troll, races
 editor: markdown
 dateCreated: 2025-12-15T02:42:57.368Z
@@ -32,7 +32,7 @@ The city of Grobb lies within the Innothule Swamp of Antonica. The city is infes
 * **Starting City**: Grobb
 
 ### Increased Consumption Rate
-[Barbarians](/character/races/barbarian), [Halflings](character/races/halfling), [Ogres](/character/races/ogre), and **Trolls**, , and [Vah Shir](/character/races/vah-shir) all consume food and drink slightly faster than other races.
+[Barbarians](/character/races/barbarian), [Halflings](/character/races/halfling), [Ogres](/character/races/ogre), and **Trolls**, , and [Vah Shir](/character/races/vah-shir) all consume food and drink slightly faster than other races.
 
 ### Hit Point Regeneration
 Both Iksar and Trolls have higher HP regeneration rates (per tick):
