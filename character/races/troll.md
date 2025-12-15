@@ -2,7 +2,7 @@
 title: Troll (TRL)
 description: 
 published: true
-date: 2025-12-15T02:42:57.368Z
+date: 2025-12-15T02:45:06.939Z
 tags: troll, races
 editor: markdown
 dateCreated: 2025-12-15T02:42:57.368Z
@@ -26,6 +26,9 @@ The city of Grobb lies within the Innothule Swamp of Antonica. The city is infes
 * **Playable Classes**: Beastlord*, Shadow Knight, Shaman, Warrior
 * **Racial(s)**: Increased Consumption Rate, Increased HP Regeneration, Infravision, Slam, -20 Fire Resist
 * **Starting City**: Grobb
+
+### Increased Consumption Rate
+[Barbarians](/character/races/barbarian), [Halflings](character/races/halfling), [Ogres](/character/races/ogre), and **Trolls** all consume food and drink slightly faster than other races.
 
 ## New Characters
 
