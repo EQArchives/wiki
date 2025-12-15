@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:02:41.615Z
+date: 2025-12-15T02:05:04.025Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -36,10 +36,10 @@ New Ogre characters start in **Oggok**.  Their starting location in the city dep
 
 | Class | Y | X | Z | Heading |
 | --- | --- | --- | --- | --- |
-| Beastlord | 275.0 | 90.0 | -260.0 | 0.0 |
-| Rogue | 190.0 | -300.0 | -248.0 | 128.0 |
-| Shaman | 55.0 | 100.0 | -260.0 | 256.0 |
-| Warrior | -143.0 | -535.0 | -260.0 | 128.0 |
+| Beastlord | - | - | - | 0.0 |
+| Shadow Knight | - | - | - | - |
+| Shaman | - | - | - | - |
+| Warrior | - | - | - |  |
 
 ### Bind Location
 All new Ogre characters have a starting bind location in **Feerott** at Y: -1132, X: 86.0, Z: -187.0.
@@ -47,12 +47,11 @@ All new Ogre characters have a starting bind location in **Feerott** at Y: -1132
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
-| 90 | 75 | 90 | 70 | 70 | 65 | 65 |
+| 130 | 122 | 70 | 70 | 67 | 60 | 37 |
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bard | 95 | 75 | 90 | 80 | 70 | 65 | 75 | 25 |
-| Beastlord | 90 | 85 | 95 | 70 | 80 | 65 | 70 | 20 |
-| Rogue | 90 | 75 | 100 | 80 | 70 | 65 | 65 | 30 |
+| Beastlord | - | - | - | - | - | - | - | - |
+| Shadow Knight | 90 | 75 | 100 | 80 | 70 | 65 | 65 | 30 |
 | Shaman | 90 | 80 | 90 | 70 | 80 | 65 | 70 | 30 |
 | Warrior | 100 | 85 | 95 | 70 | 70 | 65 | 65 | 25 |
