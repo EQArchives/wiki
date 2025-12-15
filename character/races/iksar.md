@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-15T01:28:52.365Z
+date: 2025-12-15T02:25:46.029Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -59,12 +59,12 @@ New Iksar characters start in either **East Cabilis** or **West Cabilis** depend
 
 | Class | Y | X | Z | Heading | Zone |
 | --- | --- | --- | --- | --- | --- |
-| Beastlord* | 1032.0 | -189.0 | 44.0 | - | East Cabilis |
-| Monk | 426.0 | -96.0 | 5.0 | - | East Cabilis |
-| Necromancer | 311.0 | 767.0 | 46.0 | - | **West** Cabilis |
-| Shadowknight | 1029.0 | -188.0 | 72.0 | - | East Cabilis |
-| Shaman | 1017.0 | -189.0 | 17.0 | - | East Cabilis |
-| Warrior | -531.0 | -125.0 | 3.0 | - | East Cabilis |
+| [Beastlord](/character/classes/beastlord)* | 1032.0 | -189.0 | 44.0 | - | East Cabilis |
+| [Monk](/character/classes/monk) | 426.0 | -96.0 | 5.0 | - | East Cabilis |
+| [Necromancer](/character/classes/necromancer) | 311.0 | 767.0 | 46.0 | - | **West** Cabilis |
+| [Shadowknight](/character/classes/shadowknight) | 1029.0 | -188.0 | 72.0 | - | East Cabilis |
+| [Shaman](/character/classes/shaman) | 1017.0 | -189.0 | 17.0 | - | East Cabilis |
+| [Warrior](/character/classes/warrior) | -531.0 | -125.0 | 3.0 | - | East Cabilis |
 
 ### Bind Location
 All new Iksar characters have a starting bind location in **Field of Bone** at: **Y**: -2394.0, **X**: 3244.0, **Z**: 12.0.
@@ -75,9 +75,9 @@ All new Iksar characters have a starting bind location in **Field of Bone** at: 
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beastlord* | 70 | 80 | 95 | 85 | 90 | 75 | 60 | 20 |
-| Monk | 75 | 75 | 100 | 95 | 80 | 75 | 55 | 20 |
-| Necromancer | 70 | 70 | 90 | 95 | 80 | 85 | 55 | 30 |
-| Shadowknight | 80 | 75 | 90 | 85 | 80 | 85 | 60 | 20 |
-| Shaman | 70 | 75 | 90 | 85 | 90 | 75 | 60 | 30 |
-| Warrior | 80 | 80 | 95 | 85 | 80 | 75 | 55 | 25 |
+| [Beastlord](/character/classes/beastlord)* | 70 | 80 | 95 | 85 | 90 | 75 | 60 | 20 |
+| [Monk](/character/classes/monk) | 75 | 75 | 100 | 95 | 80 | 75 | 55 | 20 |
+| [Necromancer](/character/classes/necromancer) | 70 | 70 | 90 | 95 | 80 | 85 | 55 | 30 |
+| [Shadowknight](/character/classes/shadowknight) | 80 | 75 | 90 | 85 | 80 | 85 | 60 | 20 |
+| [Shaman](/character/classes/shaman) | 70 | 75 | 90 | 85 | 90 | 75 | 60 | 30 |
+| [Warrior](/character/classes/warrior) | 80 | 80 | 95 | 85 | 80 | 75 | 55 | 25 |
