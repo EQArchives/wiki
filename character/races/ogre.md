@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:11:49.541Z
+date: 2025-12-15T02:13:41.854Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -55,7 +55,7 @@ New Ogre characters start in **Oggok**.  Their starting location in the city dep
 | Warrior | - | - | - |  |
 
 ### Bind Location
-All new Ogre characters have a starting bind location in **Feerott** at Y: -1132, X: 86.0, Z: -187.0.
+All new Ogre characters have a starting bind location in **Feerott** at Y: 1103.0, X: 948.0, Z: 31.0.
 
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
