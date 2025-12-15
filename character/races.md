@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-15T02:01:10.596Z
+date: 2025-12-15T02:19:29.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -216,7 +216,7 @@ The Iksar depend only on their god and creator, Cazic Thule. Iksar are unwelcome
 
 The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Omen. It is a dark place with a maze of canals, which the Iksar use for travel around their city.
 
-### Ogre (OGR)
+### [Ogre](/character/races/ogre) (OGR)
 
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 15% more experience required per level
