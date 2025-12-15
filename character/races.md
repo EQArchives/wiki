@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-15T02:00:54.835Z
+date: 2025-12-15T02:01:10.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -267,7 +267,7 @@ Wood Elves get along well with most good and neutral races, and merely dislike m
 
 The Feir'Dal are at home in the trees in their intricate city of Kelethin, which hangs high above the ground between the trunks and branches of the Greater Faydark. Comprised of platforms and suspension bridges, Kelethin is both well defended and beautiful.
 
-### Vah Shir (VAH)
+### [Vah Shir](/character/races/vah-shir) (VAH)
 * **Armor**: Large
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
