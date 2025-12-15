@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-15T01:54:39.287Z
+date: 2025-12-15T02:00:54.835Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -221,7 +221,7 @@ The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Om
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 15% more experience required per level
 * **Faction Alignment**: Evil
-* **Playable Classes**: Shadow Knight, Shaman, Warrior
+* **Playable Classes**: Beastlord*, Shadow Knight, Shaman, Warrior
 * **Racial(s)**: Increased Consumption Rate, Infravision, Frontal Stun Immunity, Slam
 * **Starting City**: Oggok
 
