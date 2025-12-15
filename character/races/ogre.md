@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:17:11.030Z
+date: 2025-12-15T02:21:38.119Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -49,10 +49,10 @@ New Ogre characters start in **Oggok**.  Their starting location in the city dep
 
 | Class | Y | X | Z | Heading |
 | --- | --- | --- | --- | --- |
-| Beastlord | 288.0 | 1074.0 | 80.0 | - |
-| Shadow Knight | 333.0 | 9.0 | 5.0 | - |
-| Shaman | 656.0 | 1006.0 | 80.0 | - |
-| Warrior | -2.0 | 71.0 | -27.0 | -  |
+| [Beastlord](/character/classes/beastlord) | 288.0 | 1074.0 | 80.0 | - |
+| [Shadow Knight](/character/classes/shadowknight) | 333.0 | 9.0 | 5.0 | - |
+| [Shaman](/character/classes/shaman) | 656.0 | 1006.0 | 80.0 | - |
+| [Warrior](/character/classes/warrior) | -2.0 | 71.0 | -27.0 | -  |
 
 ### Bind Location
 All new Ogre characters have a starting bind location in **Feerott** at Y: 1103.0, X: 948.0, Z: 31.0.
@@ -64,7 +64,7 @@ All new Ogre characters have a starting bind location in **Feerott** at Y: 1103.
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beastlord | 130 | 132 | 75 | 70 | 77 | 60 | 42 | 20 |
-| Shadow Knight | 140 | 127 | 70 | 70 | 67 | 70 | 42 | 20 |
-| Shaman | 130 | 127 | 70 | 70 | 77 | 60 | 42 | 30 |
-| Warrior | 140 | 132 | 75 | 70 | 67 | 60 | 37 | 25 |
+| [Beastlord](/character/classes/beastlord) | 130 | 132 | 75 | 70 | 77 | 60 | 42 | 20 |
+| [Shadow Knight](/character/classes/shadowknight) | 140 | 127 | 70 | 70 | 67 | 70 | 42 | 20 |
+| [Shaman](/character/classes/shaman) | 130 | 127 | 70 | 70 | 77 | 60 | 42 | 30 |
+| [Warrior](/character/classes/warrior) | 140 | 132 | 75 | 70 | 67 | 60 | 37 | 25 |
