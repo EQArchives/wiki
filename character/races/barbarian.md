@@ -2,7 +2,7 @@
 title: Barbarian
 description: 
 published: true
-date: 2025-12-15T02:58:02.180Z
+date: 2025-12-15T03:39:02.427Z
 tags: barbarian, races
 editor: markdown
 dateCreated: 2025-12-14T03:57:27.547Z
@@ -28,7 +28,7 @@ Barbarians live in the frigid city of Halas, nestled amidst the icy peaks of Eve
 * **Starting City**: Halas
 
 ### Increased Consumption Rate
-**Barbarians**, [Halflings](character/races/halfling), [Ogres](/character/races/ogre), and [Trolls](/character/races/troll), and [Vah Shir](/character/races/vah-shir) all consume food and drink slightly faster than other races.
+**Barbarians**, [Halflings](/character/races/halfling), [Ogres](/character/races/ogre), and [Trolls](/character/races/troll), and [Vah Shir](/character/races/vah-shir) all consume food and drink slightly faster than other races.
 
 ## New Characters
 
