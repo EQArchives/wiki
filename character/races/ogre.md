@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:06:30.605Z
+date: 2025-12-15T02:09:49.465Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -28,6 +28,13 @@ The crude tunneled city of Oggok lies within the Feerrott, a jungle-like area bo
 * **Starting City**: Oggok
 * **Known Languages**: Common Tongue (100), Dark Speech (100), Ogre (100, racial)
 * **Abbreviation**: OGR
+
+### Frontal Stun Immunity
+Ogres cannot be stunned from the front, which gives them a great advantage over other races.
+* Enemy attacks can still push you backwards, which will interrupt your spell casting.
+
+> Tip: You can stand in a corner to avoid being pushed back.
+{.is-info}
 
 ## New Characters
 
