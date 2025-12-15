@@ -2,7 +2,7 @@
 title: Dark Elf (DE)
 description: 
 published: true
-date: 2025-12-15T01:53:40.761Z
+date: 2025-12-15T02:30:05.234Z
 tags: dark elf, races
 editor: markdown
 dateCreated: 2025-12-15T01:31:05.656Z
@@ -36,14 +36,14 @@ New Dark Elf characters start in **Neriak**.  Their starting location and quarte
 
 | Class | Y | X | Z | Heading | Zone |
 | --- | --- | --- | --- | --- | --- |
-| Cleric | 539.0 | -811.0 | -49.0 | - | Neriak: 3rd Gate |
-| Enchanter | 148.0 | -951.0 | -38.0 | - | Neriak: Commons |
-| Magician | 131.0 | -915.0 | -38.0 | - | Neriak: Commons |
-| Necromancer | 1255.0 | -1253.0 | -80.0 | - | Neriak: 3rd Gate |
-| Rogue | 667.0 | -1358.0 | -108.0 | - | Neriak: 3rd Gate |
-| Shadow Knight | 1255.0 | -1253.0 | -80.0 | - | Neriak: 3rd Gate |
-| Warrior | -28.0 | -1124.0 | -52.0 | - | Neriak: Commons |
-| Wizard | 165.0 | -885.0 | -38.0 | - | Neriak: Commons |
+| [Cleric](/character/classes/cleric) | 539.0 | -811.0 | -49.0 | - | Neriak: 3rd Gate |
+| [Enchanter](/character/classes/enchanter) | 148.0 | -951.0 | -38.0 | - | Neriak: Commons |
+| [Magician](/character/classes/magician) | 131.0 | -915.0 | -38.0 | - | Neriak: Commons |
+| [Necromancer](/character/classes/necromancer) | 1255.0 | -1253.0 | -80.0 | - | Neriak: 3rd Gate |
+| [Rogue](/character/classes/rogue) | 667.0 | -1358.0 | -108.0 | - | Neriak: 3rd Gate |
+| [Shadow Knight](/character/classes/shadowknight) | 1255.0 | -1253.0 | -80.0 | - | Neriak: 3rd Gate |
+| [Warrior](/character/classes/warrior) | -28.0 | -1124.0 | -52.0 | - | Neriak: Commons |
+| [Wizard](/character/classes/wizard) | 165.0 | -885.0 | -38.0 | - | Neriak: Commons |
 
 ### Bind Location
 All new Dark Elf characters have a starting bind location in **Nektulos Forest** at: **Y**: 2048.0, **X**: -775.0, **Z**: 44.0.
@@ -56,11 +56,11 @@ All new Dark Elf characters have a starting bind location in **Nektulos Forest**
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cleric | 65 | 70 | 90 | 75 | 93 | 99 | 60 | 30 |
-| Enchanter | 60 | 65 | 90 | 75 | 83 | 109 | 70 | 30 |
-| Magician | 60 | 75 | 90 | 75 | 83 | 109 | 60 | 30 |
-| Necromancer | 60 | 65 | 90 | 85 | 83 | 109 | 65 | 30 |
-| Rogue | 60 | 65 | 100 | 85 | 83 | 99 | 60 | 30 |
-| Shadow Knight | 70 | 70 | 90 | 75 | 83 | 109 | 65 | 20 |
-| Warrior | 70 | 75 | 90 | 75 | 83 | 99 | 60 | 25 |
-| Wizard | 60 | 75 | 90 | 75 | 93 | 109 | 60 | 30 |
+| [Cleric](/character/classes/cleric) | 65 | 70 | 90 | 75 | 93 | 99 | 60 | 30 |
+| [Enchanter](/character/classes/enchanter) | 60 | 65 | 90 | 75 | 83 | 109 | 70 | 30 |
+| [Magician](/character/classes/magician) | 60 | 75 | 90 | 75 | 83 | 109 | 60 | 30 |
+| [Necromancer](/character/classes/necromancer) | 60 | 65 | 90 | 85 | 83 | 109 | 65 | 30 |
+| [Rogue](/character/classes/rogue) | 60 | 65 | 100 | 85 | 83 | 99 | 60 | 30 |
+| [Shadow Knight](/character/classes/shadowknight) | 70 | 70 | 90 | 75 | 83 | 109 | 65 | 20 |
+| [Warrior](/character/classes/warrior) | 70 | 75 | 90 | 75 | 83 | 99 | 60 | 25 |
+| [Wizard](/character/classes/wizard) | 60 | 75 | 90 | 75 | 93 | 109 | 60 | 30 |
