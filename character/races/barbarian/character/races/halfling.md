@@ -2,7 +2,7 @@
 title: Halfling (HFL)
 description: 
 published: true
-date: 2025-12-15T03:35:52.352Z
+date: 2025-12-15T03:36:52.274Z
 tags: halfling, races
 editor: markdown
 dateCreated: 2025-12-15T03:31:02.886Z
@@ -65,3 +65,5 @@ All new Halfling characters have a starting bind location in **Misty Thicket** a
 | Rogue | 70 | 75 | 105 | 100 | 80 | 67 | 50 | 30 |
 | Warrior | 80 | 85 | 100 | 90 | 80 | 67 | 50 | 25 |
 
+>Note: In the original timeline, Halfling Paladin and Halfling Ranger combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).
+{.is-info}
