@@ -2,13 +2,13 @@
 title: The EQ Archives Wiki
 description: The EQ Archives Wiki Home Page
 published: true
-date: 2025-12-15T03:46:28.270Z
+date: 2025-12-15T03:48:08.723Z
 tags: eqa, wiki, eqa wiki, eq archives
 editor: markdown
 dateCreated: 2025-08-09T22:55:09.351Z
 ---
 
-# EQ Archives{.tabset}
+# EQ Archives
 
 ## Classes
 
@@ -16,3 +16,4 @@ dateCreated: 2025-08-09T22:55:09.351Z
 
 ## Races
 [Barbarian](/character/races/barbarian) * [Dark Elf](/character/races/dark-elf) * [Dwarf](/character/races/dwarf) * [Erudite](/character/races/erudite) * [Gnome](/character/races/gnome) * [Halfling](/character/races/halfling)  * [Half Elf](/character/races/half-elf) * [High Elf](/character/races/high-elf) * [Human](/character/races/human) * [Iksar](/character/races/iksar) * [Ogre](/character/races/ogre) * [Troll](/character/races/troll) * [Vah Shir](/character/races/vah-shir) * [Wood Elf](/character/races/wood-elf)
+
