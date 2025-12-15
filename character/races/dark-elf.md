@@ -2,7 +2,7 @@
 title: Dark Elf (DE)
 description: 
 published: true
-date: 2025-12-15T01:31:05.656Z
+date: 2025-12-15T01:40:12.008Z
 tags: dark elf, races
 editor: markdown
 dateCreated: 2025-12-15T01:31:05.656Z
@@ -28,3 +28,22 @@ There is a labyrinth of evil under the Nektulos Forest called Neriak, the home c
 * **Playable Classes**: Cleric, Enchanter, Magician, Necromancer, Rogue, Shadow Knight, Warrior, Wizard
 * **Racial(s)**: Hide (50), Ultravision
 * **Starting City**: Neriak
+
+## New Characters
+New Dark Elf characters start in **Neriak**.  Their starting location and quarter within the city depends on their chosen class.
+
+## Base Stats
+| STR | STA | AGI | DEX | WIS | INT | CHA |
+| --- | --- | --- | --- | --- | --- | --- |
+| 60 | 65 | 90 | 75 | 83 | 99 | 60 |
+## Starting Stats
+| Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cleric | 65 | 70 | 90 | 75 | 93 | 99 | 60 | 30 |
+| Enchanter | 60 | 65 | 90 | 75 | 83 | 109 | 70 | 30 |
+| Magician | 60 | 75 | 90 | 75 | 83 | 109 | 60 | 30 |
+| Necromancer | 60 | 65 | 90 | 85 | 83 | 109 | 65 | 30 |
+| Rogue | 60 | 65 | 100 | 85 | 83 | 99 | 60 | 30 |
+| Shadow Knight | 70 | 70 | 90 | 75 | 83 | 109 | 65 | 20 |
+| Warrior | 70 | 75 | 90 | 75 | 83 | 99 | 60 | 25 |
+| Wizard | 60 | 75 | 90 | 75 | 93 | 109 | 60 | 30 |
