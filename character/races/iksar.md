@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-15T02:25:46.029Z
+date: 2025-12-15T02:48:32.487Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -31,6 +31,9 @@ The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Om
 ### Increased Armor Class
 Iksar start with a +15 AC bonus (+17 if they are a Warrior) over other races, which scales(!) with level. However, they cannot wear plate armor until the Velious expansion. 
 {.is-info}
+
+### Infravision
+Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
 
 ### Hit Point Regeneration
 Both Iksar and Trolls have higher HP regeneration rates (per tick):
