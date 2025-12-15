@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-15T01:24:42.942Z
+date: 2025-12-15T01:25:49.990Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -45,7 +45,7 @@ New Vah Shir characters start in **Shar Vahl**.  Their starting location in the 
 | Warrior | -143.0 | -535.0 | -260.0 | 128.0 |
 
 ### Bind Location
-All new Vah Shir characters have a starting bind location at Y: -1132, X: 86.0, Z: -187.0.
+All new Vah Shir characters have a starting bind location in **Shar Vahl** at Y: -1132, X: 86.0, Z: -187.0.
 
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
