@@ -2,13 +2,17 @@
 title: Troll (TRL)
 description: 
 published: true
-date: 2025-12-15T02:45:06.939Z
+date: 2025-12-15T02:48:41.540Z
 tags: troll, races
 editor: markdown
 dateCreated: 2025-12-15T02:42:57.368Z
 ---
 
 # Troll (TRL)
+
+>*It should be noted that the following description was taken partially from my encounter with a huge troll Shadow Knight named Jubjub while I was travelling to this area to seek out the frogloks. I had just barely escaped with my life after finding a haunted ruin within the swamp, when I stumbled across this troll, healing quickly beneath a tree. He spared my life only because I healed him with my song and was able to entertain him with my drumming skill (and, I would later find out, because he had previously tried half-elf flesh and really didn't favor it). Some wonder why I would bother to interact with the likes of him, but I was injured and the sword he picked up when I encountered him was as long as I was tall, and covered in gore and chunks of hair and scales... Being rather intelligent, for his race, he scratched the above map in the dirt for me and gave me a description of its inhabitants, although his take on them was quite the opposite from what I express below. He warned me to never travel within, for his buddies would "smash" me. I followed his advice...*
+>
+>*--Muse*
 
 ## Description
 Trolls are often considered a hideous and deplorable race that carries a sickening smell. This view suits the Trolls, as they are generally unpleasant to everyone. Trolls are an immense race, at least twice as strong as the average human. They have the ability to regenerate faster than most other races. Trolls have two primary motivators: food and power. These grotesque creatures will eat just about anything.
@@ -29,6 +33,27 @@ The city of Grobb lies within the Innothule Swamp of Antonica. The city is infes
 
 ### Increased Consumption Rate
 [Barbarians](/character/races/barbarian), [Halflings](character/races/halfling), [Ogres](/character/races/ogre), and **Trolls** all consume food and drink slightly faster than other races.
+
+### Infravision
+Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
+
+### Hit Point Regeneration
+Both Iksar and Trolls have higher HP regeneration rates (per tick):
+- A "tick" happens every 6 seconds (server side).
+- It does not matter whether you are sitting or standing between seconds 1 and 5, only the 6th second. 
+    
+| Iksar/Troll | | | | All other races | | |
+|-------------|---|---|--------------|-----------------|---|---|
+| **Standing** | **Feigned** | **Sitting** | **Level Range** | **Standing** | **Feigned** | **Sitting** |
+| 2 | 2 | 4 | 01 - 19 | 1 | 1 | 2 |
+| 2 | 2 | 6 | 20 - 49 | 1 | 1 | 3 |
+| 2 | 2 | 8 | 50 | 1 | 1 | 4 |
+| 6 | 8 | 12 | 51 - 55 | 2 | 3 | 5 |
+| 10 | 12 | 16 | 56 - 59 | 3 | 4 | 6 |
+| 12 | 14 | 18 | 60 | 4 | 5 | 7 |
+| 14 | 16 | 20 | 61 - 62 | 5 | 6 | 8 |
+| 16 | 18 | 22 | 63 - 64 | 6 | 7 | 9 |
+| 18 | 20 | 24 | 65 | 7 | 8 | 10 |
 
 ## New Characters
 
