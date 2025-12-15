@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T02:15:08.423Z
+date: 2025-12-15T02:17:11.030Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -64,7 +64,7 @@ All new Ogre characters have a starting bind location in **Feerott** at Y: 1103.
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beastlord | - | - | - | - | - | - | - | - |
+| Beastlord | 130 | 132 | 75 | 70 | 77 | 60 | 42 | 20 |
 | Shadow Knight | 140 | 127 | 70 | 70 | 67 | 70 | 42 | 20 |
 | Shaman | 130 | 127 | 70 | 70 | 77 | 60 | 42 | 30 |
 | Warrior | 140 | 132 | 75 | 70 | 67 | 60 | 37 | 25 |
