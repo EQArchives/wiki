@@ -2,7 +2,7 @@
 title: Troll (TRL)
 description: 
 published: true
-date: 2025-12-15T02:48:41.540Z
+date: 2025-12-15T02:49:03.836Z
 tags: troll, races
 editor: markdown
 dateCreated: 2025-12-15T02:42:57.368Z
@@ -34,9 +34,6 @@ The city of Grobb lies within the Innothule Swamp of Antonica. The city is infes
 ### Increased Consumption Rate
 [Barbarians](/character/races/barbarian), [Halflings](character/races/halfling), [Ogres](/character/races/ogre), and **Trolls** all consume food and drink slightly faster than other races.
 
-### Infravision
-Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
-
 ### Hit Point Regeneration
 Both Iksar and Trolls have higher HP regeneration rates (per tick):
 - A "tick" happens every 6 seconds (server side).
@@ -54,6 +51,9 @@ Both Iksar and Trolls have higher HP regeneration rates (per tick):
 | 14 | 16 | 20 | 61 - 62 | 5 | 6 | 8 |
 | 16 | 18 | 22 | 63 - 64 | 6 | 7 | 9 |
 | 18 | 20 | 24 | 65 | 7 | 8 | 10 |
+
+### Infravision
+Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
 
 ## New Characters
 
