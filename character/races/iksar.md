@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-14T14:42:17.824Z
+date: 2025-12-15T01:28:52.365Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -21,7 +21,7 @@ The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Om
 
 ## Basic Information
 - **Faction Alignmen**t: "Evil" ("Independent", not friendly with the other races of Antonica)
-- **Racial(s)**: Forage, Increased Armor Class, Increased HP Regeneration, Infravision, Swimming (100), -10 Cold Resist, +5 Fire Resist
+- **Racial(s)**: Forage (50), Swimming (100), Increased Armor Class, Increased HP Regeneration, Infravision, -10 Cold Resist, +5 Fire Resist
 - **Starting City**: Cabilis
 - **Playable Classes**: Beastlord*, Monk, Necromancer, Shadow Knight, Shaman, Warrior
 - **Race Experience Modifier**: 20% More Required
