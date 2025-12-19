@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-08T00:06:36.704Z
+date: 2025-12-19T04:02:09.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -105,3 +105,5 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 * Troll: Alligator
 * Vah Shir: Tiger
 
+## Player Guides
+- [Grymbok's Guide for Ogre Beastlords](/guides/grymbok_ogre_beastlord)
