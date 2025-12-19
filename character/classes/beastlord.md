@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-19T04:10:44.471Z
+date: 2025-12-19T04:49:54.359Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -107,3 +107,4 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 
 ## Player Guides
 - [Grymbok's Guide for Ogre Beastlords](/guides/grymbok_ogre_beastlord)
+- [Gomstel's Guide Level 1 - 50 Solo](/guides/gomstel_guide_level_1_50_solo)
