@@ -2,7 +2,7 @@
 title: Grymbok's Guide for Ogre Beastlords
 description: 
 published: true
-date: 2025-12-19T04:09:53.934Z
+date: 2025-12-19T04:12:02.768Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-19T04:09:53.934Z
@@ -370,7 +370,7 @@ teleport with a Druid who's taken Ogres before, and understands the
 potential problems, and even then it's probably prudent to always ask for 
 invisibility.
 
-Grymbok's Travel Guide - The Hard Way
+### Grymbok's Travel Guide - The Hard Way
 Because getting there is half the fun...
 
 ### Kunark
