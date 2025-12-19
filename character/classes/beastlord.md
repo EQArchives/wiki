@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-19T04:02:09.245Z
+date: 2025-12-19T04:10:44.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
