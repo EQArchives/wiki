@@ -2,7 +2,7 @@
 title: Flash of Light
 description: by Kraggan Swampdragon
 published: true
-date: 2025-12-20T04:35:28.507Z
+date: 2025-12-20T04:36:55.221Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-20T04:35:28.507Z
@@ -59,3 +59,6 @@ This spell has saved countless casters (and even a few low-HP tanks) in group co
 ## Summary
 
 Flash of Light earns permanent gem-slot status through its versatility and efficiency. Its combination of low mana cost, fast casting time, and multiple tactical applications makes it an essential tool for Beastlord survival and group utility.
+
+>Adapted from https://web.archive.org/web/20060504065946/http://www.eqbeastlord.com/fol.html
+{.is-info}
