@@ -2,7 +2,7 @@
 title: Beastlord Abilities by Level
 description: 
 published: true
-date: 2025-12-20T03:14:21.348Z
+date: 2025-12-20T03:15:28.444Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-20T03:05:57.013Z
