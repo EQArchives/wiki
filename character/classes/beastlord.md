@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-19T04:53:26.111Z
+date: 2025-12-20T05:02:58.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -18,6 +18,34 @@ Beastlords prepare for battle by calling on their animal warder and increasing t
 Beastlords also gain spells to slow or damage their opponents. Beastlords can heal and add an ally's health and mana regeneration as well, making them a well-rounded ally in battle.
 
 Beastlords can adventure solo well in many places. They depend upon coordination with their warders and well planned spells to finish every fight, but they can also aid a group through their spells and melee abilities. The beastlord is a great class for players who like the option of solo melee fights, but want to be able to help in a group. 
+
+## Skill Caps
+# Beastlord Skill Caps
+
+Skill cap progression for Beastlords from levels 50-60.
+
+| Skill | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | Gain |
+|-------|----|----|----|----|----|----|----|----|----|----|----|----|
+| Hand to Hand | 200 | 203 | 206 | 209 | 212 | 215 | 218 | 221 | 224 | 225 | 225 | 25 |
+| 1 Hand Blunt | 200 | 203 | 206 | 209 | 212 | 215 | 218 | 221 | 224 | 225 | 225 | 25 |
+| 2 Hand Blunt | 200 | 203 | 206 | 209 | 212 | 215 | 218 | 221 | 224 | 225 | 225 | 25 |
+| Piercing | 180 | 185 | 190 | 195 | 200 | 205 | 210 | 215 | 220 | 225 | 230 | 50 |
+| Kick | 210 | 214 | 218 | 222 | 226 | 230 | 234 | 238 | 242 | 245 | 245 | 35 |
+| Dual Wield | 200 | 206 | 212 | 218 | 224 | 230 | 236 | 242 | 248 | 252 | 252 | 52 |
+| Offense | 210 | 213 | 216 | 219 | 222 | 225 | 228 | 231 | 234 | 237 | 240 | 30 |
+| Defense | 125 | 130 | 135 | 140 | 145 | 150 | 155 | 160 | 165 | 170 | 170 | 45 |
+| Dodge | 150 | 155 | 160 | 165 | 170 | 175 | 180 | 185 | 190 | 195 | 200 | 50 |
+| Block | 150 | 154 | 158 | 162 | 166 | 170 | 174 | 178 | 182 | 185 | 185 | 35 |
+| Riposte | 200 | 202 | 204 | 206 | 208 | 210 | 210 | 210 | 210 | 210 | 210 | 10 |
+| Bind Wound | 200 | 202 | 204 | 206 | 208 | 210 | 212 | 214 | 215 | 215 | 215 | 15 |
+| Channelling | 185 | 190 | 195 | 200 | 205 | 210 | 215 | 220 | 225 | 226 | 226 | 41 |
+| Meditate | 113 | 113 | 113 | 113 | 113 | 113 | 113 | 113 | 113 | 113 | 113 | 0 |
+| Throwing | 235 | 235 | 235 | 235 | 235 | 235 | 235 | 235 | 235 | 235 | 235 | 0 |
+| Abjuration | — | — | — | — | — | — | — | — | — | — | — | — |
+| Alteration | — | — | — | — | — | — | — | — | — | — | — | — |
+| Conjuration | — | — | — | — | — | — | — | — | — | — | — | — |
+| Divination | — | — | — | — | — | — | — | — | — | — | — | — |
+| Evocation | — | — | — | — | — | — | — | — | — | — | — | — |
 
 ## Combat Skills
 
