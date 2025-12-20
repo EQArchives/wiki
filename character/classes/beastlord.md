@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-20T05:03:07.563Z
+date: 2025-12-20T05:08:41.657Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -21,7 +21,7 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 
 ## Skill Caps
 
-Skill cap progression for Beastlords from levels 50-60.
+Skill cap progression for Beastlords from levels 50-60.[^1] 
 
 | Skill | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | Gain |
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -135,3 +135,8 @@ Skill cap progression for Beastlords from levels 50-60.
 ## Player Guides
 - [Grymbok's Guide for Ogre Beastlords](/guides/grymbok_ogre_beastlord)
 - [Gomstel's Guide Level 1 - 50 Solo](/guides/gomstel_guide_level_1_50_solo)
+
+---
+Citations
+[^1]: https://web.archive.org/web/20041029001928/http://www.eqbeastlord.com/forums/viewtopic.php?t=19
+
