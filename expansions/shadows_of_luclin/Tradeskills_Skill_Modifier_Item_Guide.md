@@ -2,13 +2,15 @@
 title: Tradeskills +% Skill Modifier Item Guide
 description: 
 published: true
-date: 2025-10-04T04:05:42.833Z
+date: 2025-12-20T02:25:42.937Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-04T04:04:28.595Z
 ---
 
 # Tradeskills + %Skill Modifier Item Guide
+>See also [Skill Modifiers](/character/guides/skill-modifiers)
+{.is-info}
 
 ## Alchemy
 
