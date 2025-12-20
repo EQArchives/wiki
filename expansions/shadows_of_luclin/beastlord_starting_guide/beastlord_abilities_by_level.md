@@ -2,7 +2,7 @@
 title: Beastlord Abilities by Level
 description: 
 published: true
-date: 2025-12-20T03:05:57.013Z
+date: 2025-12-20T03:13:15.956Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-20T03:05:57.013Z
@@ -10,9 +10,8 @@ dateCreated: 2025-12-20T03:05:57.013Z
 
 # EverQuest Beastlord Abilities By Level
 
-Built off of Crouching Lizard's 'EverQuest Monk Abilities By Level' and adapted by Eternus for Beastlords.
-
-Information gathered at Monkly-Business.com and EQBeastlord.com. Pulled from Yiktiki's Beastlord Resource.
+>Built off of Crouching Lizard's ['EverQuest Monk Abilities By Level'](https://web.archive.org/web/20060628080200/http://jumpspot.net/eq/monks_by_level.html) and adapted by Eternus for Beastlords.
+Information gathered at [Monkly-Business.com](https://web.archive.org/web/20060628080200/http://www.monkly-business.com/) and [EQBeastlord.com](https://web.archive.org/web/20060628080200/http://www.eqbeastlord.com/). Pulled from [Yiktiki's Beastlord Resource](https://web.archive.org/web/20060628080200/http://64.127.69.85/beastlord/).
 
 ## Level 1
 
