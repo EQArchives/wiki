@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-20T05:02:58.132Z
+date: 2025-12-20T05:03:07.563Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -20,7 +20,6 @@ Beastlords also gain spells to slow or damage their opponents. Beastlords can he
 Beastlords can adventure solo well in many places. They depend upon coordination with their warders and well planned spells to finish every fight, but they can also aid a group through their spells and melee abilities. The beastlord is a great class for players who like the option of solo melee fights, but want to be able to help in a group. 
 
 ## Skill Caps
-# Beastlord Skill Caps
 
 Skill cap progression for Beastlords from levels 50-60.
 
