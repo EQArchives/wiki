@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-10-30T14:53:16.617Z
+date: 2025-12-20T04:00:50.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
