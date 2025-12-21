@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T05:50:16.712Z
+date: 2025-12-21T05:52:01.329Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -275,6 +275,23 @@ You can stay in the Mines until level 15; at 16, you can no longer return. But y
 Once you are level 10, some more quests become active in PoK; check with Vivian the True once more. She will send you to an armor quest NPC (one good, one evil), who I think will refuse to speak to people with a home in Crescent Reach (or Shar Vahl - they only speak to you if your home city and class has a newbie armor quest). She also gives a third, neutral quest giver: Castlen Drewe: Haunted Butcherblock, this requires level 11, and the reward is a Ghostly Mantle. Castlen has several quests to give, one per level up to 15/16, and a last one at 19. The armor NPCs give out pieces of the newbie quest armor, and if you have been levelling in Crescent Reach, this isn't likely to be an upgrade, although it is an improvement over the Gloomingdeep armors. Castlen's quests fill out most of the non-visible slots, and are high quality.
 
 While in this level range and passing through PoK, get the Fine Antique Ring. Find Curator Merri in one of the buildings on the good side, and get her Collecting Box (just talk to her). Then you need to combine four items in it. A cockatrice beak, a high quality cougarskin, a tiny rockhopper eye, and an undead froglok tongue. You will need to buy the skin in the Bazaar (unless you are already 30ish!), so hold off on this quest until you can afford one; the alternative is a merchant diving trip to the gnomes in Iceclad to see if anyone has sold one to them (take the boat from North Ro). The other items can also be bought there; this will be cheaper for the beak than trying to hunt one, or buying one from a vendor. The tongue can be found from frogloks in Qeynos Catacombs near Cubert (fine if you aren't kill on sight there or can invis), and the eye from vendors in Shar Vahl, or from level 1 rockhoppers in the pit under the city. Tongues can also often be found on vendors in many other places. This ring has the mana preservation II focus. Also consider the mask quest (the Forgotten Pools) for spell haste II. This involves talking to the guys sitting next to the pools on the good side of PoK, and giving in a sarnak blood (Bazaar/merchants again, or a trip to the newbie yard area of Lake of Ill Omen, which isn't without its perils). You then need to make a run into Droga, so make sure that you have a good invis - the 10pp, instant cast cloudy potions may be an option for clerics and warriors, and make sure you take more than one. 
+
+## Citizenship and Learning Shar Vahl (Level 1 - 2)
+**Objectives**: Learn Shar Vahl, containers
+
+One of the objectives of the citizenship quest is presumably to get you familiar with the layout of Shar Vahl; to cut this short, it helps to know that there is a basic symmetry to its plan - the palace in the centre (and to the west), a high class merchant area to the east of the palace with the arena at the far east, and slum/merchant areas to both the north and south of the central merchant area. From the north slum leads a bridge to Hollowshade, and from the south slum a bridge to Shadeweavers. At the far end of either bridge you can climb down into the pit underneath Shar Vahl.
+
+Your guild leader has sent you to Registrar Bindarah, who is in a building adjacent to the south gate. She in turn will send you to the tax collector, in the bank in the central merchant district, and to Mignah, who is upstairs in a tavern next to the north gate. From there you return to Bindarah, who will send you to see King Raja in the palace, and then to return to your guild master. At this point the experience given from this quest may have made you level 2 already (this did the first time I ran it, but didn't the second).
+
+If you need help finding these NPCs, try the Find button on your menus, or try asking the guards for directions.
+
+While exploring Shar Vahl, you should start the basic trade skill quests appropriate for beastlords, all of which require you to hand over your citizenship slate. The beastlord claws quest starts in the beastlord guild, with Animist Poren (270, 50) once you have returned with your slate; you will be given your first container for this quest, the beastlord sewing kit. Beastlords should also do the tailoring quest, which starts with Broker Fahaar (225, -25) in the narrow corridor between the palace and the merchant district, and gives a container (you will need a total of 16 young rockhopper hides for this). There is also a fletching quest, which may or may not be useful for beastlords - see Rytan (-400, 400) in the south merchant area to start this, and which also gives you a container.
+
+All these quests will have given you a long list of items to collect. Young rockhopper hides, which drop from young rockhoppers in the pit, xakra teeth from xakra worms in the pit, and shadeling silks from Xakra worms/larvae. You should also have a couple of containers to use to store all these items you must collect.
+
+While you are exploring the city, you may notice a young Vah Shir female called Shainai walking around - hail her, and follow instructions. You should end up with a little money, plus a compass. With care, you can sell this compass for 2pp, by going to the right merchants. If you need money, this quest can be repeated, which is most easily done by waiting on the palace steps for Shainai to turn up.
+
+Once you get bored with all this, which will happen very quickly, the question is, where to start hunting? You can start in the pit, or can go out into Shadeweavers; as the newbie area in Shadeweavers is slightly safer, and Shadeweavers, in contrast to Shar Vahl, is brightly lit, I prefer Shadeweavers to start. 
 
 ## Author's Notes
 
