@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:23:46.869Z
+date: 2025-12-21T06:32:45.406Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -686,6 +686,71 @@ The experience rate was 6 to 8 hours per level, with the AAs at 55 taking 4 to 6
 From around mid 40s to low 50s, the poachers are easy to pull and kill. I haven't tried this, but if Echo Caverns are camped, this may be a good alternative, and one suitable for a team as well. Be careful of the river just past the poachers, it contains highly social potameids with a large aggro radius.
 
 Another favourite in Jaggedpine is the Darkpaw gnoll caves, to the north. I haven't hunted here, so don't have any suggestions about this area, except that they seem to be suitable for level 54/55 up to 58 or even 59.
+
+## Warder and Spells Strategy (level 50-54)
+At 50, you get one new spell: Sha's Lethargy, a 30% slow. This is a noticeable upgrade to Drowsy, and won't be upgraded until level 60. A wonderful spell.
+
+For level 51, you get two minor spells, Ultravision and Resist Disease, plus Spirit of Wind. Spirit of Wind is a new pet buff, which includes a 0 second stun, and a knockback. The knockback is annoying, but it is very effective in interrupting casters. This pet proc makes killing dryads in Jaggedpine Forest almost trivial.
+
+Level 52 gives you Heath (sta buff), Venom of the Snake (a dot, from the necro vendors in Plane of Knowledge), Aid of Khurenz (pet heal), Spiritual Radiance (upgrade to Spiritual Light) and Bond of the Wild, quested in Gunthak. At this level, I still used my level 39 pet heal, because it is very much faster casting, and more mana efficient as it benefits from spell haste and mana preservation level II effects. Bond of the Wild is also very important for several more levels, as it combines the effects of a pet haste buff with an exact same hit points buff for yourself as you get with Talisman of Tnarg (a level 53 spell). Venom of the Snake is important, as it does 453 damage for 160 mana over 7 ticks, which means that it will complete over the duration of most fights, and is almost (but not quite) as mana efficient as the PoP nukes.
+
+At level 53, you get Talisman of Tnarg (hit points buff), Deftness (dexterity), and Spirit of the Storm (pet proc). I didn't use the Talisman at all, except to buff other people, until it's replacement at 58, Talisman of Altuna. Spirit of the Storm is the last easy to get pet proc before the 60s; it stuns for a brief duration, and seems to interrupt casters just as much as Spirit of the Wind did.
+
+So far, you are still using the level 49 warder, with slightly better buffs, including pet procs/haste and regen. At 52, you'll find that the old rule of 1% experience per mob killed no longer holds true, and each level will start to take a lot longer. With luck, KEI and steady application, you'll be able to get a level in 6 to 8 hours in good hunting spots.
+
+## Warder and Spells Strategy (level 54-59)
+Level 54 brings you a new warder (Spirit of Omakin), Ice Shard, Furious Strength, Resist Poision, and for the lucky (and wealthy) few, Spirit of Snow (a cold based pet proc). I couldn't ever find Spirit of Snow for sale, so I have no comment to make on it, except that people fortunate enough to find it say that they found it worthwhile. At this point you have the ability to efficiently stack damage with three PoP nukes during the course of a fight - this is worth doing, if you have sufficient mana, anywhere that mobs aren't cold resistant. So not for use in Velious. The new warder does a little more damage, but isn't as big an upgrade as any of the last two warders, who had to span much larger gaps in levels.
+
+Level 55 is a much bigger upgrade. You get Chloroplast (hit points regen), Sha's Restoration (pet heal), and Omakin's Alacrity. At this point I replaced the level 39 pet heal with Sha's, which is far more capable of healing the warder, by about 45%, although not any more mana efficient. Omakin's is slightly better stats and haste for the warder, but not enough of an upgrade from Bond of the Wild, being much shorter lasting. Chloroplast cast on both yourself and your warder makes a big difference, however.
+
+At level 56 there is a new warder, Spirit of Zehkes, as well as Incapacitate (debuff), Shifting Shield (armor class), and Spirit of Flame. Like Spirit of Snow, this is only available as a rare drop, and I haven't seen it for sale since I hit 56 - or for a long time before. Incapacitate has some use on tough mobs, but I find that I don't use it at all.
+
+The next level, 57, is another big jump and change in strategy. At this level, you get Dexterity, Stamina and Greater Healing. Chloroplast meant that I didn't need to stop to bind wounds very often; GHeal meant that I no longer used bind wounds at all, it being now more efficient to heal and meditate rather than to bandage.
+
+Level 58 is another small change; you get Nullify Magic, Talisman of Altuna, and Spirit of Khurenz (another new warder). Each of these warder upgrades through the 50s from 54 at 2 level intervals is both well worth while and needed, as mob toughness is increasing considerably through these levels. At 58, I stopped using Bond of the Wild, and instead buffed both myself and my warder with Talisman of Altuna, and used Omakin's Alacrity on the warder.
+
+At level 59, new spells are Blizzard Blast, Sha's Ferocity, and Spiritual Purity. With Spiritual Purity replacing Spiritual Radiance (and without KEI) and with Chloroplast and regen 3 AAs, while sitting my hit points seem to recover about as fast as my mana does. Sha's Ferocity replaces Omakin's Alacrity in my dual buff system started last level with Talisman of Altuna. Blizzard Blast is interesting; it's shared with shamans, so isn't one of the PoP nukes for beastlords with long (30 seconds) recast times. It is slight less mana efficient, but can more or less be chain cast. This means that you can burn mana to nuke down a mob, if you need to do so, and not worry about timing the casts of PoP nukes to save them up.
+
+Level 60 will bring new resources, and I'll save that for a later update. The 50s bring regular updates to the spell line up, which is a big improvement over the long gaps from 30 to 39 and 39 to 49. You also gain considerably in your ability to tank through about level 51/52 onwards; before, I could barely tank alongside my warder for about 50% of the mobs health, whereas afterwards, I gained a noticeable ability to tank for the full fight if I wanted to. From 51, there is also the possibility of alternate advancement, which can make a big difference if you want it take advantage of it. For example, I used six AAs for regen 3 and run speed 3 at level 55/56, then a further two for spell casting reinforcement 1. I can't say how much difference regen really makes, because I never levelled without it. However, with run speed 3 I don't notice any obvious difference between that and Spirit of Wolf speed, although I appreciate that there is, and so I don't keep myself buffed with SoW any more. Unfortunately, run speeds doesn't affect your warder, so I keep him sow'ed for faster response in combat at all times.
+
+## Warder and Spells Strategy (level 60-65)
+### Level 60
+
+At level 60, the beastlord is at the pinnacle of what was intended for a character created in the Luclin era, before the extra levels were added with Planes of Power.
+
+You get several new spells, all of which are now available on vendors (Alacrity, Spiritual Strength, Savagery, Sha's Advantage and Spirit of Khati Sha).
+
+Through the 50s, there have been incremental increases in power, as your warder is upgraded every two levels, and a gradual shift as you adopt new roles. The level 60 slow spell marks another of these changes, as you become a competent slower for groups, instead of your slow being a useful tool for soloing. The types of monsters you will be fighting will make incapacitate very effective in some situations. More significantly, increased skill caps mean that at last you can out damage your warder when properly buffed and with the right gear.
+
+All spells from now on (to 65) come from one main source: parchments and runes dropped in PoP zones. These are unlikely to be available to a soloer, and will be rare in groups this side of 65. Ethereal parchments can be turned in for level 61 and 62 spells, spectral parchments for 63/64, and glyphed rune words for level 65 spells. Ethereals drop in tier 2 zones rarely, spectrals from tier 2 bosses, and runes from tier 2 bosses and elementals mobs. If you don't raid, you won't be able to get any level 65 spells from a turn in, and are unlikely to get any level 63/64 spells. However, as these items drop commonly on raids and in groups in elemental planes, they are reasonably cheaply available in the Bazaar. So save up and buy the spells in the Bazaar before you level - the 64 pet and 65 slow are the most expensive, typically.
+
+Strategies for level 60 expand your power considerably. The warder is still under level 50, so not very effective against PoP mobs, but the new slow (50%) is great, and 40% haste from Alacrity is a good thing. Savagery is the one that will require the most adjustment to get used to. Firstly, it is expensive - it consumes a peridot, doesn't last long, and uses more mana than almost anything else (same as the 60 warder). However, the resists boost can make a big difference when fighting casters.
+
+### Level 61
+
+There are three parchment spells at 61: Infusion of Spirit, Healing of Sorsha, and Scorpion Venom. The pet heal is a big heal with a slow cast again. Scorpion Venom is a fast (7 ticks), slow and expensive DoT; being poison based it generates a lot of aggro. It's main use for me is when I need the extra aggro and have mana to spare (which means in a group with KEI), and even then the low level dots are just as effective for this purpose. Infusion of Spirit can only be obtained from a hand in, and is shared with 49 shamans, making it very expensive to buy in the Bazaar. Which is unfortunate, as it is a very good buff, increasing str/dex/sta as well as hit points; IoS + Kragg can be better than Focus for this reason. IoS also stacks with the cleric self buff, which Focus does not; so remember to cast it on clerics, they will appreciate it.
+
+The remaining 61 spells are: Counteract Poison, Annul Magic (both on lots of vendors), and Talisman of Shadoo. Shadoo is a return from the shaman spell hand in quest in Kunark; there are NPCs for this in both Firiona Vie, Cabilis and the Overthere.
+
+No strategy change for 61.
+
+### Levels 62-64
+
+At level 62, we get 2 parchment spells: Spirit of Arag and Spiritual Vigor. The new warder is level 60, which means that he can effectively hit those annoying higher level PoP mobs in tier 2 and above. Other spells are Chloroblast (sold in the East Commons tunnels) and Talisman of Kragg. The improved healing of Chloroblast can make a big difference if you don't yet have defensive AAs. The increase in power from the new warder is the biggest power increase since the 49 warder; many people chose to sit at 62 to gather AAs in easy old world camps (I chose Nurga tier 4 mobs for this).
+
+Of the 63 spells, 3 are parchment turn in results: Arag's Celerity, Spirit of Rellic, and Frost Spear. Frost Spear is a larger PoP nuke, but with a worse damage/mana ration than the previous ones; worth memming for fast damage on runners, but not exciting. Spirit of Rellic is the first new pet proc for most of us since Spirit of Storm at 53, as both Snow and Flame are still too hard to get. The proc is magic based, and so isn't preferable to Snow/Flame in all cases.
+
+Other spells are Abolish Disease, Celerity (50% haste), and Talisman of Jasinth. Jasinth is found as a Kunark drop only.
+
+Power increases at 63 are a significant improvement over 62, although nowhere near as big as the leap from 61 to 62.
+
+Level 64 parchments result in Spiritual Dominion and Spirit of Sorsha. Regrowth is a vendor spell from Firiona Vie, and Protection of Calliav is the LDoN pet rune (for 650 points in Takish/South Ro). This level is another incremental increase.
+
+### Level 65
+
+Level 65 is another pinnacle, this time for the Pop era, and hinging all one one spell: Sha's Revenge.
+
+For level 65: Plague (from vendors), Acumen (a Kunark drop shared with shamans), Sha's Revenge and Ferocity. Sha's Revenge is the big 65% slow that makes beastlords wanted badly in groups as a substitute for shamans and enchanters. Ferocity is as big a deal in its own way: 600 mana and no reagent for an upgrade to Savagery; cast it on yourself, or rangers or rogues if you are grouped - they get better improvements to dps from Ferocity than we do. I use it for resists, as it usually means that I can resist almost everything cast at me (apart from lifetaps, splurt and some harm touches and dispells). Acumen used to be prized for its stamina regen, but is now almost worthless.
 
 ## Author's Notes
 
