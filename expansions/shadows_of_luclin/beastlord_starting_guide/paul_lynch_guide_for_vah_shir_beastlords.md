@@ -2,17 +2,17 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T04:58:05.205Z
+date: 2025-12-21T05:04:45.810Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
 ---
 
-# Guide for Vah Shir Beastlords
 > **Original Author**: Paul Lynch  
 > **Original Date**: August 9, 2005
 > **Original URL**: https://www.paullynch.org/Everquest/VSBL/
 > **Note**: This guide has been edited for clarity and converted to wiki.js format. It reflects EverQuest as it existed in 2005 and may contain post-Luclin era but still outdated information regarding recent expansions and mechanics.
+# Guide for Vah Shir Beastlords
 
 ## Introduction
 This guide is a comprehensive guide for a new Vah Shir beastlord. I don't tell you how to play Everquest, and I don't give you detailed walkthroughs of any of the quests; but I will point you at useful places to start. My starting point is an assumption that you play a [Vah Shir](/character/races/vah-shir) because you are interested in the race, and a [Beastlord](/character/classes/beastlord) because the class interests you, and so will be inclined to "role play" a little more than the norm (which is exactly zero, btw). I'll take you through native Vah Shir hunting grounds as well as the game tutorial, and point out the quests and rewards. If you want to powerlevel and twink, that's up to you, but a lot of what I have to say won't be of any interest to you. If you are still interested in reading further, you've made a good choice! 
