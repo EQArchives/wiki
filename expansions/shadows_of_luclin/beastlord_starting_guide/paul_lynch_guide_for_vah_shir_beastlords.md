@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:13:42.716Z
+date: 2025-12-21T06:18:46.680Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -496,6 +496,142 @@ At the lower levels, 44 - 46, I could only melee for a few seconds at a time; I'
 The Taskmaster room will be all blue at 49, with a few green slaves at 51; beyond that, only the Taskmaster himself will remain blue. If you want to pull the Taskmaster from a full spawn of slaves, only the one on the near right will come with him, so it is best to kill that slave first; at higher levels he may pull singly. The slaves to the left will also usually come as multiples; having a cleric, bard, paladin or enchanter partner to pacify them will eliminate this problem. At 49, you can pull these as singles with Cancel Magic; the middle two on the left sometimes come together even so, but two at 49 aren't a problem to handle. The Taskmaster drops (always) a cracked shissar revenant skull; no one knows what it's for. He also rarely drops shissar organs, which are used in the quest from Katta for the Amulet of the Gray Wastes; you need three for this quest, and good races only need apply. Polished scales are vendor loot; the orb of echo ore is a nice range slot Bazaar item.
 
 The gnomes are also blue at these levels; I haven't fought them, but I believe they give good experience if you can discover how to split them.
+
+## Warder and Spells Strategy (level 30)
+At level 24, Endure Disease became scribeable, and at 29 Enduring Breath. I haven't mentioned them earlier because I haven't seen much use for them at these levels. Essential spells at 30 are: Spirit of Herikol (new warder), Herikol's Soothing (pet heal), Sprit of Inferno (pet proc), Spirit of Wolf, Spirit Strike (nuke), Spirit Strength and Turtle Skin. I'd also buy Summon Food for more practising, and Shrink, if you plan on fighting in dungeons. That covers almost all of them!
+
+The next spell level is 39, and that's a long time to wait using the old, 33 hit point heal from level 22. You get another good nuke at 34, so keep practising evocation. You'll also notice that your warder isn't quite the killing machine that he was at earlier spell levels; a big improvement, but will need help to kill the mobs that you are hunting even at 30. Soloing becomes a little harder now, and groups are worth seeking out. When soloing, you'll want to pull back to cast and move forward to melee and take damage away from your pet; sometimes you'll just sit down and play 'pet cleric', with your new heal that will take care of around 35% of your warder's hit points.
+
+Through out the spell level, you will want to stay hunting mostly the same level mobs, because your warder stays the same level. You will be able to tank better towards the end of this level, but the relative level of your warder will be getting much worse. At 36, your warder will turn light blue. To kill mobs that are dark blue to him, he will need a lot of help from you; Ice Spear, the nuke you get at 34 will help with this. You should drop Spirit Strike at this point: it does less damage for more mana, and its only advantage is the faster recast time.
+
+The best strategy is to move in and out of combat to balance your hit points and the warders; as you start to get low, move back and let your pet tank. Whatever you do, don't get below 40%, as you may find it impossible to shake off the mob due to low hit point aggro. Keep casting Fleeting Fury on your warder, as the dexterity boost will help it to proc more often.
+
+In a smart group, you are there for DPS (damage per second), which means always meleeing alongside the main tank and your warder, and using your pet heal between pulls. If there isn't a shaman or enchanter in your group, always cast Drowsy on every mob. You may need to ask the groups cleric/druid/shaman to specifically buff and heal your pet, as only an experienced one will be paying much attention to it. The warder will benefit from haste, dexterity, HP, AC buffs, and possibly from strength buffs, in roughly that order.
+
+## Warder and Spells Strategy (level 39)
+Essential spells are Healing (100 point heal), Envenomed Breath, Spirit of Yekan (new warder), Spirit of Scorpion (pet proc), Yekan's Recovery (pet heal), and Yekan's Quickening (pet buff including haste). You will also want Spirit of Ox, Spirit of Monkey, and Endure Magic. Spells are relatively cheap, so buy them all. The only expensive ones are Summon Companion (sold in the tunnels in East Commons) and Envenomed Breath - which can be found on the balcony above Spiritist Ragnar's shop in Shar Vahl.
+
+The pet heal will take care of around 45% of your warders hit points; Healing does about 10% of mine. If you have kept up Bind Wound, a single bandage at 150+ skill will heal 3% of your points. From this point up healing is going to get worse and worse, so consider skilling up in Bind Wound. From 51, bind wound will be able to take you to 70%, provided you can skill up past 200. Yekan's Quickening is relatively expensive to cast and doesn't last very long, but the bonus of haste, strength, AC and ATK can't be resisted. At this point I gave up on Fleeting Fury, and instead relied on Spirit of Monkey to boost my warder's dexterity for procs.
+
+Remember to train in riposte at level 40.
+
+Before the next major spell level at 49 you will get the highly important spell Spiritual Light (mana and health regen by 3 points per tick each), and the Legacy of Ykesha quested dot, Malaria - unfortunately the quest isn't possible to complete until you are in your mid 50s. Spiritual Light can be found on the shaman vendors in Shadowhaven (only). You will also have another phase of having to support a light blue warder, which he turns at 43, then green at 48. Keep using Flash of Light (and Sense Animals, if you have it), in readiness for getting Invisibility at 49.
+
+## Dawnshroud Peaks (levels 26 - 52)
+ Dawnshroud can take the right class from 26 up to their low 50s very easily. It doesn't have the big experience boost of some other zones, but is easy hunting. At first only named mobs, shroom, rockhoppers and lightcrawlers are aggro on beastlords, and only the named and lightcrawlers roam. Druids, rangers and shamans as well are safe from the wolves, but all other classes will aggro the wolves, who roam the zone as well as spring from traps. Only the tribals have faction that you can destroy, making them kill on sight to you. From 26 up to mid 30s, the shroom are good hunting. Lightcrawers give decent experience as well up to about 33/34, when they start to turn green; most shroom are still blue at 37/38.
+
+The biggest problem in Dawnshroud is the trains. There is a constant stream of ignorant higher level players running through to Maiden's Eye and Umbral Plains beyond, straight through the shroom patches (which you may well be trying to camp), as well as higher levels hunting rockhoppers and training them to the zone. This means that the quadrant from Netherbian Lair through to Maiden's Eye is not a safe spot to camp, and the building at the Netherbian zone line is positively fatal.
+
+The first spot to camp is at the Sanctus Seru entrance. Come out of Netherbian and turn right along the zone wall. As you get your confidence in the zone and know where the shroom spawns are and how to spot lightcrawlers, you'll be happy to run straight there. Just before the Sanctus Seru entrance is a hill, and at the bottom of the hill is a 3 spawn of shroom. Be careful not to aggro them. If this is clear, you will want to camp these. Pull with Drowsy as usual, and kill - nothing special required. Rarely these will spawn at a higher level; sometimes, a named shroom "Fungi Shroom" with capitals will spawn there, this is likely to be a caster and will kill you quickly at lower levels. Leave it alone. Spawn time is around 12 minutes for these. The droppable items sell for 2 - 4pp to merchants, and drop commonly (1 or 2 on most shroom, probably averaging close to 1 per kill).
+
+To the right of the Sanctus Seru entrance is an open area where lightcrawlers collect. If you are beating the shroom spawn, you can try adding these in. Beware, because lightcrawlers can blind you. I pull with Drowsy as ever, and kill them by sending my pet in, and only start to melee when they turn to run. Keep your pet healed and cast Fleeting Fury when you can. Collect all the lightcrawler drops apart from the cracked shell, and you can turn them in to an NPC in Sanctus Seru for lightcrawler armor. You can't use this, but it should sell in the Bazaar. Move on from here at 34, although the small zelniaks by the entrance will stay blue to 38.
+
+There are two other good spots to kill shroom. The first is to the left of the Netherbian entrance, if you are willing to run the risk of the trains and the rockhoppers. The first spawn out from Netherbian along the zone line is a 2 spawn of shroom (it used to have three, but the third seems to have vanished). Over the hill by some tents with merchants is a three spawn of shroom. Then a bit further off, past the rockhopper caves, is a single shroom spawn. Both of these last two spot are the only places that I have seen the caster Fungi Shroom spawn, so be careful. The spawn past the rockhopper caves appears to have a single shroom in it; and, so long as you don't get too close, you can pull and kill that shroom. However, if you get too close to the ring, two other shroom will spawn. They may be normal shroom, but stand a good chance of spawning a Golden Shroom (level 35 necro), or two shadowknight Fungi Shroom, complete with approx 400 point harm touch. They are killable, but be aware of the risk.
+
+The second is what I call the shroom farm, close to the Grieg's End entrance on the way to Sanctus Seru. It too is close to a group of merchants, which has an outdoors 3 spawn of shroom near it, the only spawn not on a zone wall. Be careful of pet pathing if you go between this building and the zone wall; my warder seems to want to run the other way around the entire zone to reach me if I do this. You can pull individual shroom with proximity aggro from here, or by casting Drowsy on them if you can see them. One shroom spawns to the left of the main entrance out of sight as you enter the building, and will aggro as you enter the door, so be prepared. I guard my warder a few yards back from these doors, and pull the one to the left, the two in the middle, two to the left, and then the two to the right. Sometimes people camp from the far side of the building at the zone wall; this is a less good spot for both the pathing issues, and because you can't so easily pull zelniaks and tribals there.
+
+After a few levels of this, starting about level 27 or higher, I can add in zelniaks. These don't assist, so you can wander the zone killing them if the shroom are all camped. All types of zelniak are plentiful, especially between the hills in the middle of the zone. You can hit low 40s on these - but the loot is zero.
+
+From your high 20s and low 30s, you can tackle the tribals. Some of these are casters, and will root and dot you as you pull (using typical ranger spells for their level; some may be druids or shamans, possibly) if you aren't careful. They are also social, and have faction - so as you kill them, they will start to aggro on you as you move through the zone. Tribals hang out near the Maiden's Eye and Grieg's End zones, with the higher levels being Tribal Lookouts by Maiden's Eye. The Tribal Hunter, who spawns rarely in the middle of the lookout rocks, usually drops a decent 1HB weapon. These give good experience to 47/48, but most people move on around 40. The great thing about the tribals is that they drop acrylia. Depending on your preference, this is great for tailors skilling up, or just plain selling in the Bazaar.
+
+So far I have advocated mainly killing lightcrawlers and shroom, with the addition of a zelniak at times. Once you are past 34, you can choose to specialise in zelniaks. There are three kinds: small zelniaks, zelniaks, and large zelniaks. Small zelniaks are commonest by the Sanctus Seru entrance, and will turn green at 38. Zelniaks will stay blue to 39. Large zelniaks are possibly commonest around the Netherbian Lair entrance. But the best place as a beastlord to hunt zelniaks is in the middle of the zone, inside the ring of hills where they spawn. Stick to zelniaks until your new pet at 39; large zelniaks have a lot more hit points, and don't give obviously more experience.
+
+For higher levels, mid 40s and up, rockhoppers and stonegrabbers seem suitable - I haven't hunted these yet, however (with a beastlord, that is). The rockhoppers drop superb and flawless hides used in tailoring.
+
+## Warder and Spells Strategy (level 49)
+The most important spells at this level are Spirit of Kashek (new warder), Vigor of Zehkes (warder heal) and Spirit of Vermin (pet proc). You will also want Frost Shard (upgrade to Ice Spear, only available in Plane of Knowledge), Spiritual Brawn (atk and HP buff, in Shadowhaven), Raging Strength (replaces Spirit Strength), Protect (replaces Turtle Skin), Frenzy, Invisibility and Counteract Disease. Listless Power is only of any value in PvP; Invigor is close to useless.
+
+These are significant updates to your existing line of buffs, warder and attack spells. Frenzy is a short duration self only stat buff that you should have cast on yourself all the time in combat; fortunately it lasts a lot longer than Fleeting Fury at around 10 minutes. However, the recast time for Frenzy is very long, so you will almost certainly want to dedicate a slot to it; if you still have Fleeting Fury memmed, this should replace it. Frenzy also prevents you casting any spell for 30 seconds, so it is best cast after combat starts; at this level, you should only very rarely be interrupted. Invisibility is extremely useful for safe travel, but won't cast even slightly reliably until your divination skill exceeds 150 (and more). Use Flash of Light to practice divination; you can cast it on your warder or a corpse in a safe spot. Counteract Disease is much more important than it sounds - as you fight more caster mobs, you will find yourself getting slowed; Counteract Disease can remove a slow.
+
+One warning about Vigor of Zehkes; it is less mana efficient than Yekhan's Recovery, and even more so if you still have a Mana Preservation II item, which will benefit YR but not VoZ.
+
+At this point I self buff with Inner Fire, Protect, Spirit of Ox, Raging Strength, Spirit of Monkey, Spiritual Brawn, Spiritual Light and Spirit of Wolf at all times. During combat, I add Frenzy to that list. Inner Fire doesn't add much, so you may choose to drop it. My warder is buffed with Inner Fire, Protect, Raging Strength, Spiritual Brawn, Spirit of Monkey, Spirit of Wolf and Yekhan's Quickening. Again, you may choose to let Inner Fire drop.
+
+## The Hollowshade War
+Hollowshade Moor is one of the most entertaining zones in the game - provided you aren't attempting to gain experience there. It's a zone that I have cursed many a time in the past, but that's changed now that the war script is fixed. As it now is, it serves several purposes: as an experience and quest zone for young Vah Shir (14-30); a source for high level smithing components; probably the most exciting mid-level raid zone; and a zone for 49+ people to solo farm interesting drops (many of which are no drop). The two reasons I used to curse this zone were: all the mobs are undercons, with a distinct lack of experience modifier; and the war script was badly broken, with no way to reset the zone to any reasonable status.
+
+Allakhazam's [Hollowshade Moor Quest](http://www.allakhazam.com/db/quest.html?quest=1609). Check here for details of the drops - the list of mobs is rather incomplete.
+
+A number of decent mid range weapons can be found here: a +5 wis 1HB, a 2HB with dot/debuff proc, several piercers, and an average 1HS. There are two haste items; several items with +2 to +5 wis, various levels of int, skill modifiers of +3% for piercing, and +3% and +4% med, and an FT(I) item.
+
+The west side of the zone is an open field with rockhoppers and rhinobeetles, roughly level 10-14. These drop pelts, and various items for the vah shir quests. Across the south end of the zone is a lake with turtles and fish, also with quest drops, and various ground spawns on the island for these quests. South of the lake on the west side, below the entrance to Paludal Caverns, is another area with a slightly higher density of hoppers and beetles - good to hunt in if you need their drops. As well as the common mobs, a named hopper, Dirtchomp, and a named beetle, Gorehorn, can spawn. These are roughly level 25. It is possible that they can be spawned by killing the "aggressive green" beetles and rockhoppers (ie the ones that will aggro even when green cons).
+
+There are three camps: a village on the south wall, occupied by grimlings; a cave to the east, occupied by sonic wolves; and a cave in the NW, occupied by owlbears - as well as a vah shir outpost near the entrance to Shar Vahl in the NW. All of these four points can be occupied at various times and different combinations by the three factions (owlbears, sonic wolves and grimlings). The war is started by players, and continues until one faction holds all three camps, at which point it will take over the outpost. When a named mob in the outpost is killed, the zone resets back to its normal state.
+
+Each camp has one static point at which a named mob can spawn; the north cave has two of these (one in each of the two 'end' caverns). In addition, there are several named mobs that can spawn outside the camps and will wander about their faction areas. Drops are best from the named mob of each group in their home camp, from which ever occupies the north caves, and from the final named mobs that spawns in the outpost. The drops required for smithing are commonest from whichever of the owlbears or wolves holds the southern village - shrieking and wailing substances (wolves and bears), for shadowscream armor. I should point out that the owlbear smithing drops are also available in Paludal; I am not sure about the wolf ones.
+
+### Running the War
+
+To start the war, just kill the named mob in one of the three camps. That will trigger an invasion from the next camp counter-clockwise, which will be defeated if you don't help the invaders; while the invasion is underway (it lasts for 6 minutes), killing any of the other nameds has no effect. Once one camp has been taken over, invasions are automatically triggered at random every 12 minutes; these are usually, but not always, unresisted. The system seems to be arranged so that all three camps won't be taken by the same group without player intervention, so the team with two camps will always be undefended, and the team with one camp will always defend it. The zone announcement has been adjusted to be reasonably clear if the camp attacked will be defended or not. If the invasion is the one you want, you need once more to kill the defenders, if they spawn; if it isn't, you will have to kill the attackers, which is best done as they start to leave their base. Just one attacker reaching an undefended camp will take it over. I have been told that there is some magic system to force the 'correct' invasion to happen; but watching the person who claimed this, the 'wrong' invasion happened three times in a row, so I assume this is false. I have also heard that you can aggro an attacker and pull it into the winning area, but I haven't been able to succeed with this. Attackers from the north and east leave from the caves, but attackers from the south spawn on the sandy spur in the lake by the east wall. By waiting for the right group to set out and helping them to win, you can arrange for any combination of two groups in the three camps. The attackers are variously called grimling invaders, furious owlbears, and sonic wolf fiends. They are non-aggro, and slightly easier to kill than the general run, whereas the defenders are harder, and they summon. Grimling invaders have two types, one of which (in the yellow jerseys) is immune to changes in run speed; the other is not. Aggro them, and they will turn to you.
+
+As soon as one group has taken all three camps, the vah shir leg it for the zone accompanied by rain and thunder, and the victors take over the outpost. The named mob that spawns is typically level 35ish (blue to 40, green to 52), and as soon as it is killed, the zone returns back to normal.
+
+If you want the owlbears to win so that you can try for the FT 1 range item, first kill the grimling chieftain. He summons, and casts a form of snare (called Quicksand). When killed, he only uncommonly has any of his drops - but you'll need to kill his two bodyguards to loot. These three often drop acrylia, as well as the usual grimling drops. At the back of his hut are two spiritists, who will chain heal. Once the three at the front are down, take out the spiritists. As soon as the chief drops (within 30 seconds), the owlbears set out, and five grimling defenders spawn. These summon, backstab, and use Strong Poison on you. Kill the defenders before the furious owlbears arrive, and the owlbears will take over the village. In the chieftains place will be a screechmaw, who drops an owlbear claw earring or a sinew wrapped owlbear ribcage (chest slot).
+
+Next, you will have 18 minutes from the chieftains death, 12 minutes from the owlbears taking over the village, to get to the wolf cave in the east. If the wolves attack the owlbears, five sonic wolf fiends will set out. It is easiest to kill them as they parade outside the cave. Keep on doing this every 12 minutes until the owlbears attack. Then three sonic wolf defenders will spawn; kill these - I think they can summon as well, but it is possible that they don't. Defenders are all perma-rooted. Then race to the outpost.
+
+At the back of the outpost spawns Skriat'Chakku (named owlbear). I target her from the road, then run around the back and cast on her - she warps through the wall onto me, and can be safely killed without interference from the other owlbears. She is immune to changes in run speed. The commonest drop is the owlbear bone club, but both the +5 cha cap and the polished owlbear beak piercer is common. The rare drop is the eye (FT1).
+
+To get the grimling Prince Garzemort, start by killing the sonic wolf cave packleader; for Gnarlik, start with the owlbear denmaster.
+
+This cycle can be over in 25 minutes; at times, it has taken close to 90 minutes if the luck of the random number generator was against me. The same approach, with a different starting point, can result in each of the three groups winning. The boss wolf, Gnarlik, is a reasonably easy kill. The hardest is the grimling Prince, who is extremely magic resistant. He sometimes resists both Splurt and Bond of Death, which are generally never resisted; life taps seemed to always land. Cold nukes always landed for full; I don't know about fire. If left to their own, they can easily kill a level 49 pet, although they are easy solo kills at that level.
+
+### Mid Level Raid Plan
+
+If I was intending to do this as a mid-level raid, I'd want at a minimum 2 groups of 35 - 45s, up to four groups, one with a tracker. Station a group at each of the camps, and use the fourth to track named mobs in the middle of the zone, plus track the invaders. If you have two groups, use one to kill the trigger mobs and kill defenders, and the other to intercept invaders. Start by killing the appropriate trigger mob, then have all groups commence killing all the nameds for the next 5 minutes. In the south, you only need kill the chief's hut (2 healers, 2 bodyguards, and the named). In the north, you should be able to walk between many of the mobs without aggroing, although the entries to the two caves with nameds at the back have two guards that are likely to aggro, and the nameds are close to other mobs, and adds are likely, depending on your level. The only way to handle the east cave is to kill in to the named placeholder, and sit tight waiting for respawns. I have seen someone pull the named through the roof of the cave, but I don't know if this is still possible. The east cave is by far the toughest to deal with. Nothing in the zone can see invis, so it may just be possible to invis a group in to kill at the named spawn point; in the east cave, I can pretty much guarantee 2 or possibly 3 adds, depending on timing.
+
+Killing defenders will be tougher at this level, as they are permarooted and summon. If you kill the normal entry guards (bodyguards/guardians) first, you should be able to kill defenders from one end. The grimlings will be the hardest to defeat, but they don't have wanderers pathing through the defenders area.
+
+Keep killing the nameds until you have enough drops, then cycle through a different way. You should be able to get owlbear/sonic wolf claw earrings for everyone, and a variety of other items.
+
+### Named mobs
+
+Village:
+grimling chieftain
+Scarflank
+owlbear screechmaw
+
+East Cave:
+sonic packleader/Ghowlik
+owlbear fleshrender/Skriat'Chee
+grimling tribal leader/Grurn No Eyes
+
+North Cave, Main position:
+owlbear denmaster/Skrietat'Chu
+sonic wolf/Dreadmaw Wolfkin
+grimling guard/Gniktar Grimwit
+
+North Cave, other named:
+owlbear fleshrender/Skrietat'Cha
+sonic wolf/Fireclaw Wolfkin
+grimling guard/Gleeknot Gnitrat
+
+Outpost:
+Skriat'Chakku
+Gnarlik
+Prince Garzemort
+
+Wanderer (North Central, between the two rivers):
+Curfang
+Gamtoine Cursmakk (not seen personally)
+Skrietat'Chet
+Wanderer (North Moor, outside owlbear caves):
+Prince Skriatat
+Warpaw Dankpelt (not seen personally)
+Wiknak Grimglom (not seen personally)
+Wanderers (West and South Moor)
+Gorehorn
+Dirtchomp
+
+### Just for Beastlords: the Sonic Wolf Bane Claws and Garrison Cloak
+
+The sonic wolf bane quest at first sight isn't worth doing; the claws themselves are less powerful than polished steel ulaks, which you can easily get for yourself solo at high twenties, and it involves considerable pain camping mobs in Hollowshade to find the required components, as well as a relatively high level (135) in one of the hardest to train tradeskills, tailoring. See the Trade Skills section for advice on reaching this level. However, the end of this series of quests is well worth getting, the Officers Cloak (now Vah Shir beastlord only, unfortunately), and to an extent justifies the time spent on the long camps in Hollowshade.
+
+It is possible to multi-quest to get the Journeymans Cloak, skipping the claws entirely, if you can find someone with the claws already who is willing to MQ With you. You still need drops from the war, but the biggest trouble is over.
+
+To make the claws, you will need first to get your tailoring skill to 135. The easiest way to do this, and cheapest, is to collect a very large quantity indeed of owlbear pelts and shadeling silks, following the Vah Shir tailoring quest; I would suggest 20 or more stacks at least. You can collect these from the owlbear caves, or from the owlbears if they are resident in the grimling village. You will also need a few rare drops: kelp salts from the moor tortoises on the south islands; fish oil soaked rags, rare from grimling fishermen and possibly herders, but common from the grimling chieftain; owlbear tendons from wandering cubs, grapplers and razorbeaks in the north, or from various owlbears if they are in the grimling village; and finally sonic wolf tendons, which seem to only drop from wandering sonic wolves, very rarely, when wolves are in the eastern caves - I got mine from a wolfling. Note that all of the owlbear and sonic wolf drops only come from the wandering spawns outside the caves, not from inside the caves or the wanderers that leave the caves. Combine these with your stretching dowels to create toughened sinew lashings.
+
+Next comes the really hard part: you need to find Shar Vahl citizens who have done the same quests, and trade one of your lashings for their components: sonic wolf bane poison from a rogue, reactive sealant soak from a shaman, a porous claw blade from a warrior, and ceramic claw sleeves from a bard. Combine these in a Weapons Assembly Kit that you buy in the Shar Vahl Library (from ??). When this is finally done, hand in the claws, then your apprentice's cloak, to Kaam Rahiir (in the south section of the Library at -250, 130). You will be given a journeyman's cloak, and told to take the claws to Ahom Gurzhin, who stands in the cave entrance to Grimling Forest in Hollowshade; this is incorrect, he only wants to see your journeyman's cloak. Ahom gives you a journal to deliver to Historian Sharar (140, 70 in the north section of the Library), who in turn gives you a note to deliver to General Avilah. The General is also in Shar Vahl, on the top floor of the building in the north section before the Hollowshade bridge, at the west end of that area - he is at 380, 440, up the outside steps. The General gives you a box, and wants you to combine in it your journeyman's cloak, and three rare drops from Hollowshade. You will need: a grimling chieftain's staff, which drops from the grimling chieftain and the spiritists in his hut; an owlbear guardian talon, which drops from owlbears in the north cave; and a sonic wolf guardian fang, which drops from sonic wolves in their cave. Combine these items and return the box to the General, and you will be rewarded with the Garrison Cloak, and a note to deliver to Veteran Darznel, who is in Grimling Forest.
 
 ## Author's Notes
 
