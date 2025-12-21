@@ -2,7 +2,7 @@
 title: Beastlord Quests
 description: 
 published: true
-date: 2025-12-21T03:50:54.652Z
+date: 2025-12-21T03:57:43.083Z
 tags: quests, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:49:00.538Z
@@ -127,6 +127,7 @@ All quests are given by **Gargh**.
 ---
 
 ## Vah'Shir Beastlord
+>See also [Vah Shir Beastlord Quests](vah_shir_beastlord_quests)
 
 ### Citizen Quest & Initial Progression (Levels 1-4)
 
