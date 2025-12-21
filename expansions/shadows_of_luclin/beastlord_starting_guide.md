@@ -2,7 +2,7 @@
 title: Beastlord Starting Guide
 description: 
 published: true
-date: 2025-12-20T04:37:14.810Z
+date: 2025-12-21T02:27:22.351Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-20T03:02:54.896Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-20T03:02:54.896Z
 
 # Beastlord Starting Guide
 This page is a collection of resources for getting started on the Beastlord class.
-
+* [Beastlord Class page](/character/classes/beastlord)
 * [Beastlord Abilities by Level](beastlord_abilities_by_level)
 * [Beastlord AA Abilities](beastlord_aa_abilities)
 * [Flash of Light by Kraggan Swampdragon](flash_of_light_beastlord_guide)
