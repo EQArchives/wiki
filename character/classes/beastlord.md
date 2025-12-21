@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-20T05:20:41.101Z
+date: 2025-12-21T02:30:03.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -127,11 +127,46 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 | 1 | No | Swimming | 200 | 200 |
 
 ## Pet Information
-* Barb: Wolf
+* Barb: White Wolf
 * Iksar: Scaled Wolf
 * Ogre: Bear
 * Troll: Alligator
 * Vah Shir: Tiger
+
+## FAQ
+1. What restrictions do beastlords have?
+So far, we have no weight restrictions.
+
+2. What special abilities do beastlords have?
+Class abilities - AC bonus (has nothing to do with weight, but isn't as good as monks)
+
+3. Where is my pet!?
+Pets are summoned with your pet summoning spell.
+
+4. Can the Beastlord's warder/pet be dispelled?
+No.
+
+5. Can the warder/pet's level buff be dispelled?
+No
+
+6. Can a Beastlord's warder/pet be charmed?
+Yes.  If a player charms it during PVP, it will poof.
+
+8. Does my warder/pet get Call of Hero'd(CoH) with me?
+Unknown at this time, though most likely it will not, which means you will need to remove your warder before being CoH'd. Or if you are high enough level - Have your pet "Guard here" or "Sit down" and then you can summon your pet to your side.
+
+9. Does my warder/pet get bigger as I level?
+Yes, it gets bigger with each of the Beastlord's level buffs.
+
+10. Can the level buffs be stacked?
+No.
+
+11. Can I level buff someone else's warder/pet?
+Not with your "Pet buff" spell line, but you can buff them with your other buffs, such as strengthen, or inner fire.
+
+12. Can other PCs buff my warder/pet?
+With most buffs, such as Damage shields, Regeneration, SoW, and other Shield buffs.
+
 
 ## Player Guides
 - [Grymbok's Guide for Ogre Beastlords](/guides/grymbok_ogre_beastlord)
