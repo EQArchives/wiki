@@ -2,7 +2,7 @@
 title: Beastlord Quests
 description: 
 published: true
-date: 2025-12-21T04:19:12.634Z
+date: 2025-12-21T04:22:04.488Z
 tags: quests, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:49:00.538Z
@@ -12,27 +12,25 @@ dateCreated: 2025-12-21T03:49:00.538Z
 >Originally adapted from https://web.archive.org/web/20061120212813/http://www.eqbeastlord.com/quests.html
 {.is-info}
 
-## Beastlord Twilight Sea Quests
-# Beastlord Twilight Sea Quest Guide
-
+## Beastlord Twilight Sea Quest Guide
 **Original data from:** Keltarin Stormshadow (Safehouse MessageBoard, 2007)  
 **Cross-referenced with:** Allakhazam (Current)  
 **Item reference:** taylir.com
 
-## Quest Overview
+### Quest Overview
 
 These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in Twilight Sea. You must hail them about armor and confirm you are a worthy beastlord to receive quest information.
 
-### Quest Distribution
+#### Quest Distribution
 
 **Jilan Tollun holds:** Veil, Cape, Gloves, Talisman, Belt, Claws  
 **Tamben Prinon holds:** Cap, Tunic, Sleeves, Leggings, Mantle, Bracer, Boots
 
 ---
 
-## Quest Requirements by Armor Piece
+### Quest Requirements by Armor Piece
 
-### Belt (Feral Belt)
+#### Belt (Feral Belt)
 **Quest Giver:** Jilan Tollun
 
 **Requirements:**
@@ -51,7 +49,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Boots (Feral Boots)
+#### Boots (Feral Boots)
 **Quest Giver:** Tamben Prinon
 
 **Requirements:**
@@ -68,7 +66,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Bracer (Feral Bracer)
+#### Bracer (Feral Bracer)
 **Quest Giver:** Tamben Prinon
 
 **Requirements:**
@@ -85,7 +83,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Cap (Feral Cap)
+#### Cap (Feral Cap)
 **Quest Giver:** Tamben Prinon
 
 **Requirements:**
@@ -104,7 +102,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Cape (Feral Cape)
+#### Cape (Feral Cape)
 **Quest Giver:** Jilan Tollun
 
 **Requirements:**
@@ -123,7 +121,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Claws (Feral Claws)
+#### Claws (Feral Claws)
 **Quest Giver:** Jilan Tollun
 
 **Requirements:**
@@ -142,7 +140,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Gloves (Feral Gloves)
+#### Gloves (Feral Gloves)
 **Quest Giver:** Jilan Tollun
 
 **Requirements:**
@@ -159,7 +157,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Leggings (Feral Leggings)
+#### Leggings (Feral Leggings)
 **Quest Giver:** Tamben Prinon
 
 **Requirements:**
@@ -178,7 +176,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Mantle (Feral Mantle)
+#### Mantle (Feral Mantle)
 **Quest Giver:** Tamben Prinon
 
 **Requirements:**
@@ -195,7 +193,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Sleeves (Feral Sleeves)
+#### Sleeves (Feral Sleeves)
 **Quest Giver:** Tamben Prinon
 
 **Requirements:**
@@ -214,7 +212,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Talisman (Feral Talisman)
+#### Talisman (Feral Talisman)
 **Quest Giver:** Jilan Tollun
 
 **Requirements:**
@@ -231,7 +229,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Tunic (Feral Tunic)
+#### Tunic (Feral Tunic)
 **Quest Giver:** Tamben Prinon
 
 **Requirements:**
@@ -250,7 +248,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-### Veil (Feral Veil)
+#### Veil (Feral Veil)
 **Quest Giver:** Jilan Tollun
 
 **Requirements:**
@@ -267,7 +265,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-## Armor Stats
+### Armor Stats
 
 | Piece | AC | WIS | STR | DEX | HP | MANA | Resistances |
 |-------|----|----|-----|-----|----|----|-----|
@@ -287,7 +285,7 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-## Zones to Hunt
+### Zones to Hunt
 
 - **Twilight Sea** - Main zone for various quest mobs
 - **Scarlet Desert** - Panther Cheetah, Tiger Cheetah, Violent Rockhopper, Bloodtribe Runekeeper, Tro Jeg Carver
@@ -297,18 +295,18 @@ These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in 
 
 ---
 
-## General Notes
+### General Notes
 
-### Jewel Drops
+#### Jewel Drops
 All four jewel types (Sky, Sun, Moon, Star, Cloud, Meteor, Astral) drop randomly from **any mob in Twilight Sea quest zones**. These are the easiest pieces to acquire - just kill common mobs and eventually you'll get the ones you need.
 
-### Faction Effects
+#### Faction Effects
 Quest hand-ins affect faction with various NPC groups. Current faction impact list is incomplete - more documentation needed on specific faction changes per quest.
 
-### Mobile Spawns
+#### Mobile Spawns
 Several quest mobs are wanderers rather than static spawns (e.g., Adamantium Thought Leech in Mons Letalis, Cral Ligi mobs in Tenebrous Mountains). These typically have placeholder mobs that spawn in their place, and your target appears after defeating enough placeholders.
 
-### Best Farming Locations
+#### Best Farming Locations
 For efficient hunting:
 - **Jewels**: Camp trash mobs in any Twilight quest zone - random drops
 - **Rockhopper Marks**: Base of ramp to plateau in Scarlet Desert (5-7 hoppers in area)
@@ -316,24 +314,14 @@ For efficient hunting:
 
 ---
 
-## Changes & Clarifications from Modern Sources
-
-**⚠️ Missing/Unclear Items (2007 Guide vs Current):**
-1. Embedded Bronze Figurine (Cape component) - source not clearly documented in current Allakhazam
-2. Some pieces missing stat info (Cap, Bracer, Talisman, Sleeves, Leggings - stats not in original guide)
-3. Faction hits documentation incomplete - needs verification per quest
-4. Exact /loc data for some mobs missing
-
-**✓ Confirmed from 2007 Guide:**
-- All armor piece requirements match current Allakhazam
-- All marked item spawn locations match current sources
-- Stats for complete pieces (Belt, Boots, Gloves, Mantle, Veil, Tunic, Claws) match original data
+### Changes & Clarifications from Modern Sources
 
 **💡 Recommendations:**
 - Jewels are your bottleneck - farm these first from common mobs
 - Focus on one or two pieces at a time to consolidate farming efforts
 - Roaring Idol (Vicious Shadow) and Blue Moonstone (Vas Ren Lunar Khan) are specialized drops - worth knowing locations
 - Consider trading quest pieces with other beastlords if your guild has them
+
 ## Barbarian Beastlord
 
 All quests are given by **Hoyce Mactaegan**.
