@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:20:30.646Z
+date: 2025-12-21T06:21:41.149Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -655,6 +655,17 @@ This spell is a level 44 dot, with no initial damage (so it won't break roots). 
 To get this spell, you have to travel to Torgiran Mines, and locate "a strange dark powder", which drops from troll brusiers and crazed miners, which can spawn anywhere in the zone - including at the zone in, which is where I eventually got mine. They are considered to be tough at level 56.
 
 To reach Torgiran Mines, travel from Gunthak as if heading to the wooden fort for the injured wolf. Keep along the passage rather than turn in to the fort area. You eventually come to two trolls guarding an open area with more wooden huts. It is best to cross this invisible, although just running across will work. Head directly west, and you'll find two more troll shaman types guarding the exit. This leads to Dulak Harbor. Once in Dulak, the area immediately ahead has scattered Broken Skull scouts, some of whom wander about, so invis is essential here. Ahead and slightly to the left is a large wooden building, the armory - which conveniently is identified by armory guardians who stand outside. Enter the building, and to your right is a wooden ladder, which leads to a cat walk which takes you into Torgiran Mines.
+
+## Grimling Forest (40+)
+ For most people, Grimling Forest is a zone full of dangerous mobs that they pass through on their way to Tenebrous Mountains, or to Katta Castellum. However, it contains a series of enjoyable quests for groups in their 40s to high 50s, or for soloing 49 and up, as well as the start of the beastlord epic, and the completion of the sonic wolf bane quests, and a little known set of acrylia mines with good drops of etched acrylia runes (grimling currency) and acrylia ore. The harder camps require a raid force of 55+, or a strong group of 60+ at a minimum.
+
+Both the epic and the cloak require you to do the exact same quests. The epic requires you to find a Copper Medal of War and give it to Dumul, in the beastlord guild in Shar Vahl. There are a number of ways of obtaining this medal, but the easiest by far is to do the initial scout quests. If these quests aren't available for one reason or another, you can progress to the veteran's or captain's quests, or kill bandits to spawn a coin courier (a rare spawn), who has a rare drop of the medal. It is possible that the zone or quests are currently bugged (July 2003; it might be fixed now, but I haven't attempted to verify this), and will not return to a reasonable state. To find out if the zone is safe to use and the easier quests still available, talk to General Staginar in the outpost in Grimling Forest. If you say to him 'which camps', he should respond with a list of camps available to clear; you want any of the first three. These are possible to solo with a 49 beastlord; all, except possibly the final boss in a couple, should be entirely green. These camps are very possible to do with a group of 40+.
+
+To start one of the scout camps, hail any of the three scouts that should be in the outpost, and follow their instructions very carefully. Before they will lead you out of the outpost to a camp, you need to repeat a key phrase to them ("I am ready to go"). After a short interval, follow the scout to the camp. He will stop outside a grimling camp, and tell you in which order to kill the grimlings, and any other task that may be required; pay close attention. You must then tell him another, similar key phase, at which point the camp will respawn with the quest mobs, and he will return to the outpost. Do not bother to kill any grimlings before the camp has respawned; if you don't speak the key phrase, after a short while the scout will return to the outpost, and you won't get your medal. Note that the trigger phrases are different for each quest, and may even vary from run to run - please make sure that you are using the correct phrase.
+
+After the camp is cleared, you will find a boss type grimling spawns, who usually has some special items to drop, and may have a copper medal on him; in camp two, the boss mob doesn't have a medal, but instead a large number of mini grimlings spawn in the fire, most of whom have a medal on them - I got at least a dozen from one run through of this camp. Some of the weapons that drop from the bosses are 'no drop', and can be traded in at the warriors guild in Shar Vahl for much better weapons, so don't ignore them.
+
+In both camp one and camp two, a common drop from the quest mobs is a set of Grimling Documents; these are numbered I, II and III. You need to collect a set of these; they also drop from the other camps, but camps 1 and 2 will be enough to get a full set. If you have already obtained a garrison cloak, you should have a form to give to Veteran Darznel in the outpost; he will give you a box to put these documents, along with your cloak, in and combine. In return, he will give you back the officers cloak.
 
 ## Author's Notes
 
