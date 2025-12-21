@@ -2,39 +2,34 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T04:39:02.229Z
+date: 2025-12-21T04:58:05.205Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
 ---
 
-# Paul Lynch's Guide for Vah Shir Beastlords
->This page is a mirror of https://www.paullynch.org/Everquest/VSBL/ which was last updated on 2005-08-09 by Paul Lynch.
-{.is-info}
-
 # Guide for Vah Shir Beastlords
-
 > **Original Author**: Paul Lynch  
-> **Original Date**: August 9, 2005  
-> **Note**: This guide has been preserved and converted to wiki.js format. It reflects EverQuest as it existed in 2005 and may contain outdated information regarding recent expansions and mechanics.
+> **Original Date**: August 9, 2005
+> **Original URL**: https://www.paullynch.org/Everquest/VSBL/
+> **Note**: This guide has been edited for clarity and converted to wiki.js format. It reflects EverQuest as it existed in 2005 and may contain post-Luclin era but still outdated information regarding recent expansions and mechanics.
 
 ## Introduction
-
-This guide is a comprehensive resource for a new Vah Shir beastlord. Rather than providing detailed walkthroughs of every quest, it points you toward useful starting places and highlights rewards. This guide assumes you're interested in playing a Vah Shir because of the race itself and a beastlord because of the class—meaning you'll be inclined to engage in some roleplay (which is exactly zero by default in most players!).
+This guide is a comprehensive guide for a new Vah Shir beastlord. I don't tell you how to play Everquest, and I don't give you detailed walkthroughs of any of the quests; but I will point you at useful places to start. My starting point is an assumption that you play a [Vah Shir](/character/races/vah-shir) because you are interested in the race, and a [Beastlord](/character/classes/beastlord) because the class interests you, and so will be inclined to "role play" a little more than the norm (which is exactly zero, btw). I'll take you through native Vah Shir hunting grounds as well as the game tutorial, and point out the quests and rewards. If you want to powerlevel and twink, that's up to you, but a lot of what I have to say won't be of any interest to you. If you are still interested in reading further, you've made a good choice! 
 
 ### Why Vah Shir?
 
 The Vah Shir have one of the best starting areas and newbie quest series in the game. They also have significant leveling advantages:
 
-- **Fast teen-level progression**: The Vah Shir's proximity to Paludal Caverns allows progression from level 6 to 24 very rapidly, thanks to experience bonuses in the area. Most players only know Paludal for the bandit camps near Shadowhaven, but the Shadeweavers and Hollowshade entrances offer smooth progression.
+- **Fast teen-level progression**: The Vah Shir also have the potential to progress through their teen levels faster than any other race, thanks to their proximity to Paludal Caverns. Most people know Paludal only for the bandit camps next to the Shadowhaven entrance, but the Shadeweavers and Hollowshade entrances can take you from 6 all the way up to 24 with a very smooth progression, and very rapidly thanks to the experience bonus Paludal offers. 
   
-- **Excellent solo capability**: Beastlords can confidently solo at higher levels than many classes, taking on whites or several dark blues—often even yellows. Solo viability extends into the thirties and forties, with grouping becoming faster at higher levels.
+- **Limited loot economy**: Another important point is that money is very scarce in the Vah Shir areas, and players used to more generous loot elsewhere (plague rat tails dropping from level 1 rats, for instance) will be surprised. You have to learn to manage your resources intelligently, and sufficient money will come. Shamans, with expensive spells to purchase, will suffer the most, but there is no reason that a beastlord should feel any pinch. 
 
-- **Limited loot economy**: Money is scarce in Vah Shir areas compared to other zones. Players accustomed to generous loot elsewhere will notice the difference. However, resource management is learnable, and funds will accumulate sufficiently. Shamans feel the pinch most (expensive spells), but beastlords should encounter no financial hardship.
+- **Excellent solo capability**: With most classes (druid and shaman, for example) when soloing I adopt a strict strategy of taking one blue at a time; with a beastlord, I can confidently take on a white, or several dark blues, and often yellows. Beastlords can solo with confidence, certainly well into their thirties and forties, and can make it to 65-75, although grouping becomes much faster as you hit the higher reaches.
 
 ### About This Guide
 
-This guide focuses on Vah Shir beastlords specifically, though much applies to other Vah Shir classes. The author has run a beastlord and bard there, plus received extensive input from a Vah Shir shaman.
+Because of the nature of the Vah Shir and their starting area, Shar Vahl, a lot of this information applies to other Vah Shir classes - but I have only run a beastlord there (well, and a bard; and had a lot of input from a Vah Shir shaman), so I can't entirely vouch for its accuracy for classes other than beastlord. 
 
 **Note**: This guide does not provide detailed walkthroughs or tell you how to play EverQuest. If you want to powerlevel and twink, that's up to you, but much of this guide won't interest you. If you're still reading, you've made a good choice!
 
@@ -233,28 +228,17 @@ A section addressing known issues with the guide and game mechanics.
 
 ### My Motives and Excuses
 
-The Vah Shir have excellent starting areas and newbie quests, yet level 1 newbies were often seen asking for ports off Luclin—suggesting profound ignorance of the area and reluctance to play EverQuest in a semi-roleplay style. The author believes the Vah Shir beastlord sequence offers the best experience in the game for any race/class combination, with appropriate quests and above-average gear.
-
-While some bugs exist in the quest sequence, they're not overly disruptive at low levels. A minor downside: all newbie quests keep you hunting green mobs for too long, though Vah Shir quests may do this less than others.
+The Vah Shir have one of the best starting areas and newbie quest series in the game, and yet I often used to see (pre-Planes of Power) level 1 newbies asking for ports off Luclin; this could only be, I felt, the result of a profound ignorance of the area, and a fear of this ignorance being discovered, as well as revealing a reluctance to play Everquest in the (semi) roleplaying way that seems to suit it best. I believe that there is an excellent sequence of zones and quests suitable for a Vah Shir beastlord, one that gives the best experience in the game for any race/class combination, with very appropriate quests and above average gear. There are still some bugs in the quest sequence, but the bugs in the Vah Shir quests are not too disruptive (at the young levels). All of the newbie quests suffer from keeping you hunting greens for far too long; the Vah Shir may have you do this less than others. 
 
 ### My Beastlord Bio
 
-The author created their first beastlord and first Vah Shir on Bristlebane around May 2002, leveling to 32 alongside their wife's Vah Shir shaman. The first draft was written entirely from memory in June 2002 while on holiday in Hawaii (no web access). After reviewing and rewriting through September 2002, the guide initially covered only up to level 24.
-
-In December 2002, a second Vah Shir beastlord was created on Venril Sathir and leveled to 24 in three days of elapsed time (24 hours played) to review the guide. By June 2003, this character had reached level 52 with just over 10 days played time. By September 2003: level 61 with 10 AAs, Coldain Prayer Shawl 5, Officer's Cloak, and 20 days played. As of September 2004: level 65 (for some time) with epic and 100+ AAs.
+I made my first beastlord and first Vah Shir on Bristlebane around May, 2002; only my third ever Everquest character. I leveled him to 32, mainly in the company of my wife's first character, a Vah Shir shaman, before writing the first draft of this guide on holiday in Hawaii in June 2002, entirely from memory and my notes (no web access). I had already seen guides for other beastlord races on the EQ Beastlords site, but no Vah Shir guide, and felt that the unique situation of Shar Vahl lent itself to a roleplayer's guide to the class. I took up to September to review and rewrite the guide, which at that point went up to level 24 only. In December 2002, I created a new Vah Shir beastlord on a different server, Venril Sathir, and leveled him up to 24 over three days elapsed time with 24 hours played to review the guide, and noticed quite a few minor changes that I needed to adjust for. By June 2003, he had leveled to 52, with only just over 10 days played time, by way of helping me write the then current draft that extended my detailed outline up to that level. By September 2003, he had reached 61 with 10 AAs, Coldain Prayer Shawl 5, Officers Cloak, and 20 days played. As of September 2004, he is level 65 (for some time) with epic and 100+ AAs. 
 
 ### What's Missing?
 
-The leveling guide could be expanded further. The guide doesn't explicitly cover the most recent expansions (at time of writing): GoD, OoW, DoN, PoR, and TSS—they don't significantly impact lower levels. Expansion-specific spells, armor, and augments are largely ignored.
+I am conscious that the levelling guide could be expanded; this will always be true. I haven't explicitly covered anything to do with the most recent expansions: GoD, OoW, DoN, PoR and TSS; they don't have much impact on these lower levels. There are spells, armor, augments and other aspects from these expansions that I have ignored. I will have to expand some sections to cover starting in Crescent Reach as an alternative, and all the armor quest series available there. Some aspects are best covered elsewhere: so for gear choices, I have linked to a thread on www.beastlords.org; and my AA coverage describes starting choices only.
 
-Future expansions should include:
-- Starting in Crescent Reach as an alternative
-- All armor quest series available there
-- Updated sections to reflect new content
-
-The Tutorial zone was expanded to cover level 10 using the task system. Spells were reallocated to be available every level, and new tradeskill-based armor quests were added (DoN).
-
-**Update Status**: The author has been playing World of Warcraft since February 2005 (European release) but intends to continue updating this guide as EverQuest changes while maintaining an active account.
+Since I last updated this, the Tutorial zone has been expanded to cover up to level 10 and use the task system; spells have been reallocated to be every level, and new tradeskill based armor quests have been added (DoN). Why so slow on updates? Because, like many Everquest players, I have been playing World of Warcraft since February 2005 (European release date), with a level 60 hunter, rogue, warlock and (soon) warrior. I haven't completely given up on Everquest, and intend to update this guide as things change while I still keep an account open. 
 
 ### Recent Changes
 
