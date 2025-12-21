@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T05:16:29.929Z
+date: 2025-12-21T05:46:28.150Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -221,6 +221,62 @@ A section addressing known issues with the guide and game mechanics.
 </details>
 
 ---
+
+## The Guide{.tabset}
+
+### Creation
+ I generally stick with the suggestions given on eq.castersrealm.com for new classes; so do as they advise and stick all your points into wisdom, as this directly affects your spell casting abilities once you get them, and will be the most beneficial at higher levels. Otherwise, you have no real choices that will affect your character in any meaningful way. The character creation screen suggest that stamina, agility, wisdom and charisma are all important for beastlords; which seems like very suspicious advice to me.
+
+The above paragraph is all you need if you are in a hurry to get started, but if you need to know why, here is my explanation. For a caster class, you generally want them to have a large mana pool, which is done by increasing their wisdom attribute (or int, for int based casters). This can be done by starting points, or by equipment. Generally speaking, it is easy to raise wis, int and strength, far more so than other attributes, with equipment. For a melee class, strength is the primary attribute that influences how often they will hit for max damage. Charisma mainly has an effect only on vendor buying and selling prices, apart from bards and enchanters. Dexterity affects how rapidly melee skills increase, and how often a weapon procs, or casts it's special effect if it has one, and so is of specialised use. Stamina and agility are more interesting: they are hard to raise by gear, and stamina raises hit points, and agility raises armor class - but both have very much smaller impact for casters, rather more of one for melee and hybrid classes. These attributes, hit points and armor class, are easier to raise directly with equipment.
+
+As a hybrid, both melee and casting attributes are important. Depending on how you will play your character, you can choose to favour one approach or the other. I can tell you that hybrids in a group rarely get a chance to meditate, so a large mana pool is more important than it may at first glance seem to be, and will generally get healed when required, so a large hit points total isn't vitally essential. For a soloer, and a beastlord is an excellent soloer, better melee stats are important, but then so is having a reasonable mana pool to minimise down time. At low levels, hit points matter more than anything else; at mid levels, a solo beastlord is likely to spend 1/3 of his time in combat meleeing, and 2/3 playing cleric for his warder; then at higher levels the solo beastlord will spend more and more time meleeing alongside their warder. However, beastlords can self buff all statistics apart from wisdom and agility; in a raid, agility will be buffed as well, and besides agility only has a minor impact on armor class. For this reason only, we should put points into wisdom at the start.
+
+#### Tutorial
+
+You should really start by doing the tutorial, even if you are an experienced player.
+
+#### First Steps
+
+Once your character is created, you will appear in the beastlord guild area in Shar Vahl (assuming that you took the choice to start in Shar Vahl - that's what this guide is about, after all). Before doing anything else, check your inventory, and read your starting note, which will tell you to give the note to your guildmaster. Do this, and you will be given the starting instructions for the citizenship quest that every Vah Shir has to pursue, and is required for most other training quests in Shar Vahl - and takes you straight to level 2 - or very close to it. While you are in front of your guildmaster, you might put five training points in your starting weapon skill, piercing (but if you have access to better weapons immediately, skip piercing and train in H2H or 1HB, as these are generally better all round or cheap weapon types for beastlords).
+
+Outside is a room full of scribes selling shaman and beastlord spells, with a door to the left leading to the arena, and the warriors and rogues guilds; and to the right, a door leading to the main palace.
+
+Feel free to explore Shar Vahl a little at first; you can use backspace or the "m" key to bring up a map of the city with key features marked. 
+
+### The Mines of Gloomingdeep (Level 1-10/15)
+ When you create your character, you have the option of starting in the Tutorial zone (the button that enables this is set on by default). You should do this, even if you are an experienced player, for several reasons. First, you get a charm with very nice statistics on it, as well as the possibility of getting some basic weapons, armor and some bags and even a little money for no cost. Secondly, when you leave you will be at least level 2, and anywhere up to level 15. Third, you can leave very well buffed, enough to give you a decent lift in your next hunting session. If you are a genuine beginner, then the knowledge imparted by running through the tutorial is excellent - which is why I will not repeat any of that here.
+
+You start in the tutorial zone, Mines of Gloomingdeep. You have to run through the initial quest with Arias (Jail Break!) and the kobold jailer to enter the main mines zone. There is little to do here apart from follow instructions, and listen to (and read) some basic help information. That will put you at level 2. Take the Arias: Basic Training quest, and run through it to get the Kobold Skull charm. Take Arias: Rally with Rahtiz.
+
+In the next zone, there will be other players - start by following the instructions to get the Kobold Skull Charm, which is a lot better than most charm drops in 50+ zones that you will reach without raiding - with one exception, that you can obtain in Crescent Reach at an early level. Along the way, Absor will upgrade your 3/24 newbie dagger to 3/22, gain a new spell called Salve (heals 5 hp for 10 mana), and an ac 2 Kobold Leather Mask. By this time, your charm has +5 wis, int, str, sta, and +10 hp and mana. Pozzik will give you an AC 2 Kobold Leather Mask, and his lost sword may also be a minor upgrade; he isn't part of the training quest, so watch out for him. Frizznik's baking is superceded by skill-up quests in Crescent Reach, but gives some very minor stat food (rat steaks, +5 hp). One probable bug: Rahtan used to refer melee characters to another NPC to get their level 1 tomes, but this no longer happens - they will have to buy them in PoK/Crescent Reach.
+
+Now for some more useful information. Any time the buff runs out, return to Rytan and say "I want to be blessed" (this is a 97 hp buff).
+
+Start with the rats and bats and spiders quests: Rahtiz: Clearing the Vermin Nests (stitched burlap leggings), Rebellion Reloaded (just exp, I think); and Vyrinn: Spider Caves, Spider Tamer Gugan. You should be able to clear all of these in 20-40 minutes, and be level 4/5; Gugan is level 5, and may be a little tough for his level. This leaves just the Arachnidia quest to kill Queen Gloomfang, who is level 7. Save this for later.
+
+Run in and kill. Start with the spiders and rats, and loot anything they drop. Use /open (also in the Actions window) to open vermin nests, piles of bones, and barrels; you won't believe how hard they can be to open if you just attack them. Sell most items to the merchant, but keep the gloomingdeep silks and give them three at a time, unstacked, to Vahlara. She will give you some random stitched burlap armor, which is equivalent to cloth. Equip it, and sell spares to the merchant.
+
+Stepping out to run the Plane of Knowledge quests at this point may be the best plan (see below). Back in the mines...
+
+When you are level 4 or higher, move further in and kill kobolds; take the tasks from Guards Hobart and Maddoc. Hobart: Battle of Gloomingdeep; Maddoc: Kobold Leadership. Find Zajeer and Kaikachi while killing grunts and warriors. Stay with grunts at first, but move on to the warriors when you feel comfortable. A rare drop from these is a chunk of bronze, which is no drop. You can hand this in to Absor for an improved dagger (Bronze Gloomingdeep Dagger, 4/23). There are named kobolds, which often drop spells. While you are in the kobold area, open the barrels - some will gives you free small bags, and the forlorn bows sell for decent cash (1pp+ each).
+
+Next find the two scouts in a side tunnel. Zajeer: Scouting Gloomingdeep, Sabotage; Kaikachi: Goblin Treachery, Busted Locks. Use the scouting task to get to the fort to execute Sabotage; the supplies crate is to the left as you enter; you will have to kill or pass 2 or 3 captains to do this. Come back to Zajeer and kill goblin slaves on the way. The locksmith is nearby, up the passage to the north. If you still need slaves and slave wardens, go into the pit - Rockfynn is along one of the side passages, and is level 7 (or 6).
+
+Go back and kill Queen Gloomfang if you haven't already. Reward is a few celestial healing potions.
+
+After this activity the only three quests remaining should be: Hobart: Freedom's Stand; and Maddoc: Pit Fiend. You can only get the latter after completing the Battle quest (may be level limited?), which also gives you some Gloomleather leggings. For Freedom's Stand you have to clear the fort, and kill the level 10 boss there, Overlord Grikan. When you succeed, check the area for lootable boxes which may have some nice items in. Grikan is probably the easiest of these three, and Hobart will give you a Gloomleather tunic for killing him. The pit fiend is a level 12 boss; he doesn't hit very hard, so a level 10 character with a damage shield potion should be able to take him. The final quest is Flutterwing's Dilemma from the main camp. Slavemaster Ruga, level 9, summons two guards when you attack him, so make sure to pull him away from his spawn point; you may be lucky and get him with no adds. I think he is harder than Krenshin (the pit fiend).
+
+At this point I would switch to Crescent Reach, although it is certainly possible to spend all your time in one or the other. The value of Gloomingdeep is the charm, plus an easy way to get some very basic armor. Switching to Crescent Reach at this point lets you skip some grinding in Gloomingdeep, and pick up some much better armor. The old newbie quest armors are also better than the gloom armors, although how easy they are to obtain varies considerably with class and location (hint: all berserker quests are excessively easy). When you are ready to leave, remember to get a final buff from Rytan.
+
+#### Plane of Knowledge
+
+There are two ways to leave the mines: through the doorway/tunnel into your home city (Crescent Reach), or by saying to Arias: "ready to leave". This takes you to the Plane of Knowledge. I would recommend the latter for some quick quest experience; take Arias's advice, and go to find Vivian the True, at the entrance to the Library. Her several small quests give significant exp at low levels. To get to Crescent Reach, go back into the tutorial from your character select screen.
+
+You can stay in the Mines until level 15; at 16, you can no longer return. But you can't enter from the character select screen; the solution is to stay bound in the Mines, and use Gate (for casters only) to return. After level 10, the tutorial button on the character select screen is disabled. Up to 10, the Tutorial button is a quick way back to the Plane of Knowledge without a long run, or into Crescent Reach - also without a long run through Blightfire Moors.
+
+Once you are level 10, some more quests become active in PoK; check with Vivian the True once more. She will send you to an armor quest NPC (one good, one evil), who I think will refuse to speak to people with a home in Crescent Reach (or Shar Vahl - they only speak to you if your home city and class has a newbie armor quest). She also gives a third, neutral quest giver: Castlen Drewe: Haunted Butcherblock, this requires level 11, and the reward is a Ghostly Mantle. Castlen has several quests to give, one per level up to 15/16, and a last one at 19. The armor NPCs give out pieces of the newbie quest armor, and if you have been levelling in Crescent Reach, this isn't likely to be an upgrade, although it is an improvement over the Gloomingdeep armors. Castlen's quests fill out most of the non-visible slots, and are high quality.
+
+While in this level range and passing through PoK, get the Fine Antique Ring. Find Curator Merri in one of the buildings on the good side, and get her Collecting Box (just talk to her). Then you need to combine four items in it. A cockatrice beak, a high quality cougarskin, a tiny rockhopper eye, and an undead froglok tongue. You will need to buy the skin in the Bazaar (unless you are already 30ish!), so hold off on this quest until you can afford one; the alternative is a merchant diving trip to the gnomes in Iceclad to see if anyone has sold one to them (take the boat from North Ro). The other items can also be bought there; this will be cheaper for the beak than trying to hunt one, or buying one from a vendor. The tongue can be found from frogloks in Qeynos Catacombs near Cubert (fine if you aren't kill on sight there or can invis), and the eye from vendors in Shar Vahl, or from level 1 rockhoppers in the pit under the city. Tongues can also often be found on vendors in many other places. This ring has the mana preservation II focus. Also consider the mask quest (the Forgotten Pools) for spell haste II. This involves talking to the guys sitting next to the pools on the good side of PoK, and giving in a sarnak blood (Bazaar/merchants again, or a trip to the newbie yard area of Lake of Ill Omen, which isn't without its perils). You then need to make a run into Droga, so make sure that you have a good invis - the 10pp, instant cast cloudy potions may be an option for clerics and warriors, and make sure you take more than one. 
 
 ## Author's Notes
 
