@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T05:49:02.373Z
+date: 2025-12-21T05:50:16.712Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -38,7 +38,7 @@ Because of the nature of the Vah Shir and their starting area, Shar Vahl, a lot 
 
 ---
 
-## The Guide
+## Guide Summary
 
 <details>
 <summary><strong>Creation & Early Game (Levels 1-10)</strong></summary>
@@ -222,20 +222,18 @@ A section addressing known issues with the guide and game mechanics.
 
 ---
 
-## The Guide
-
-### Creation
+## Creation
  I generally stick with the suggestions given on eq.castersrealm.com for new classes; so do as they advise and stick all your points into wisdom, as this directly affects your spell casting abilities once you get them, and will be the most beneficial at higher levels. Otherwise, you have no real choices that will affect your character in any meaningful way. The character creation screen suggest that stamina, agility, wisdom and charisma are all important for beastlords; which seems like very suspicious advice to me.
 
 The above paragraph is all you need if you are in a hurry to get started, but if you need to know why, here is my explanation. For a caster class, you generally want them to have a large mana pool, which is done by increasing their wisdom attribute (or int, for int based casters). This can be done by starting points, or by equipment. Generally speaking, it is easy to raise wis, int and strength, far more so than other attributes, with equipment. For a melee class, strength is the primary attribute that influences how often they will hit for max damage. Charisma mainly has an effect only on vendor buying and selling prices, apart from bards and enchanters. Dexterity affects how rapidly melee skills increase, and how often a weapon procs, or casts it's special effect if it has one, and so is of specialised use. Stamina and agility are more interesting: they are hard to raise by gear, and stamina raises hit points, and agility raises armor class - but both have very much smaller impact for casters, rather more of one for melee and hybrid classes. These attributes, hit points and armor class, are easier to raise directly with equipment.
 
 As a hybrid, both melee and casting attributes are important. Depending on how you will play your character, you can choose to favour one approach or the other. I can tell you that hybrids in a group rarely get a chance to meditate, so a large mana pool is more important than it may at first glance seem to be, and will generally get healed when required, so a large hit points total isn't vitally essential. For a soloer, and a beastlord is an excellent soloer, better melee stats are important, but then so is having a reasonable mana pool to minimise down time. At low levels, hit points matter more than anything else; at mid levels, a solo beastlord is likely to spend 1/3 of his time in combat meleeing, and 2/3 playing cleric for his warder; then at higher levels the solo beastlord will spend more and more time meleeing alongside their warder. However, beastlords can self buff all statistics apart from wisdom and agility; in a raid, agility will be buffed as well, and besides agility only has a minor impact on armor class. For this reason only, we should put points into wisdom at the start.
 
-#### Tutorial
+### Tutorial
 
 You should really start by doing the tutorial, even if you are an experienced player.
 
-#### First Steps
+### First Steps
 
 Once your character is created, you will appear in the beastlord guild area in Shar Vahl (assuming that you took the choice to start in Shar Vahl - that's what this guide is about, after all). Before doing anything else, check your inventory, and read your starting note, which will tell you to give the note to your guildmaster. Do this, and you will be given the starting instructions for the citizenship quest that every Vah Shir has to pursue, and is required for most other training quests in Shar Vahl - and takes you straight to level 2 - or very close to it. While you are in front of your guildmaster, you might put five training points in your starting weapon skill, piercing (but if you have access to better weapons immediately, skip piercing and train in H2H or 1HB, as these are generally better all round or cheap weapon types for beastlords).
 
@@ -243,7 +241,7 @@ Outside is a room full of scribes selling shaman and beastlord spells, with a do
 
 Feel free to explore Shar Vahl a little at first; you can use backspace or the "m" key to bring up a map of the city with key features marked. 
 
-### The Mines of Gloomingdeep (Level 1-10/15)
+## The Mines of Gloomingdeep (Level 1-10/15)
  When you create your character, you have the option of starting in the Tutorial zone (the button that enables this is set on by default). You should do this, even if you are an experienced player, for several reasons. First, you get a charm with very nice statistics on it, as well as the possibility of getting some basic weapons, armor and some bags and even a little money for no cost. Secondly, when you leave you will be at least level 2, and anywhere up to level 15. Third, you can leave very well buffed, enough to give you a decent lift in your next hunting session. If you are a genuine beginner, then the knowledge imparted by running through the tutorial is excellent - which is why I will not repeat any of that here.
 
 You start in the tutorial zone, Mines of Gloomingdeep. You have to run through the initial quest with Arias (Jail Break!) and the kobold jailer to enter the main mines zone. There is little to do here apart from follow instructions, and listen to (and read) some basic help information. That will put you at level 2. Take the Arias: Basic Training quest, and run through it to get the Kobold Skull charm. Take Arias: Rally with Rahtiz.
@@ -268,7 +266,7 @@ After this activity the only three quests remaining should be: Hobart: Freedom's
 
 At this point I would switch to Crescent Reach, although it is certainly possible to spend all your time in one or the other. The value of Gloomingdeep is the charm, plus an easy way to get some very basic armor. Switching to Crescent Reach at this point lets you skip some grinding in Gloomingdeep, and pick up some much better armor. The old newbie quest armors are also better than the gloom armors, although how easy they are to obtain varies considerably with class and location (hint: all berserker quests are excessively easy). When you are ready to leave, remember to get a final buff from Rytan.
 
-#### Plane of Knowledge
+### Plane of Knowledge
 
 There are two ways to leave the mines: through the doorway/tunnel into your home city (Crescent Reach), or by saying to Arias: "ready to leave". This takes you to the Plane of Knowledge. I would recommend the latter for some quick quest experience; take Arias's advice, and go to find Vivian the True, at the entrance to the Library. Her several small quests give significant exp at low levels. To get to Crescent Reach, go back into the tutorial from your character select screen.
 
