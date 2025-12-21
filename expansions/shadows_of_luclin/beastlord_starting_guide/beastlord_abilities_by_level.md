@@ -2,311 +2,361 @@
 title: Beastlord Abilities by Level
 description: 
 published: true
-date: 2025-12-20T03:15:28.444Z
+date: 2025-12-21T03:16:34.620Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-20T03:05:57.013Z
 ---
 
-# EverQuest Beastlord Abilities By Level
->Discovered at https://web.archive.org/web/20060628080200/https://www.eqbeastlord.com/bigchart.html
-{.is-info}
+# EverQuest Beastlord Abilities Guide
 
+> Originally discovered at https://web.archive.org/web/20060628080200/https://www.eqbeastlord.com/bigchart.html
+> 
 >Built off of Crouching Lizard's ['EverQuest Monk Abilities By Level'](https://web.archive.org/web/20060628080200/http://jumpspot.net/eq/monks_by_level.html) and adapted by Eternus for Beastlords.
-Information gathered at [Monkly-Business.com](https://web.archive.org/web/20060628080200/http://www.monkly-business.com/) and [EQBeastlord.com](https://web.archive.org/web/20060628080200/http://www.eqbeastlord.com/). Pulled from [Yiktiki's Beastlord Resource](https://web.archive.org/web/20060628080200/http://64.127.69.85/beastlord/).
+---
+
+# Beastlord Abilities {.tabset}
+
+## Quick Reference
+
+### Fist Damage & Delay Progression
+| Level | Damage | Delay |
+|-------|--------|-------|
+| 1 | 4 | 36 |
+| 5 | 5 | 36 |
+| 10 | 6 | 36 |
+| 15 | 7 | 36 |
+| 20 | 8 | 36 |
+| 25 | 9 | 35 |
+| 30 | 10 | 34 |
+| 35 | 11 | 33 |
+| 40 | 12 | 32 |
+| 45 | 13 | 31 |
+| 50 | 14 | 30 |
+| 53 | 14 | 29 |
+| 56 | 14 | 28 |
+| 59 | 14 | 27 |
+| 60 | 14 | 26 |
+
+**⚡ Key Milestones:**
+- **Level 10**: First damage cap removed (~20pt)
+- **Level 20**: Second damage cap removed (~30pt)
+- **Level 30**: Fists become magical weapons ✨
+
+### Damage Bonus Progression
+| Level | Bonus |
+|-------|-------|
+| 28 | +1 |
+| 31 | +2 |
+| 34 | +3 |
+| 37 | +4 |
+| 40 | +5 |
+| 43 | +6 |
+| 46 | +7 |
+| 49 | +8 |
+| 52 | +9 |
+| 55 | +10 |
+| 58 | +11 |
+| 64 | +13 |
+
+### Combat Stat Summary
+- **Max Unarmed Damage Cap Breakpoints**: Lvl 10 (20pt), Lvl 20 (30pt)
+- **Magical Fist Threshold**: Level 30
+- **Final Fist Damage/Delay**: 14/26 (achieved at Level 60)
+- **Final Damage Bonus**: +13 (Level 64)
+
+---
+
+## Pet Progression
+
+Your warder evolves significantly throughout your journey:
+
+| Level | Pet Lvl | HP | Bite | Bash | Kick | Special Abilities |
+|-------|---------|----|----|------|------|-------------------|
+| 9 | 9 | 200 | 11 | 7 | — | Parry |
+| 15 | 16 | 400 | 20 | 8 | — | Parry |
+| 22 | 22 | 650 | 27 | 11 | — | Parry |
+| 30 | 26 | 800 | 32 | 12 | — | Parry, *Magical* |
+| 39 | 31 | 1,100 | 40 | 16 | — | Parry, Quadruple Attack |
+| 49 | 39 | 2,100 | 49/33* | 17 | — | Parry, Quadruple Attack |
+| 54 | 41 | 2,450 | 52/34* | 25 | 20 | Parry, Quadruple Attack |
+| 56 | 43 | 2,500 | 55/34* | 21 | — | Parry, Quadruple Attack |
+| 58 | 45 | 2,800 | 62/34* | 24 | — | Parry, Quadruple Attack |
+| 60 | 47 | 3,250 | 68/34* | 26 | — | Parry, Quadruple Attack |
+| 62 | 60 | 3,500 | 74 | 28 | — | Parry, Shield, Enrage, Quadruple Attack |
+| 64 | 60 | 4,200 | 77 | 29 | — | Parry, Shield, Enrage, Quadruple Attack |
+
+*PvP values shown in italics where different
+*Primary pet level cap: 60 (achieved at Level 62)
+
+---
+
+## Survivability
+
+### Regeneration Rates by Race
+
+#### VahShir, Ogre, Barbarian
+| Level | Sitting | Standing |
+|-------|---------|----------|
+| 1-19 | 2 pts/6s | 1 pts/6s |
+| 20-49 | 3 pts/6s | 1 pts/6s |
+| 50 | 4 pts/6s | 1 pts/6s |
+| 51 | 5 pts/6s | 2 pts/6s |
+| 56 | 6 pts/6s | 3 pts/6s |
+| 60 | 7 pts/6s | 4 pts/6s |
+| 61 | 8 pts/6s | 5 pts/6s |
+| 63 | 9 pts/6s | 6 pts/6s |
+| 65 | 10 pts/6s | 7 pts/6s |
+
+#### Iksar, Troll
+| Level | Sitting | Standing |
+|-------|---------|----------|
+| 1-19 | 4 pts/6s | 2 pts/6s |
+| 20-49 | 6 pts/6s | 2 pts/6s |
+| 50 | 8 pts/6s | 2 pts/6s |
+| 51 | 12 pts/6s | 6 pts/6s |
+| 56 | 16 pts/6s | 10 pts/6s |
+| 60 | 18 pts/6s | 12 pts/6s |
+| 61 | 20 pts/6s | 14 pts/6s |
+| 63 | 22 pts/6s | 16 pts/6s |
+| 65 | 24 pts/6s | 18 pts/6s |
 
-## Level 1
+### Racial Starting Skills
 
-**Skills:** 1H Blunt, 2H Blunt, Hand-to-hand, Piercing, Bind Wounds, Throwing, Sense Heading, Defense, Offense, Swimming, Fishing, Beg, Alchohol Tolerance
+#### Universal Skills (All Beastlords)
+1H Blunt, 2H Blunt, Hand-to-hand, Piercing, Bind Wounds, Throwing, Sense Heading, Defense, Offense, Swimming, Fishing, Beg, Alcohol Tolerance
 
-**Racial Skills:**
-- Barbarian/Ogre/Troll: Slam (capped at 50)
-- Iksar: Forage (capped at 50), Swimming (100)
-- Vah Shir: Sneak (capped at 50), Safe Fall (capped at 50)
+#### Racial Bonuses
 
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 2 points every 6 seconds if sitting, 1 if standing
-- Iksar/Troll: 4 sitting, 2 standing
+**Barbarian / Ogre / Troll**
+- **Slam** (capped at 50)
 
-**Fists Damage/Delay:** 4/36
+**Iksar**
+- **Forage** (capped at 50)
+- **Swimming** (capped at 100)
 
-## Level 5
+**Vah Shir**
+- **Sneak** (capped at 50)
+- **Safe Fall** (capped at 50)
 
-**Skill:** Kick
+### Discipline Abilities
 
-**Fists Damage/Delay:** 5/36
+| Level | Name | Effect |
+|-------|------|--------|
+| 51 | Resistant | *Details TBD* |
+| 54 | Fearless | *Details TBD* |
+| 55 | Protective Spirit | *Details TBD* |
+| 60 | Bestial Fury | *Details TBD* |
 
-## Level 9
+---
 
-**Skills:** Summon Warder, Alteration, Abjuration, Conjuration, Divination, Evocation, Channelling
+## Progression Details
 
-**Spells:** Cure Disease, Endure Cold, Flash of Light, Inner Fire, Minor Healing, Sharik's Replenishing, Spirit of Sharik
+### Level 1-9: Foundation
 
-**Pet:** Level 9, HP 200, Bite 11, Bash 7 (pet can also Parry)
+**Level 1**
+- *Skills*: Starting skills (see Survivability tab)
+- *Regen Rate*: Established (varies by race)
+- *Damage*: 4/36
 
-## Level 10
+**Level 5**
+- 🥊 **New Skill**: Kick
+- *Damage*: 5/36
 
-**Skill:** Dodge
+**Level 9**
+- 🔮 **New Spell School**: Alteration, Abjuration, Conjuration, Divination, Evocation, Channelling
+- 📜 **Spells**: Cure Disease, Endure Cold, Flash of Light, Inner Fire, Minor Healing, Sharik's Replenishing, Spirit of Sharik
+- 🐾 **Summon Warder**: Pet unlocked (Lvl 9, 200 HP)
+- *Damage*: 5/36
 
-**Fists Damage/Delay:** 6/36
+### Level 10-19: Early Combat Enhancements
 
-**Note:** First damage cap removed (~20pt cap)
+**Level 10**
+- 🥊 **New Skill**: Dodge
+- 🎯 **Milestone**: First damage cap removed (~20pt)
+- *Damage*: 6/36
 
-## Level 12
+**Level 12**
+- 🧘 **New Skill**: Meditate
 
-**Skill:** Meditate
+**Level 15**
+- 📜 **New Spells**: Blast of Frost, Cure Poison, Endure Fire, Fleeting Fury, Keshuval's Rejuvination, Scale Skin, Sense Animals, Sicken, Spirit of Kahliz, Spirit of Lightning, Strengthen
+- 🐾 **Pet Upgrade**: Lvl 16, 400 HP
+- *Damage*: 7/36
 
-## Level 15
+**Level 17**
+- 🥊 **New Skill**: Dual Wield
 
-**Spells:** Blast of Frost, Cure Poison, Endure Fire, Fleeting Fury, Keshuval's Rejuvination, Scale Skin, Sense Animals, Sicken, Spirit of Kahliz, Spirit of Lightning, Strengthen
+**Level 19**
+- 📜 **New Spell**: Serpent Sight
 
-**Fists Damage/Delay:** 7/36
+### Level 20-29: Mid-Level Power
 
-**Pet:** Level 16, HP 400, Bite 20, Bash 8 (pet can also Parry)
+**Level 20**
+- 🎯 **Milestone**: Second damage cap removed (~30pt)
+- 🐾 **Pet Upgrade**: Lvl 22, 650 HP
+- *Damage*: 8/36
 
-## Level 17
+**Level 22**
+- 📜 **New Spells**: Drowsy, Endure Poison, Light Healing, Spirit of Bear, Spirit of Blizzard, Spirit of Keshuval, Summon Drink, Tainted Breath
 
-**Skill:** Dual Wield
+**Level 25**
+- 🥊 **New Skill**: Block
+- *Damage*: 9/35
 
-## Level 19
+**Level 28**
+- 💥 **Primary Hand Damage Bonus**: +1
 
-**Spells:** Serpent Sight
+**Level 29**
+- 📜 **New Spell**: Enduring Breath
 
-## Level 20
+### Level 30-39: Magical Fists & Combat Skills
 
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 3 sitting, 1 standing
-- Iksar/Troll: 6 sitting, 2 standing
+**Level 30**
+- ✨ **Milestone**: Fists become magical weapons
+- 📜 **Major Spell Set**: Herikol's Soothing, Shrink, Spirit of Herikol, Spirit of Inferno, Spirit of Wolf, Spirit Sight, Spirit Strength, Spirit Strike, Summon Food, Turtle Skin
+- 🐾 **Pet Upgrade**: Lvl 26, 800 HP
+- *Damage*: 10/34
 
-**Fists Damage/Delay:** 8/36
+**Level 31**
+- 💥 **Damage Bonus**: +2
 
-**Note:** Second damage cap removed (~30pt cap)
+**Level 34**
+- 💥 **Damage Bonus**: +3
 
-## Level 22
+**Level 35**
+- *Damage*: 11/33
 
-**Spells:** Drowsy, Endure Poison, Light Healing, Spirit of Bear, Spirit of Blizzard, Spirit of Keshuval, Summon Drink, Tainted Breath
+**Level 37**
+- 💥 **Damage Bonus**: +4
 
-**Pet:** Level 22, HP 650, Bite 27, Bash 11 (pet can also Parry)
+**Level 39**
+- 📜 **Major Spell Set**: Cancel Magic, Endure Magic, Envenomed Breath, Healing, Levitate, Spirit of Monkey, Spirit of Ox, Spirit of Scorpion, Spirit of Yekan, Summon Companion, Yekan's Quickening, Yekan's Recovery
+- 🐾 **Pet Upgrade**: Lvl 31, 1,100 HP (Quadruple Attack added)
+- 💥 **Damage Bonus**: +4
 
-## Level 25
+### Level 40-49: Combat Mastery
 
-**Skill:** Block
+**Level 40**
+- 🥊 **New Skill**: Riposte
+- 💥 **Damage Bonus**: +5
+- *Damage*: 12/32
 
-**Fists Damage/Delay:** 9/35
+**Level 43**
+- 💥 **Damage Bonus**: +6
 
-## Level 28
+**Level 45**
+- *Damage*: 13/31
 
-**Primary Hand Damage Bonus:** 1
+**Level 46**
+- 💥 **Damage Bonus**: +7
 
-## Level 29
+**Level 49**
+- 📜 **Major Spell Set**: Counteract Disease, Frenzy, Invigor, Invisibility, Listless Power, Protect, Raging Strength, Spirit of Kashek, Spirit of Vermin, Vigor of Zehkes
+- 💥 **Damage Bonus**: +8
+- 🐾 **Pet Upgrade**: Lvl 39, 2,100 HP (49/33 Bite in PvP)
 
-**Spells:** Enduring Breath
+### Level 50-59: Endgame Foundation
 
-## Level 30
+**Level 50**
+- 📜 **New Spell**: Sha's Lethargy
+- *Regen Boost*: +1 sitting
+- *Damage*: 14/30
 
-**Spells:** Herikol's Soothing, Shrink, Spirit of Herikol, Spirit of Inferno, Spirit of Wolf, Spirit Sight, Spirit Strength, Spirit Strike, Summon Food, Turtle Skin
+**Level 51**
+- 🥊 **Bind Wounds Cap Raised**: Now 201+, heal up to 70% at 80 HP per bandage
+- 📜 **New Spells**: Spirit of Wind, Ultravision
+- ⚔️ **New Discipline**: Resistant
+- 🌟 **Alternate Advancement Unlocked**: AA exp pool & general AA skills available
+- 📊 **Improved Damage Table**
 
-**Fists Damage/Delay:** 10/34
+**Level 52**
+- 📜 **New Spells**: Aid of Khurenz, Health, Venom of the Snake
+- 💥 **Damage Bonus**: +9
 
-**Note:** Fists become magical weapons
+**Level 53**
+- 📜 **New Spells**: Deftness, Talisman of Tnarg, Spirit of the Storm
+- *Damage*: 14/29
 
-**Pet:** Level 26, HP 800, Bite 32, Bash 12 (pet can also Parry)
+**Level 54**
+- 📜 **New Spells**: Resist Poison, Spirit of Omakin, Strength of Stone, Spirit of Snow
+- ⚔️ **New Discipline**: Fearless
+- 🐾 **Pet Upgrade**: Lvl 41, 2,450 HP (Kick added, bite 52/34 in PvP)
 
-## Level 31
+**Level 55**
+- 📜 **New Spells**: Chloroplast, Omakin's Alacrity, Sha's Restoration
+- ⚔️ **New Discipline**: Protective Spirit
+- 💥 **Damage Bonus**: +10
+- 🌟 **Archtype AA Skills**: Now available
 
-**Damage Bonus:** 2
+**Level 56**
+- 📜 **New Spells**: Incapacitate, Shifting Shield, Spirit of Zehkes, Spirit of Flame
+- 🐾 **Pet Upgrade**: Lvl 43, 2,500 HP
+- *Damage*: 14/28
+- *Regen Boost*: +1 sitting
 
-## Level 34
+**Level 57**
+- 📜 **New Spell**: Greater Healing
 
-**Damage Bonus:** 3
+**Level 58**
+- 📜 **New Spells**: Nullify Magic, Spirit of Khurenz, Talisman of Altuna
+- 💥 **Damage Bonus**: +11
+- 🐾 **Pet Upgrade**: Lvl 45, 2,800 HP
 
-## Level 35
+**Level 59**
+- 📜 **New Spells**: Blizzard Blast, Sha's Ferocity, Spiritual Purity
+- *Damage*: 14/27
+- 🌟 **Class-specific AA Skills**: Now available
 
-**Fists Damage/Delay:** 11/33
+### Level 60-65: Mastery & Endgame
 
-## Level 37
+**Level 60**
+- 📜 **New Spells**: Alacrity, Sha's Advantage, Spirit of Kati Sha, Spiritual Strength
+- ⚔️ **New Discipline**: Bestial Fury
+- 📊 **Improved Damage Table**
+- 🐾 **Pet Upgrade**: Lvl 47, 3,250 HP
+- *Damage*: 14/26
 
-**Damage Bonus:** 4
+**Level 61**
+- 📜 **New Spells**: Scorpion Venom, Healing of Sorsha, Infusion of Spirit, Talisman of Shadoo, Annul Magic, Counteract Poison
+- 💥 **Damage Bonus**: +12
+- 🌟 **PoP AA Skills**: Now available
+- *Regen Boost*: +1 sitting
 
-## Level 39
+**Level 62**
+- 📜 **New Spells**: Spirit of Arag, Spiritual Vigor, Talisman of Kragg, Chloroblast
+- 🐾 **Pet Upgrade**: Lvl 60, 3,500 HP (Shield & Enrage added)
 
-**Spells:** Cancel Magic, Endure Magic, Envenomed Breath, Healing, Levitate, Spirit of Monkey, Spirit of Ox, Spirit of Scorpion, Spirit of Yekan, Summon Companion, Yekan's Quickening, Yekan's Recovery
+**Level 63**
+- 📜 **New Spells**: Frost Spear, Spirit of Rellic, Arag's Celerity, Talisman of Jasinth, Celerity, Abolish Disease
+- *Regen Boost*: +1 sitting
 
-**Pet:** Level 31, HP 1100, Bite 40, Bash 16 (pet can also Parry & Quadruple Attack)
+**Level 64**
+- 📜 **New Spells**: Spirit of Sorsha, Spirit of Dominion, Regrowth
+- 💥 **Damage Bonus**: +13
+- 🐾 **Pet Upgrade**: Lvl 60, 4,200 HP
 
-## Level 40
+**Level 65**
+- 📜 **New Spells**: Ferocity, Sha's Revenge, Acumen, Plague
+- *Regen Boost*: +1 sitting (final level)
 
-**Skill:** Riposte
+---
 
-**Fists Damage/Delay:** 12/32
+## Spell Reference
 
-**Damage Bonus:** 5
+### Early Healing & Buffs (Lvl 9-22)
+Cure Disease, Endure Cold, Flash of Light, Inner Fire, Minor Healing, Sharik's Replenishing, Spirit of Sharik, Blast of Frost, Cure Poison, Endure Fire, Fleeting Fury, Keshuval's Rejuvination, Scale Skin, Sense Animals, Sicken, Spirit of Kahliz, Spirit of Lightning, Strengthen, Serpent Sight, Drowsy, Endure Poison, Light Healing, Spirit of Bear, Spirit of Blizzard, Spirit of Keshuval, Summon Drink, Tainted Breath
 
-## Level 43
+### Mid-Level Versatility (Lvl 29-49)
+Enduring Breath, Herikol's Soothing, Shrink, Spirit of Herikol, Spirit of Inferno, Spirit of Wolf, Spirit Sight, Spirit Strength, Spirit Strike, Summon Food, Turtle Skin, Cancel Magic, Endure Magic, Envenomed Breath, Healing, Levitate, Spirit of Monkey, Spirit of Ox, Spirit of Scorpion, Spirit of Yekan, Summon Companion, Yekan's Quickening, Yekan's Recovery, Counteract Disease, Frenzy, Invigor, Invisibility, Listless Power, Protect, Raging Strength, Spirit of Kashek, Spirit of Vermin, Vigor of Zehkes
 
-**Damage Bonus:** 6
+### Endgame Powerhouse (Lvl 50+)
+Sha's Lethargy, Spirit of Wind, Ultravision, Aid of Khurenz, Health, Venom of the Snake, Deftness, Talisman of Tnarg, Spirit of the Storm, Resist Poison, Spirit of Omakin, Strength of Stone, Spirit of Snow, Chloroplast, Omakin's Alacrity, Sha's Restoration, Incapacitate, Shifting Shield, Spirit of Zehkes, Spirit of Flame, Greater Healing, Nullify Magic, Spirit of Khurenz, Talisman of Altuna, Blizzard Blast, Sha's Ferocity, Spiritual Purity, Alacrity, Sha's Advantage, Spirit of Kati Sha, Spiritual Strength, Scorpion Venom, Healing of Sorsha, Infusion of Spirit, Talisman of Shadoo, Annul Magic, Counteract Poison, Spirit of Arag, Spiritual Vigor, Talisman of Kragg, Chloroblast, Frost Spear, Spirit of Rellic, Arag's Celerity, Talisman of Jasinth, Celerity, Abolish Disease, Spirit of Sorsha, Spirit of Dominion, Regrowth, Ferocity, Sha's Revenge, Acumen, Plague
 
-## Level 45
+---
 
-**Fists Damage/Delay:** 13/31
+## Related Resources
 
-## Level 46
-
-**Damage Bonus:** 7
-
-## Level 49
-
-**Spells:** Counteract Disease, Frenzy, Invigor, Invisibility, Listless Power, Protect, Raging Strength, Spirit of Kashek, Spirit of Vermin, Vigor of Zehkes
-
-**Damage Bonus:** 8
-
-**Pet:** Level 39, HP 2100, Bite 49, Bash 17 (bite is 33 in PvP, pet can also Parry & Quadruple Attack)
-
-## Level 50
-
-**Spells:** Sha's Lethargy
-
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 4 sitting, 1 standing
-- Iksar/Troll: 8 sitting, 2 standing
-
-**Fists Damage/Delay:** 14/30
-
-## Level 51
-
-**Skill:** Bind Wounds cap raised to 201+ and can bind wounds up to 70% at 80hp per bandage
-
-**Spells:** Spirit of Wind, Ultravision
-
-**Discipline:** Resistant
-
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 5 sitting, 2 standing
-- Iksar/Troll: 12 sitting, 6 standing
-
-**Special Abilities:**
-- Ability to divert experience into the Alternate Advancement Experience Pool
-- Ability to train General Alternate Advancement Skills
-- Improved Damage Table
-
-## Level 52
-
-**Spells:** Aid of Khurenz, Health, Venom of the Snake
-
-**Damage Bonus:** 9
-
-## Level 53
-
-**Spells:** Deftness, Talisman of Tnarg, Spirit of the Storm
-
-**Fists Damage/Delay:** 14/29
-
-## Level 54
-
-**Spells:** Resist Poison, Spirit of Omakin, Strength of Stone, Spirit of Snow
-
-**Discipline:** Fearless
-
-**Pet:** Level 41, HP 2450, Bite 52, Kick 20, Bash 25 (bite is 34 in PvP, pet can also Parry & Quadruple Attack)
-
-## Level 55
-
-**Spells:** Chloroplast, Omakin's Alacrity, Sha's Restoration
-
-**Discipline:** Protective Spirit
-
-**Damage Bonus:** 10
-
-**Special Abilities:**
-- Ability to train Archtype AA Skills
-- Improved Damage Table
-
-## Level 56
-
-**Spells:** Incapacitate, Shifting Shield, Spirit of Zehkes, Spirit of Flame
-
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 6 sitting, 3 standing
-- Iksar/Troll: 16 sitting, 10 standing
-
-**Fists Damage/Delay:** 14/28
-
-**Pet:** Level 43, HP 2500, Bite 55, Bash 21 (bite is 34 in PvP, pet can also Parry & Quadruple Attack)
-
-## Level 57
-
-**Spells:** Greater Healing
-
-## Level 58
-
-**Spells:** Nullify Magic, Spirit of Khurenz, Talisman of Altuna
-
-**Damage Bonus:** 11
-
-**Pet:** Level 45, HP 2800, Bite 62, Bash 24 (bite is 34 in PvP, pet can also Parry & Quadruple Attack)
-
-## Level 59
-
-**Spells:** Blizzard Blast, Sha's Ferocity, Spiritual Purity
-
-**Fists Damage/Delay:** 14/27
-
-**Special Abilities:** Ability to train Class-specific AA Skills
-
-## Level 60
-
-**Spells:** Alacrity, Sha's Advantage, Spirit of Kati Sha, Spiritual Strength
-
-**Discipline:** Bestial Fury
-
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 7 sitting, 4 standing
-- Iksar/Troll: 18 sitting, 12 standing
-
-**Fists Damage/Delay:** 14/26
-
-**Special Abilities:** Improved Damage Table
-
-**Pet:** Level 47, HP 3250, Bite 68, Bash 26 (bite is 34 in PvP, pet can also Parry & Quadruple Attack)
-
-## Level 61
-
-**Spells:** Scorpion Venom, Healing of Sorsha, Infusion of Spirit, Talisman of Shadoo, Annul Magic, Counteract Poison
-
-**Damage Bonus:** 12
-
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 8 sitting, 5 standing
-- Iksar/Troll: 20 sitting, 14 standing
-
-**Special Abilities:** Ability to train PoP AA Skills
-
-## Level 62
-
-**Spells:** Spirit of Arag, Spiritual Vigor, Talisman of Kragg, Chloroblast
-
-**Pet:** Level 60, HP 3500, Bite 74, Bash 28 (pet can also Parry, Shield, Enrage & Quadruple Attack)
-
-## Level 63
-
-**Spells:** Frost Spear, Spirit of Rellic, Arag's Celerity, Talisman of Jasinth, Celerity, Abolish Disease
-
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 9 sitting, 6 standing
-- Iksar/Troll: 22 sitting, 16 standing
-
-## Level 64
-
-**Spells:** Spirit of Sorsha, Spirit of Dominion, Regrowth
-
-**Damage Bonus:** 13
-
-**Pet:** Level 60, HP 4200, Bite 77, Bash 29 (pet can also Parry, Shield, Enrage & Quadruple Attack)
-
-## Level 65
-
-**Spells:** Ferocity, Sha's Revenge, Acumen, Plague
-
-**Regen Rate:**
-- VahShir/Ogre/Barbarian: 10 sitting, 7 standing
-- Iksar/Troll: 24 sitting, 18 standing
+- [Monkly-Business.com](https://web.archive.org/web/20060628080200/http://www.monkly-business.com/)
+- [EQBeastlord.com](https://web.archive.org/web/20060628080200/http://www.eqbeastlord.com/)
+- [Yiktiki's Beastlord Resource](https://web.archive.org/web/20060628080200/http://64.127.69.85/beastlord/)
