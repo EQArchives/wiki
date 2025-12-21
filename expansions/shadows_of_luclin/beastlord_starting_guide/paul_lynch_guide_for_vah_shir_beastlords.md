@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:26:27.300Z
+date: 2025-12-21T07:30:21.957Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -761,7 +761,7 @@ By this time you will have started the tailoring quest from Broker Fahaar. The r
 
 The other tailoring items with higher trivials for the tailoring quest require the Hollowshade Moor zone to be in a stable state - something that never happened the first time I ran through this sequence. However, now that the war has been fixed, it is much easier to collect the necessary drops.
 
-See the next section for details of the fletching quest.
+See the [next section](#tradeskills-shar-vahl-fletching-quest) for details of the fletching quest.
 
 As always, try to start these quests at a stage when you will gain experience from collecting the items required - otherwise the more standard way of skilling up on Norrath, which involves buying all the ingredients, will be more attractive. Tailoring is especially frustrating in this regard, as the only possibly path to skilling up involves collecting drops, and tailoring drops are especially rare - grimling finger bones, for example, drop rarely from any grimling, and I have seen a grand total of under 5; and this despite running the Hollowshade war for a week solid, involving mass destruction of grimlings.
 
