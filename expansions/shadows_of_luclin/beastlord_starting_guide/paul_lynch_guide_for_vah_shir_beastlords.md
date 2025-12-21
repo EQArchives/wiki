@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:35:32.567Z
+date: 2025-12-21T06:36:43.974Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -768,7 +768,7 @@ As always, try to start these quests at a stage when you will gain experience fr
 For pottery, brewing, and most likely fletching, baking and smithing, a judicious mix of quest skill ups and purchased item skill ups will give the most satisfaction. Treat the skill quests as a way of substituting some (a lot) of your hunting time against the shortage of money in the Shar Vahl area. As well as www.eqtraders.com, see the trade skills guides written by Xanthe, at www.geocities.com/shadowknight57/.
 
 ## Tradeskills - Shar Vahl Fletching Quest
- Beastlords can have a throwing skill of 113 (this has probably been revised upwards!); which is higher than the skill given to several melee classes for archery, so it ought to be meant for some use. However, throwing weapons don't quite work the same as archery, with bows adding stats to thrown weapons, and the available thrown weapons that are beastlord usable are very much more limited than a bow. In practice, you won't do much damage with thrown weapons, although you might find it useful to pull with. At 65, in some spots and circumstances pulling with slow is too mana heavy; if I am soloing, for instance, in Nurga I usually don't have KEI, and don't bother slowing casters. Pulling in these situations with a thrown weapon can be a useful ability to have.
+Beastlords can have a throwing skill of 113 (this has probably been revised upwards!); which is higher than the skill given to several melee classes for archery, so it ought to be meant for some use. However, throwing weapons don't quite work the same as archery, with bows adding stats to thrown weapons, and the available thrown weapons that are beastlord usable are very much more limited than a bow. In practice, you won't do much damage with thrown weapons, although you might find it useful to pull with. At 65, in some spots and circumstances pulling with slow is too mana heavy; if I am soloing, for instance, in Nurga I usually don't have KEI, and don't bother slowing casters. Pulling in these situations with a thrown weapon can be a useful ability to have.
 
 If you are interested in making use of your throwing skill, there is a progressive quest to help you to train up. I would instead suggest using the easy Crescent Reach or Abysmal Sea quests available for all tradeskills to get your initial skill level to 31. Just go to Abysmal and use the Find tool to locate the fletching vendors, and talk to them; the Crescent Reach quests are a lot easier to do, but the Abysmal Sea quests are necessary if you want to use GoD gathered special items. After that, use Aoenla's guide and some spare money to skill up. A skill of 200 should take under 500pp, although it gets a lot more expensive after this.
 
