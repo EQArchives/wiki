@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:09:01.695Z
+date: 2025-12-21T07:11:13.645Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -303,7 +303,7 @@ The basic hunting strategy is to select a target and autoattack - no subtlety re
 
 Kill hoppers, worms and bloodlings, saving everything that they drop. You will need shadeling silk and hopperhides for tailoring, which is essential for your beastlord quest; needle claws are also useful for tailoring, and bloodling carapaces will be used for the shield quest. Rarely the bloodlings will also drop mandibles, of which you will need four. If you run short of room, put excess baggage into the bank, which is conveniently located in the zone. When you have enough mandibles, talk to Kaza Raj, close to the Shar Vahl entrance - he is the contact point for all of the Ghulam armor quests. If you stay longer in Shadeweavers and have magic weapons, you can also kill nuisances here; they drop cloth armor (usually just a cap) and a small amount of cash.
 
-See the trade skills page for advice on how to tailor armor as an upgrade for you, using damaged rockhopper hides.
+See the [trade skills](#trade-skills-1) page for advice on how to tailor armor as an upgrade for you, using damaged rockhopper hides.
 
 Turn in needle claws from the hoppers to the tailoring merchant, Tiamon Aroo; he will return you a single stackable needle for each set of four claws. He also will give you the best prices to sell your loot of the two in zone merchants. You can also discover how to make Shadowed Hopperhide armor from him - this is easy, fun, and looks cool; but is nowhere near as good as Ghulam armor, although it is a step up from basic tattered hopperhide armor.
 
