@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T05:52:01.329Z
+date: 2025-12-21T05:58:04.843Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -292,6 +292,72 @@ All these quests will have given you a long list of items to collect. Young rock
 While you are exploring the city, you may notice a young Vah Shir female called Shainai walking around - hail her, and follow instructions. You should end up with a little money, plus a compass. With care, you can sell this compass for 2pp, by going to the right merchants. If you need money, this quest can be repeated, which is most easily done by waiting on the palace steps for Shainai to turn up.
 
 Once you get bored with all this, which will happen very quickly, the question is, where to start hunting? You can start in the pit, or can go out into Shadeweavers; as the newbie area in Shadeweavers is slightly safer, and Shadeweavers, in contrast to Shar Vahl, is brightly lit, I prefer Shadeweavers to start. 
+
+## First Hunting in Shadeweavers (Levels 2 - 3)
+**Objectives**: Scavengers Pack, Ghulam gloves (, Bloodling Shield)
+ Out in Shadeweavers, you will see a path leading between a few tents and buildings; all of this area is mostly safe, as far as the sentry at the crossroads; the best newbie hunting is to the left as you leave the city; the bank and two merchants are on the right.
+
+Before doing anything else, find Faer Shahar and talk to him - if you collect four items of garbage, which appear throughout the zone, including on the path and in the newbie area, and give them to him, you will get a Scavengers Bag in return. Make this a priority if you don't have any other containers yet. The garbage looks like small sacks on the ground, and seem to take on the background coloration rather more than normal dropped items do. The garbage is no rent, which means that you must collect and hand in all four pieces in a single playing session, otherwise it will disappear when you log out.
+
+The basic hunting strategy is to select a target and autoattack - no subtlety required. Guards will protect you from anything in the zone apart from Loda Kai poachers (apparently this was fixed in a patch, and the guards no longer have a non aggression pact with poachers). When you get your kick skill (at level 5 - it should appear automatically) put it on a hot key, and use it in combat every time it becomes available. It won't make much difference at the level you get it, but it is a valuable additional attack every three or four combat tics. Don't be afraid to die - below level 6, you lose nothing and respawn with all your items, and can often rush back into the fray and kill off whatever killed you.
+
+Kill hoppers, worms and bloodlings, saving everything that they drop. You will need shadeling silk and hopperhides for tailoring, which is essential for your beastlord quest; needle claws are also useful for tailoring, and bloodling carapaces will be used for the shield quest. Rarely the bloodlings will also drop mandibles, of which you will need four. If you run short of room, put excess baggage into the bank, which is conveniently located in the zone. When you have enough mandibles, talk to Kaza Raj, close to the Shar Vahl entrance - he is the contact point for all of the Ghulam armor quests. If you stay longer in Shadeweavers and have magic weapons, you can also kill nuisances here; they drop cloth armor (usually just a cap) and a small amount of cash.
+
+See the trade skills page for advice on how to tailor armor as an upgrade for you, using damaged rockhopper hides.
+
+Turn in needle claws from the hoppers to the tailoring merchant, Tiamon Aroo; he will return you a single stackable needle for each set of four claws. He also will give you the best prices to sell your loot of the two in zone merchants. You can also discover how to make Shadowed Hopperhide armor from him - this is easy, fun, and looks cool; but is nowhere near as good as Ghulam armor, although it is a step up from basic tattered hopperhide armor.
+
+Bloodling carapaces can be collected and combined in a special container, a shield frame, that you can buy from Master Barkhem, in the smith merchant in the NW of the merchant area; do not combine your collection of carapaces just yet, until you have completed the whisperling quest in the pit later, which gives you a slightly better shield.
+
+Without money, you still have a free source of food and drink: you can forage payala berries under the trees by the merchants, and turn them in to one of the merchants for drink - which is also saleable for small amounts, and is an excellent source of faction for non-vah shir who wish to do Shar Vahl quests.
+
+By now, you may have some things to sell; compare prices with the different merchants, as they vary considerably. The best price in Shadeweavers will be offered by Tiamon Aroo (of the two merchants); in Shar Vahl, Chiale at the city end of the south bridge is always good, and Gherik Alarhun in the pottery merchant in the inner area may have even better prices for some items. 
+
+## The Pit (Levels 2 - 6)
+**Objectives**: Beastlord handwraps and claws, Cloak of the Khati Sha Recruit, padded cloth armor, Kick 
+
+ Your first objective will be to make your starting claw wraps, as directed by Poren. Assuming that your tailoring skill is high enough, this will take 12 silks from xakra worms; some you will have collected already. Combining silks into threads takes two silks per thread, and is a combine that never fails. This will take your tailoring skill up to 15 with enough combines. Keep collecting silk and making threads until you have reached this level. Then combine pairs of threads to make silk bandages, of which you will need three to attempt your handwraps. Bandages can take your skill up to 21. Three bandages combined will make handwraps - this may not succeed at first attempt, in which case you need to try again. The handwraps can be worn as gloves until you get your Ghulam gloves in Shadeweavers, if you haven't already. Trivial for handwraps is at least 26.
+
+If you have access to Crescent Reach or Abysmal Sea, you can do the tradeskill quests there to boost your skills to 54. It's a good idea to do this before trying the handwraps, and will make a big difference.
+
+You can also use practice points to raise your skill level to 21 in tailoring; however, I don't recommend this, because you will collect more than enough silks to raise your skill to 15 by making threads alone, and you will want to conserve practice points for later, much higher levels (for other tradeskills); or just do the tradeskill quests.
+
+The next stage in the claws quest requires you to collect 2 young hopper claws (from young rockhoppers), and four scorpion legs to create forged fasteners; these come from Kagazz, outside the smithy, in the inner merchant area. Combine fasteners, claws and handwraps in the sewing kit to make your claws; trivial is supposed to be over 40, so this may need repeating - check the trade skills section below for ways to get your tailoring skill as high as possible before making the attempt. On failure, the handwraps are returned, so you only need to regather scorpion legs and young rockhopper claws. Warning: I have failed this combine eight time with a tailoring skill of 32, and succeeded on my first try with the same skill at a different time. Returning these claws to Poren along with your starter cloak, and you will get a cloak upgrade. Poren sends you to see Mahron Sood, who is outside near the bank, who in return sends you to Kery Miann, upstairs in the tailoring vendor. Kery in turn requires you to make 2 straps for your claws, which needs 2 high quality rockhopper hides; these drops from any rockhopper, including needle clawed rockhoppers, in Shadeweaver's Thicket. Skill required is somewhere over 41.
+
+In case you don't already know, The Pit is the hunting area underneath and around Shar Vahl. To get into it, take either of the bridges leading out of Shar Vahl to their far sides. You can climb down the wall, moving from side to side, without falling in and hurting yourself.
+
+In the pit, kill everything - hunting a single type of mob will lead to it being replaced by new spawns of mobs that you aren't hunting. So if something is in short supply, exterminate beetles, whose supply never runs dry. Xakra worms seem to be commonest around the south gate area; young rockhoppers around the north gate. Collect the no drop poison glands from whiptail scorpions first - as soon as you have 4, go up into Shar Vahl to give them to Spiritist Ragnar (in the alchemist store, next to the bank), who will give you basic padded cloth armor in return; sell any bits you don't need.
+
+If you see a yellow named scorpion (Tailfang), avoid it at first, as it is tough, higher level than it looks, and can summon you to it when you run, something that normally only level 51+ mobs can do.
+
+Collect scorpion carapaces - these are required for the tailoring quest later, and also for the earring quest from Dharr Nadim (-350, 100) in the southern trade slum.
+
+It may also be worth collecting worm meat (from xakra worms) and handing in to the cooks in the palace; you get a small amount of money, and a wooden practice weapon (which you can sell) for four.
+
+Also collect beetle eyes and xakra teeth (the latter for the fletching quest). I never managed to collect enough eyes to complete the quest, from one of the guards on the bridges (Khala Dun Bokh).
+
+As soon as you reach level 5, go back to your guild and put one practice point into kick; put this on a hot button, and use it in combat whenever it becomes ready. 
+
+## Whisperlings (Level 4 - 6)
+**Objectives**: Frostweavers Shield, Scorpialis 
+ There are a couple of relatively complicated quests based in the pit that round out your time hunting there, and bring you into Shadeweavers, both revolving around whisperlings. Running around the pit, you may have noticed 'a whisperling casts a spell' as you pass by an illuminated stone just west of the south bridge.
+
+You should talk to the following people: Dar Khura Shavra (in the pit, south edge), Groo McManus (Shadeweavers, in building near the Shar Vahl exit); Spiritist Ragnar (shop next to bank); Spiritist Grawleh (shaman guild in palace). After talking to the first two, you will be able to find the whisperling; take it to Dar Khura Shavra for instructions. You will also want a bloodling carapace along the way, and many of the intermediate items you are given are no rent, and will be lost if you camp without completing this quest series. At the end, you will have a special carapace, that can be used in one of Master Barkhem's shield frames to make a Frostweaver's Shield. This is a very worthwhile quest for Beastlords and shamans, as along the way rewards are the spells scrolls for Strengthen, Flash of Light, and Endure Cold; you can also get Burst of Flame (shaman, not beastlord) by giving a needle-thin claw from rockhoppers to Groo McManus in Shadeweavers.
+
+You are also given a hint that Scorpialis is the name of another whisperling; which is also the name of the weapon you get from killing Tailfang and taking the tail to Dar Khura Pyjek, in the pit under the south bridge.
+
+Another hint you are given is that there may be an upgrade to the shield possible by hunting Shak Dratha; to the best of my knowledge, this hasn't yet been completed - the Xakra shield mentioned by Rawleh may drop from guards at the Shak Dratha camp near the trader cave entrance. 
+
+## Back in the Shade (Levels 5 - 8) 
+**Objectives**: Ghulam boots, claws upgrade(, Hunting boots) 
+
+ By this time you will be level 4 or 5, and the newbie area mobs will have started to turn green. This is time to move out to Shadeweavers Thicket and on to lesser shades, skeletal hunters, swarmers and saurek hoppers, which will mainly be found, as well as some higher level mobs, to the north of the tents and merchants. Collect shadowed claws from the lesser shades for another piece of ghulam armor from Kaza Raj.
+
+It may be worthwhile saving claws and scales from all the various saurek types for some other quest armor items and weapons - but I didn't find them any better than the basic Ghulam armor. See Captain Tarief for the scales and Hunting Leather items. There is also a quest series involving collecting jawbones from shades and other skeletons; talk to Spiritist Karina; these also aren't any better than Ghulam, and the jawbones are very rare.
+
+By this time you should have collected a few high quality hopper hides; these are used in the next stage of the claws quest. If you haven't already, deliver the seal given to you by Poren to Mahron Sood, near the bank, and in turn deliver his map to Kery Miann, upstairs in the tailoring vendor. Use the stone blade she gives you to cut 2 straps from HQ hides (tailoring skill trivial is ??); give them to her with your claws, and you are given new claws, plus a note for Hollowshade that won't be worth delivering until you reach level 15.
+
+Round about level 7, gaining experience starts to slow; you don't have the additional skills to make combat with whites and yellows easy any more, and fighting dark blues will become tougher - and you will notice that these are becoming scarcer, until the brigands and thugs are feasible targets. If so, see my comments about Paludal for a quick boost to your levels. 
 
 ## Author's Notes
 
