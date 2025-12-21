@@ -2,7 +2,7 @@
 title: Beastlord FAQ
 description: 
 published: true
-date: 2025-12-21T03:36:13.163Z
+date: 2025-12-21T03:36:36.040Z
 tags: faq, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:30:57.031Z
@@ -23,7 +23,6 @@ All races have **20 extra points** to add to any stat.
 | Vah Shir | 90 | 85 | **95** | <u>70</u> | 80 | 65 | **70** |
 
 > **Legend:** Bold = highest in stat | Underlined = lowest in stat
-{.is-info}
 
 ---
 
