@@ -2,7 +2,7 @@
 title: Beastlord Quests
 description: 
 published: true
-date: 2025-12-21T03:57:43.083Z
+date: 2025-12-21T04:03:10.158Z
 tags: quests, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:49:00.538Z
