@@ -2,16 +2,338 @@
 title: Beastlord Quests
 description: 
 published: true
-date: 2025-12-21T04:03:10.158Z
+date: 2025-12-21T04:19:12.634Z
 tags: quests, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:49:00.538Z
 ---
 
-# Beastlord Quests
+# Beastlord Quests{.tabset}
 >Originally adapted from https://web.archive.org/web/20061120212813/http://www.eqbeastlord.com/quests.html
 {.is-info}
 
+## Beastlord Twilight Sea Quests
+# Beastlord Twilight Sea Quest Guide
+
+**Original data from:** Keltarin Stormshadow (Safehouse MessageBoard, 2007)  
+**Cross-referenced with:** Allakhazam (Current)  
+**Item reference:** taylir.com
+
+## Quest Overview
+
+These quests are completed with either **Jilan Tollun** or **Tamben Prinon** in Twilight Sea. You must hail them about armor and confirm you are a worthy beastlord to receive quest information.
+
+### Quest Distribution
+
+**Jilan Tollun holds:** Veil, Cape, Gloves, Talisman, Belt, Claws  
+**Tamben Prinon holds:** Cap, Tunic, Sleeves, Leggings, Mantle, Bracer, Boots
+
+---
+
+## Quest Requirements by Armor Piece
+
+### Belt (Feral Belt)
+**Quest Giver:** Jilan Tollun
+
+**Requirements:**
+- Sky Jewel
+- Mark of the Wolf
+- Embedded Steel Figurine
+- Ancient Wrappings
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Sky Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of the Wolf | Sharpfang Wolf (Dawnshroud Peaks) |
+| Embedded Steel Figurine | Cral Ligi Molder (Tenebrous Mountains) |
+| Ancient Wrappings | Mummified Sun Revenant (Scarlet Desert) |
+
+---
+
+### Boots (Feral Boots)
+**Quest Giver:** Tamben Prinon
+
+**Requirements:**
+- Astral Jewel
+- Mark of Beast Mastery
+- Embedded Gold Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Astral Jewel | Random from any mob in Twilight Sea quest zones (also reported in Dawnshroud Peaks) |
+| Mark of Beast Mastery | Savage Rockhopper (Mons Letalis) |
+| Embedded Gold Figurine | Cral Ligi Embedder (Twilight Sea) |
+
+---
+
+### Bracer (Feral Bracer)
+**Quest Giver:** Tamben Prinon
+
+**Requirements:**
+- Meteor Jewel
+- Mark of Animal Training
+- Embedded Brass Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Meteor Jewel | Random from any mob in Twilight Sea quest zones (also reported in Dawnshroud Peaks mushroom area) |
+| Mark of Animal Training | Tenacious Lightcrawler (Scarlet Desert) |
+| Embedded Brass Figurine | Cral Ligi Artisan (Twilight Sea) |
+
+---
+
+### Cap (Feral Cap)
+**Quest Giver:** Tamben Prinon
+
+**Requirements:**
+- Sun Jewel
+- Mark of Feral Spirits
+- Embedded Copper Figurine
+- Frosted Stone
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Sun Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of Feral Spirits | Violent Rockhopper (Scarlet Desert) |
+| Embedded Copper Figurine | Grol Baku Embedder (Tenebrous Mountains) |
+| Frosted Stone | Legendary Sea Turtle (Twilight Sea) |
+
+---
+
+### Cape (Feral Cape)
+**Quest Giver:** Jilan Tollun
+
+**Requirements:**
+- Moon Jewel
+- Mark of the Panther
+- Iridescent Crystal
+- Embedded Bronze Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Moon Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of the Panther | Panther Cheetah (Scarlet Desert) |
+| Iridescent Crystal | Shik Nar Aggressor (Mons Letalis) |
+| Embedded Bronze Figurine | Scarlet Desert (specific mob unclear - needs verification) |
+
+---
+
+### Claws (Feral Claws)
+**Quest Giver:** Jilan Tollun
+
+**Requirements:**
+- Meteor Jewel
+- Mark of the Bestial
+- Embedded Adamantium Figurine
+- Roaring Idol
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Meteor Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of the Bestial | Meeda Hune Animalist (Tenebrous Mountains) |
+| Embedded Adamantium Figurine | Adamantium Thought Leech/Horror (Mons Letalis) - wandering spawn |
+| Roaring Idol | Vicious Shadow (Twilight Sea, level 35-40) |
+
+---
+
+### Gloves (Feral Gloves)
+**Quest Giver:** Jilan Tollun
+
+**Requirements:**
+- Star Jewel
+- Mark of the Alligator
+- Embedded Electrum Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Star Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of the Alligator | Bloodtribe Runekeeper (Scarlet Desert) |
+| Embedded Electrum Figurine | Colossal Underhulk (Twilight Sea) |
+
+---
+
+### Leggings (Feral Leggings)
+**Quest Giver:** Tamben Prinon
+
+**Requirements:**
+- Cloud Jewel
+- Mark of Natural Spirits
+- Embedded Stone Figurine
+- Blue Moonstone
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Cloud Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of Natural Spirits | Sambata Naturalist (Dawnshroud Peaks) |
+| Embedded Stone Figurine | Grol Baku Embedder (Twilight Sea) |
+| Blue Moonstone | Vas Ren Lunar Khan (Twilight Sea) |
+
+---
+
+### Mantle (Feral Mantle)
+**Quest Giver:** Tamben Prinon
+
+**Requirements:**
+- Sky Jewel
+- Mark of Wilderness
+- Embedded Platinum Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Sky Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of Wilderness | Feral Darkwing Bat (Tenebrous Mountains) |
+| Embedded Platinum Figurine | A Frenzied Zelniak (Dawnshroud Peaks) |
+
+---
+
+### Sleeves (Feral Sleeves)
+**Quest Giver:** Tamben Prinon
+
+**Requirements:**
+- Star Jewel
+- Mark of Wild Spirits
+- Embedded Clay Figurine
+- Furrowed Carving
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Star Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of Wild Spirits | Wild Spire Spirit (Mons Letalis) |
+| Embedded Clay Figurine | Clay Stonegrabber (Dawnshroud Peaks) |
+| Furrowed Carving | Tro Jeg Carver (Scarlet Desert) |
+
+---
+
+### Talisman (Feral Talisman)
+**Quest Giver:** Jilan Tollun
+
+**Requirements:**
+- Cloud Jewel
+- Mark of the Shark
+- Embedded Silver Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Cloud Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of the Shark | Scavenger Minnow (Twilight Sea) |
+| Embedded Silver Figurine | Silvery Sunflower (Scarlet Desert) |
+
+---
+
+### Tunic (Feral Tunic)
+**Quest Giver:** Tamben Prinon
+
+**Requirements:**
+- Moon Jewel
+- Mark of Animal Spirits
+- Silver Gilded Bracelet
+- Embedded Mithril Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Moon Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of Animal Spirits | Aggressive Rockhopper (Dawnshroud Peaks) |
+| Silver Gilded Bracelet | Coterie Trooper (Tenebrous Mountains) |
+| Embedded Mithril Figurine | Embedded Stonegrabber (Mons Letalis) |
+
+---
+
+### Veil (Feral Veil)
+**Quest Giver:** Jilan Tollun
+
+**Requirements:**
+- Sun Jewel
+- Mark of the Tiger
+- Embedded Wooden Figurine
+
+**Item Sources:**
+| Item | Where Found |
+|------|------|
+| Sun Jewel | Random from any mob in Twilight Sea quest zones |
+| Mark of the Tiger | Tiger Cheetah (Scarlet Desert) |
+| Embedded Wooden Figurine | Great Rhino Beetle (Twilight Sea) |
+
+---
+
+## Armor Stats
+
+| Piece | AC | WIS | STR | DEX | HP | MANA | Resistances |
+|-------|----|----|-----|-----|----|----|-----|
+| Belt | 8 | 3 | 3 | 1 | 5 | 2 | Disease +1, Poison +1 |
+| Boots | 8 | 3 | 3 | 1 | 3 | 3 | Cold +1 |
+| Bracer | - | - | - | - | - | - | - |
+| Cap | - | - | - | - | - | - | - |
+| Cape | - | - | - | - | - | - | - |
+| Claws | 13/27 (h2h) | 5 | 8 | 3 | 20 | 10 | Disease +3, Poison +3 |
+| Gloves | 9 | 3 | 3 | 1 | 5 | 3 | Disease +1 |
+| Leggings | - | - | - | - | - | - | - |
+| Mantle | 7 | 3 | 3 | 1 | 5 | 2 | Magic +1 |
+| Sleeves | - | - | - | - | - | - | - |
+| Talisman | - | - | - | - | - | - | - |
+| Tunic | 15 | 8 | 5 | 3 | 10 | 20 | Cold +2, Fire +2, Magic +2 |
+| Veil | 5 | 3 | 3 | 1 | 5 | 2 | Magic +1 |
+
+---
+
+## Zones to Hunt
+
+- **Twilight Sea** - Main zone for various quest mobs
+- **Scarlet Desert** - Panther Cheetah, Tiger Cheetah, Violent Rockhopper, Bloodtribe Runekeeper, Tro Jeg Carver
+- **Tenebrous Mountains** - Grol Baku Embedder, Meeda Hune Animalist, Feral Darkwing Bat, Coterie Trooper, Cral Ligi Molder
+- **Dawnshroud Peaks** - Clay Stonegrabber, Sambata Naturalist, Sharpfang Wolf, A Frenzied Zelniak
+- **Mons Letalis** - Adamantium Thought Leech/Horror, Shik Nar Aggressor, Embedded Stonegrabber, Wild Spire Spirit
+
+---
+
+## General Notes
+
+### Jewel Drops
+All four jewel types (Sky, Sun, Moon, Star, Cloud, Meteor, Astral) drop randomly from **any mob in Twilight Sea quest zones**. These are the easiest pieces to acquire - just kill common mobs and eventually you'll get the ones you need.
+
+### Faction Effects
+Quest hand-ins affect faction with various NPC groups. Current faction impact list is incomplete - more documentation needed on specific faction changes per quest.
+
+### Mobile Spawns
+Several quest mobs are wanderers rather than static spawns (e.g., Adamantium Thought Leech in Mons Letalis, Cral Ligi mobs in Tenebrous Mountains). These typically have placeholder mobs that spawn in their place, and your target appears after defeating enough placeholders.
+
+### Best Farming Locations
+For efficient hunting:
+- **Jewels**: Camp trash mobs in any Twilight quest zone - random drops
+- **Rockhopper Marks**: Base of ramp to plateau in Scarlet Desert (5-7 hoppers in area)
+- **Legendary Sea Turtle**: Twilight Sea (for Frosted Stone)
+
+---
+
+## Changes & Clarifications from Modern Sources
+
+**⚠️ Missing/Unclear Items (2007 Guide vs Current):**
+1. Embedded Bronze Figurine (Cape component) - source not clearly documented in current Allakhazam
+2. Some pieces missing stat info (Cap, Bracer, Talisman, Sleeves, Leggings - stats not in original guide)
+3. Faction hits documentation incomplete - needs verification per quest
+4. Exact /loc data for some mobs missing
+
+**✓ Confirmed from 2007 Guide:**
+- All armor piece requirements match current Allakhazam
+- All marked item spawn locations match current sources
+- Stats for complete pieces (Belt, Boots, Gloves, Mantle, Veil, Tunic, Claws) match original data
+
+**💡 Recommendations:**
+- Jewels are your bottleneck - farm these first from common mobs
+- Focus on one or two pieces at a time to consolidate farming efforts
+- Roaring Idol (Vicious Shadow) and Blue Moonstone (Vas Ren Lunar Khan) are specialized drops - worth knowing locations
+- Consider trading quest pieces with other beastlords if your guild has them
 ## Barbarian Beastlord
 
 All quests are given by **Hoyce Mactaegan**.
