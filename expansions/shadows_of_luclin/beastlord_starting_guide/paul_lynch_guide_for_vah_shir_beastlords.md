@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:18:21.508Z
+date: 2025-12-21T07:20:36.112Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -460,7 +460,7 @@ Mobs in Netherbian are social, hit hard, and regen fast. But they drop good cash
 
 In Netherbian Lair, you will sometimes see a human standing by the exit to Dawnshroud, called Lerin Sardor. If you are willing to escort him to the Nexus, he will reward you with a nice earring (wis +3 and various other stats). At these levels you will need a group to do this, but at higher levels you can easily do this quest solo. Once you have negotiated an agreement with Lerin, he will start walking towards the Nexus; he is going to be intercepted 3 (possibly 4) times by groups of mobs coming out of the tunnels; starting with 2 fungal sporelings, and finishing with 5 Netherbians at the central pillar. The trick to winning is to have your toughest available tanks (probably yourself) stand on top of Lerin whenever he is attacked. Let your warder and/or group kill the attackers. They will concentrate on you, and will ignore Lerin so long as you are in their melee range. Keep Lerin targeted if you can, in case he needs a heal - a cleric/druid/shaman can handle this much better than a bestlord in case of emergencies.
 
-From 27, I would recommend Dawnshroud Peaks. Starting with shroom, either solo or in a small group, then moving on to tribals, this is a very effective way to get to 35 with good loot. By moving targets within the zone, it is perfectly possible to reach 42 here, and return at higher levels to deal with rockhoppers.
+From 27, I would recommend [Dawnshroud Peaks](#dawnshroud-peaks-levels-26-52). Starting with shroom, either solo or in a small group, then moving on to tribals, this is a very effective way to get to 35 with good loot. By moving targets within the zone, it is perfectly possible to reach 42 here, and return at higher levels to deal with rockhoppers.
 
 At higher levels still, in the 40s, you will have a choice of several Luclin zones. Dawnshroud continues to be a staple with tribals, rockhoppers and stonegrabbers still good. The high side of Echo Caverns also works well, certainly from the 39 pet upwards, and at the same time Tenebrous Mountains is a possibility. Scarlet Desert and Mons Letalis are two other zones that I have only investigated a little as yet, but should apply in this range.
 
