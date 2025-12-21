@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:45:22.995Z
+date: 2025-12-21T06:46:28.166Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -1037,6 +1037,61 @@ Before 60, weapon selection is determined most by availability and price. Keep w
 To skill up, choose the fastest delay weapons you can, even if damage is very low. Bear fanged glove, masters eitchatka, crystalline spider fang, bamboo bo stick and goranga war club (I think) are all good for this. You get the most skill ups from hits rather than misses, and more from the higher con mobs. Skill ups are very rare from greens, and less common from high reds - for these reasons. In practice, this means you get the most skill ups from high dark blue through to yellow. You can also buy skill ups at trainers; points up to about 80 skill are relatively cheap to buy, but it gets a lot more expensive after this.
 
 Buffing with dexterity has two advantages - it increases the rate of skill ups, and also increases the rate at which weapons proc. It is possible that strength buffs will also increase skill up rate.
+
+## Equipment
+My basic gear strategy for any untwinked melee/hybrid class is to raise armor class as early as possible (and I mean before level 10), followed by better weapons and melee statistics; then for a hybrid class like a beastlord, work on the classes primary casting attribute, which is wisdom. The most cost effective way of raising wis is to buy player made jasper rings and a ruby veil; I have found that platinum is more cost effective that velium, but your mileage may vary on this. You should aim for 150 wis by 40, which is very achievable if you purchase acrylia reinforced and studded armor from players, using money made from selling acrylia looted in Dawnshroud - a very satisifying trade to make. As a melee class, it is advisable to take your strength as high as possible as soon as possible; you will want to trade this off against wisdom, according to your playing style. If possible, take your other main attributes to 100+ by level 20 as well: str, sta, agi and dex. At higher levels, melee statistics will largely be maxed by self buffs, and group/raid buffs, so looking for equipment to increase these statistics isn't as vital as for, say, a warrior or shadowknight. Your next stage in development will be to get all resistance to over 50, then eventually over 100, unbuffed.
+
+For a very low level character, it is very worthwhile to concentrate on +HP items (and +mana, for a caster). An extra 100 hp is easy to provide, and will mean that for the first few levels your character becomes almost unkillable by normal mobs. In practice, this isn't possible without twinking or by paying for high level cleric or druid buffs (also twinking). At higher levels, +HP items will become very attractive again.
+
+Because of the difficulties involved in getting a Ghulam tunic, you should consider tailoring your own studded or reinforced leather tunic early on; help from a smith will be required to produce the studs or reinforced boning required for this. Alternatively, there are a few leather class tunics that are available from the player economy for a reasonable price for your level.
+
+A better role playing alternative might be to use the Plane of Knowledge to move to Halas and Everfrost for a short while. A Vah Shir beastlord can do the Halas beastlord newbie armor quests; these items aren't as good as Ghulam, but the tunic is much better than nothing, and very easy to get. See above for details.
+
+As a non-twinked beastlord, I started out with just the newbie weapon, and kitted myself out first with padded armor from Alchemist Ragnar and self-tailored patchwork - up to about level 8. From that point I replaced items with ghulam quest armor and H2H weapons dropped from Loda Kai. Around level 10, I was given a pair of polished steel ulaks and a foreman's tunic. The PSUs drop in Dawnshroud from tribals, which you can hunt from about level 27 on in groups. There are better H2H weapons suitable for beastlords, but these are both rare and expensive (much the same applies to better armor, too). If you are careful, you may find a bear fanged glove and Master's Eitchatka in the Bazaar; these should be inexpensive and have better damage ratios than PSUs. A crystalline spider fang, although a piercing weapon, also has an excellent ratio (10/22). The 1HB and piercing weapons dropped from the Hollowshade Moor War have reasonable ratios (13/30).
+
+Focus items for spell casting can also make a big difference. There are quests in the Plane of Knowledge to provide most types of focus item, all at level II, which affects all spells that you acquire up to level 44 - which means they are useful up to level 49 (the next spell level above 44), and as long as 44 and below spells are the majority that you cast during combat. For a fighter, the best items to get are those that offer faster casting (spell haste, the fine cut diamond mask), better range (fine antique rose) and reduced mana cost (fine antique ring). Other effects are less important.
+
+### /testbuff
+
+On the Test server, SOE have implemented a new command, /testbuff, which immediately raises a character to level 25 with a full spell book and full set of equipment. In general, the items given are level appropriate, with a few exceptions, and the list could be considered a reasonable suggestion for equipping a new character without going to a great deal of expense, or for equipment upgrades for an untwinked character.
+
+Earring: ac3 str3 hp15 (x2) Orc Fang Earring
+Mask: ac5 cha5 wis5 Acrylia Studded Mask
+Necklace: ac5 str3 sta3 agi3 Orc Fang Necklace
+Cloak: ac10 str4 sta4 cr6 Spider Fur Cloak
+Ring: ac1 agi2 (x2) Recondite Insignia Ring
+Mantle: ac7 agi6 fr5 Drolvarg Mantle
+Belt: Ac10 dex5 agi4 hp40 Spider Fur Belt
+Helm: Ac6 str9 agi5 Helm of Rile
+Tunic: ac14 hp10 mr10 Sarnak Emblazoned Tabard
+Sleeves: ac5 str3 pr5 Gnome Skin Sleeves
+Bracer: ac4 hp7 (x2) Ghulam Bracer
+Gloves: ac10 str3 dex3 hp10 Iksar Scaled Gloves
+Leggings: ac8 wis3 Soiled Breechclout
+Boots: ac5 hp10 Ghulam Boots
+Primary: H2H 9/27 ac3 str3 wis3 hp25 mana25 mr3 Polished Steel Ulak
+Secondary: H2H 9/27 ac3 str3 wis3 hp25 mana25 mr3 Polished Steel Ulak
+Range: ac8 dex4 sta3 hp25 Goranga Idol
+
+### Best Droppable Items
+
+For people with a larger starting budget, or others looking to upgrade, a number of items are available that are acknowledged as being good, possibly the best, choices for equipment for certain slots. This list was made in the late PoP era, but still has some validity. These are:
+
+Helm: bellows crafted cap/grobb hide cowl
+Tunic: reinforced acrylia tunic/treeweave/phase spider carapace
+Boots: studded acrylia boots or greatbear hide boots
+Cloak: studded acrylia cloak
+Necklace: blackened alloy medallion wis5 int5 mana preservation II
+Leggings: brown chitin leggings, Ripped Leggings of the Immortals
+Sleeves: hardened grey flesh sleeves
+Gloves: silver chitin handwraps (haste)
+Bracers: hero bracer, etc
+Rings: velium/platinum fire wedding ring, valorium ring of gallantry
+Weapons: waning light katar (level 55 required), kasheks katar
+
+In general, if in doubt, use acrylia reinforced items, except where specifically mentioned above.
+
+See also the very good thread on beastlords.org, LIST OF BUYABLE UPGRADES FOR ALL SLOTS.
 
 ## Author's Notes
 
