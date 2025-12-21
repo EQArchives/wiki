@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:34:38.738Z
+date: 2025-12-21T06:35:32.567Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -766,6 +766,27 @@ See the next section for details of the fletching quest.
 As always, try to start these quests at a stage when you will gain experience from collecting the items required - otherwise the more standard way of skilling up on Norrath, which involves buying all the ingredients, will be more attractive. Tailoring is especially frustrating in this regard, as the only possibly path to skilling up involves collecting drops, and tailoring drops are especially rare - grimling finger bones, for example, drop rarely from any grimling, and I have seen a grand total of under 5; and this despite running the Hollowshade war for a week solid, involving mass destruction of grimlings.
 
 For pottery, brewing, and most likely fletching, baking and smithing, a judicious mix of quest skill ups and purchased item skill ups will give the most satisfaction. Treat the skill quests as a way of substituting some (a lot) of your hunting time against the shortage of money in the Shar Vahl area. As well as www.eqtraders.com, see the trade skills guides written by Xanthe, at www.geocities.com/shadowknight57/.
+
+## Tradeskills - Shar Vahl Fletching Quest
+ Beastlords can have a throwing skill of 113 (this has probably been revised upwards!); which is higher than the skill given to several melee classes for archery, so it ought to be meant for some use. However, throwing weapons don't quite work the same as archery, with bows adding stats to thrown weapons, and the available thrown weapons that are beastlord usable are very much more limited than a bow. In practice, you won't do much damage with thrown weapons, although you might find it useful to pull with. At 65, in some spots and circumstances pulling with slow is too mana heavy; if I am soloing, for instance, in Nurga I usually don't have KEI, and don't bother slowing casters. Pulling in these situations with a thrown weapon can be a useful ability to have.
+
+If you are interested in making use of your throwing skill, there is a progressive quest to help you to train up. I would instead suggest using the easy Crescent Reach or Abysmal Sea quests available for all tradeskills to get your initial skill level to 31. Just go to Abysmal and use the Find tool to locate the fletching vendors, and talk to them; the Crescent Reach quests are a lot easier to do, but the Abysmal Sea quests are necessary if you want to use GoD gathered special items. After that, use Aoenla's guide and some spare money to skill up. A skill of 200 should take under 500pp, although it gets a lot more expensive after this.
+
+This starts with Rytan, a fletching vendor in the SW section, at location n400 410. Give him your acrylia slate. He will give you a bag to fill with 6 xakra teeth (an uncommon drop, maybe 1 in 10, from xakra larvae in the pit). He will give you in return 3 xakra darts and a seal. Repeat this, showing him your slate every time, until you have 4 seals.
+
+To find xakra teeth, start from the south bridge over the pit; they will spawn around this area. Grimling skeletons and xakra larvae are in a spawn cycle with rhinobeetle hatchlings at the SE end of the pit, and so if you don't see any larvae, kill skeletons or beetles until you have enough.
+
+Turning in the seals results in a xakra dart fletching tool, and the formula for using it: a grimling skeletal femur plus the tool gives 3 bone shafts (this recipe does not get added to your recipe list, so has to be combined using the old tradeskill interface every time). A bone shaft, xakra tooth plus tool gives you a dart; dmg 5, delay 26, range 75.
+
+Hand back the tool and you are given a shaft to attach to the tool to make grimling fang darts; you get a grimling dart crafting tool. Combine a shaft and a grimling fang with the tool, and you get a grimling fang dart: dmg 7, delay 0, range 85. Grimling fangs drop from grimling runts in the SW corner of the pit.
+
+Hand back the tool, and Rytan gives you a crafting tool hook attachment, which when combined with the grimling dart crafting tool makes a rockhopper dart crafting tool. The only problem with this is that the rockhoppers in Hollowshade Moor drop rockhopper feet, not talons, and despite the name difference these are what you combine with the tool to make three darts (note that the bone shaft is no longer required). The recipe used to be slightly different. Stats should be: dmg 10, delay 0?, range 95.
+
+For the next stage, return your tool to Rytan, and he gives it back with a crafting tool handle attachment (looks like an ulak). Combine this with the rockhopper dart crafting tool, and you get an owlbear dart crafting tool; combine with an owlbear feather, and you get 3 owlbear feather darts (dmg 12, delay 0, range 120).
+
+Because of the no drop nature of the components for the first few darts, they aren't really worth much. Owlbear feathers are a lot commoner, and are tradeable, and so start to make a decent weapon. Compare that with a summoned shuriken, which is dmg 7, delay 23 and range 100; or a standard forged shuriken, which does dmg 4, range 65. A range of 120 is just about adequate as a pulling tool for outdoors, fine for dungeons.
+
+I have several serious criticisms of this quest series. It has taken years when grimling skeletons and grimling runts have been non existent in the pit. The drops are too rare to use as a skill up mechanism. The recipes don't get added to your tradeskill UI list at all (the xakra dart is there, but not the bone shaft, or any of the later darts). The scarcity of the later drops and the low yield makes it hard to use these as a practical tool - in four clearings of the owlbear caves I got three feathers, four perfect pelts and three plain pelts. In addition, each succeeding tool ought to be able to make the previous darts, not just the one current dart. A significantly higher yield would also be a useful improvement.
 
 ## Author's Notes
 
