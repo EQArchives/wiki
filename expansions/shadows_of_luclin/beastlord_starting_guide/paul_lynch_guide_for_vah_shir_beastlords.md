@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:21:41.149Z
+date: 2025-12-21T06:23:46.869Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -666,6 +666,26 @@ To start one of the scout camps, hail any of the three scouts that should be in 
 After the camp is cleared, you will find a boss type grimling spawns, who usually has some special items to drop, and may have a copper medal on him; in camp two, the boss mob doesn't have a medal, but instead a large number of mini grimlings spawn in the fire, most of whom have a medal on them - I got at least a dozen from one run through of this camp. Some of the weapons that drop from the bosses are 'no drop', and can be traded in at the warriors guild in Shar Vahl for much better weapons, so don't ignore them.
 
 In both camp one and camp two, a common drop from the quest mobs is a set of Grimling Documents; these are numbered I, II and III. You need to collect a set of these; they also drop from the other camps, but camps 1 and 2 will be enough to get a full set. If you have already obtained a garrison cloak, you should have a form to give to Veteran Darznel in the outpost; he will give you a box to put these documents, along with your cloak, in and combine. In return, he will give you back the officers cloak.
+
+## Jaggedpine Forest (39-43; 51-56)
+Jaggedpine Forest has a lot to offer beastlords. As with Dawnshroud, the animals here (mostly) like beastlords, meaning that we can run around with impunity. When we first enter the forest, only Darkpaw ("evil") gnolls, potameids, and griffawns/griffons will want to kill you. Evil race beastlords should take care around the rangers in the village; I don't know what your status will be.
+
+There are two rich hunting grounds for beastlords here. The first is in the Brell gnoll caves, close to the zone in gem from Blackburrow, where the cave basilisks can be found. The second is right outside these caves, where little flickering lights at the base of trees are traps that spawn dryads, a very pleasurable diet for a few more levels.
+
+### Cave Basilisks
+The easiest and safest zone in to Jaggedpine is at the bottom of Blackburrow. Take the Plane of Knowledge book to North Qeynos, then run north into Qeynos Hills, and NE to Blackburrow. Once in Blackburrow, take the door on the top level to the right, all the way down to the bottom. Take the wide bridge to your right, and drop down to the left. Head into the passage behind the casks, and turn sharp right into a green area with water. The gem at the back here is the zone to Jaggedpine. You will arrive in a cave; head forward until you see a building inside a large cavern guarded by apprehensive gnolls. To your right is an entrance into a small system of interconnected caverns, where the basilisks reside.
+
+Normal basilisks will ignore you; but ones called cave basilisk genitors will aggro, so be careful and look behind rocks when you are exploring. Genitors are tougher, and also sometimes proc a long duration stun, so take care when fighting them. You can kill these with ease from 39 to 43, when about 50-60% are green. They are so easy to kill in large numbers that it is worth staying to 44 here. Before 39 they are killable, but tough; at low 30s you will get a lot of experience per kill. Drops are poison glands, research items, and basilisk eggs. Collect the eggs and sell the rest at the vendors on the other side of the gnoll caves. The eggs will sell in the Bazaar quickly, and for good money; check prices in your local Bazaar, but 4-10pp per egg seems to be normal. No cash loot drops at all. Levels can take 3 to 5 hours here.
+
+### Dryads
+ As you emerge from the Brell gnoll caves (turn left after the passage from the Blackburrow zone in), you will discover a number of blue and red flickering flames at the base of trees that will spawn a dryad as you run over them. These are indifferent at first; as they spawn, they will start to buff themselves; red flames are druids, blue flames spawn rangers. When low, the druid dryads try to heal themselves, which means that they aren't hitting you. Both types will dot you, and the druids will root you; some magic resistance helps, but isn't essential. There are a total of 21 spawns of dryads around Jaggedpine, all in the southern half of the zone (that I have found), in groups of three at a time. Near the gnoll caves there are 9 spawns close together, and a further 9, rather more widely spaced out, in the east of the zone near the poachers. With the level 51 pet proc, Spirit of Wind, which will interrupt casters, these are all easy kills. At 54 you will start to see some green dryads, at 56, 60% or more will be green. At 52, I could easily kill the three closest to the caves before they respawned (6 minutes), and add in one or two more if I wanted to push for it. At 56, I could kill the further six easily, along with a few griffons that added, and maybe some of the first three as well. The near three are clear of wandering animals, but the far six of this set are on a major trail. If you kill animals other than the griffs and willowisps, you will start to lose faction; I didn't do this, so I can't say what the consequences will be. I chose to collect AAs here at 55 and 56.
+
+The experience rate was 6 to 8 hours per level, with the AAs at 55 taking 4 to 6 hours each, approximately. 0.7% per kill at 52, 0.35% at 54. Cash drops are reasonable, about 4pp per dryad, with rare armor drops (barkleather) that sells for 50 - 200pp per item at the vendors, and resin coated leaves, which sell for about 2pp. You can sell in the gnoll caves, or in the village to the north, which is slightly closer.
+
+### Elsewhere in Jaggedpine
+From around mid 40s to low 50s, the poachers are easy to pull and kill. I haven't tried this, but if Echo Caverns are camped, this may be a good alternative, and one suitable for a team as well. Be careful of the river just past the poachers, it contains highly social potameids with a large aggro radius.
+
+Another favourite in Jaggedpine is the Darkpaw gnoll caves, to the north. I haven't hunted here, so don't have any suggestions about this area, except that they seem to be suitable for level 54/55 up to 58 or even 59.
 
 ## Author's Notes
 
