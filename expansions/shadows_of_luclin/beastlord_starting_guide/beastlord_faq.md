@@ -2,7 +2,7 @@
 title: Beastlord FAQ
 description: 
 published: true
-date: 2025-12-21T03:30:57.031Z
+date: 2025-12-21T03:32:13.983Z
 tags: faq, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:30:57.031Z
@@ -17,10 +17,10 @@ All races have **20 extra points** to add to any stat.
 | Race | STR | STA | AGI | DEX | WIS | INT | CHA |
 |------|-----|-----|-----|-----|-----|-----|-----|
 | Barbarian | 103 | 105 | 87 | 70 | 80 | 60 | 60 |
-| Iksar | 75 | 80 | **95** | **85** | 90 | **75** | 60 |
-| Ogre | **130** | **132** | 75 | 70 | 77 | 60 | **42** |
+| Iksar | 75 | 80 | **95** | **85** | **90** | **75** | 60 |
+| Ogre | **130** | **132** | 75 | 70 | 77 | 60 | 42 |
 | Troll | 108 | 119 | 88 | 75 | 70 | **52** | 45 |
-| Vah Shir | 90 | 85 | 95 | 70 | 80 | 65 | **70** |
+| Vah Shir | 90 | 85 | **95** | 70 | 80 | 65 | **70** |
 
 > **Legend:** Bold = highest in stat | Underlined = lowest in stat
 
