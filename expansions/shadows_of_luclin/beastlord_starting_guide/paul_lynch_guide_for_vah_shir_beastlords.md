@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:39:25.301Z
+date: 2025-12-21T06:41:21.821Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -898,6 +898,58 @@ Mobs are a mix of casters and melee; there are warriors, rogues and shadowknight
 At 62 with only 18 AAs, it took me a little over 3 hours to get one AA here solo, in tier 4. Still at 62, but with 50 AAs, an AA would take 2.5 hours or a little over. With a partner the time per AA increased, regardless of class (I didn't try SK or Paladin, though, but most other classes; the only necro I tried was a few levels lower). At 65, tier 5 experience is a little slower, but I haven't really timed it properly. These times were pre-revamp of AAs back in June/July 2006; since then, I have timed a 65 beastlord with 120+ AAs, and no external buffs, taking 75 minutes to get one AA (no lesson on); so I would expect my previously given times to halve under the new system.
 
 It would be worth holding at 62 for maximum overall speed of AAs here. This is slower than you can get experience in a good group in BoT/Plane of Valor (of the open zones), but faster than in a bad group, and no group set up time. All of these times were without KEI; adding in KEI would take about 15 minutes off per AA, which makes it not really worth the run time unless you can guarantee getting a shot immediately you hit PoK.
+
+## Alternate Advancement: what order to do AAs
+
+### Titles
+
+Some comments about AAs first. You have to spend 6 points in General from 51, then 12 points in Archetype from 55, and then you can start to put points into Class (Beastlord) AAs from 59. These first three AA investments give you the titles, in order, Baron/Baroness, Venerable, and Elder; extra AAs at lower levels don't count towards titles. PoP (and later) AAs don't fit into these rules, and you can get as many as you like based on their own level requirements from 61 onwards, without any previous requirement of numbers of AA or title. These AAs don't count towards titles. There are additional titles exactly equivalent to the previously mentioned ones; these are associated with one of the expansions, probably GoD or Omens.
+
+### Levels of AA
+
+Generally speaking, AAs scale according to their investment, but some AAs give better value per AA invested at level 1 than at level 3; SCR, for example, gives 5% longer buff duration for the first 2 points, 15% for the first 6, but 30% for all 12 (comment: this is actually exactly 2.5% per AA at all levels). SCF, as another example, appears to give the most bang per AA at level 1: 2% for 2 AAs, versus 7% for 12 AAs at level 3; but also gives increased damage per level. Other AAs don't scale: Mental Clarity gives 1 extra mana per tick regeneration at each level, but for 2, 4 and 6 extra AAs at each level.
+
+Some people like to get a taster of one level of several different AAs, but this approach isn't generally favoured, so I will ignore it.
+
+### When to AA
+
+The AA system was revised in June/July 2006, and these comments are made post that change. Previously, the amount of experience required per AA was always the same as gaining level 51; this meant that it was always faster to get AAs at higher level. Post this change, AAs slow down from 70-75, due to the scaling of mob power, but the time taken varies considerably at lower levels. At 70 in a group is going to be fastest overall, but solo AAs are susceptible to sweet spots, when the combination of gear, spells, warder power and previously accumulated AAs will make things better, and one level difference can make a considerably difference. Someone with wisely chosen AAs will always kill much faster than someone with no AAs; and the AAs with most influence are archetype, followed by class, then PoP, and so on. General AAs have almost no influence on AA speed at all, except that the are prerequisite for archetype and class AAs.
+
+So level > AAs, to this extent. However, to function efficiently in PoP tier 2 and beyond, a good set of AAs may be thought of as a requirement. One way of looking at AAs is to consider that the AAs introduced in an expansion will make you powerful enough to compete on an even footing in that expansion. AAs may also be required at a lower level if you are keen on raiding - but all the raid appropriate AAs are class or higher (paragon, MGB, pet hold), so this only applies from 59 upwards. If an AA is worth getting, it will improve your ability to gain experience faster; and so collecting a few AAs at a relatively low level might make achieving your goal (65+200 AAs, 75+800 AAs, or whatever) faster to attain. At some points, the extra spells or abilities you get from one extra level may make getting AAs at the same spot faster: getting Chloroplast at 55, or Greater Healing at 57, or a new pet, for example.
+
+Looking at it another way, if you have a guild or regular experience group that is prepared to carry you, and is levelling ahead, keep up with them and get AAs at 75. If you prefer to solo and don't mind staying in your favorite spots for long periods, get AAs as you go.
+
+### Where to AA
+
+Spots to accumulate AAs include: as soon as you get 51, get 6 AAs - Echo Caverns Taskmaster area would be a decent spot for that; at 55, on Jaggedpine dryads; at 54-56, on High Keep bards and nobles. Then at level 62, while the experience band is the widest for getting experience from old world mobs, and your warder takes a massive jump in power.
+
+### General AAs
+
+Whenever you decide to get AAs, if you are under 61, and so confined to general/archetype/class, get run speed 3 and regen 3. Some people might replace some of these with metabolism (for Vah Shir especially) or First Aid. First Aid is a lot less worth getting once you have Chloroplast at 55, and Greater Healing at 57, but may still be valuable until you get Chloroblast at 62.
+
+### Archetype AAs
+
+From the archetype AAs, the most popular approach is to get SCR3. This gives 30% greater buff duration, and is good for all beastlords, with as great a benefit for groupers as for soloers. The next most popular is to get CA3 - to generate more misses/blocks. This seems to be preferred over CS3 (less damage per hit). CA and CS are best for soloing players, but also apply to beastlords who choose to take the tank role in a group.
+
+### Class AAs
+
+Of the class AAs, there is a great consensus to get Paragon. For raiding players, this should be followed by MGB. Pet Discipline is a requirement for many guilds, and so will be required for raiders. Physical Enhancement is often mentioned by people who have some defensive AAs.
+
+### PoP AAs
+
+Important: if you have a high enough level to get it, get Bestial Frenzy to as many levels as you can, as soon as you qualify, even before any of the AAs mentioned above. Of the other Pop abilities, Lightning Reflexes is spoken highly of, for defensive players. Suspend Minion is another that appears to be popular, although shrouds and other changes make it less important than it was.
+
+Strategies to accumulate AAs beyond this point aren't clear; defensive and offensive AAs in general seem to be favoured, with some people choosing defensive over offensive, and vice versa. Of the defensive AAs, as noted above, avoidance skills are preferred over mitigation.
+
+### Defensive AA Summary
+
+No argument: CA gives more damage reduction than any other. This can be followed by LR (PoP AA) to increase CA effect. Then follow it with CS, which has less overall effectiveness than CA; the PoP extension to CS is ID. PE is an interesting AA: for 5 AAs, it gives an additional effect equivalent to level 1 in each of the three AAs it extends: CA, CS and ND. If you have at least CA1 and CS1 (or ND1), it will be more effective to take PE than CS2/ND2; this means that it may be worthwhile getting CA2, then CS1 followed by PE, and then finish CA/LR.
+
+### Offensive AA Summary
+
+Taken from this thread.
+
+In order of DPS increase per AA spent: BF5 (1.5%/AA), CF1 (0.8), SCF3 (0.78), Ambidexterity (0.5), MC2 (0.25), Frenzy of Spirit (0.1-0.5). I haven't included GoD AAs in this list, as given their high cost, they invariably turn out to be of lower value.
 
 ## Author's Notes
 
