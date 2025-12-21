@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:11:13.321Z
+date: 2025-12-21T06:11:51.892Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -448,7 +448,22 @@ When too many are light blue, it is time to move into the next corridor beyond t
 If you get bored with this group of reishi, move along the corridors killing shiknar; you will eventually end up at the Reishicyben. Collect Shiknar legs and bile (which stack) and carapaces, as these fetch the best cash; a single trip can easily pay you 20 platinum. Shiknar will turn light blue as you reach 23/24, but the reishi will still turn up as dark blue a reasonable proportion of the time. By the time you reach 22, you can get probably slightly faster experience from the higher level fiends around the large lake close by the Shadowhaven entrance and the bandit camps. At this point, you will be able to walk in front of plerg fiends with immunity, but patog fiends, in the inner caves, will still aggro unless you sneak, so a trip to Shadowhaven becomes feasible as you reach 24. They will stop aggroing on you when you reach level 30.
 
 During your time in Paludal you will need to leave to sell up, and will want to spend time in Shadeweavers and Hollowshade to complete your class quests; it makes a pleasant change to be able to alternate between zones, at some times concentrating on quests, and at other times on levelling. Remember that it is more satisfying to do the quests in Shadeweavers and Hollowshade at a point when you still get experience from killing the quest mobs. Check my notes for the other zones to see when you should be training new skills - but block should be gained at 25, which I don't think is mentioned elsewhere. 
- 
+
+## Moving On
+This guide so far takes you through the native Vah Shir zones to 24, using just one possibly pattern of hunting. It is possible to stay hunting in Shadeweavers to 20 or more, on the west side of the central ridge and in the caves; and it is perfectly possibly to hunt well in Hollowshade to 35. However, I don't believe that these are efficient places to gather experience, and this guide so far has shown you really all of the good native hunting areas for Vah Shir.
+
+For higher levels, starting at 24, there are several good choices, and no single path can really be said to be the best. At 24 it is possible to hunt in Echo Caverns, Netherbian Lair, or Marus Seru; each has its advantages and disadvantages. My preference at this level is for Echo Caverns. I chose to roam to Sanctus Seru and Katta to perform the Eye of Trust and Earring of Veracity (1 and 2) quests during these levels; the Amulet of the Haven faction quest for Shadowhaven is also a must (less so than for non-Luclin races).
+
+From 22 to 32 (roughly), both Marus Seru and Netherbian Lair are popular hunting locations - neither of which I enjoyed at all. Marus Seru has some good features: it is a wide open zone and most mobs don't aggro, although they are social and will assist others of their kind. Zelniaks and lightcrawlers here will aggro, however. Greyhoppers in particular are easy kills, and drop greyhopper hides (and rockhopper hides), which can take your tailoring skills to 95 easily, and is the simplest way of skilling up for the Vah Shir tailoring quest. Stonegrabbers rarely drop some valuable items (iron oxide, sell it in the Bazaar), although in general I would describe it as a poor zone for loot.
+
+Mobs in Netherbian are social, hit hard, and regen fast. But they drop good cash, and a couple of named mobs drop good loot - the Netherbian Chitin drops from the Swarm Leader, for instance, and the soiled breechclout from the Trog King. However, he is only just about soloable at 30, and would be tough earlier than that solo. Most groups set up at the central pillar to pull netherbians, although each of the holes in the passageway can be profitable pull spots. Trogs are the only mobs that don't aggro initially, so you can safely explore their tunnels to get a feel for the area. This zone is a lot safer for rooting casters than it is for beastlords, especially ones who can dot to death their mobs and safely root adds.
+
+In Netherbian Lair, you will sometimes see a human standing by the exit to Dawnshroud, called Lerin Sardor. If you are willing to escort him to the Nexus, he will reward you with a nice earring (wis +3 and various other stats). At these levels you will need a group to do this, but at higher levels you can easily do this quest solo. Once you have negotiated an agreement with Lerin, he will start walking towards the Nexus; he is going to be intercepted 3 (possibly 4) times by groups of mobs coming out of the tunnels; starting with 2 fungal sporelings, and finishing with 5 Netherbians at the central pillar. The trick to winning is to have your toughest available tanks (probably yourself) stand on top of Lerin whenever he is attacked. Let your warder and/or group kill the attackers. They will concentrate on you, and will ignore Lerin so long as you are in their melee range. Keep Lerin targeted if you can, in case he needs a heal - a cleric/druid/shaman can handle this much better than a bestlord in case of emergencies.
+
+From 27, I would recommend Dawnshroud Peaks. Starting with shroom, either solo or in a small group, then moving on to tribals, this is a very effective way to get to 35 with good loot. By moving targets within the zone, it is perfectly possible to reach 42 here, and return at higher levels to deal with rockhoppers.
+
+At higher levels still, in the 40s, you will have a choice of several Luclin zones. Dawnshroud continues to be a staple with tribals, rockhoppers and stonegrabbers still good. The high side of Echo Caverns also works well, certainly from the 39 pet upwards, and at the same time Tenebrous Mountains is a possibility. Scarlet Desert and Mons Letalis are two other zones that I have only investigated a little as yet, but should apply in this range.
+
 ## Author's Notes
 
 ### My Motives and Excuses
