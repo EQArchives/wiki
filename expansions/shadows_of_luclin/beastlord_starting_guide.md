@@ -2,7 +2,7 @@
 title: Beastlord Starting Guide
 description: 
 published: true
-date: 2025-12-21T04:12:06.649Z
+date: 2025-12-21T04:31:29.100Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-20T03:02:54.896Z
@@ -20,6 +20,7 @@ This page is a collection of resources for getting started on the Beastlord clas
 
 
 ## Leveling Guides
+- [Flash of Light by Kraggan Swampdragon](flash_of_light_beastlord_guide)
 - [Grymbok's Guide for Ogre Beastlords](/guides/grymbok_ogre_beastlord)
 - [Gomstel's Guide Level 1 - 50 Solo](/guides/gomstel_guide_level_1_50_solo)
-- [Flash of Light by Kraggan Swampdragon](flash_of_light_beastlord_guide)
+- [Paul Lynch's Guide For Vah Shir Beastlords](paul_lynch_guide_for_vah_shir_beastlords)
