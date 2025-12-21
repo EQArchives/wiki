@@ -2,7 +2,7 @@
 title: Beastlord Quests
 description: 
 published: true
-date: 2025-12-21T04:22:04.488Z
+date: 2025-12-21T04:22:57.294Z
 tags: quests, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:49:00.538Z
@@ -15,7 +15,6 @@ dateCreated: 2025-12-21T03:49:00.538Z
 ## Beastlord Twilight Sea Quest Guide
 **Original data from:** Keltarin Stormshadow (Safehouse MessageBoard, 2007)  
 **Cross-referenced with:** Allakhazam (Current)  
-**Item reference:** taylir.com
 
 ### Quest Overview
 
