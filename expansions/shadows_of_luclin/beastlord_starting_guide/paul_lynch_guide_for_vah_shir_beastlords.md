@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:15:14.682Z
+date: 2025-12-21T07:18:21.508Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -452,7 +452,7 @@ During your time in Paludal you will need to leave to sell up, and will want to 
 ## Moving On
 This guide so far takes you through the native Vah Shir zones to 24, using just one possibly pattern of hunting. It is possible to stay hunting in Shadeweavers to 20 or more, on the west side of the central ridge and in the caves; and it is perfectly possibly to hunt well in Hollowshade to 35. However, I don't believe that these are efficient places to gather experience, and this guide so far has shown you really all of the good native hunting areas for Vah Shir.
 
-For higher levels, starting at 24, there are several good choices, and no single path can really be said to be the best. At 24 it is possible to hunt in Echo Caverns, Netherbian Lair, or Marus Seru; each has its advantages and disadvantages. My preference at this level is for Echo Caverns. I chose to roam to Sanctus Seru and Katta to perform the Eye of Trust and Earring of Veracity (1 and 2) quests during these levels; the Amulet of the Haven faction quest for Shadowhaven is also a must (less so than for non-Luclin races).
+For higher levels, starting at 24, there are several good choices, and no single path can really be said to be the best. At 24 it is possible to hunt in Echo Caverns, Netherbian Lair, or Marus Seru; each has its advantages and disadvantages. My preference at this level is for [Echo Caverns](#echo-caverns-level-22-31). I chose to roam to Sanctus Seru and Katta to perform the Eye of Trust and Earring of Veracity (1 and 2) quests during these levels; the Amulet of the Haven faction quest for Shadowhaven is also a must (less so than for non-Luclin races).
 
 From 22 to 32 (roughly), both Marus Seru and Netherbian Lair are popular hunting locations - neither of which I enjoyed at all. Marus Seru has some good features: it is a wide open zone and most mobs don't aggro, although they are social and will assist others of their kind. Zelniaks and lightcrawlers here will aggro, however. Greyhoppers in particular are easy kills, and drop greyhopper hides (and rockhopper hides), which can take your tailoring skills to 95 easily, and is the simplest way of skilling up for the Vah Shir tailoring quest. Stonegrabbers rarely drop some valuable items (iron oxide, sell it in the Bazaar), although in general I would describe it as a poor zone for loot.
 
