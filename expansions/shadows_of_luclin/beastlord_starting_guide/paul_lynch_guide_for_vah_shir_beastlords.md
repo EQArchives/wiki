@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:46:53.552Z
+date: 2025-12-21T07:09:01.695Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -231,7 +231,7 @@ As a hybrid, both melee and casting attributes are important. Depending on how y
 
 ### Tutorial
 
-You should really start by doing the tutorial, even if you are an experienced player.
+You should really start by doing the [tutorial](#the-mines-of-gloomingdeep-level-1-1015), even if you are an experienced player.
 
 ### First Steps
 
