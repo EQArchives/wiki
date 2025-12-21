@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:44:43.586Z
+date: 2025-12-21T06:45:22.995Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -1020,6 +1020,23 @@ Then go back to Zreezas and ask him "is his name Lativ?". Zreezas will tell you 
 What Vuzx wants is for you to find and return the Amulet of Choatl, which Lativ broke into four pieces. You need to find the four broken seal pieces in City of Mist, from the various named mobs in the goo house and stables area, and combine them in the box you are given with a heady kiola and the remains. In City of Mist, (at least) four old mobs now drop a Broken Seal: a Mighty Golem, a Gyrating Green Slime, an Enraged War Boned Skeleton and a Ravenous Warbone Skeleton. Heady kiola has a trivial of 46, and is made from a bottle, 2 packets of kiola sap, and a water flask. Hand the completed seal to the Emerald Jungle Lativ and kill him, then loot the sacred figurine from his body. Return to Vuxz and tell him that you have completed your mission; he tells you to hand the figurine and your claws to Ixthal for the final reward.
 
 Claw of the Spiritual Elder - 12/20, ac 5, str 10, sta 10, wis 10, cha 10, hp 50, mana 40, fr 5, dr 5, cr 5, mr 5, pr 5; effect Jarsath Frenzy (combat). This is a str, dex and ac buff identical to Frenzy, the 49 spell.
+
+## Weapon Skills
+Beastlords can use hand to hand, one handed blunt, two handed blunt and piercing (both one and two handed) weapons. Skills cap at 252 for all at 65. The epic is also a hand to hand set of weapons, but epic 1.5 is a 1HB. Skill caps have been revised recently, and I am not sure exactly how the new system works.
+
+It seems obvious to choose H2H weapons because of the lore of beastlords. However, H2H weapons are mostly late additions to the game (Luclin onwards) and thus relatively rare, and are heavily competed for against monk twinks, as a result are extremely expensive for the damage they can do. It is worth getting H2H skills and keeping them maxed, because H2H weapons will be preferred at 60+, but the cost imbalance makes them less than ideal until then. H2H weapons in general have better ratios than other types for beastlords.
+
+Two handed blunt have a number of special benefits to them. Generally speaking, they have a very low swing rate (the weapon delay is large). This means that they have a larger damage bonus than other weapons, and will be riposted less often. With PoP mobs that riposte frequently and for a large amount, as well as enrage, a 2HB weapon, even with lower attack, is to be preferred when tanking. If you are not tanking, use H2H from the back - you may only take enrage damage (depending on positioning), not ripostes, and higher attack is of value. The large delay also means that you can cast most spells between swings without missing a swing. Many 2HB weapons from PoP also have excellent ratios, and a close analysis may show greater damage from them than from more common H2H weapons.
+
+Another minor factor is the frequency of weapons proccing. The rate of procs is independent of the number of swings, and so weapon delay makes no difference. Most weapons will proc roughly two times a minute. The most notable exceptions to these are the summoned cleric hammers, which seem to average 9 times a minute.
+
+So for all this, a beastlord is best advised at 60+ to swap between H2H and 2HB according to circumstances. H2H or 2HB for damage, according to available weapons; 2HB when tanking in PoP or LDoN (mobs there also have a high riposte rate).
+
+Before 60, weapon selection is determined most by availability and price. Keep with H2H at all levels as preparation, but it is likely that a beastlords speed of levelling will out race their ability to keep up weapon skills. For example, I used only H2H up to 40, and that skill still wasn't maxxed; I didn't have max H2H until 57-59, even though I got 1HB to max from 49-56. Very good 1HB and piercing weapons are available, with much better damage output than available H2H weapons without level restrictions. Note that 2 handed piercing runs off the same skill level as one handed piercing, so don't discount good 2HP weapons. My advice is to chose one of these early on and stick to it with H2H; if both skills are at max, work on 2HB. You may get a better weapon of the type you didn't keep up later; but if you do, you can catch up with skill - it isn't worth delaying levelling to keep up weapon skills, you will have all the time in the world 60+ to get all skills to their max.
+
+To skill up, choose the fastest delay weapons you can, even if damage is very low. Bear fanged glove, masters eitchatka, crystalline spider fang, bamboo bo stick and goranga war club (I think) are all good for this. You get the most skill ups from hits rather than misses, and more from the higher con mobs. Skill ups are very rare from greens, and less common from high reds - for these reasons. In practice, this means you get the most skill ups from high dark blue through to yellow. You can also buy skill ups at trainers; points up to about 80 skill are relatively cheap to buy, but it gets a lot more expensive after this.
+
+Buffing with dexterity has two advantages - it increases the rate of skill ups, and also increases the rate at which weapons proc. It is possible that strength buffs will also increase skill up rate.
 
 ## Author's Notes
 
