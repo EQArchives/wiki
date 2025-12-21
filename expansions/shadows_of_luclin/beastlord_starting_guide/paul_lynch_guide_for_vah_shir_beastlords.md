@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:36:43.974Z
+date: 2025-12-21T06:39:25.301Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -787,6 +787,117 @@ For the next stage, return your tool to Rytan, and he gives it back with a craft
 Because of the no drop nature of the components for the first few darts, they aren't really worth much. Owlbear feathers are a lot commoner, and are tradeable, and so start to make a decent weapon. Compare that with a summoned shuriken, which is dmg 7, delay 23 and range 100; or a standard forged shuriken, which does dmg 4, range 65. A range of 120 is just about adequate as a pulling tool for outdoors, fine for dungeons.
 
 I have several serious criticisms of this quest series. It has taken years when grimling skeletons and grimling runts have been non existent in the pit. The drops are too rare to use as a skill up mechanism. The recipes don't get added to your tradeskill UI list at all (the xakra dart is there, but not the bone shaft, or any of the later darts). The scarcity of the later drops and the low yield makes it hard to use these as a practical tool - in four clearings of the owlbear caves I got three feathers, four perfect pelts and three plain pelts. In addition, each succeeding tool ought to be able to make the previous darts, not just the one current dart. A significantly higher yield would also be a useful improvement.
+
+## Leveling Guide
+This is intended as a summary of places that would be good to level a Vah Shir beastlord for fast experience, roughly ordered by level. I've camped all of the places mentioned, although not necessarily with a beastlord. No powerlevelling support is required, and there is an emphasis on solo spots, although I mention good group spots as well. My baseline assumption is no KEI, although for 50+, I have done most camps both with and without KEI, and the range of experience rates given reflects that - and KEI doesn't make a major difference to our ability to kill, or not to kill, mobs.
+
+### Mines of Gloomingdeep 1-10/15
+
+I think that the fastest overall plan is to start here, and complete the vermin quests and the charm quest to level 4, plus a full set of stitched burlap from the spiders if you wish, then switch to the PoK quests from Vivian the True just for the exp, then move to Crescent Reach. Switch back to the tutorial at 10, to at least 12, to cover the gaps in Crescent Reach exp. Collect small bags from the barrels in the kobold area.
+
+### Crescent Reach 1-20
+
+Just follow the quests here; I will add a guide for this at some point. From 1-10 there isn't much need to grind, but exp thins out after this, and you may want to add in other zones.
+
+### North Qeynos 1-5
+
+Kill large rats and snakes for loot; it helps if you have bags already, if not sell your first couple of plague rat tails for backpacks, even if you have to suffer Tubal Weaver's prices - there are also backpack sellers in South Qeynos and Surefall Glades. The fire beetles and klikniks are social, so take care if you attempt these. The highest level mobs are the whiskered bats, apart from the higher klikniks. Gnoll pups drop bags rarely, and decaying skeletons drop weapons commonly.
+
+### Everfrost 1-6
+
+Stay at the Halas entrance, and kill all. Watch out for the vengeful skeletons, as up to 6 or so they will kill you easily, and are impossible to distinguish from the common decaying skeletons. Collect spiderling silks and bear pelts for tailoring, and drops for the Field Priests newbie armor. Use ruined pelts (wolf as well as bear) for skill ups after silk threads peak at 15, use the bear pelts to make armor to wear. The white polar bear skins (and white wolf pelts?) can also be turned in to Cindl in Mac's kilts for armor.
+
+### Shar Vahl Pit 1-5
+
+Kill everything and collect drops for newbie quests in Shar Vahl. Only the grimling skeletons and Tailfang will aggro.
+
+### Shadeweavers Thicket 1-15
+
+There are several different areas in here worth using to level. Collect drops for Ghulam armor from all parts of the zone. To the south of the city entrance is a low level area for 1-5; collect silks and hopper hides if you can for tailoring. North of the path from the city is a higher area for 4-9, roughly. The far north zone wall is an excellent spot for the higher end of this range, with mostly static spawns of skeletons, which can drop a lot of swirling shadows for sale in the Bazaar, as well as quest drops. As you get higher in level, move west to the brigand camp, then to the loda kai trader caves.
+
+### Paludal Caverns 6-25
+
+Start at the entrance from Shadeweavers at 6, and kill reishi around the first lake. Move into the passage to the east when you run short of mobs. This area will take you to 12. Leave, train meditation, and return to the Hollowshade entrance. The first passage before the fiends at the lake will take you to 15. When you return, either kill fiends for a few levels, or sneak past them to the passage to the right, and kill reishi and shiknar to 22. At this point you can roam through the tunnels killing shiknar to 24, or move to the higher level fiends in the large cavern from Shadowhaven. It is also usually possible to kill a couple of bandits - the one to the left towards the second bandit camp, the fishing bandit by the lake, and one that spawns at the edge of the lake and walks towards the Maricela spawn point (on the way to the second camp).
+
+### Kurns Tower 10-20
+
+This is usually a hot spot, and, like Paludal, is good experience even when it isn't. I work my way in from the entrance killing skeletons, up to the top floor with the "odd mole". The burynai really need a group to handle safely. Look out for the changeling and his minor augment drop.
+
+### Paludal Caverns 17-25 (groups)
+
+There are usually groups available at the bandits at the entrance from Shadowhaven. This will be much faster experience than soloing for the same levels, and loot is usually ok, far better than the rest of Paludal.
+
+### High Keep 25-35 (groups)
+
+This used to be the fastest experience for the level, and people who use High Keep still rate it highly. The quickest travel is via book to Misty Thicket, then through Rivervale, Kithicor Forest (at day to attempt to avoid undead, or along the zone wall if you are lucky). Now that undead in Kithicor are 24 hour service, try running in from Blightfire Moors (the Crescent Reach book from PoK). Getting through Highhold Pass is tricky - the orcs will aggro and attack if you don't have an invis, and the zone is a maze. The guards, both at the lake and at the entrance to High Keep will protect you, but take care. Inside, find your way to the bank and find a group killing goblins. From 30, you can also try killing guards solo or in a group.
+
+### High Keep 22-28
+
+In the passages from the bank, find the prisoner Osargen and kill him. He spawns every 6 minutes, and offers very good experience. The prisoners in his cells will interfere, so kill them first.
+
+### Marus Seru 22-30
+
+Kill greyhoppers by preference, pulling to the zone from Netherbian, or close by on the zone edges. Collect all the pelts that drop for tailoring. Beware of lightcrawlers and zelniaks, which have very large aggro ranges. If you kill stonegrabbers, bear in mind that they are social, as are the greyhoppers.
+
+### Netherbian Lair 25-30
+
+Not a place that I enjoy, as I consider the mobs to have too high hit points and hit too hard for the experience you get.
+
+### Echo Caverns 22-30
+
+Use the secret entrance in the room by the soul binder in Shadowhaven. The first room of four boglings, plus the needlites, are a good camp with fast experience. The needlites hit light and fast, and have low hit points. Only the queen is tough to start with, even though some of the needlites will be red, they are still easy kills. Use this camp to practice bind wounds while waiting for spawns. The needlites are an excellent example of a camp with very good experience, but with a long wait between spawns. The drops are worth collecting to sell for approximately 2pp each.
+
+### Dawnshroud Peaks 27-39
+
+The lightcrawlers are easy kills, but annoying due to blinding. The best place to kill them is by the entrance to Sanctus Seru; they will turn green around 34/35. Collect shells and legs for the lightcrawler armor quest hand in in Sanctus Seru, to sell in the Bazaar.
+
+Shroom can also be killed, starting in the rings near either Netherbian or Sanctus Seru. Watch out for trains from higher level people who don't yet know what an aggro range is. Shroom will turn green in high 30s; by then, you should have moved down to the shroom farm (a building near the Maidens Eye and Griegs End entrances).
+
+From about 34, you can move on to small zelniaks (which turn green in high 30s) and zelniaks. The best place for these is to start from the Sanctus Seru entrance, then move to the middle of zone, inside the ring of hills. Only lightcrawlers, named wolves and named zelniaks in this area will aggro. I'd leave at 39, but this area is good to 42 and higher on large zelniaks. These aren't worth killing at lower levels, as they take too long for little extra experience; the same is true of wolves, which are also social. Zelniaks in this zone are not at all social, unlike in Marus Seru.
+
+### Jaggedpine Forest 39-44
+
+Enter through Blackburrow, and find the basilisks in the same cave system that you zone in to. You can sell elsewhere in the caves to the Brell gnolls, but reserve basilisk eggs for sale in the Bazaar. Only the cave basilisk genitors will aggro; some of these also stun, so be careful. They start to turn green at 42, a very few, but will easily take you to 44.
+
+### Echo Caverns 39-52
+
+This time, enter through the short side entrance opposite the soul binder. To your left as you enter is an elevator with 4 underbulks; these are too low to be good hunting at this point, but might be ok to try at mid 30s. To your left is a passage to the gnomes; these have a vendor you can sell to, and you might want to try killing them at higher levels (high 40s), although I never did.
+
+Past this point is a set of 4 underbulks, which is a good point to start killing. All of these can be split using either cancel magic or proximity pulling. Further in on the right is a room with mobs (mixed underbulks, fiends and stonegrabbers) leading to the Taskmaster room; and at the back of the zone is another room before the zone in to the Deep. You can solo any of these two rooms from 44, and they will start to turn green during 47/48, but still with plenty of blues - which makes them a good match for your warder. Two tough mobs can spawn in either of these rooms, Trillcor and Fireclaw. They aren't worth the downtime to kill, but you can pull them to the guard by the Shadowhaven entrance. They will kill the guard, and you can kill them rather more easily.
+
+You can start to pull the Taskmaster room from about 46, and can single pull starting with the slave to the right, if you are careful. You are unlikely to want to take this room until 49 unless you are in a group. The Taskmaster room is good experience to 52, at which point only the Taskmaster will be blue.
+
+### High Keep 49-54/56
+
+This is the fastest experience for the level; if you can get the camp. On the upper flooor, there are three spawns of nobles with a 6 minute spawn time, two of bards at 20 minutes, and Isabella Cellus at 6 minutes. I haven't done this camp as a beastlord, so don't have much advice to offer. The bards will assist if they see you killing in front of their room, so be careful. The main trick is to split the two nobles to make them an easier kill; I never had problems splitting the bards. You can set up in the middle room (the green room), one of the bedrooms, or even in the nobles room. Upstairs from here is a purple room with a single spawn, either a gnome, or a noble. You will become kill on sight in time, and the guards will attack - they are easy kills. You can still sell downstairs to the erudite enchanter vendor, Tarn. This is a candidate for AA experience at 54.
+
+The above is written assuming that nobles give 1% level experience per kill; recently I have heard that experience has been nerfed here, requiring 2-3 nobles per %, in which case I would say that the slow spawn rate would make this useless as an experience camp.
+
+### Jaggedpine 51-58
+
+From 51 (Spirit of Wind) to 56, dryads are good experience. You will have to kill wandering griffs at most of the spawn points, although there are 2 sets of three that are clear of wandering animals. There are 21 spawns in total, that I have found. You can sell in the village, or to the Brell gnolls. Drops are decent, and the barkleather armor that drops sells for 50-200pp per item. I did AAs on dryads from 54-56. I was getting 8-12% experience per hour, and an AA in around 4-6 hours.
+
+From 54 to about 58, the gnoll cave in the north of the zone is supposed to be good experience.
+
+### Velketor's Labyrinth 54-60
+
+I'm not sure that I can really recommend this as a good experience spot, but this is where I did most of 56-57. I could easily clear the bottom floor when the zone was empty, for about 4-6% experience per hour. Always have see invis (spirit sight) on you; and you can split the two spawns of spiders with great care and cancel magic.
+
+### Dulak's Harbor 54-59
+
+Again, this is neither great experience nor great loot. At the lower levels, either the Stormwave or Lady Dirulia will be all blue; they turn all green by 58. Dandolak's Run is still all blue at 58, with 40-60% green at 59. I got 4% experience per hour, or 10% AA in 40 minutes. A full clearing of a boat is worth about 2% experience, with spawn time 18-20 minutes, 4-6pp per kill over average, ignoring weapon drops, and an average of one gem drop per clearing, which is roughly 9-11 mobs.
+
+### The Mines of Nurga 49??-65
+
+I didn't discover here until I was 60+, and for that matter it was revamped as a zone when I in my 50s; if I had found it earlier, I would probably have been here most of my time from 49 up. There is a great guide to Nurga called the Nurgalopedia, which has all the detailed information that you could need. Nurga is divided into 5 areas, each with a close range of mob levels, and specific nameds with place holders. All drops are cash, gems and quest items, there are no research items that drop; total cash return is pretty good here. Save and use the quest drops, which are good items for your own use if you aren't very heavily twinked already, or in Ssra and above as a guild.
+
+The basic idea is to find the lowest tier that has mobs that are all blue, or a very few that are green; at 65, tier 5 has just turned a mix of green and blue; at 62, tier 4 was all blue. Tier 4 also has Death Caller Joepla, who drops the Lesser Knuckles of Serenity (rarely), a decent bst/mnk weapon. Each tier should have several spots that are safe to sit and recover it; just use invis to get there. At 52, the tier 1 mobs are green and grey, tier 3 are all blue. So I suspect that it is possible to start with tier 1 mobs at some point in your 40s, at the absolute latest at 49, but probably earlier.
+
+Mobs are a mix of casters and melee; there are warriors, rogues and shadowknights; then wizards, necromancers and shamans. They will run when low, sometimes quite fast; using a snaring partner or a stun proc (the first at level 51) helps a lot, as does careful pulling to minimise adds.
+
+At 62 with only 18 AAs, it took me a little over 3 hours to get one AA here solo, in tier 4. Still at 62, but with 50 AAs, an AA would take 2.5 hours or a little over. With a partner the time per AA increased, regardless of class (I didn't try SK or Paladin, though, but most other classes; the only necro I tried was a few levels lower). At 65, tier 5 experience is a little slower, but I haven't really timed it properly. These times were pre-revamp of AAs back in June/July 2006; since then, I have timed a 65 beastlord with 120+ AAs, and no external buffs, taking 75 minutes to get one AA (no lesson on); so I would expect my previously given times to halve under the new system.
+
+It would be worth holding at 62 for maximum overall speed of AAs here. This is slower than you can get experience in a good group in BoT/Plane of Valor (of the open zones), but faster than in a bad group, and no group set up time. All of these times were without KEI; adding in KEI would take about 15 minutes off per AA, which makes it not really worth the run time unless you can guarantee getting a shot immediately you hit PoK.
 
 ## Author's Notes
 
