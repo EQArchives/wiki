@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:34:53.854Z
+date: 2025-12-21T07:37:44.125Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -889,7 +889,7 @@ Again, this is neither great experience nor great loot. At the lower levels, eit
 
 ### The Mines of Nurga 49??-65
 
-I didn't discover here until I was 60+, and for that matter it was revamped as a zone when I in my 50s; if I had found it earlier, I would probably have been here most of my time from 49 up. There is a great guide to Nurga called the Nurgalopedia, which has all the detailed information that you could need. Nurga is divided into 5 areas, each with a close range of mob levels, and specific nameds with place holders. All drops are cash, gems and quest items, there are no research items that drop; total cash return is pretty good here. Save and use the quest drops, which are good items for your own use if you aren't very heavily twinked already, or in Ssra and above as a guild.
+I didn't discover here until I was 60+, and for that matter it was revamped as a zone when I in my 50s; if I had found it earlier, I would probably have been here most of my time from 49 up. There is a great guide to Nurga called the [Nurgalopedia](https://web.archive.org/web/20060114150924/https://p223.ezboard.com/fcouncilofzarchonfrm4.showMessage?topicID=4.topic), which has all the detailed information that you could need. Nurga is divided into 5 areas, each with a close range of mob levels, and specific nameds with place holders. All drops are cash, gems and quest items, there are no research items that drop; total cash return is pretty good here. Save and use the quest drops, which are good items for your own use if you aren't very heavily twinked already, or in Ssra and above as a guild.
 
 The basic idea is to find the lowest tier that has mobs that are all blue, or a very few that are green; at 65, tier 5 has just turned a mix of green and blue; at 62, tier 4 was all blue. Tier 4 also has Death Caller Joepla, who drops the Lesser Knuckles of Serenity (rarely), a decent bst/mnk weapon. Each tier should have several spots that are safe to sit and recover it; just use invis to get there. At 52, the tier 1 mobs are green and grey, tier 3 are all blue. So I suspect that it is possible to start with tier 1 mobs at some point in your 40s, at the absolute latest at 49, but probably earlier.
 
