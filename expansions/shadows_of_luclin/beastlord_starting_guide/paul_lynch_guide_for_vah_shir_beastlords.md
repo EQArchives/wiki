@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T05:10:38.173Z
+date: 2025-12-21T05:16:29.929Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -29,7 +29,7 @@ The Vah Shir have one of the best starting areas and newbie quest series in the 
 
 ### About This Guide
 
-Because of the nature of the Vah Shir and their starting area, Shar Vahl, a lot of this information applies to other Vah Shir classes - but I have only run a [Beastlord](/character/classes/beastlord) there (well, and a [Bard](/character/classes/bard); and had a lot of input from a Vah Shir [Shaman](/character/classes/shaman)), so I can't entirely vouch for its accuracy for classes other than beastlord. 
+Because of the nature of the Vah Shir and their starting area, Shar Vahl, a lot of this information applies to other Vah Shir classes - but I have only run a [Beastlord](/character/classes/beastlord) there (well, and a [Bard](/character/classes/bard); and had a lot of input from a Vah Shir [Shaman](/character/classes/shaman)), so I can't entirely vouch for its accuracy for classes other than Beastlord. 
 
 ## Resources & References
 
@@ -38,7 +38,7 @@ Because of the nature of the Vah Shir and their starting area, Shar Vahl, a lot 
 
 ---
 
-## Guide Contents
+## The Guide
 
 <details>
 <summary><strong>Creation & Early Game (Levels 1-10)</strong></summary>
@@ -257,10 +257,10 @@ Since I last updated this, the Tutorial zone has been expanded to cover up to le
 - **27 December, 2002**: Complete revision for latest patches, Field Priests Armor section, Equipment rewrite
 - **12 September, 2002**: Initial draft
 
+>For anyone who is interested, the old version of this site, with every section in one big web page, is still available [here](https://www.paullynch.org/Everquest/VSBL/index.orig.html). This only goes as far as low 30s. 
+
 ### Acknowledgments
 
-Thanks to everyone who has written in with comments and suggestions for this guide. Please keep them coming—any response is greatly appreciated and helps improve the resource for future players.
+Finally, thanks to everyone who has written in to make comments and suggestions for this guide; please keep them coming, any response is very satisfying. 
 
 ---
-
-**Note**: An older single-page version of this guide is still available in the author's archives, covering up to the low 30s.
