@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-21T02:32:52.006Z
+date: 2025-12-21T04:14:20.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -19,6 +19,9 @@ Beastlords also gain spells to slow or damage their opponents. Beastlords can he
 
 Beastlords can adventure solo well in many places. They depend upon coordination with their warders and well planned spells to finish every fight, but they can also aid a group through their spells and melee abilities. The beastlord is a great class for players who like the option of solo melee fights, but want to be able to help in a group. 
 
+## Getting Started
+>New to Beastlords? Start with the [Beastlord Starting Guide](/expansions/shadows_of_luclin/beastlord_starting_guide) for leveling guides, ability progressions, and quest information.
+{.is-info}
 ## Skill Caps
 
 >Table below needs verification.  Skill cap progression for Beastlords from levels 50-60.[^1] 
