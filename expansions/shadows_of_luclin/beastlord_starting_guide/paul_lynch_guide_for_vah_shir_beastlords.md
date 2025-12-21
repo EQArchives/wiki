@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:20:36.112Z
+date: 2025-12-21T07:25:09.135Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -625,7 +625,7 @@ Dirtchomp
 
 ### Just for Beastlords: the Sonic Wolf Bane Claws and Garrison Cloak
 
-The sonic wolf bane quest at first sight isn't worth doing; the claws themselves are less powerful than polished steel ulaks, which you can easily get for yourself solo at high twenties, and it involves considerable pain camping mobs in Hollowshade to find the required components, as well as a relatively high level (135) in one of the hardest to train tradeskills, tailoring. See the Trade Skills section for advice on reaching this level. However, the end of this series of quests is well worth getting, the Officers Cloak (now Vah Shir beastlord only, unfortunately), and to an extent justifies the time spent on the long camps in Hollowshade.
+The sonic wolf bane quest at first sight isn't worth doing; the claws themselves are less powerful than polished steel ulaks, which you can easily get for yourself solo at high twenties, and it involves considerable pain camping mobs in Hollowshade to find the required components, as well as a relatively high level (135) in one of the hardest to train tradeskills, tailoring. See the [Trade Skills](#trade-skills-1) section for advice on reaching this level. However, the end of this series of quests is well worth getting, the Officers Cloak (now Vah Shir beastlord only, unfortunately), and to an extent justifies the time spent on the long camps in Hollowshade.
 
 It is possible to multi-quest to get the Journeymans Cloak, skipping the claws entirely, if you can find someone with the claws already who is willing to MQ With you. You still need drops from the war, but the biggest trouble is over.
 
