@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:06:15.256Z
+date: 2025-12-21T06:09:10.956Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -389,6 +389,24 @@ The practical alternative is to leave this quest until much later, and come back
 
 To make the Cape, you need to hand in a shroud to Kojjin Kaa to get a pattern; the shroud is given back. Combine two shrouds, the pattern, and one shadeling silk thread to get a Champions Cape; hand this in to Priestess Bast with three drops of Loda Kai blood. You can find them in the rocks behind the tents in Shadeweavers. The tailoring trivial for this is at least 26, possibly higher. I would skill up on silk threads, patchwork armor, and even shade silk armor, which can take you as high as 36.
 
+## Hollowshade (Level 14/15 - 40)
+**Objective**: Cloak of the Khati Shah Apprentice
+ Hollowshade is much tougher than Shadeweavers; it isn't worth fighting in until level 15, and your pet upgrade. Mobs in Hollowshade are also undercons, and fighting blues here will be much harder for that reason, and so give poorer experience than is possible elsewhere. Your next quest stage will involve talking to Rittuh Purrik and collecting hopper tails; these are another uncommon drop. Make sure you also collect hides and hopper claws. Report back to Kery Miann, who will send you to collect a glowing muckdigger heart from Paludal - and head straight back into Hollowshade. Kery then sends you to Kaam Rahiir in the Library (-250, 130), the southern set of buildings outside of the main palace.
+
+In front of the outpost rhinobeetles and rockhoppers pass by frequently; the guards will protect you from these, so tell your pet to guard here about half way from the gates to the path, and pull to your pet.
+
+Behind the outpost, in the palms and up the ridge, you should normally find owlbears; mostly cubs, but some much tougher. If the war is in progress, these may be replaced by sonic wolves or grimlings; I only met owlbears there on two days ever with my first beastlord (while levelling slowly and carefully), and grimlings the rest of the time. These can be pulled back towards the outpost, but be careful of the guards, who may pass through the outpost walls to KS you. The guards don't seem to attack owlbears, however, although I can't be certain of this.
+
+There are two higher level (about 25 - 30) mobs that roam in this area, and are highly aggressive: Dirtchomp, a giant rockhopper, and Gorehorn, a giant beetle. Keep well clear at this stage; they are magic resistant as well as tough. Now that the Hollowshade War has been fixed, Dirtchomp at least seems to be lower in level than he used to be (dark blue to 35), and much less magic resistant - I didn't have any problem slowing, dotting and nuking him at 35, and killed him solo.
+
+Your mission from Kaam is to collect two molars from sonic wolf cubs; later stages of the beastlord and tailoring quests will require owlbear and sonic wolf parts - these won't be possible to collect if the war is stuck, or if players are using it to farm items. To reach the sonic wolf sector of the zone, just follow the path. There should be a cub or wolfling in the area between the two streams, with few or none of the higher wolfs, so this should be a good area to hunt. The area north of the wolf cave before the Grimling Forest zone should also have cubs and wolflings as well as higher level wolves. Be warned that molars were a rare drop; but I got two of them in three kills in the fixed Hollowshade.
+
+Handing in the two molars starts the sonic wolf bane weapons portion of the quest. By the stage you already have your upgraded cloak, and this item won't get another upgrade until you have moved into Grimling Forest many levels later - at which point it is a very nice cloak indeed. If you want to progress in the quest, you should try to find two tiny owlbear claws, which should drop from owlbear cubs and grapplers, in the area east of the owlbear caves but before the first bridge. These claws are very rare indeed; it took me several days of farming to find them. The claws have to go to Jhimis Khadwi, the jeweller at 310, -370 in Shar Vahl, which is the middle merchant building in the north of the central area. Jhimis will give you the stretching dowels required to make the sonic wolf bane components required from beastlords. I'll leave the weapons quest at this point, as the next stage will require 135 tailoring skill, which won't be feasible until you can clear out the main owlbear caves safely; by this time you will be at least level 39.
+
+As you reach 17, return to your guild and train one point in dual wield.
+
+You will want to come back to Hollowshade later, to exploit the drops you can get from the Hollowshade War, and to continue with the sonic wolf bane quest, leading to the officers cloak. If you are alone, leave this until you reach 49, although it can be attempted earlier; with a group or two, come back at 39 instead. 
+ 
 ## Author's Notes
 
 ### My Motives and Excuses
