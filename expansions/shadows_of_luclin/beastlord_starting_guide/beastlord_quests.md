@@ -2,13 +2,15 @@
 title: Beastlord Quests
 description: 
 published: true
-date: 2025-12-21T03:49:00.538Z
+date: 2025-12-21T03:50:54.652Z
 tags: quests, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:49:00.538Z
 ---
 
 # Beastlord Quests
+>Originally adapted from https://web.archive.org/web/20061120212813/http://www.eqbeastlord.com/quests.html
+{.is-info}
 
 ## Barbarian Beastlord
 
