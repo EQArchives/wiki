@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:38:53.362Z
+date: 2025-12-21T07:43:33.545Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -947,7 +947,7 @@ No argument: CA gives more damage reduction than any other. This can be followed
 
 ### Offensive AA Summary
 
-Taken from this thread.
+Taken from this [thread](https://web.archive.org/web/20070906234234/http://forums.beastlords.org//index.php?topic=409).
 
 In order of DPS increase per AA spent: BF5 (1.5%/AA), CF1 (0.8), SCF3 (0.78), Ambidexterity (0.5), MC2 (0.25), Frenzy of Spirit (0.1-0.5). I haven't included GoD AAs in this list, as given their high cost, they invariably turn out to be of lower value.
 
