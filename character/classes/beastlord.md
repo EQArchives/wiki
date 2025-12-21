@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-21T02:30:03.195Z
+date: 2025-12-21T02:32:52.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -135,7 +135,7 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 
 ## FAQ
 1. What restrictions do beastlords have?
-So far, we have no weight restrictions.
+No weight restrictions.
 
 2. What special abilities do beastlords have?
 Class abilities - AC bonus (has nothing to do with weight, but isn't as good as monks)
