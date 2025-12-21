@@ -2,7 +2,7 @@
 title: Beastlord Starting Guide
 description: 
 published: true
-date: 2025-12-21T04:31:29.100Z
+date: 2025-12-21T04:58:32.801Z
 tags: guides, beastlord
 editor: markdown
 dateCreated: 2025-12-20T03:02:54.896Z
