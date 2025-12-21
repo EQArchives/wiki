@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T06:41:21.821Z
+date: 2025-12-21T06:44:43.586Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -950,6 +950,76 @@ No argument: CA gives more damage reduction than any other. This can be followed
 Taken from this thread.
 
 In order of DPS increase per AA spent: BF5 (1.5%/AA), CF1 (0.8), SCF3 (0.78), Ambidexterity (0.5), MC2 (0.25), Frenzy of Spirit (0.1-0.5). I haven't included GoD AAs in this list, as given their high cost, they invariably turn out to be of lower value.
+
+## Armor: the Field Priests Alternative
+Ghulam armor is excellent, and is certainly the best to get if you can. However, unless you choose to level in Shadeweavers, it will be hard to get, and sometimes the drops required are just too scarce. This applies to the tunic most of all, which just isn't reasonable to get. Bracers and boots are the easiest, with the remaining items of intermediate difficulty. However, there is an alternative set of armor that a Vah Shir beastlord can get without any faction work, which is the Halas Field Priest's armor. This consists of a pair of bracers, a kilt, a cap, claws and a tunic. They aren't as good as the Ghulam items, but the claw is an extra not in the Ghulam set - at 5/24, it isn't great, and drops in Shadeweavers are probably better. If you have Planes of Power, it is also easy to step from Shadeweavers into Everfrost. Just head in to Halas, and to the beastlord guild - to the left, turn right past the bank, then past the shaman guild.
+
+Hoyce McTaegan only tells you what is required as you provide each item, so to save a lot of zoning, this is it: 2 white wolf pelts (he asks for one, but this is to get two bracers), 6 spiderling silks (made into 3 threads) and a large tattered cap (buy in Mac's Kilts or make one yourself), 4 ice goblin necklaces, a gnoll fang, a giant snake fang, a hunting bow and a wrath orc wristband. Most of these items can be found in the newbie area in Everfrost or even bought from vendors. For the tunic, which requires just the wristband, you need to kill snow orc troopers out in the plains past Bandl Mc Larrin. The two fangs and bow are for the claws, and are easily obtained in Blackburrow, if you know where the snake ledge is. For the newbie area drops, you can easily get all that is required at level 2 or 3; for Blackburrow, you should be 10 or more, unless you can buy the giant snake fang, in which case you can get the gnoll fang at 6, or even lower if you just loot corpses outside. I am not sure what level is required to kill the troopers; they are green at 16, but the snow orc shamans and other orcs running around close to them are blue and tough.
+
+## Newbie Quests for Iksars
+This isn't as strange as it sounds; when beastlords were introduced to the game, trolls, ogres, barbarians and iksars all had a curtailed armor quest (bracer, cap, leggings, claw and tunic), whereas vah shir had the slightly harder, but better, ghulam armor, which was also open as an upgrade option for all beastlord races. Then when the newbie armor quests were introduced, beastlords were passed over, until much later, when trolls and ogres gained a complete set of newbie armor quests (better than ghulam, in most cases, and easier). Barbarians had the NPC put into the game, but he doesn't respond, so they don't get a quest; and iksars and vah shir were left out.
+
+In May 2004, the patch message announced that iksars now had a complete set of quests, including warriors, necros and beastlords. As iksar warriors and necros already had a progressive weapon quest with a disappointing result, it seems that there were probably extended. But it wasn't obvious if iksar beastlords would gain a full set of newbie armor, or a progressive weapon quest. At the time of writing (May 2004), the quest isn't yet operation on live servers, and is still broken on the Test server.
+
+### Iksar Newbie Armor Quest
+
+Here is a rough walkthrough of the original 5 piece armor quest for iksar beastlords.
+
+Start by hailing the guildmaster, Prime Patriarch Vusz, and he will tell you to gather four leech husks. These drop in the newbie area of Swamp of No Hope from swamp leeches and giant swamp leeches, and are uncommon. These can also spawn in the sewers close to the beastlord guild in Cabilis. The result is a bracer, and a request for three spiderling silks and a scarab carapace; these will drop in Field of Bone from the various hatchlings and the emerald fencers, and result in a cap. as the spiderling silks don't seem to be very common in Field of Bone, you may wish to try getting them in Halas. The best hunting spot for them in Field of Bone is the bonebinder warrens, a little north of the newbie hunting area and west of the pit.
+
+The next request is for four goblin watcher signal torches. These will drop from goblin watchers in Lake of Il Omen, which spawn around the first set of ruins. You can see if a watcher is carrying a torch; these are not no drop, so may be found on merchants in the newbie area, if your server is well populated. This will get you a leggings.
+
+Your next task is to collect two goblin hunter javelins and two sarnak broodling fangs, from Lake of Ill Omen. These are no drop, and come from goblin hunters and sarnak broodlings which spawn just past the first ruins, and before the pillars. The drops are uncommon, and you will want to kill everything in the area to force more spawns; a tracker will help a lot. For these, you will receive a claw, which is primary or secondary, but lore.
+
+The final request is for four froglok tuk warrior bucklers. These are no drop, and rare, from a rare spawn in Swamp of No Hope. The best way to get these is to take a tracker with you to the iksar status a little way east of Cabilis. Kill any tuk frogloks in the area (knights and shamans); this seems to give you a better chance of respawning a tuk warrior, within a few seconds of the previous mobs death. I was also killing everything in the area, so I can't be certain that this was a strict tuk only spawn cycle; as the frogloks wander a great deal, it is hard to verify. You get a tunic from this. This stage is much harder than any of the Halas quests due to the extreme scarcity of drops.
+
+The overall quest results are identical to all the original five piece beastlord armor sets. The highest mobs you need to kill are probably 12-13; all very easy kills and green for a 25; there are a few easy blue mobs in the Swamp of No Hope that are likely to add. A vah shir can possibly do these quests, as iksar illusion will make you indifferent to troopers (and should be indifferent to the Scaled Mystics as well). It is possible that you need to be amiable to start the quest, in which case using iksar illusion and then handing in bone chips to Trooper Mozo in Field of Bone should allow you to reach amiable while illusioned.
+
+### The Claw of the Cub
+
+Prime Patriarch Vuzx (on Test only, so far) also gives out another quest. You can reasonably do this quest from level 9 onwards. He asks for a sarnak raider brain, a froglok bounder javelin (although he says goblin hunter javelin), an iksar bandit mask, and a rogue shaman mandible. All are no drop apart from the mandible. The reward is the Claw of the Cub - 7/24, primary only, str 1, wis 1, wt 3.5, bst/(bar/trl/ogr/iks/vah).
+
+The brain comes from sarnak crypt raiders, which spawn near the explorer tower in Lake of Ill Omen. This is easy to find by killing everything in the general area. The javelin drops rarely from froglok bounders near Cabilis in the Swamp of No Hope; they spawn on the second or third island south on the path from Cabilis, and like all other frogs, wander widely.
+
+The iksar bandit mask drops from iksar bandits in Field of Bone; these spawn in the pit, to the south east of the pit near Kaesora, and to the north near Kurn's Tower. Bandits that drop the mask are visually distinct from other bandits (blue shins and leather chest straps are what I notice, rather than cloth armor), and tend to be found in the south end of the pit.
+
+The rogue shaman is a rare spawn (possibly once per day at night), NE of Kurn's Tower in Field of Bone. You may or may not need to kill everything in the area, and a tracker is very useful, as other mobs will aggro on him and kill him.
+
+### Elder Patriarch Ixthal - Claw of the Scout
+
+He is a new NPC just outside the area where the beastlord GM resides. He asks for a cracked femur, a creeper cabbage, a lichenclover, and your Claw of the Cub. The cracked femur always drops from greater scalebones; the creeper cabbage comes from a man eating creeper in Swamp of No Hope; and the lichenclover is foraged (in Field of Bone, as well as other zones) and tradeable. These are slightly higher level mobs than required for the highest of the armor quests. Be careful with the creeper cabbage, as it is marked as food, as well as lore, and you might accidentally eat it. To do this quest, you may be able to do it from level 15, but it will be easy from 22 onwards.
+
+The reward is a Claw of the Scout - 8/23, str 2, wis 2, hp 5.
+
+### Claw of the Apprentice
+
+The follow on prompt is: "continue training". You are told to locate a missing member called Welgaz, who roams the continent, and to tell him that Ixthal sent me to find you. Welgaz is in Warslik Woods at n980 n1490, and responds to "Ixthal sent me to find you". He even appears in the Find window as an injured traveller!! Welgaz wants some Legion Lager and some Noodles. No level required to do this quest, just the previous Claw.
+
+Legion Lager has a brewing trivial of 36, and requires a bottle, deadbone barley (foraged in FoB), a flask of bloodwater (purchased in the newbie zones), and a giant blood sac. This drops from giant swamp leeches in Swamp of No Hope. Noodles has a baking trivial of 31, and requires an egg (most any type), a cup of flour and a flask of water.
+
+In return, Welgaz gives you a note for Ixthal. Reward is the Claw of the Apprentice - 9/22, str 3, cha 3, wis 3, hp 5 mana 5.
+
+### Claw of the Young Patriarch
+
+The follow on prompt is "I will aid the cause". You are given a "Spiritual Tome" (a container), and told to collect letters from the Klys. The container has 8 slots. You need to go to the crypt of Dalnir, and kill Kly evokers. These spawn on the second and third floors (there is one random spawn at the back of the entry floor that can be an evoker). Evokers drop Battle Plans, and you need eight of them. Evokers spawn one in ten of the Kly, and drop battle plans about one in ten; spawn time is about 12 minutes. To get all eight, expect a level 65 beastlord to need about 24 hours camping time. You can kill here from 30 up, but it won't approach being safe of effective until 49, at which point you should be able to kill almost as fast as the level 65. It seems likely that invokers may also be supposed to drop battle plans, although they don't at the moment. If so, this would reduce the likely camp time to around 6-8 hours. Drop rate has apparently been improved in the last patch; it may be possible now to collect all the plans in a couple of clearings.
+
+Hand in the combined Spiritual Tome, and the reward this time is the Claw of the Young Patriarch - 10/22, ac 1, str 4, sta 4, cha 4, wis 4, hp 5, mana 5. Ixthal has nothing further to offer at this stage.
+
+### Claw of the Mature Patriarch
+
+If you talk to the spell vendor, Zreezas, above the GM, he will tell you of a traitor planning on overthrowing the Patriarchs, and to search in "spiritual areas" for clues to his name. At this point you need to retrieve 2 Hidden Plans from the corrupt spiritualists in City of Mist and Kaesora. The spiritualist in Kaesora is close to Xalgoz, to his NE, behind the next tower. In CoM, he is in the north end of the small building at n100, 0.
+
+Back with Zreezas, hand in the plans and follow the conversation, which refers you to ask Ixthal about "rumored attacks" (which Ixthal will deny). Hand Ixthal the note Zreezas gave you (Lativ's Plans) in return for the hidden plans. He tells you to find rankings from three close to the traitor to reveal his location.
+
+These three are the loyal followers found in the SE corner of the hidden valley in Dreadlands, NW of giants in Frontier Mountains on a rock, and in Burning Woods at n820 n4080 on the east zone wall; each dropping a symbol of Lativ. Hand in the three symbols and your claw, to receive the Claw of the Mature Patriarch: 11/21, ac 3, str 5, sta 5, cha 5, wis 5, hp 10, mana 10, fr 1, cr 1, pr 1, dr 1, mr 1.
+
+### Claw of the Spiritual Elder
+
+Then go back to Zreezas and ask him "is his name Lativ?". Zreezas will tell you to search in jungle areas and return with whatever you can retrieve from his demise. Lativ is in Emerald Jungle on top of the cliff in a ruin at n680, 4050. You can target him, and hand him items, but can't cast on him; although he scowls, he won't attack you - this Lativ is not for this stage. He is also in Trakanon's Teeth at 2700 860, and this is the right Lativ. Kill him in Trakanon's Teeth, and hand in the remains back to Zreezas, who will return them and send you to Prime Patriarch Vuzx (the original guild master).
+
+What Vuzx wants is for you to find and return the Amulet of Choatl, which Lativ broke into four pieces. You need to find the four broken seal pieces in City of Mist, from the various named mobs in the goo house and stables area, and combine them in the box you are given with a heady kiola and the remains. In City of Mist, (at least) four old mobs now drop a Broken Seal: a Mighty Golem, a Gyrating Green Slime, an Enraged War Boned Skeleton and a Ravenous Warbone Skeleton. Heady kiola has a trivial of 46, and is made from a bottle, 2 packets of kiola sap, and a water flask. Hand the completed seal to the Emerald Jungle Lativ and kill him, then loot the sacred figurine from his body. Return to Vuxz and tell him that you have completed your mission; he tells you to hand the figurine and your claws to Ixthal for the final reward.
+
+Claw of the Spiritual Elder - 12/20, ac 5, str 10, sta 10, wis 10, cha 10, hp 50, mana 40, fr 5, dr 5, cr 5, mr 5, pr 5; effect Jarsath Frenzy (combat). This is a str, dex and ac buff identical to Frenzy, the 49 spell.
 
 ## Author's Notes
 
