@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T07:11:13.645Z
+date: 2025-12-21T07:15:14.682Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -405,7 +405,7 @@ Handing in the two molars starts the sonic wolf bane weapons portion of the ques
 
 As you reach 17, return to your guild and train one point in dual wield.
 
-You will want to come back to Hollowshade later, to exploit the drops you can get from the Hollowshade War, and to continue with the sonic wolf bane quest, leading to the officers cloak. If you are alone, leave this until you reach 49, although it can be attempted earlier; with a group or two, come back at 39 instead. 
+You will want to come back to Hollowshade later, to exploit the drops you can get from the [Hollowshade War](#the-hollowshade-war-1), and to continue with the sonic wolf bane quest, leading to the officers cloak. If you are alone, leave this until you reach 49, although it can be attempted earlier; with a group or two, come back at 39 instead. 
 
 ## Warder and Spells Strategy (level 15)
  As you reach 15, a new set of spells is available to you - return to your guild and get them. As well as any old spells from level 9 that you haven't yet purchased, you will want Spirit of Khaliz, Spirit of Lightning, Blast of Frost, Sicken, Scale Skin, Strengthen, and Fleeting Fury; the others are less useful. You won't be able to find Sense Animals, which is available from Ranger/Druid guilds, but fortunately also from Gadallion, one of the gypsies in Oasis; this is a very useful spell, but only really in outdoor zones when you are farming pelts! You don't really need Sense Animals; when you tell your warder to guard, he will automatically turn to face the closest mob. Note that you can buy a stack of snake scales from Ragnar's shop to power Scale Skin. It is now going to be worth your while practicing casting to max your skills; use the lowest level spell in each group that you can cast, and cast on a corpse - it is worth finding one just to practice on. Use at least a full charge of mana at each level; improving skills will reduce fizzles, and make you more effective.
