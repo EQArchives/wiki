@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T05:05:58.392Z
+date: 2025-12-21T05:10:38.173Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -29,7 +29,7 @@ The Vah Shir have one of the best starting areas and newbie quest series in the 
 
 ### About This Guide
 
-Because of the nature of the Vah Shir and their starting area, Shar Vahl, a lot of this information applies to other Vah Shir classes - but I have only run a beastlord there (well, and a bard; and had a lot of input from a Vah Shir shaman), so I can't entirely vouch for its accuracy for classes other than beastlord. 
+Because of the nature of the Vah Shir and their starting area, Shar Vahl, a lot of this information applies to other Vah Shir classes - but I have only run a [Beastlord](/character/classes/beastlord) there (well, and a [Bard](/character/classes/bard); and had a lot of input from a Vah Shir [Shaman](/character/classes/shaman)), so I can't entirely vouch for its accuracy for classes other than beastlord. 
 
 ## Resources & References
 
