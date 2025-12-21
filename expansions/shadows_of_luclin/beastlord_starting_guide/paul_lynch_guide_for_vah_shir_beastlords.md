@@ -2,7 +2,7 @@
 title: Paul Lynch's Guide for Vah Shir Beastlords
 description: A Guide for Vah Shir Beastlords
 published: true
-date: 2025-12-21T05:46:28.150Z
+date: 2025-12-21T05:48:19.163Z
 tags: guides, leveling guide, leveling, vah shir, beastlord, beginner-guide
 editor: markdown
 dateCreated: 2025-12-21T04:39:02.229Z
@@ -222,7 +222,7 @@ A section addressing known issues with the guide and game mechanics.
 
 ---
 
-## The Guide{.tabset}
+## The Guide
 
 ### Creation
  I generally stick with the suggestions given on eq.castersrealm.com for new classes; so do as they advise and stick all your points into wisdom, as this directly affects your spell casting abilities once you get them, and will be the most beneficial at higher levels. Otherwise, you have no real choices that will affect your character in any meaningful way. The character creation screen suggest that stamina, agility, wisdom and charisma are all important for beastlords; which seems like very suspicious advice to me.
