@@ -2,13 +2,15 @@
 title: Beastlord FAQ
 description: 
 published: true
-date: 2025-12-21T03:36:36.040Z
+date: 2025-12-21T03:41:00.521Z
 tags: faq, beastlord
 editor: markdown
 dateCreated: 2025-12-21T03:30:57.031Z
 ---
 
 # Beastlord Race F.A.Q.
+>Adapted from http://www.eqbeastlord.com/racefaq.html
+{.is-info}
 
 ## Starting Stats
 
