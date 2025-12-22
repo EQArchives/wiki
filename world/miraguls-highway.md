@@ -2,13 +2,13 @@
 title: Miragul's Highway
 description: a network of portals used by Miragul to travel across Norrath
 published: true
-date: 2025-12-22T18:05:18.877Z
+date: 2025-12-22T18:06:02.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T20:32:49.377Z
 ---
 
-Miragul's Highway is the name given to the firepots scattered throughout Norrath that were believed to be placed there by Miragul in order to facilitate his research into Necromancy, lichdom, and the discovery of magical artifacts.  Perhaps the most well-known location is the firepot room below the ocean in Timorous Deep.  However, other firepots are scattered throughout the world in seemingly innocuous places.  The firepot near the adamantite vendor in the back of [Neriak - Third Gate](https://www.eqarchives.com/zones/view/neriakc) is believed to lead to the [Tier`Dal](/en/character/races/dark_elf) encampment in [The Lesser Faydark](https://www.eqarchives.com/zones/view/lfaydark).  There is another firepot in the Abandoned Hut in [Toxxulia Forest](https://www.eqarchives.com/zones/view/tox) that supposedly leads to the [The Qeynos Aqueduct System (Qeynos Catacombs)](https://www.eqarchives.com/zones/view/qcat).
+Miragul's Highway is the name given to the firepots scattered throughout Norrath that were believed to be placed there by Miragul in order to facilitate his research into Necromancy, lichdom, and the discovery of magical artifacts.  Perhaps the most well-known location is the firepot room below the ocean in Timorous Deep.  However, other firepots are scattered throughout the world in seemingly innocuous places.  The firepot near the adamantite vendor in the back of [Neriak - Third Gate](https://www.eqarchives.com/zones/view/neriakc) is believed to lead to the [Tier`Dal](/character/races/dark_elf) encampment in [The Lesser Faydark](https://www.eqarchives.com/zones/view/lfaydark).  There is another firepot in the Abandoned Hut in [Toxxulia Forest](https://www.eqarchives.com/zones/view/tox) that supposedly leads to the [The Qeynos Aqueduct System (Qeynos Catacombs)](https://www.eqarchives.com/zones/view/qcat).
 
 > These firepots were most likely an early idea by the developers at making travel for evil races less dangerous that they never fully implemented. Travel without a wizard or druid used to require crossing the oceans by boat, and these trips usually involved sneaking past good-aligned guards and NPC's at some point.  Some have speculated that these were used at some point by developers and/or GM's before teleport commands were implemented.  Most discussion on these firepots seem to agree the idea was scrapped after Shadows of Luclin and Planes of Power opened up more modes of travel. {.is-info}
 
