@@ -2,7 +2,7 @@
 title: Shadows of Luclin Achievements
 description: 
 published: true
-date: 2025-12-22T01:33:54.171Z
+date: 2025-12-22T01:35:58.717Z
 tags: shadows of luclin, achievements
 editor: markdown
 dateCreated: 2025-12-22T01:33:54.171Z
@@ -12,8 +12,10 @@ dateCreated: 2025-12-22T01:33:54.171Z
 
 > **Expansion**: The Shadows of Luclin | **Released**: December 4, 2001 | **Max Level**: 60
 
-A comprehensive guide to all achievements available in the Shadows of Luclin expansion. Track your progress through exploration, hunter kills, raids, quests, and progression milestones across the moon of Luclin.
+A comprehensive guide to all achievements that were later backported to the Shadows of Luclin expansion. Track your progress through exploration, hunter kills, raids, quests, and progression milestones across the moon of Luclin.
 
+>Achievements were originally introduced with the release of the Underfoot expansion on December 8, 2009 (and then December 15, 2009 for all users).  
+{.is-warning}
 ---
 
 ## 📋 Quick Navigation
