@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-12-20T04:02:54.593Z
+date: 2025-12-22T01:13:59.874Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -67,6 +67,7 @@ In addition to **24 new zones**, this expansion introduced:
 - **[Spell Guide](/expansions/shadows_of_luclin/spells)** - Spells by class and priorities
 - **[Alternate Advancement](/expansions/shadows_of_luclin/alternate_advancement)** - Class-by-class AA recommendations and progression paths
 - **[Travel Guide](/expansions/shadows_of_luclin/travel_guide)** - Portal locations, spire mechanics, and AoC access points
+- **[Achievements](/expansions/shadows_of_luclin/achievements)** - Achievements didn't exist until December 15, 2009 with the Underfooot expansion, but they are listed here to assist personal checklists.
 - **[Zone Reference](/expansions/shadows_of_luclin/zones)** - Individual zone pages with maps, camps, and notable NPCs
 
 ---
