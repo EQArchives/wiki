@@ -2,7 +2,7 @@
 title: Shadows of Luclin Achievements
 description: 
 published: true
-date: 2025-12-22T01:35:58.717Z
+date: 2025-12-22T18:41:44.402Z
 tags: shadows of luclin, achievements
 editor: markdown
 dateCreated: 2025-12-22T01:33:54.171Z
@@ -14,7 +14,7 @@ dateCreated: 2025-12-22T01:33:54.171Z
 
 A comprehensive guide to all achievements that were later backported to the Shadows of Luclin expansion. Track your progress through exploration, hunter kills, raids, quests, and progression milestones across the moon of Luclin.
 
->Achievements were originally introduced with the release of the Underfoot expansion on December 8, 2009 (and then December 15, 2009 for all users).  
+>The entire Achievement system was introduced to EverQuest with the Underfoot expansion (early access December 8, full launch December 15).  After the achievement system was introduced, Shadows of Luclin achievements were added retroactively in stages (see those sections for details).
 {.is-warning}
 ---
 
@@ -72,6 +72,8 @@ Visit each zone to complete exploration achievements. These are often the first 
 ---
 
 ## 🏹 Hunter Achievements
+>June 21, 2017: Hunter Achievements were added for Shadows of Luclin (and other expansions) in the June 2017 patch, with subsequent updates to fix errors.
+{.is-warning}
 
 Defeat specific named monsters and creatures throughout Luclin. These achievements track your combat progression.
 
@@ -524,6 +526,8 @@ Complete raid zone conquests by defeating all named raid targets. These are the 
 ---
 
 ## 🔐 Progression Achievements
+>December 7, 2021: Progression Achievements for Shadows of Luclin were added with the Terror of Luclin expansion release.
+{.is-warning}
 
 Complete key quests and obtain progression items that unlock access to high-end content.
 
