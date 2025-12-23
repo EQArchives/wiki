@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-12-22T05:36:34.030Z
+date: 2025-12-23T06:14:09.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -68,6 +68,7 @@ In addition to **24 new zones**, this expansion introduced:
 - **[Alternate Advancement](/expansions/shadows_of_luclin/alternate_advancement)** - Class-by-class AA recommendations and progression paths
 - **[Travel Guide](/expansions/shadows_of_luclin/travel_guide)** - Portal locations, spire mechanics, and AoC access points
 - **[Achievements](/expansions/shadows_of_luclin/achievements)** - Achievements didn't exist until December 8, 2009 (December 15 for all) with the Underfooot expansion, but they are listed here to assist personal checklists.
+- **[Visible_Armor Sets](/expansions/shadows_of_luclin/visible_armor_sets)** - Known (visible) full armor sets associated with the Shadows of Luclin expansion
 - **[Zone Reference](/expansions/shadows_of_luclin/zones)** - Individual zone pages with maps, camps, and notable NPCs
 
 ---
