@@ -2,7 +2,7 @@
 title: Shadows of Luclin Achievements
 description: 
 published: true
-date: 2025-12-22T18:41:44.402Z
+date: 2025-12-23T05:53:47.372Z
 tags: shadows of luclin, achievements
 editor: markdown
 dateCreated: 2025-12-22T01:33:54.171Z
@@ -532,25 +532,25 @@ Complete raid zone conquests by defeating all named raid targets. These are the 
 Complete key quests and obtain progression items that unlock access to high-end content.
 
 ### **Zherozsh's Key**
-Required to access certain areas of Ssraeshza Temple. Obtained through quest completion.
+Acquire and/or use Zherozsh's Key.  Access to the area's where Xerkizh the Creator and High Priest of Ssraeshza are located
 
 ### **Zazuzh's Key**
-Another temple progression item. Increases access to Ssraeshza Temple chambers.
+Acquire and/or use Zazuzh's Key. Opens the locked door for the area with Arch Lich Rhag\`Zadune.
 
 ### **Ring of the Shissar**
-Powerful ring obtained through progression quests. Marks advancement in Shissar storyline.
+Acquire and/or use the Ring of the Shissar. Required for entry into the Emperor's Chamber in Ssraeshza Temple.
 
 ### **The Scepter of Shadows**
-Major progression item unlocking deep Luclin content.
+Acquire and/or use The Scepter of Shadows. Required for entry into Vex Thal.
 
 ### **Vex Thal Palace Key**
-Gateway to the most prestigious raid zone. Required for Vex Thal access.
+Acquire and/or use the Palace Key.  This unlocks the door to the palace within Vex Thal.  Drops from Va Dyn Khar (roams just inside VT, near the fountain/pool).
 
 ### **Vex Thal North Wing Key**
-Specialized key for the North Wing of Vex Thal palace.
+Acquire and/or use the North Wing Key.  Specialized key for the North Wing of Vex Thal palace.  Drops from Va Xakra, who spawns in the first area of the Palace (ground floor).
 
 ### **Vex Thal North Tower Key**
-Specialized key for the North Tower of Vex Thal palace.
+Acquire and/or use the North Tower Key.  Specialized key for the North Tower of Vex Thal palace.  Drops from Va Xakra (upper floor on far west part of Palace, on the north side, in the same area where Diabo Xi va spawns).
 
 ---
 
