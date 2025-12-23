@@ -2,7 +2,7 @@
 title: Shadows of Luclin Achievements
 description: 
 published: true
-date: 2025-12-23T05:59:10.692Z
+date: 2025-12-23T06:03:31.020Z
 tags: shadows of luclin, achievements
 editor: markdown
 dateCreated: 2025-12-22T01:33:54.171Z
@@ -454,26 +454,34 @@ Defeat specific named monsters and creatures throughout Luclin. These achievemen
 Complete raid zone conquests by defeating all named raid targets. These are the most challenging achievements requiring organized groups.
 
 ### **Conqueror of The Acrylia Caverns**
+Defeat the (2) listed raid targets / events.
+
 - Khati Sha the Twisted
 - An Evolved Burrower
 
 ### **Conqueror of The Akheva Ruins**
+Defeat the (5) listed raid targets / events.
+
 - Shei Vinitras
 - Sheleric Vis
 - The Insanity Crawler
 - The Itraer Vius
-- The Va`Dyn
+- The Va\`Dyn
 
 ### **Conqueror of Grieg's End**
+Defeat the (3) listed raid targets / events.
+
 - Grieg Veneficus
 - Servitor of Luclin
 - Praetorian Myral
 
 ### **Conqueror of Katta Castellum**
+Defeat the (2) listed raid targets / events.
 - Lcea Katta
 - Nathyn Illuminious
 
 ### **Conqueror of Sanctus Seru**
+Defeat the (5) listed raid targets / events.
 - Lord Inquisitor Seru
 - Praesertum Vantorus
 - Praesertum Rhugol
@@ -481,23 +489,30 @@ Complete raid zone conquests by defeating all named raid targets. These are the 
 - Praesertum Bikun
 
 ### **Conqueror of Ssraeshza Temple**
+Defeat the (5) listed raid targets / events.
 - Emperor Ssraeshza
 - Xerkizh The Creator
-- Vyzh`dra the Cursed
+- Vyzh\`dra the Cursed
 - High Priest of Ssraeshza
-- Arch Lich Rhag`Zadune
+- Arch Lich Rhag\`Zadune
 
 ### **Conqueror of The Deep**
+Defeat the (2) listed raid targets / events.
+
 - Thought Horror Overfiend
 - A Burrower Parasite
 
 ### **Conqueror of The Echo Caverns**
+Defeat the listed raid target / event.
+
 - General Jared Blaystich
 
 ### **Conqueror of The Tenebrous Mountains**
+Defeat the listed raid target / event.
 - Valdanov Zevfeer
 
 ### **Conqueror of The Umbral Plains**
+Defeat the (6) listed raid targets / events.
 - Doomshade
 - Rumblecrush
 - Zelnithak
@@ -506,8 +521,7 @@ Complete raid zone conquests by defeating all named raid targets. These are the 
 - Netherbian Swarmlord
 
 ### **Conqueror of Vex Thal**
-**The most prestigious raid achievement** - 14 named raid targets across multiple chambers:
-
+**The most prestigious raid achievement**: Defeat the (14) listed named raid targets / events across multiple chambers:
 - Aten Ha Ra
 - Thall Xundraux Diabo
 - Thall Va Xakra Dat
