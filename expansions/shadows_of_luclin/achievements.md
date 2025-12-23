@@ -2,7 +2,7 @@
 title: Shadows of Luclin Achievements
 description: 
 published: true
-date: 2025-12-23T05:53:47.372Z
+date: 2025-12-23T05:59:10.692Z
 tags: shadows of luclin, achievements
 editor: markdown
 dateCreated: 2025-12-22T01:33:54.171Z
@@ -557,9 +557,9 @@ Acquire and/or use the North Tower Key.  Specialized key for the North Tower of 
 ## 📜 Quest Achievements
 
 ### **Earring of the Solstice**
-**Related Quest**: Liber Brassica Felix v1-10 - Xanthe's Earring of Nature
+- Quest, Craft and / or Possess a Xanthe's Earring of Nature or an Earring of Solstice.
 
-Complete a multi-part quest line to obtain the Earring of the Solstice, a valuable magic item.
+**Related Quest**: Liber Brassica Felix v1-10 - Xanthe's Earring of Nature
 
 ---
 
