@@ -2,7 +2,7 @@
 title: Barbarian
 description: 
 published: true
-date: 2025-12-15T03:39:02.427Z
+date: 2025-12-23T02:50:15.276Z
 tags: barbarian, races
 editor: markdown
 dateCreated: 2025-12-14T03:57:27.547Z
@@ -56,7 +56,7 @@ All new Barbarian characters have a starting bind location in **Everfrost** at: 
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Beastlord](/character/classes/beastlord)* | ? | ? | ? | ? | ? | ? | ? | ? |
+| [Beastlord](/character/classes/beastlord)* | 103 | 105 | 87 | 70 | 80 | 60 | 60 | 20 |
 | [Rogue](/character/classes/rogue) | 103 | 95 | 92 | 80 | 70 | 60 | 55 | 30 |
 | [Shaman](/character/classes/shaman) | 103 | 100 | 82 | 70 | 80 | 60 | 60 | 30 |
 | [Warrior](/character/classes/warrior) | 113 | 105 | 87 | 70 | 70 | 60 | 55 | 25 |
