@@ -2,7 +2,7 @@
 title: Shadows of Luclin Tradeskills
 description: Tradeskill Recipes from the Shadows of Luclin expansion
 published: true
-date: 2025-12-24T01:14:36.136Z
+date: 2025-12-24T01:20:06.895Z
 tags: tradeskills, shadows of luclin, recipes
 editor: markdown
 dateCreated: 2025-12-24T00:17:45.919Z
