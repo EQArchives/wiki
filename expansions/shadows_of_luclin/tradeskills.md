@@ -2,7 +2,7 @@
 title: Shadows of Luclin Tradeskills
 description: Tradeskill Recipes from the Shadows of Luclin expansion
 published: true
-date: 2025-12-24T01:42:37.776Z
+date: 2025-12-24T02:03:30.215Z
 tags: tradeskills, shadows of luclin, recipes
 editor: markdown
 dateCreated: 2025-12-24T00:17:45.919Z
@@ -25,6 +25,7 @@ dateCreated: 2025-12-24T00:17:45.919Z
 # Tailoring
 ## Shar Vahl
 * [Broker Fahaar's Tailoring Quest](https://everquest.allakhazam.com/db/quest.html?quest=1599)
+* [Khati Sha Recruit (Beastlord #2)](https://everquest.allakhazam.com/db/quest.html?quest=1488)
 
 ## Luclin Basic Tailoring Recipes
 
