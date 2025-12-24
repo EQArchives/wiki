@@ -2,7 +2,7 @@
 title: Expansions
 description: A list of EverQuest expansions
 published: true
-date: 2025-10-31T17:31:44.345Z
+date: 2025-12-24T00:26:45.321Z
 tags: expansions
 editor: markdown
 dateCreated: 2025-10-31T17:30:21.565Z
