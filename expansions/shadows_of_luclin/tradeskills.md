@@ -2,13 +2,14 @@
 title: Shadows of Luclin Tradeskills
 description: Tradeskill Recipes from the Shadows of Luclin expansion
 published: true
-date: 2025-12-24T01:08:43.285Z
+date: 2025-12-24T01:14:36.136Z
 tags: tradeskills, shadows of luclin, recipes
 editor: markdown
 dateCreated: 2025-12-24T00:17:45.919Z
 ---
 
 # Shadows of Luclin Tradeskill Guide
+>Need [Luclin Drop Information](luclin_drop_information)?
 
 ## Alchemy
 | Potion | Ingredients | Trivial | Effects |
