@@ -2,7 +2,7 @@
 title: Shadows of Luclin Tradeskills
 description: Tradeskill Recipes from the Shadows of Luclin expansion
 published: true
-date: 2025-12-24T01:06:13.809Z
+date: 2025-12-24T01:08:43.285Z
 tags: tradeskills, shadows of luclin, recipes
 editor: markdown
 dateCreated: 2025-12-24T00:17:45.919Z
@@ -22,6 +22,32 @@ dateCreated: 2025-12-24T00:17:45.919Z
 | Mystical Aptitude | Duskglow Vine, Yerbhimba | >180 | Intellectual Advancement (raises effective casting level +3, thereby reducing fizzles) |
 
 # Tailoring
+
+## Luclin Basic Tailoring Recipes
+
+### The Basics
+
+| Item | Ingredients | Trivial |
+|------|-------------|---------|
+| Shade Silk Thread | 2 shadeling silks | 15 |
+| Shade Silk Swatch | 2 shade silk | <=35 |
+| Pelt Conversion (Rockhopper) | Quality rockhopper pelt (high, medium or low quality) + skinning knife (smithed) | 15 |
+| Shade Silk Bandage | 2 shade silk threads | 21 |
+| Shade Silk Cord | 3 shade silk threads | 26 |
+| Thin Leather Straps | HQ rockhopper hide + small stone blade (no drop Vah Shir beastmaster quest item) | >=43 |
+
+### Containers
+
+| Item | Ingredients | Trivial | Notes |
+|------|-------------|---------|-------|
+| Rallic Pack | Rallic pack pattern + shade silk cord + shade silk thread + perfect owlbear pelt | >7 <=15 | 10 slot container, holds Giant items, 85% weight reduction, wt 1.0 |
+| Tailored Wrist Pouch (Luclin) | Shade silk cord + ruined rockhopper hide | 26 | 4 tiny slots, 10% weight reduction, weight 0.3 |
+| Tailored Small Bag (Luclin) | Shade silk cord + low quality rockhopper hide | 31 | 4 medium slots, 10% weight reduction, weight 0.4 |
+| Tailored Large Belt Pouch (Luclin) | Shade silk cord + medium quality rockhopper hide | 36 | 6 medium slots, 10% weight reduction, weight 0.6 |
+| Large Tailored Bag (Luclin) | Shade silk cord + high quality hopper hide | 41 | 6 slots, 10% weight reduction, weight 0.8 |
+| Handmade Backpack (Luclin) | Backpack pattern + high quality hopper hide | 88 | 10 large slots, 10% weight reduction, weight 3.0 |
+
+## Luclin Tailored Armor
 
 | Item | Ingredients | Trivial | Notes |
 |------|-------------|---------|-------|
