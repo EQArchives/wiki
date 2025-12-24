@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-11-02T22:10:19.986Z
+date: 2025-12-24T00:08:45.085Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -33,9 +33,10 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 - Leveling Guide
 - Quest Guide
 - **[Tradeskill Guide](/expansions/the_legacy_of_ykesha/tradeskills)** - New recipes, and materials
+    - [Alchemy](/expansions/the_legacy_of_ykesha/tradeskills/alchemy)
+    - [Armor Dyes](/expansions/the_legacy_of_ykesha/tradeskills#armor-dyes)
     - [Baking](/expansions/the_legacy_of_ykesha/tradeskills#baking)
     - [Brewing](/expansions/the_legacy_of_ykesha/tradeskills#brewing)
-    - [Armor Dyes](/expansions/the_legacy_of_ykesha/tradeskills#armor-dyes)
     - [Poisons](/expansions/the_legacy_of_ykesha/tradeskills#poisons)
     - [Pottery](/expansions/the_legacy_of_ykesha/tradeskills#pottery)
     - [Research](/expansions/the_legacy_of_ykesha/tradeskills#spell-research)
