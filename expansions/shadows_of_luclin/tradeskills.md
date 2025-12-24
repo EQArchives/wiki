@@ -2,7 +2,7 @@
 title: Shadows of Luclin Tradeskills
 description: Tradeskill Recipes from the Shadows of Luclin expansion
 published: true
-date: 2025-12-24T01:20:06.895Z
+date: 2025-12-24T01:42:37.776Z
 tags: tradeskills, shadows of luclin, recipes
 editor: markdown
 dateCreated: 2025-12-24T00:17:45.919Z
@@ -23,6 +23,8 @@ dateCreated: 2025-12-24T00:17:45.919Z
 | Mystical Aptitude | Duskglow Vine, Yerbhimba | >180 | Intellectual Advancement (raises effective casting level +3, thereby reducing fizzles) |
 
 # Tailoring
+## Shar Vahl
+* [Broker Fahaar's Tailoring Quest](https://everquest.allakhazam.com/db/quest.html?quest=1599)
 
 ## Luclin Basic Tailoring Recipes
 
