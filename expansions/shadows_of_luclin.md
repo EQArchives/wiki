@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-12-26T02:41:37.805Z
+date: 2025-12-26T03:14:37.599Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -22,7 +22,7 @@ dateCreated: 2025-08-10T05:21:42.868Z
 
 ![shadows_of_luclin.png](/shadows_of_luclin.png =450x){.align-right}
 **Major Features:**
-- **New Race**: Vah Shir (feline race)
+- **New Race**: [Vah Shir](/character/races/vah-shir) (feline race)
 - **New Class**: Beastlord
 - **Alternate Advancement (AA)**: Begin the everlasting AA grind
 - **Mounts**: Travel faster and regenerate health/mana with reduced aggro
