@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-12-26T03:14:37.599Z
+date: 2025-12-26T03:14:51.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -23,7 +23,7 @@ dateCreated: 2025-08-10T05:21:42.868Z
 ![shadows_of_luclin.png](/shadows_of_luclin.png =450x){.align-right}
 **Major Features:**
 - **New Race**: [Vah Shir](/character/races/vah-shir) (feline race)
-- **New Class**: Beastlord
+- **New Class**: [Beastlord](/character/classes/beastlord)
 - **Alternate Advancement (AA)**: Begin the everlasting AA grind
 - **Mounts**: Travel faster and regenerate health/mana with reduced aggro
 - **The Bazaar**: First zone dedicated entirely to afk trading
