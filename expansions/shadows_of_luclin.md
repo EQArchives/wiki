@@ -2,7 +2,7 @@
 title: The Shadows of Luclin Expansion
 description: the third expansion
 published: true
-date: 2025-12-24T00:27:22.773Z
+date: 2025-12-26T02:41:37.805Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T05:21:42.868Z
@@ -57,7 +57,7 @@ In addition to **24 new zones**, this expansion introduced:
 - **[Launch Week Strategy](/expansions/shadows_of_luclin/launch_week_strategy)** - Day-by-day checklist for level 60 players, AA priorities, and zone strategies
 - **[Leveling Guide](/expansions/shadows_of_luclin/leveling_guide)** - Complete 1-60 leveling paths with zone breakdowns and camp locations
 - **[Faction Guide](/expansions/shadows_of_luclin/faction_guide)** - TODO Summary of newly introduced Luclin factions
-- **[Luclin Tradeskills](/expansions/shadows_of_luclin/tradeskills)** - TODO
+- **[Luclin Tradeskills](/expansions/shadows_of_luclin/tradeskills)** - Contributions welcome!
 - **[Beastlord Starting Guide](/expansions/shadows_of_luclin/beastlord_starting_guide)** - Getting started with a new Beastlord
 - **[Vah Shir Starting Guide](/expansions/shadows_of_luclin/vah_shir_starting_guide)** - Guide for starting as a Vah Shir
 - **[Mount System](/expansions/shadows_of_luclin/mount_system)** - What you need to know about the mounts introduced in the Shadows of Luclin expansion
