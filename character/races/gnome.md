@@ -2,7 +2,7 @@
 title: Gnome
 description: 
 published: true
-date: 2025-12-29T04:07:40.214Z
+date: 2025-12-29T04:08:56.147Z
 tags: gnome, races, gnomes, race, player race
 editor: markdown
 dateCreated: 2025-12-29T03:58:02.135Z
@@ -54,12 +54,14 @@ All new Dwarven characters have a starting bind location in Steamfont Mountains 
 
 ## Starting Stats
 
-| Class       | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus |
-|-------------|-----|-----|-----|-----|-----|-----|-----|-------|
-| Cleric      | 60  | 75  | 85  | 85  | 77  | 98  | 60  | 30    |
-| Enchanter   | 60  | 70  | 85  | 85  | 67  | 108 | 70  | 30    |
-| Magician    | 60  | 80  | 85  | 85  | 67  | 108 | 60  | 30    |
-| Necromancer | 60  | 70  | 85  | 95  | 67  | 108 | 60  | 30    |
-| Rogue       | 60  | 70  | 95  | 95  | 67  | 98  | 60  | 30    |
-| Warrior     | 70  | 80  | 90  | 85  | 67  | 98  | 60  | 25    |
+| Class        | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus |
+|--------------|-----|-----|-----|-----|-----|-----|-----|-------|
+| Cleric       | 60  | 75  | 85  | 85  | 77  | 98  | 60  | 30    |
+| Enchanter    | 60  | 70  | 85  | 85  | 67  | 108 | 70  | 30    |
+| Magician     | 60  | 80  | 85  | 85  | 67  | 108 | 60  | 30    |
+| Necromancer  | 60  | 70  | 85  | 95  | 67  | 108 | 60  | 30    |
+| Paladin*.    ||||||||||
+| Rogue        | 60  | 70  | 95  | 95  | 67  | 98  | 60  | 30    |
+| Shadowknight*||||||||||
+| Warrior      | 70  | 80  | 90  | 85  | 67  | 98  | 60  | 25    |
 | Wizard      | 60  | 80  | 85  | 85  | 67  | 108 | 60  | 30    |
