@@ -2,7 +2,7 @@
 title: Gnome
 description: 
 published: true
-date: 2025-12-29T03:59:16.570Z
+date: 2025-12-29T04:05:48.712Z
 tags: gnome, races, gnomes, race, player race
 editor: markdown
 dateCreated: 2025-12-29T03:58:02.135Z
@@ -32,13 +32,20 @@ The clicking of gears and clacking of machinery fill the mechanized Gnome city o
 * **Languages**: Common Tongue (100), Gnomish (100, racial), Dwarvish (25)
 * **Abbreviation**: GNM
 
->Note: In the original timeline, Gnome Paladin and Gnome Shadowknight combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).
+>Note: In the original timeline, **Gnome Paladin** and **Gnome Shadowknight** combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).
 {.is-warning}
 ### Infravision
 Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
 
 ### Tinkering
 Tinkering is a gnome-only trade skill. Gnomes start out with a tinkering skill of 50 and a gnome character cannot raise tinker until he reaches level 16. 
+
+## New Characters
+### Starting Locations
+New Gnome characters start in **Ak\`Anon**. Their starting location in the city depends on their chosen class.
+
+### Bind Location
+All new Dwarven characters have a starting bind location in Steamfont Mountains at Y: -1668.0, X: 636.0, Z: -106.0.
 
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
