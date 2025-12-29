@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-29T03:51:15.462Z
+date: 2025-12-29T03:51:58.667Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -76,7 +76,7 @@ The Dark Elves view all other races as inferior; tools to be used for their own 
 
 There is a labyrinth of evil under the Nektulos Forest called Neriak, the home city of the Dark Elves. Its entrance is deep within gloomy shadows of the woods.
 
-### [Dwarf] (DWF)
+### [Dwarf](/character/races/dwarf) (DWF)
 
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
