@@ -2,7 +2,7 @@
 title: Dwarf
 description: 
 published: true
-date: 2025-12-29T04:01:57.481Z
+date: 2025-12-29T04:03:04.909Z
 tags: dwarf, dwarves
 editor: markdown
 dateCreated: 2025-12-29T03:43:49.052Z
@@ -32,7 +32,7 @@ Dwarves have broad faces, usually with a prominent nose, and take extraordinary 
 ### Barrel Roll
 Male dwarves have a unique jumping graphic, often referred to as a "barrel roll":
 
-https://www.youtube.com/watch?v=xFXUYl2ljqI
+`https://www.youtube.com/watch?v=xFXUYl2ljqI`
 
 While it is purely cosmetic and offers no in-game benefit, it is a uniquely (male) dwarven behavior. For tips on achieving the "back roll" in this video, see: [How-to: Dwarven Backflip](https://www.project1999.com/forums/showthread.php?t=356850).
 
