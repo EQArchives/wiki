@@ -2,13 +2,17 @@
 title: Dwarf
 description: 
 published: true
-date: 2025-12-29T03:43:49.053Z
+date: 2025-12-29T03:56:58.257Z
 tags: dwarf, dwarves
 editor: markdown
 dateCreated: 2025-12-29T03:43:49.052Z
 ---
 
 # Dwarf
+>Short but strong, Dwarves outperform Humans in nearly all physical tasks. 
+Their prominent facial hair is their trademark, seconded by their dexterity. 
+>\- EverQuest manual
+
 ## Description
 
 Though made lower to the ground than most races, the Dwarves created by Brell Serilis burst with pride and determination. The stout and sturdy Dwarves are extremely strong, making them one of the best-suited to endure long and intense battles
