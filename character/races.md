@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-29T03:51:58.667Z
+date: 2025-12-29T03:58:25.101Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -108,7 +108,7 @@ The Erudites live in two areas on the continent of Odus near the Toxxulia Forest
 
 *Note: In classic-era game clients, night blindness was a real problem with Erudites; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
 
-### Gnome (GNM)
+### [Gnome](/character/races/gnome) (GNM)
 
 * **Armor**: Small
 * **Experience Modifier**: None
