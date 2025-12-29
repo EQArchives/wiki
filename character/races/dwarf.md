@@ -2,7 +2,7 @@
 title: Dwarf
 description: 
 published: true
-date: 2025-12-29T03:56:58.257Z
+date: 2025-12-29T04:01:57.481Z
 tags: dwarf, dwarves
 editor: markdown
 dateCreated: 2025-12-29T03:43:49.052Z
@@ -28,6 +28,13 @@ Dwarves have broad faces, usually with a prominent nose, and take extraordinary 
 * **Starting City**: Kaladim
 * **Languages**: Common Tongue (100), Dwarvish (100, racial), Gnomish (25)
 * **Abreviation**: DWF
+
+### Barrel Roll
+Male dwarves have a unique jumping graphic, often referred to as a "barrel roll":
+
+https://www.youtube.com/watch?v=xFXUYl2ljqI
+
+While it is purely cosmetic and offers no in-game benefit, it is a uniquely (male) dwarven behavior. For tips on achieving the "back roll" in this video, see: [How-to: Dwarven Backflip](https://www.project1999.com/forums/showthread.php?t=356850).
 
 ### Infravision
 Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
