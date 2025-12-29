@@ -2,7 +2,7 @@
 title: Gnome
 description: 
 published: true
-date: 2025-12-29T03:58:02.135Z
+date: 2025-12-29T03:59:16.570Z
 tags: gnome, races, gnomes, race, player race
 editor: markdown
 dateCreated: 2025-12-29T03:58:02.135Z
@@ -32,6 +32,8 @@ The clicking of gears and clacking of machinery fill the mechanized Gnome city o
 * **Languages**: Common Tongue (100), Gnomish (100, racial), Dwarvish (25)
 * **Abbreviation**: GNM
 
+>Note: In the original timeline, Gnome Paladin and Gnome Shadowknight combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).
+{.is-warning}
 ### Infravision
 Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
 
