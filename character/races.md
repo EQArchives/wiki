@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T21:15:28.659Z
+date: 2026-01-01T21:19:22.844Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -143,7 +143,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 20% more experience required per level
 * **Faction Alignment**: Evil
-* **Playable Classes**: Shadow Knight, Shaman, Warrior
+* **Playable Classes**: [Beastlord](/character/classes/beastlord)*, [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Increased Consumption Rate, Increased HP Regeneration, Infravision, Slam, -20 Fire Resist
 * **Starting City**: Grobb
 
@@ -152,7 +152,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Medium, Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
 * **Faction Alignment**: Good
-* **Playable Classes**: Bard, Druid, Ranger, Rogue, Warrior
+* **Playable Classes**: [Bard](/character/classes/bard), [Druid](/character/classes/druid), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Forage, Hide, Infravision
 * **Starting City**: Kelethin
 
@@ -160,7 +160,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Large
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
-* **Playable Classes**: Bard, Beastlord, Berserker, Rogue, Shaman, Warrior
+- **Playable Classes:** [Bard](/character/classes/bard), [Beastlord](/character/classes/beastlord), ~~Berserker (GoD)~~, [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Safe Fall, Infravision
 * **Starting City**: Shar Vhal
 
