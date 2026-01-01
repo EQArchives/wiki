@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T20:41:46.869Z
+date: 2026-01-01T20:42:55.641Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -20,7 +20,7 @@ At initial launch, EverQuest had 12 playable races.
 
 ### Expansion Player Races
 
-*Additional races were added with later expansions, however these will not be available to play until a server is released with that expansion enabled.*
+*Additional races were added with later expansions, and those become available when that expansion is enabled.*
 
 | Race | Expansion Required |
 |------|-------------------|
