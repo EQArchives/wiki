@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T18:39:28.802Z
+date: 2026-01-01T19:52:04.932Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -163,7 +163,7 @@ The quaint, stunted city of Rivervale lies between the Kithicor Forest and Misty
 
 *Note: In the original timeline, Halfling Paladin and Halfling Ranger combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).*
 
-### High Elf (HIE)
+### [High Elf](/character/races/high-elf) (HIE)
 
 * **Armor**: Medium, Small
 * **Experience Modifier**: None
