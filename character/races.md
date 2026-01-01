@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T21:06:30.820Z
+date: 2026-01-01T21:09:07.437Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -105,7 +105,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Medium, Small
 * **Experience Modifier**: None
 * **Faction Alignment**: Good
-* **Playable Classes**: Cleric, Enchanter, Magician, Paladin, Wizard
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Paladin](/character/classes/paladin), [Wizard](/character/classes/wizard)
 * **Racial(s)**: Infravision
 * **Starting City**: Felwithe
 
