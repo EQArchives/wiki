@@ -2,7 +2,7 @@
 title: Erudite
 description: 
 published: true
-date: 2026-01-01T19:14:25.809Z
+date: 2026-01-01T19:17:02.993Z
 tags: erudite, races, eru
 editor: markdown
 dateCreated: 2026-01-01T18:35:51.723Z
@@ -71,10 +71,10 @@ New Erudites that started in Paineel will have a starting bind location in **Pai
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cleric | | | | | | | |
-| Enchanter | | | | | | | |
-| Magician | | | | | | | |
-| Necromancer | | | | | | | |
-| Paladin | | | | | | | |
-| Shadow Knight | | | | | | | |
-| Wizard | | | | | | | |
+| Cleric | 65 | 75 | 70 | 70 | 93 | 107 | 70 | 30 |
+| Enchanter | 60 | 70 | 70 | 70 | 83 | 117 | 80 | 30 |
+| Magician | 60 | 80 | 70 | 70 | 83 | 117 | 70 | 30 |
+| Necromancer | 60 | 70 | 70 | 80 | 83 | 117 | 70 | 30 |
+| Paladin | 70 | 75 | 70 | 70 | 88 | 107 | 80 | 20 |
+| Shadow Knight | 70 | 75 | 70 | 70 | 83 | 117 | 75 | 20 |
+| Wizard | 60 | 80 | 70 | 70 | 83 | 117 | 70 | 30 |
