@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T21:05:31.878Z
+date: 2026-01-01T21:06:30.820Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -85,7 +85,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Medium, *Cannot Wear Robes*
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
-* **Playable Classes**: [Cleric](/character/classes/cleric), [Druid](/character/classes/druid), [Paladin*](/character/classes/paladin), [Ranger*](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
+* **Playable Classes**: [Bard](/character/classes/bard), [Druid](/character/classes/druid), [Paladin](/character/classes/paladin), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Infravision
 * **Starting City**: Freeport, Kelethin, Surefall Glade, Qeynos
 
@@ -94,7 +94,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: 5% less experience required per level
 * **Faction Alignment**: Good
-* **Playable Classes**: Cleric, Druid, Paladin*, Ranger*, Rogue, Warrior
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Druid](/character/classes/druid), [Paladin*](/character/classes/paladin), [Ranger*](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Hide (+50), Increased Consumption Rate, Infravision, Sneak (+50), +5 Disease Resist, +5 Poison Resist
 * **Starting City**: Rivervale
 
