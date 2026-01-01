@@ -2,7 +2,7 @@
 title: High Elf
 description: 
 published: true
-date: 2026-01-01T20:15:57.829Z
+date: 2026-01-01T21:08:42.289Z
 tags: high elf, races, hie
 editor: markdown
 dateCreated: 2026-01-01T19:55:50.872Z
@@ -26,7 +26,7 @@ The home of the High Elves is within the magnificent and pristine architecture o
 * **Armor**: Medium, Small
 * **Experience Modifier**: None
 * **Faction Alignment**: Good
-* **Playable Classes**: Cleric, Enchanter, Magician, Paladin, Wizard
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Paladin](/character/classes/paladin), [Wizard](/character/classes/wizard)
 * **Racial(s)**: Infravision
 * **Starting City**: Felwithe
 * **Language(s)**: Common Tongue(100), Dark Elvish(25), Elder Elvish(25), Elvish(100, racial)
