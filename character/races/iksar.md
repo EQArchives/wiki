@@ -2,13 +2,16 @@
 title: Iksar
 description: 
 published: true
-date: 2026-01-01T18:15:04.032Z
+date: 2026-01-01T18:16:14.099Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
 ---
 
 # Iksar
+>A tribal race, these lizard-like warriors carry on a rich heritage of conquest, enslavement and destruction. 
+Iksar are quite intelligent (despite their gargantuan size and warrior-like ways) and prefer to socialize within their own circles. 
+\- EverQuest manual
 
 ## Description
 The fearsome and savage reptilian race on Norrath is known as the Iksar. With their significant height, scales, and long tails, Iksar are intimidating in their appearance. Their reptilian physiology grants them a natural affinity for water, as well as enhanced regeneration.
