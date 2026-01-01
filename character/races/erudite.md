@@ -2,7 +2,7 @@
 title: Erudite
 description: 
 published: true
-date: 2026-01-01T18:35:51.723Z
+date: 2026-01-01T19:09:29.098Z
 tags: erudite, races, eru
 editor: markdown
 dateCreated: 2026-01-01T18:35:51.723Z
@@ -40,6 +40,22 @@ New Erudite characters start in **Erudin** or **Paineel**.  Their starting city 
 Necromancers, Shadowknights, and Clerics aligned to evil deities will start in Paineel.
 
 All other classes aligned to neutral or good deities will start in Erudin.
+
+| Class | Y | X | Z | Heading | Deity | Zone |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cleric | 1147.0 | 504.0 | -39.0 | - | Cazic Thule | Paineel |
+| - | -1099.0 | -433.0 | 66.0 | 128.0 | Prexus | Erudin |
+| - | -712.0 | -68.0 | 66.0 | | Quellious | Erudin
+
+
+| Class | Y | X | Z | Heading | Zone |
+| --- | --- | --- | --- | --- | --- |
+| Enchanter | 552.0 | 745.0 | 51.0 | - | Erudin Palace |
+| Magician | 716.0 | 920.0 | 82.0 | - | Erudin Palace |
+| Necromancer | 739.0 | 840.0 | -25.0 | - | Paineel |
+| Paladin | -654.0 | -69.0 | 66.0 | - | Erudin |
+| Shadow Knight | 880.0 | 456.0 | -121.0 | - | Paineel |
+| Wizard | 868.0 | 744.0 | 51.0 | - | Erudin Palace
 
 ### Bind Location
 New Erudites that started in Erudin will have a starting bind location in **Toxxulia Forest** at **Y**: 2230.0, **X**: 67.0, **Z**: -44.0.
