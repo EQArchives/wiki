@@ -2,7 +2,7 @@
 title: Erudite
 description: 
 published: true
-date: 2026-01-01T19:17:02.993Z
+date: 2026-01-01T19:20:43.129Z
 tags: erudite, races, eru
 editor: markdown
 dateCreated: 2026-01-01T18:35:51.723Z
@@ -26,7 +26,7 @@ The Erudites live in two areas on the continent of Odus near the Toxxulia Forest
 * **Armor**: Medium
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
-* **Playable Classes**: Cleric, Enchanter, Magician, Necromancer, Paladin, Shadow Knight, Wizard
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), [Paladin](/character/classes/paladin), [Shadow Knight](/character/classes/shadowknight), [Wizard](/character/classes/wizard)
 * **Racial(s)**: -5 Disease Resist, +5 Magic Resist
 * **Starting City**: Erudin, Paineel
 * **Language(s)**: Common Tongue(100), Erudian (100, racial)
@@ -43,19 +43,19 @@ All other classes aligned to neutral or good deities will start in Erudin.
 
 | Class | Y | X | Z | Heading | Deity | Zone |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cleric | 1147.0 | 504.0 | -39.0 | - | Cazic Thule | Paineel |
+| [Cleric](/character/classes/cleric) | 1147.0 | 504.0 | -39.0 | - | Cazic Thule | Paineel |
 | - | -1099.0 | -433.0 | 66.0 | 128.0 | Prexus | Erudin |
 | - | -712.0 | -68.0 | 66.0 | | Quellious | Erudin
 
 
 | Class | Y | X | Z | Heading | Zone |
 | --- | --- | --- | --- | --- | --- |
-| Enchanter | 552.0 | 745.0 | 51.0 | - | Erudin Palace |
-| Magician | 716.0 | 920.0 | 82.0 | - | Erudin Palace |
-| Necromancer | 739.0 | 840.0 | -25.0 | - | Paineel |
-| Paladin | -654.0 | -69.0 | 66.0 | - | Erudin |
-| Shadow Knight | 880.0 | 456.0 | -121.0 | - | Paineel |
-| Wizard | 868.0 | 744.0 | 51.0 | - | Erudin Palace
+| [Enchanter](/character/classes/enchanter) | 552.0 | 745.0 | 51.0 | - | Erudin Palace |
+| [Magician](/character/classes/magician) | 716.0 | 920.0 | 82.0 | - | Erudin Palace |
+| [Necromancer](/character/classes/necromancer) | 739.0 | 840.0 | -25.0 | - | Paineel |
+| [Paladin](/character/classes/paladin) | -654.0 | -69.0 | 66.0 | - | Erudin |
+| [Shadow Knight](/character/classes/shadowknight) | 880.0 | 456.0 | -121.0 | - | Paineel |
+| [Wizard](/character/classes/wizard) | 868.0 | 744.0 | 51.0 | - | Erudin Palace
 
 ### Bind Location
 New Erudites that started in Erudin will have a starting bind location in **Toxxulia Forest** at **Y**: 2230.0, **X**: 67.0, **Z**: -44.0.
@@ -71,10 +71,10 @@ New Erudites that started in Paineel will have a starting bind location in **Pai
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cleric | 65 | 75 | 70 | 70 | 93 | 107 | 70 | 30 |
-| Enchanter | 60 | 70 | 70 | 70 | 83 | 117 | 80 | 30 |
-| Magician | 60 | 80 | 70 | 70 | 83 | 117 | 70 | 30 |
-| Necromancer | 60 | 70 | 70 | 80 | 83 | 117 | 70 | 30 |
-| Paladin | 70 | 75 | 70 | 70 | 88 | 107 | 80 | 20 |
-| Shadow Knight | 70 | 75 | 70 | 70 | 83 | 117 | 75 | 20 |
-| Wizard | 60 | 80 | 70 | 70 | 83 | 117 | 70 | 30 |
+| [Cleric](/character/classes/cleric) | 65 | 75 | 70 | 70 | 93 | 107 | 70 | 30 |
+| [Enchanter](/character/classes/enchanter) | 60 | 70 | 70 | 70 | 83 | 117 | 80 | 30 |
+| [Magician](/character/classes/magician) | 60 | 80 | 70 | 70 | 83 | 117 | 70 | 30 |
+| [Necromancer](/character/classes/necromancer) | 60 | 70 | 70 | 80 | 83 | 117 | 70 | 30 |
+| [Paladin](/character/classes/paladin) | 70 | 75 | 70 | 70 | 88 | 107 | 80 | 20 |
+| [Shadow Knight](/character/classes/shadowknight) | 70 | 75 | 70 | 70 | 83 | 117 | 75 | 20 |
+| [Wizard](/character/classes/wizard) | 60 | 80 | 70 | 70 | 83 | 117 | 70 | 30 |
