@@ -2,7 +2,7 @@
 title: Gnome
 description: 
 published: true
-date: 2026-01-01T20:52:28.631Z
+date: 2026-01-01T20:53:44.582Z
 tags: gnome, races, gnomes, race, player race
 editor: markdown
 dateCreated: 2025-12-29T03:58:02.135Z
@@ -26,7 +26,7 @@ The clicking of gears and clacking of machinery fill the mechanized Gnome city o
 * **Armor**: Small
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
-* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), [Paladin](/character/classes/paladin)*, [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight)* [Wizard](/character/classes/wizard)
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), [Paladin*](/character/classes/paladin), [Rogue](/character/classes/rogue), [Shadow Knight*](/character/classes/shadowknight) [Wizard](/character/classes/wizard)
 * **Racial(s)**: Tinkering, Infravision
 * **Starting City**: Ak'Anon
 * **Languages**: Common Tongue (100), Gnomish (100, racial), Dwarvish (25)
