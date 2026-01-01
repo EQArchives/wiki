@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2025-12-29T03:58:25.101Z
+date: 2026-01-01T18:31:28.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -89,7 +89,7 @@ Though made lower to the ground than most races, the Dwarves created by Brell Se
 
 Dwarves have broad faces, usually with a prominent nose, and take extraordinary pride in their hair. Males often take great care to grow long beards and moustaches and females often tie their hair up in a bun. Some females also sport a finely trimmed beard.
 
-### Erudite (ERU)
+### [Erudite](/character/races/erudite) (ERU)
 
 * **Armor**: Medium
 * **Experience Modifier**: None
@@ -180,7 +180,7 @@ The High Elves feel their cousins, the Wood Elves, are to be sought out as loyal
 
 The home of the High Elves is within the magnificent and pristine architecture of the city of Felwithe. The structures crafted behind the walls make the beauty of the surrounding forests pale. The city lies within the Greater Faydark on the continent of Faydwer.
 
-### Human (HUM)
+### [Human](/character/races/human) (HUM)
 
 * **Armor**: Medium
 * **Experience Modifier**: None
@@ -250,7 +250,7 @@ Trolls generally detest the other races, including other Trolls. They tend to pu
 
 The city of Grobb lies within the Innothule Swamp of Antonica. The city is infested with mosquitoes and spiders, which serve as both pets and snacks for the Trolls.
 
-### Wood Elf (ELF)
+### [Wood Elf](/character/races/wood-elf) (ELF)
 
 * **Armor**: Medium, Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
