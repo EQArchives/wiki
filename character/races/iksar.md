@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2026-01-01T18:16:14.099Z
+date: 2026-01-01T21:14:10.905Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -23,13 +23,13 @@ The Iksar depend only on their god and creator, Cazic Thule. Iksar are unwelcome
 The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Omen. It is a dark place with a maze of canals, which the Iksar use for travel around their city.
 
 ## Basic Information
-- **Faction Alignmen**t: "Evil" ("Independent", not friendly with the other races of Antonica)
-- **Racial(s)**: Forage (50), Swimming (100), Increased Armor Class, Increased HP Regeneration, Infravision, -10 Cold Resist, +5 Fire Resist
-- **Starting City**: Cabilis
-- **Playable Classes**: Beastlord*, Monk, Necromancer, Shadow Knight, Shaman, Warrior
-- **Race Experience Modifier**: 20% More Required
 - **Armor**: Medium, Cannot Wear Plate
 - **Deities**: Cazic-Thule
+- **Experience Modifier**: 20% More Required
+- **Faction Alignmen**t: "Evil" ("Independent", not friendly with the other races of Antonica)
+- **Playable Classes**: [Beastlord*](/character/classes/beastlord), [Monk](/character/classes/monk), [Necromancer](/character/classes/necromancer), [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
+- **Racial(s)**: Forage (50), Swimming (100), Increased Armor Class, Increased HP Regeneration, Infravision, -10 Cold Resist, +5 Fire Resist
+- **Starting City**: Cabilis
 - **Language(s)**: Common Tongue(100), Dark Speech(100), Lizardman(100, racial)
 - **Abbreviation**: IKS
 
