@@ -1,14 +1,14 @@
 ---
-title: Troll (TRL)
+title: Troll
 description: 
 published: true
-date: 2026-01-01T18:09:45.330Z
+date: 2026-01-01T18:10:14.912Z
 tags: troll, races
 editor: markdown
 dateCreated: 2025-12-15T02:42:57.368Z
 ---
 
-# Troll (TRL)
+# Troll
 >Despite a two-foot height difference, Trolls get along famously with Ogres, sharing similar likes, dislikes and pastimes. 
 Outdoorsy and not quite bright, they're easily recognizable due to their skin's natural green tinge. 
 \- EverQuest manual
