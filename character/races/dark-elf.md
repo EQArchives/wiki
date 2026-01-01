@@ -2,13 +2,16 @@
 title: Dark Elf (DE)
 description: 
 published: true
-date: 2025-12-15T02:30:05.234Z
+date: 2026-01-01T18:02:32.976Z
 tags: dark elf, races
 editor: markdown
 dateCreated: 2025-12-15T01:31:05.656Z
 ---
 
 # Dark Elf (DEF)
+>Dark Elves share the heritage and features of other elves in Norrath, but they are more evilly aligned. 
+Home is almost always underground; darkness poses no obstacle for Dark Elves.  
+>\- EverQuest manual
 
 ## Description
 
@@ -28,6 +31,7 @@ There is a labyrinth of evil under the Nektulos Forest called Neriak, the home c
 * **Playable Classes**: Cleric, Enchanter, Magician, Necromancer, Rogue, Shadow Knight, Warrior, Wizard
 * **Racial(s)**: Hide (50), Ultravision
 * **Starting City**: Neriak
+* **Language(s)**: Common Tongue(100), Dark Elvish (100, racial), Dark Speech (100), Elder Elvish (100), Elvish (25)
 
 ## New Characters
 
