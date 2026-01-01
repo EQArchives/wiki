@@ -2,7 +2,7 @@
 title: High Elf
 description: 
 published: true
-date: 2026-01-01T20:14:26.937Z
+date: 2026-01-01T20:15:57.829Z
 tags: high elf, races, hie
 editor: markdown
 dateCreated: 2026-01-01T19:55:50.872Z
@@ -48,7 +48,7 @@ High Elf Clerics and Paladins start in their guild halls in **North Felwithe**. 
 | Wizard | 425.0 | -601.0 | 29.0 | - | South Felwithe |
 
 ### Bind Location
-All new High Elf characters have a starting bind location in **The Greater Faydark** right outside the Felwithe city gates at **Y**: -2040.0, **X**: -2194.0, **Z**: 55.0.
+All new High Elf characters have a starting bind location in **The Greater Faydark** on a hilltop overlooking city gates to Felwithe at **Y**: -2040.0, **X**: -2194.0, **Z**: 55.0.
 
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
