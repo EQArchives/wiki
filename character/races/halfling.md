@@ -1,8 +1,8 @@
 ---
-title: Halfling (HFL)
+title: Halfling
 description: 
 published: true
-date: 2025-12-15T03:36:52.274Z
+date: 2026-01-01T18:19:32.428Z
 tags: halfling, races
 editor: markdown
 dateCreated: 2025-12-15T03:31:02.886Z
