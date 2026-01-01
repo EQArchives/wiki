@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T21:10:28.668Z
+date: 2026-01-01T21:14:20.152Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -125,7 +125,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Medium, **Cannot Wear Plate**
 * **Experience Modifier**: 20% More Required per Level
 * **Faction Alignment**: Evil ("super evil", not friendly with the other evil races of Antonica)
-* **Playable Classes**: Monk, Necromancer, Shadow Knight, Shaman, Warrior
+- **Playable Classes**: [Beastlord*](/character/classes/beastlord), [Monk](/character/classes/monk), [Necromancer](/character/classes/necromancer), [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Forage, Increased Armor Class, Increased HP Regeneration, Infravision, Swimming (100), -10 Cold Resist, +5 Fire Resist
 * **Starting City**: Cabilis
 
