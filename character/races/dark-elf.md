@@ -2,7 +2,7 @@
 title: Dark Elf
 description: 
 published: true
-date: 2026-01-01T22:15:23.329Z
+date: 2026-01-01T23:59:40.657Z
 tags: dark elf, races
 editor: markdown
 dateCreated: 2025-12-15T01:31:05.656Z
@@ -35,7 +35,7 @@ There is a labyrinth of evil under the Nektulos Forest called Neriak, the home c
 * **Abbreviation**: DEF
 
 ### Ultravision
-Extremely improved night vision, better than Infravision. Ultravision has a slightly purple tint to it. As a racial trait, it is unique to Dark Elves. 
+Extremely improved night vision, better than Infravision. Ultravision has a slightly purple tint to it. As a racial trait, it was unique to Dark Elves until the Legacy of Ykesha expansion when Frogloks became playable.
 
 ## New Characters
 
