@@ -2,7 +2,7 @@
 title: Vah Shir
 description: 
 published: true
-date: 2026-01-01T18:18:22.589Z
+date: 2026-01-01T21:19:15.931Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
@@ -23,7 +23,7 @@ Shar Vahl is the majestic den of the Vah Shir. The city was built high above Nor
 - **Armor:** Large
 - **Experience Modifier:** -5% (5% less XP gained; *gets removed in modern EQ*)
 - **Faction Alignment:** Neutral (Agnostic deities; evil races/classes tolerated without attack)
-- **Playable Classes:** Warrior, Bard, Rogue, Shaman, Beastlord, ~~Berserker (GoD)~~
+- **Playable Classes:** [Bard](/character/classes/bard), [Beastlord](/character/classes/beastlord), ~~Berserker (GoD)~~, [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 - **Racial(s):** 
     - **Abilities:** Infravision, Safe Fall (50), Sneak (50)
     - **Penalties:** Increased Consumption Rate (2x rate food/drink)
