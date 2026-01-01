@@ -1,8 +1,8 @@
 ---
-title: Human (HUM)
+title: Human
 description: 
 published: true
-date: 2026-01-01T18:17:29.985Z
+date: 2026-01-01T18:19:05.559Z
 tags: human, races
 editor: markdown
 dateCreated: 2025-12-15T04:49:14.690Z
