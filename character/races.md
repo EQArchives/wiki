@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T22:01:37.913Z
+date: 2026-01-01T22:11:08.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -27,7 +27,12 @@ At initial launch, EverQuest had 12 playable races.
 | [Vah Shir](/character/races/vah-shir) | The Shadows of Luclin (SoL) |
 | Froglok | Legacy of Ykesha (LoY) |
 | Drakkin | The Serpent's Spine (TSS) |
-![EQ Racial Anatomy Comparisons](/eq_racial_anatomy_comparisons_005.jpg "Everquest Racial Anatomy Comparisons; Source: 10th Anniversary Commemorative Book" =600x){.float-right}
+
+<figure style="float:right; border: thin silver solid; display: flex;flex-flow: column;padding:5px; margin: auto;">
+<img style="width:600px;border: 1px solid" src="/eq_racial_anatomy_comparisons_005.jpg" alt="Everquest Racial Anatomy Comparisons; Source: 10th Anniversary Commemorative Book">
+  <figcaption style="border: 1px solid;text-align:center;font: italic smaller sans-serif;">Everquest Racial Anatomy Comparisons<br/> Source: 10th Anniversary Commemorative Book</figcaption>
+</figure>
+
 ## [Barbarian](/character/races/barbarian) (BAR)
 
 * **Armor**: Large and Medium, *Cannot Wear Robes*
