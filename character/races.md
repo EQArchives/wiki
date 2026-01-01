@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T21:57:41.726Z
+date: 2026-01-01T22:01:37.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -16,7 +16,7 @@ These twelve represent the special races chosen, favored and created by the vari
 From the barbarians of the frozen north to the trolls in the southern swamps, the lands of Norrath are full of many different races, each with their own civilizations, cultures, and tolerances. Each race has its own strengths and weaknesses, as well, ranging from physical and mental abilities, class choices, and special abilities (or lack thereof). Very little will affect your character as much as your choice of race, which, once decided, you can't change during the course of your character's career.
 
 At initial launch, EverQuest had 12 playable races. 
-![EQ Racial Anatomy Comparisons](/eq_racial_anatomy_comparisons_005.jpg "Everquest Racial Anatomy Comparisons; Source: 10th Anniversary Commemorative Book" =600x){.float-right}
+
 ### Expansion Player Races
 
 *Additional races were added with later expansions, and those become available when that expansion is enabled.*
@@ -27,7 +27,7 @@ At initial launch, EverQuest had 12 playable races.
 | [Vah Shir](/character/races/vah-shir) | The Shadows of Luclin (SoL) |
 | Froglok | Legacy of Ykesha (LoY) |
 | Drakkin | The Serpent's Spine (TSS) |
-
+![EQ Racial Anatomy Comparisons](/eq_racial_anatomy_comparisons_005.jpg "Everquest Racial Anatomy Comparisons; Source: 10th Anniversary Commemorative Book" =600x){.float-right}
 ## [Barbarian](/character/races/barbarian) (BAR)
 
 * **Armor**: Large and Medium, *Cannot Wear Robes*
