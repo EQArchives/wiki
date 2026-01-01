@@ -2,13 +2,16 @@
 title: Troll (TRL)
 description: 
 published: true
-date: 2025-12-15T03:39:39.453Z
+date: 2026-01-01T18:09:45.330Z
 tags: troll, races
 editor: markdown
 dateCreated: 2025-12-15T02:42:57.368Z
 ---
 
 # Troll (TRL)
+>Despite a two-foot height difference, Trolls get along famously with Ogres, sharing similar likes, dislikes and pastimes. 
+Outdoorsy and not quite bright, they're easily recognizable due to their skin's natural green tinge. 
+\- EverQuest manual
 
 >*It should be noted that the following description was taken partially from my encounter with a huge troll Shadow Knight named Jubjub while I was travelling to this area to seek out the frogloks. I had just barely escaped with my life after finding a haunted ruin within the swamp, when I stumbled across this troll, healing quickly beneath a tree. He spared my life only because I healed him with my song and was able to entertain him with my drumming skill (and, I would later find out, because he had previously tried half-elf flesh and really didn't favor it). Some wonder why I would bother to interact with the likes of him, but I was injured and the sword he picked up when I encountered him was as long as I was tall, and covered in gore and chunks of hair and scales... Being rather intelligent, for his race, he scratched the above map in the dirt for me and gave me a description of its inhabitants, although his take on them was quite the opposite from what I express below. He warned me to never travel within, for his buddies would "smash" me. I followed his advice...*
 >
