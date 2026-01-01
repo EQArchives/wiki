@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T20:32:31.890Z
+date: 2026-01-01T20:36:15.729Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -15,6 +15,8 @@ A world in many ways similar to our own, Norrath teems with an amount of life fa
 These twelve represent the special races chosen, favored and created by the various deities and demigods that squabble over Norrath. Each race is unique, composed of varying abilities. motivations and physical make-up.
 
 From the barbarians of the frozen north to the trolls in the southern swamps, the lands of Norrath are full of many different races, each with their own civilizations, cultures, and tolerances. Each race has its own strengths and weaknesses, as well, ranging from physical and mental abilities, class choices, and special abilities (or lack thereof). Very little will affect your character as much as your choice of race, which, once decided, you can't change during the course of your character's career.
+
+At initial launch, there were 12 playable races. This increased to 13 when Kunark launched, and 14 when Luclin launched.  Each playable race has a number of Classes from which they can choose.
 
 ## Expansion Player Races
 
@@ -36,11 +38,7 @@ From the barbarians of the frozen north to the trolls in the southern swamps, th
 | [Barbarian](/character/races/barbarian) | 5% penalty |
 | [Halfling](/character/races/halfling) | 5% bonus |
 
-## PLAYABLE Races
-
-At initial launch, there were 12 playable races. This increased to 13 when Kunark launched, and 14 when Luclin launched.  Each playable race has a number of Classes from which they can choose.
-
-### [Barbarian](/character/races/barbarian) (BAR)
+## [Barbarian](/character/races/barbarian) (BAR)
 
 * **Armor**: Large and Medium, *Cannot Wear Robes*
 * **Experience Modifier**: 5% More Required per Level
@@ -59,7 +57,7 @@ Barbarians live in the frigid city of Halas, nestled amidst the icy peaks of Eve
 
 *Note: In classic-era game clients, night blindness was a real problem with Barbarians; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
 
-### [Dark Elf](/character/races/dark-elf) (DEF)
+## [Dark Elf](/character/races/dark-elf) (DEF)
 
 * **Armor**: Medium and Small
 * **Experience Modifier**: None
@@ -76,7 +74,7 @@ The Dark Elves view all other races as inferior; tools to be used for their own 
 
 There is a labyrinth of evil under the Nektulos Forest called Neriak, the home city of the Dark Elves. Its entrance is deep within gloomy shadows of the woods.
 
-### [Dwarf](/character/races/dwarf) (DWF)
+## [Dwarf](/character/races/dwarf) (DWF)
 
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
@@ -89,7 +87,7 @@ Though made lower to the ground than most races, the Dwarves created by Brell Se
 
 Dwarves have broad faces, usually with a prominent nose, and take extraordinary pride in their hair. Males often take great care to grow long beards and moustaches and females often tie their hair up in a bun. Some females also sport a finely trimmed beard.
 
-### [Erudite](/character/races/erudite) (ERU)
+## [Erudite](/character/races/erudite) (ERU)
 
 * **Armor**: Medium
 * **Experience Modifier**: None
@@ -108,7 +106,7 @@ The Erudites live in two areas on the continent of Odus near the Toxxulia Forest
 
 *Note: In classic-era game clients, night blindness was a real problem with Erudites; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
 
-### [Gnome](/character/races/gnome) (GNM)
+## [Gnome](/character/races/gnome) (GNM)
 
 * **Armor**: Small
 * **Experience Modifier**: None
@@ -127,7 +125,7 @@ The clicking of gears and clacking of machinery fill the mechanized Gnome city o
 
 *Note: In the original timeline, Gnome Paladin and Gnome Shadowknight combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).*
 
-### [Half-Elf](/character/races/half-elf) (HEF)
+## [Half-Elf](/character/races/half-elf) (HEF)
 
 * **Armor**: Medium, *Cannot Wear Robes*
 * **Experience Modifier**: None
@@ -144,7 +142,7 @@ The difficult lives of the Half Elves and their lack of ties to any one place ma
 
 While Half Elves can be seen in many areas of the world, they are primarily found in the Wood Elf city of Kelethin and within the Surefall Glade.
 
-### [Halfling](/character/races/halfling) (HFL)
+## [Halfling](/character/races/halfling) (HFL)
 
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: 5% less experience required per level
@@ -163,7 +161,7 @@ The quaint, stunted city of Rivervale lies between the Kithicor Forest and Misty
 
 *Note: In the original timeline, Halfling Paladin and Halfling Ranger combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).*
 
-### [High Elf](/character/races/high-elf) (HIE)
+## [High Elf](/character/races/high-elf) (HIE)
 
 * **Armor**: Medium, Small
 * **Experience Modifier**: None
@@ -180,7 +178,7 @@ The High Elves feel their cousins, the Wood Elves, are to be sought out as loyal
 
 The home of the High Elves is within the magnificent and pristine architecture of the city of Felwithe. The structures crafted behind the walls make the beauty of the surrounding forests pale. The city lies within the Greater Faydark on the continent of Faydwer.
 
-### [Human](/character/races/human) (HUM)
+## [Human](/character/races/human) (HUM)
 
 * **Armor**: Medium
 * **Experience Modifier**: None
@@ -199,7 +197,7 @@ The port cities of Qeynos and Freeport lie on opposite coasts of Antonica, and a
 
 *Note: In classic-era game clients, night blindness was a real problem with humans; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
 
-### [Iksar](/character/races/iksar) (IKS)
+## [Iksar](/character/races/iksar) (IKS)
 
 * **Armor**: Medium, **Cannot Wear Plate**
 * **Experience Modifier**: 20% More Required per Level
@@ -216,7 +214,7 @@ The Iksar depend only on their god and creator, Cazic Thule. Iksar are unwelcome
 
 The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Omen. It is a dark place with a maze of canals, which the Iksar use for travel around their city.
 
-### [Ogre](/character/races/ogre) (OGR)
+## [Ogre](/character/races/ogre) (OGR)
 
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 15% more experience required per level
@@ -233,7 +231,7 @@ Ogres have been known to be cannibalistic, but are more partial to eating Humans
 
 The crude tunneled city of Oggok lies within the Feerrott, a jungle-like area bordering the Innothule Swamp and Rathe Mountains in southern Antonica. The home city for the Ogres is a fairly slow-paced civilization that focuses on battle training and magic to give them an upper hand in battle.
 
-### [Troll](/character/races/troll) (TRL)
+## [Troll](/character/races/troll) (TRL)
 
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 20% more experience required per level
@@ -250,7 +248,7 @@ Trolls generally detest the other races, including other Trolls. They tend to pu
 
 The city of Grobb lies within the Innothule Swamp of Antonica. The city is infested with mosquitoes and spiders, which serve as both pets and snacks for the Trolls.
 
-### [Wood Elf](/character/races/wood-elf) (ELF)
+## [Wood Elf](/character/races/wood-elf) (ELF)
 
 * **Armor**: Medium, Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
@@ -267,7 +265,7 @@ Wood Elves get along well with most good and neutral races, and merely dislike m
 
 The Feir'Dal are at home in the trees in their intricate city of Kelethin, which hangs high above the ground between the trunks and branches of the Greater Faydark. Comprised of platforms and suspension bridges, Kelethin is both well defended and beautiful.
 
-### [Vah Shir](/character/races/vah-shir) (VAH)
+## [Vah Shir](/character/races/vah-shir) (VAH)
 * **Armor**: Large
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
