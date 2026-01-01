@@ -2,7 +2,7 @@
 title: High Elf
 description: 
 published: true
-date: 2026-01-01T20:02:04.142Z
+date: 2026-01-01T20:08:35.467Z
 tags: high elf, races, hie
 editor: markdown
 dateCreated: 2026-01-01T19:55:50.872Z
@@ -39,6 +39,13 @@ Slightly improved night vision, not as good as the [Dark Elf](/character/races/d
 
 ### Starting Locations
 New High Elf characters start in either **North Felwithe** or **South Felwithe** depending on their Class choices.
+| Class | Y | X | Z | Heading | Zone |
+| --- | --- | --- | --- | --- | --- |
+| Cleric | 14.0 | -459.0 | -1.0 | - | North Felwithe |
+| Enchanter | 425.0 | -601.0 | 29.0 | - | South Felwithe |
+| Magician | 425.0 | -601.0 | 29.0 | - | South Felwithe |
+| Paladin | 0.0 | -284.0 | 3.0 | - | North Felwithe |
+| Wizard | 425.0 | -601.0 | 29.0 | - | South Felwithe |
 
 ### Bind Location
 All new High Elf characters have a starting bind location in **The Greater Faydark** right outside the Felwithe city gates at **Y**: -2040.0, **X**: -2194.0, **Z**: 55.0.
