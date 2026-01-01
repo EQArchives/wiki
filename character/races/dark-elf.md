@@ -1,8 +1,8 @@
 ---
-title: Dark Elf (DE)
+title: Dark Elf
 description: 
 published: true
-date: 2026-01-01T18:02:58.304Z
+date: 2026-01-01T18:03:38.477Z
 tags: dark elf, races
 editor: markdown
 dateCreated: 2025-12-15T01:31:05.656Z
