@@ -2,7 +2,7 @@
 title: Iksar
 description: 
 published: true
-date: 2025-12-15T02:48:32.487Z
+date: 2026-01-01T18:15:04.032Z
 tags: iksar, races
 editor: markdown
 dateCreated: 2025-12-14T04:31:11.454Z
@@ -27,16 +27,18 @@ The Iksar live in the ancient city of Cabilis, on Kunark near the Lake of Ill Om
 - **Race Experience Modifier**: 20% More Required
 - **Armor**: Medium, Cannot Wear Plate
 - **Deities**: Cazic-Thule
+- **Language(s)**: Common Tongue(100), Dark Speech(100), Lizardman(100, racial)
+- **Abbreviation**: IKS
 
 ### Increased Armor Class
-Iksar start with a +15 AC bonus (+17 if they are a Warrior) over other races, which scales(!) with level. However, they cannot wear plate armor until the Velious expansion. 
+**Iksar** start with a +15 AC bonus (+17 if they are a Warrior) over other races, which scales(!) with level. However, they cannot wear plate armor until the Velious expansion. 
 {.is-info}
 
 ### Infravision
 Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
 
 ### Hit Point Regeneration
-Both Iksar and Trolls have higher HP regeneration rates (per tick):
+Both **Iksar** and [Trolls](/character/races/troll) have higher HP regeneration rates (per tick):
 - A "tick" happens every 6 seconds (server side).
 - It does not matter whether you are sitting or standing between seconds 1 and 5, only the 6th second. 
     
