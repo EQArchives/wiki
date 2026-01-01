@@ -2,7 +2,7 @@
 title: Dark Elf
 description: 
 published: true
-date: 2026-01-01T20:48:47.695Z
+date: 2026-01-01T22:15:23.329Z
 tags: dark elf, races
 editor: markdown
 dateCreated: 2025-12-15T01:31:05.656Z
@@ -33,6 +33,9 @@ There is a labyrinth of evil under the Nektulos Forest called Neriak, the home c
 * **Starting City**: Neriak
 * **Language(s)**: Common Tongue(100), Dark Elvish (100, racial), Dark Speech (100), Elder Elvish (100), Elvish (25)
 * **Abbreviation**: DEF
+
+### Ultravision
+Extremely improved night vision, better than Infravision. Ultravision has a slightly purple tint to it. As a racial trait, it is unique to Dark Elves. 
 
 ## New Characters
 
