@@ -2,7 +2,7 @@
 title: Halfling
 description: 
 published: true
-date: 2026-01-01T18:19:32.428Z
+date: 2026-01-01T21:05:16.365Z
 tags: halfling, races
 editor: markdown
 dateCreated: 2025-12-15T03:31:02.886Z
@@ -27,7 +27,7 @@ The quaint, stunted city of Rivervale lies between the Kithicor Forest and Misty
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: 5% less experience required per level
 * **Faction Alignment**: Good
-* **Playable Classes**: Cleric, Druid, Paladin*, Ranger*, Rogue, Warrior
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Druid](/character/classes/druid), [Paladin*](/character/classes/paladin), [Ranger*](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Hide (+50), Increased Consumption Rate, Infravision, Sneak (+50), +5 Disease Resist, +5 Poison Resist
 * **Starting City**: Rivervale
 * **Languages**: Common Tongue (100), Halfling (100, racial)
