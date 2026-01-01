@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T20:46:01.157Z
+date: 2026-01-01T20:49:58.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -34,7 +34,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Large and Medium, *Cannot Wear Robes*
 * **Experience Modifier**: 5% More Required per Level
 * **Faction Alignment**: Good
-* **Playable Classes**: Rogue, Shaman, Warrior
+* **Playable Classes**: [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Increased Consumption Rate, Slam, +10 Cold Resist
 * **Starting City**: Halas
 
@@ -45,7 +45,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Medium and Small
 * **Experience Modifier**: None
 * **Faction Alignment**: Evil
-* **Playable Classes**: Cleric, Enchanter, Magician, Necromancer, Rogue, Shadow Knight, Warrior, Wizard
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
 * **Racial(s)**: Hide, Ultravision
 * **Starting City**: Neriak
 
@@ -54,7 +54,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
 * **Faction Alignment**: Good
-* **Playable Classes**: Cleric, Paladin, Rogue, Warrior
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Paladin](/character/classes/paladin), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Barrel Roll, Infravision, Sense Heading (+50), +5 Magic Resist, +5 Poison Resist
 * **Starting City**: Kaladim
 
