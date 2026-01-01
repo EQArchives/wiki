@@ -2,7 +2,7 @@
 title: Half Elf
 description: 
 published: true
-date: 2026-01-01T20:26:07.939Z
+date: 2026-01-01T20:31:07.436Z
 tags: races, half elf, hef
 editor: markdown
 dateCreated: 2026-01-01T20:26:07.939Z
@@ -26,7 +26,7 @@ While Half Elves can be seen in many areas of the world, they are primarily foun
 * **Armor**: Medium, *Cannot Wear Robes*
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
-* **Playable Classes**: Bard, Druid, Paladin, Ranger, Rogue, Warrior
+* **Playable Classes**: [Bard](/character/classes/bard), [Druid](/character/classes/druid), [Paladin](/character/classes/paladin), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Infravision
 * **Starting City**: Freeport, Kelethin, Surefall Glade, Qeynos
 * **Language(s)**:
