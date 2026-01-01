@@ -2,13 +2,13 @@
 title: Ogre
 description: 
 published: true
-date: 2025-12-15T03:39:20.085Z
+date: 2026-01-01T18:18:44.888Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
 ---
 
-# Ogre (OGR)
+# Ogre
 
 ## Description
 With their lumbering gait and enormous breadth, Ogres are an ominous presence. Created by Rallos Zek, these massive creatures are feared in battle for their raw strength and uncanny endurance. While not very intelligent, Ogres are known to cooperate with one another quite efficiently.
