@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T22:11:08.471Z
+date: 2026-01-01T22:25:59.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -25,7 +25,7 @@ At initial launch, EverQuest had 12 playable races.
 |------|-------------------|
 | [Iksar](/character/races/iksar) | The Ruins of Kunark (RoK) |
 | [Vah Shir](/character/races/vah-shir) | The Shadows of Luclin (SoL) |
-| Froglok | Legacy of Ykesha (LoY) |
+| [Froglok](/character/races/froglok) | Legacy of Ykesha (LoY) |
 | Drakkin | The Serpent's Spine (TSS) |
 
 <figure style="float:right; border: thin silver solid; display: flex;flex-flow: column;padding:5px; margin: auto;">
