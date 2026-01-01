@@ -1,0 +1,61 @@
+---
+title: Erudite
+description: 
+published: true
+date: 2026-01-01T18:35:51.723Z
+tags: erudite, races, eru
+editor: markdown
+dateCreated: 2026-01-01T18:35:51.723Z
+---
+
+# Erudite
+>Self-pride and intellect persuade most Erudites to forego physical activity in favor of mental challenges. 
+Social grace is their forte, and they believe themselves to be the pinnacle of evolution. 
+\-EverQuest manual
+
+## Description
+The Erudites trace their ancestry back to the great mage, Erud, who led them to Odus. They are descendants of the original humans on Norrath and inherited the best of human intelligence. Their extraordinary acumen came at the price of thinner, more delicate bodies. Erudites reach about six feet tall, with some of that height attributed to their high foreheads.
+
+Unique accomplishments with magic and study have understandably led the Erudites to believe that they are the most intellectually superior race on Norrath. They are known for their serious demeanor.
+
+Most Erudites spend their days absorbed in books and tomes, or magical contemplation, and they typically do not involve themselves in matters that do not directly affect them. They often pay no regard to anyone that hasn't achieved intellectual accomplishment. That in mind, Erudites do not associate with the evil races. Even the Erudite Heretics (Such as Necromancers, Evil Aligned Clerics and Shadow-Knights) of Paineel are not fond of Dark Elves, Ogres and Trolls.
+
+The Erudites live in two areas on the continent of Odus near the Toxxulia Forest. One city, housing the purer of heart, is called Erudin - an ornate city gleaming with polished marble and babbling fountains. Paineel is the home of the rebellious Erudite Heretics who were banished from the city for delving into the forbidden realm of dark magic.
+
+## Basic Information
+* **Armor**: Medium
+* **Experience Modifier**: None
+* **Faction Alignment**: Neutral
+* **Playable Classes**: Cleric, Enchanter, Magician, Necromancer, Paladin, Shadow Knight, Wizard
+* **Racial(s)**: -5 Disease Resist, +5 Magic Resist
+* **Starting City**: Erudin, Paineel
+* **Language(s)**: Common Tongue(100), Erudian (100, racial)
+* **Abbreviation**: ERU
+
+## New Characters
+
+### Starting Locations
+New Erudite characters start in **Erudin** or **Paineel**.  Their starting city and location in the city depends on their chosen class and deity. 
+
+Necromancers, Shadowknights, and Clerics aligned to evil deities will start in Paineel.
+
+All other classes aligned to neutral or good deities will start in Erudin.
+
+### Bind Location
+New Erudites that started in Erudin will have a starting bind location in **Toxxulia Forest** at **Y**: 2230.0, **X**: 67.0, **Z**: -44.0.
+
+New Erudites that started in Paineel will have a starting bind location in **Paineel** outside the city in the "Newbie Yard" at **Y**: 800.0, **X**: 200.0, **Z**: 0.0.
+## Base Stats
+| STR | STA | AGI | DEX | WIS | INT | CHA |
+| --- | --- | --- | --- | --- | --- | --- |
+| 60 | 70 | 70 | 70 | 83 | 107 | 70 |
+## Starting Stats
+| Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cleric | | | | | | | |
+| Enchanter | | | | | | | |
+| Magician | | | | | | | |
+| Necromancer | | | | | | | |
+| Paladin | | | | | | | |
+| Shadow Knight | | | | | | | |
+| Wizard | | | | | | | |
