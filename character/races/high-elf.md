@@ -2,7 +2,7 @@
 title: High Elf
 description: 
 published: true
-date: 2026-01-01T20:08:35.467Z
+date: 2026-01-01T20:14:26.937Z
 tags: high elf, races, hie
 editor: markdown
 dateCreated: 2026-01-01T19:55:50.872Z
@@ -38,7 +38,7 @@ Slightly improved night vision, not as good as the [Dark Elf](/character/races/d
 ## New Characters
 
 ### Starting Locations
-New High Elf characters start in either **North Felwithe** or **South Felwithe** depending on their Class choices.
+High Elf Clerics and Paladins start in their guild halls in **North Felwithe**. High Elf casters start in **South Felwithe** in the caster guild tower.
 | Class | Y | X | Z | Heading | Zone |
 | --- | --- | --- | --- | --- | --- |
 | Cleric | 14.0 | -459.0 | -1.0 | - | North Felwithe |
