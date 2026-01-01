@@ -2,7 +2,7 @@
 title: Erudite
 description: 
 published: true
-date: 2026-01-01T19:09:29.098Z
+date: 2026-01-01T19:14:25.809Z
 tags: erudite, races, eru
 editor: markdown
 dateCreated: 2026-01-01T18:35:51.723Z
@@ -61,6 +61,9 @@ All other classes aligned to neutral or good deities will start in Erudin.
 New Erudites that started in Erudin will have a starting bind location in **Toxxulia Forest** at **Y**: 2230.0, **X**: 67.0, **Z**: -44.0.
 
 New Erudites that started in Paineel will have a starting bind location in **Paineel** outside the city in the "Newbie Yard" at **Y**: 800.0, **X**: 200.0, **Z**: 0.0.
+> Documentation is very scarce regarding the starting location and bind point for evil-aligned Erudites, known as Heretics, *prior to the discovery of Paineel*.  However, general consensus is that their bind point was near a cottage along the river in Toxxulia Forest, on the opposite side from Erudin.
+{.is-warning}
+
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
