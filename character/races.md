@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T20:38:21.683Z
+date: 2026-01-01T20:41:46.869Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -16,9 +16,9 @@ These twelve represent the special races chosen, favored and created by the vari
 
 From the barbarians of the frozen north to the trolls in the southern swamps, the lands of Norrath are full of many different races, each with their own civilizations, cultures, and tolerances. Each race has its own strengths and weaknesses, as well, ranging from physical and mental abilities, class choices, and special abilities (or lack thereof). Very little will affect your character as much as your choice of race, which, once decided, you can't change during the course of your character's career.
 
-At initial launch, there were 12 playable races. This increased to 13 when Kunark launched, and 14 when Luclin launched.  Each playable race has a number of Classes from which they can choose.
+At initial launch, EverQuest had 12 playable races. 
 
-## Expansion Player Races
+### Expansion Player Races
 
 *Additional races were added with later expansions, however these will not be available to play until a server is released with that expansion enabled.*
 
@@ -28,15 +28,6 @@ At initial launch, there were 12 playable races. This increased to 13 when Kunar
 | [Vah Shir](/character/races/vah-shir) | The Shadows of Luclin (SoL) |
 | Froglok | Legacy of Ykesha (LoY) |
 | Drakkin | The Serpent's Spine (TSS) |
-
-## Racial Bonuses and Penalties
-
-| Race | Modifier |
-|------|----------|
-| [Troll](/character/races/troll) | 20% penalty |
-| [Ogre](/character/races/ogre) | 15% penalty |
-| [Barbarian](/character/races/barbarian) | 5% penalty |
-| [Halfling](/character/races/halfling) | 5% bonus |
 
 ## [Barbarian](/character/races/barbarian) (BAR)
 
@@ -286,6 +277,15 @@ Their natural stealth and racially innate Safe Fall ability allow them to rank a
 As the Vah Shir have been separated from Norrath since before the split of the Combine Empire, they do not entertain any of the racial or religious tensions that most of Norrath's citizens harbor. While they are unable to receive training, evil races and classes may walk around without fear of an unprovoked attack. However, druids and rangers may find themselves quickly under siege should they employ the wolf form of speed-enhancing run spells.
 
 The ancestors of the Vah Shir race arrived on Luclin some time after the Shissar race with a small working knowledge of the Erudian language. As the Combine Empire split and its factions came to reside on Luclin, they interacted and traded with the Vah Shir. This interaction helped the Vah Shir in quickly learning the Combine Tongue language. They also employ their own racial langage when dealing with each other.
+
+## Racial Bonuses and Penalties
+
+| Race | Modifier |
+|------|----------|
+| [Troll](/character/races/troll) | 20% penalty |
+| [Ogre](/character/races/ogre) | 15% penalty |
+| [Barbarian](/character/races/barbarian) | 5% penalty |
+| [Halfling](/character/races/halfling) | 5% bonus |
 
 ## Racial Innates
 
