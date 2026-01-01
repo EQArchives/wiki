@@ -2,7 +2,7 @@
 title: High Elf
 description: 
 published: true
-date: 2026-01-01T19:55:50.872Z
+date: 2026-01-01T20:01:23.118Z
 tags: high elf, races, hie
 editor: markdown
 dateCreated: 2026-01-01T19:55:50.872Z
@@ -35,6 +35,14 @@ The home of the High Elves is within the magnificent and pristine architecture o
 ### Infravision
 Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
 
+## New Characters
+
+### Starting Locations
+New High Elf characters start in either **North Felwithe** or **South Felwithe** depending on their Class choices.
+
+### Bind Location
+All new High Elf characters have a starting bind location in **The Greater Faydark** right outside the gates of **Felwithe** at **Y**: -2040.0, **X**: -2194.0, **Z**: 55.0.
+
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -43,8 +51,8 @@ Slightly improved night vision, not as good as the [Dark Elf](/character/races/d
 ## Starting Stats
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cleric | 60 | 70 | 85 | 70 | 105 | 92 | 80 | 30 |
-| Enchanter | 55 | 65 | 85 | 70 | 95 | 102 | 90 | 30 |
-| Magician | 55 | 70 | 85 | 70 | 95 | 102 | 80 | 30 |
-| Paladin | 65 | 70 | 85 | 70 | 100 | 92 | 90 | 20 |
-| Wizard | 55 | 75 | 85 | 70 | 95 | 102 | 80 | 30 |
+| [Cleric](/character/classes/cleric) | 60 | 70 | 85 | 70 | 105 | 92 | 80 | 30 |
+| [Enchanter](/character/classes/enchanter) | 55 | 65 | 85 | 70 | 95 | 102 | 90 | 30 |
+| [Magician](/character/classes/magician) | 55 | 70 | 85 | 70 | 95 | 102 | 80 | 30 |
+| [Paladin](/character/classes/paladin) | 65 | 70 | 85 | 70 | 100 | 92 | 90 | 20 |
+| [Wizard](/character/classes/wizard) | 55 | 75 | 85 | 70 | 95 | 102 | 80 | 30 |
