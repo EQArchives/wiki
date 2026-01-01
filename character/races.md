@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T21:19:22.844Z
+date: 2026-01-01T21:22:45.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -34,7 +34,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Large and Medium, *Cannot Wear Robes*
 * **Experience Modifier**: 5% More Required per Level
 * **Faction Alignment**: Good
-* **Playable Classes**: [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
+* **Playable Classes**: [Beastlord*](/character/classes/beastlord), [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Increased Consumption Rate, Slam, +10 Cold Resist
 * **Starting City**: Halas
 
@@ -143,7 +143,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 20% more experience required per level
 * **Faction Alignment**: Evil
-* **Playable Classes**: [Beastlord](/character/classes/beastlord)*, [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
+* **Playable Classes**: [Beastlord*](/character/classes/beastlord)*, [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Increased Consumption Rate, Increased HP Regeneration, Infravision, Slam, -20 Fire Resist
 * **Starting City**: Grobb
 
