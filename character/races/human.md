@@ -2,7 +2,7 @@
 title: Human
 description: 
 published: true
-date: 2026-01-01T18:19:05.559Z
+date: 2026-01-01T21:10:33.581Z
 tags: human, races
 editor: markdown
 dateCreated: 2025-12-15T04:49:14.690Z
@@ -28,7 +28,7 @@ The port cities of Qeynos and Freeport lie on opposite coasts of Antonica, and a
 * **Armor**: Medium
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
-* **Playable Classes**: Bard, Cleric, Druid, Enchanter, Magician, Monk, Necromancer, Paladin, Ranger, Rogue, Shadow Knight, Warrior, Wizard
+* **Playable Classes**: [Bard](/character/classes/bard), [Cleric](/character/classes/cleric), [Druid](/character/classes/druid), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Monk](/character/classes/monk), [Necromancer](/character/classes/necromancer), [Paladin](/character/classes/paladin), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
 * **Racial(s)**: None*
 * **Starting City**: Freeport, Qeynos
 * **Languages**: Common Tongue (100, racial)
