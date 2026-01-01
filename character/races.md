@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T20:16:41.576Z
+date: 2026-01-01T20:17:33.204Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -127,7 +127,7 @@ The clicking of gears and clacking of machinery fill the mechanized Gnome city o
 
 *Note: In the original timeline, Gnome Paladin and Gnome Shadowknight combinations were first implemented on March 19, 2002 (4 months after Shadows of Luclin which launched December 2001).*
 
-### Half-Elf (HEF)
+### [Half-Elf](/character/races/half-elf) (HEF)
 
 * **Armor**: Medium, *Cannot Wear Robes*
 * **Experience Modifier**: None
