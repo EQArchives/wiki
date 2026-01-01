@@ -2,7 +2,7 @@
 title: Human (HUM)
 description: 
 published: true
-date: 2026-01-01T18:17:11.866Z
+date: 2026-01-01T18:17:29.985Z
 tags: human, races
 editor: markdown
 dateCreated: 2025-12-15T04:49:14.690Z
@@ -37,7 +37,7 @@ The port cities of Qeynos and Freeport lie on opposite coasts of Antonica, and a
 ## New Characters
 
 ### Starting Locations
-New Human characters start in either **Qeynos** or **Freeport** depending on their class.
+New Human characters start in either **Qeynos** or **Freeport** depending on their Class and Deity choices.
 
 ### Bind Location
 
