@@ -2,13 +2,13 @@
 title: Barbarian
 description: 
 published: true
-date: 2025-12-23T02:50:15.276Z
+date: 2026-01-01T18:20:14.666Z
 tags: barbarian, races
 editor: markdown
 dateCreated: 2025-12-14T03:57:27.547Z
 ---
 
-# Barbarian (BAR)
+# Barbarian
 
 ## Description
 The hardy race of Barbarians, or Northmen, use their wisdom and formidable brawn to defend honor and justice. Their magnificent stature is a sight to behold; even more so when it is unleashed in battle. Barbarians are one of the tallest races to walk the lands of Norrath.
