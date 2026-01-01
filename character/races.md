@@ -2,13 +2,13 @@
 title: Races
 description: 
 published: true
-date: 2026-01-01T20:36:15.729Z
+date: 2026-01-01T20:38:21.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
 ---
 
- # Races
+ # Character Races
 
 A world in many ways similar to our own, Norrath teems with an amount of life far greater than ours. The sheer number of races is mind boggling, from the imposing Ice Giants of the far North to the Lizard Men of the Oggok swamps to the feline Kerran warriors. Each of the myriad races has a unique role to play in the society and culture of Norrathian existence, but only twelve of the most important are available to be played by you.
 
@@ -20,7 +20,7 @@ At initial launch, there were 12 playable races. This increased to 13 when Kunar
 
 ## Expansion Player Races
 
-*Additional races were added by later expansions, however these will not be available to play until a server is released with that expansion enabled.*
+*Additional races were added with later expansions, however these will not be available to play until a server is released with that expansion enabled.*
 
 | Race | Expansion Required |
 |------|-------------------|
