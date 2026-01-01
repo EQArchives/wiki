@@ -2,7 +2,7 @@
 title: Wood Elf
 description: 
 published: true
-date: 2026-01-01T18:04:51.617Z
+date: 2026-01-01T18:08:00.528Z
 tags: wood elf, races
 editor: markdown
 dateCreated: 2026-01-01T18:03:57.725Z
@@ -32,6 +32,9 @@ The Feir`Dal are at home in the trees in their intricate city of Kelethin, which
 * **Language(s)**: Common Tongue (100), Elvish (100, racial)
 * **Abbreviation**: ELF
 
+### Infravision
+Slightly improved night vision, not as good as the [Dark Elf](/character/races/dark-elf)'s Ultravision.
+
 ## New Characters
 ### Starting Locations
 New Wood Elf characters start in **Kelethin**, which is a treetop city in **The Greater Faydark**. Their starting location depends on their chosen class.
@@ -44,7 +47,7 @@ New Wood Elf characters start in **Kelethin**, which is a treetop city in **The 
 | [Warrior](/character/classes/warrior) | 370.0 | 304.0 | 76.0 | - | Greater Faydark |
 
 ### Bind Location
-All new Wood Elf characters have a starting bind location in **The Greater Faydark** at Y: 192.0 X: 64.0 Z: 35.0.
+All new Wood Elf characters have a starting bind location in **The Greater Faydark** at **Y**: 192.0 **X**: 64.0 **Z**: 35.0.
 
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
