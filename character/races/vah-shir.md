@@ -2,13 +2,13 @@
 title: Vah Shir
 description: 
 published: true
-date: 2025-12-15T03:38:42.464Z
+date: 2026-01-01T18:18:22.589Z
 tags: vah shir, races
 editor: markdown
 dateCreated: 2025-12-10T03:36:43.569Z
 ---
 
-# Vah Shir (VAH)
+# Vah Shir
 
 ## Description
 The Vah Shir are a regal feline race that walk upright. They were once the ruling class of other similar cat-like races on Odus. Since being translocated onto the moon called Luclin by a collision of Erudite magic, they learned to survive and became stronger. Vah Shir are as tall as Barbarians and display a variety of different markings on their fur based on their lineage. Despite of their height, they are very agile and graceful. They are known for their integrity and the destructive feral power they bring down on their enemies.
