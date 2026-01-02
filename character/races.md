@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-02T01:42:42.595Z
+date: 2026-01-02T01:43:10.339Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -180,7 +180,7 @@ At initial launch, EverQuest had 12 playable races.
 ## Racial Innates
 
 ### Barrel Roll
-https://www.youtube.com/watch?v=xFXUYl2ljqI
+`https://www.youtube.com/watch?v=xFXUYl2ljqI`
 
 Male Dwarves have a unique jumping graphic; it is purely cosmetic (no in-game benefit).
 
