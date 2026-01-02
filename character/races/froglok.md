@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T00:47:16.283Z
+date: 2026-01-02T01:01:57.759Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -38,6 +38,8 @@ Extremely improved night vision, better than Infravision. Ultravision has a slig
 ## New Characters
 
 ### Starting Locations
+New Froglok characters start in Gukta. Their starting location depends on their chosen class.
+
 | Class | Y | X | Z | Heading | Zone |
 | --- | --- | --- | --- | --- | --- |
 | [Cleric](/character/classes/cleric) | 340.0 | -472.0 | 3.0 | 352.0 | Gukta |
