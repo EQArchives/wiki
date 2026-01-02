@@ -2,7 +2,7 @@
 title: Dark Elf
 description: 
 published: true
-date: 2026-01-01T23:59:40.657Z
+date: 2026-01-02T03:36:36.084Z
 tags: dark elf, races
 editor: markdown
 dateCreated: 2025-12-15T01:31:05.656Z
@@ -28,7 +28,7 @@ There is a labyrinth of evil under the Nektulos Forest called Neriak, the home c
 * **Armor**: Medium and Small
 * **Experience Modifier**: None
 * **Faction Alignment**: Evil
-* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), ~~Ranger (TOB)~~, [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
 * **Racial(s)**: Hide (50), Ultravision
 * **Starting City**: Neriak
 * **Language(s)**: Common Tongue(100), Dark Elvish (100, racial), Dark Speech (100), Elder Elvish (100), Elvish (25)
