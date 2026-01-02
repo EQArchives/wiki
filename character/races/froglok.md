@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T00:37:42.763Z
+date: 2026-01-02T00:47:16.283Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -25,7 +25,7 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
 * **Faction Alignment**: Good except for evil-aligned classes
 * **Playable Classes**: [Cleric](/character/classes/cleric), [Necromancer*](/character/classes/necromancer), [Paladin](/character/classes/paladin), [Rogue*](/character/classes/rogue), [Shadowknight*](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
 * **Racial(s)**: +15 PR, +5 MR, Swimming (125), Ultravision
-* **Starting City**: Gukta (later Rathe Mountains)
+* **Starting City**: Gukta (becomes Rathe Mountains after August 11, 2005 patch on EQ Live)
 * **Language(s)**: Common Tongue(100), Guktan(100, racial), Troll (25)
 * **Abbreviation**: FRG
 
@@ -38,7 +38,13 @@ Extremely improved night vision, better than Infravision. Ultravision has a slig
 ## New Characters
 
 ### Starting Locations
-
+| Class | Y | X | Z | Heading | Zone |
+| --- | --- | --- | --- | --- | --- |
+| [Cleric](/character/classes/cleric) | 340.0 | -472.0 | 3.0 | 352.0 | Gukta |
+| [Paladin](/character/classes/paladin) | 391.0 | -444.0 | 3.0 | 38.0 | Gukta |
+| [Shaman](/character/classes/shaman) | 383.0 | -424.0 | 3.0 | 165.0 | Gukta |
+| [Wizard](/character/classes/wizard) | 385.0 | -483.0 | 3.0 | 459.0 | Gukta |
+| [Warrior](/character/classes/warrior) | 319.0 | -433.0 | 3.0 | 226.0 | Gukta |
 
 ### Starting Bind Point
 The starting bind point for Frogloks starting in Gukta is in **Innothule Swamp** at **Y**: -2408.00, **X**: -339.00, **Z**: -18.32.
