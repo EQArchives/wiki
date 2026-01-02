@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T01:39:08.278Z
+date: 2026-01-02T01:39:37.575Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -26,7 +26,8 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
     * CotF - March 10, 2014[^3]: Quellious
 * **Experience Modifier**: None
 * **Faction Alignment**: Good except for evil-aligned classes
-* **Playable Classes**: [Cleric](/character/classes/cleric), [Paladin](/character/classes/paladin), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
+* **Playable Classes**: 
+    * LoY release: [Cleric](/character/classes/cleric), [Paladin](/character/classes/paladin), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
     * DoDH - August 11, 2005[^1][^2]: ~~[Necromancer*](/character/classes/necromancer),[Rogue*](/character/classes/rogue), [Shadowknight*](/character/classes/shadowknight)~~
     * CotF - March 10, 2014[^3] - ~~[Monk](/character/classes/monk)~~
 * **Racial(s)**: +15 PR, +5 MR, Swimming (125), Ultravision
