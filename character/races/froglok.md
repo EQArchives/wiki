@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T01:40:30.488Z
+date: 2026-01-02T01:41:11.047Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -75,6 +75,7 @@ The starting bind point for Frogloks starting in Gukta is in **Innothule Swamp**
 | Wizard | 70 | 90 | 100 | 100 | 75 | 85 | 50 | 30 |
 
 ---
+### Footnotes
 [^1]: The end of The War between Frogloks and Trolls ended in the patch on August 11, 2005 patch on EQ Live.  This marks the Trolls retaking Grobb (or the Fall of Gukta) when the Frogloks fled to their tent sanctuary in the Rathe Mountains.  Available online at https://github.com/nazwadi/patcheq/blob/master/patches-2005-2.txt#L101.  Last accessed January 1, 2026.
 [^2]: "Evil Frogloks!". Published August 12, 2005.  Available online at https://www.everquest.com/news/imported-eq-enus-50026. Last accessed January 1, 2026.  An archived version of the original article is available at https://web.archive.org/web/20051013072302/http://eqlive.station.sony.com/news_section/newsview.jsp?story=50026.  This coincides with the end of The War in August 11, 2005 when the Trolls retook Grobb, and the Frogloks fled to Rathe Mountains.
 [^3]: "A Letter to Froglok Monks". Published March 10, 2014.  Available online at https://www.everquest.com/news/a-letter-to-froglok-monks . Last accessed January 1, 2026. This occurred towards the end of the Call of the Forsaken expansion and a few months before The Darkened Sea expansion.
