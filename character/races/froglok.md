@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T01:35:59.050Z
+date: 2026-01-02T01:36:31.750Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -22,8 +22,8 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
 * **Armor**: Small, Medium
 * **Deities**: 
     * LoY release: Mithaniel Marr
-    * August 11, 2005[^1][^2]: Innoruuk
-    * March 10, 2014[^3]: Quellious
+    * DoDH - August 11, 2005[^1][^2]: Innoruuk
+    * CotF - March 10, 2014[^3]: Quellious
 * **Experience Modifier**: None
 * **Faction Alignment**: Good except for evil-aligned classes
 * **Playable Classes**: [Cleric](/character/classes/cleric), [Paladin](/character/classes/paladin), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
