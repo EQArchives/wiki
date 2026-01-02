@@ -2,7 +2,7 @@
 title: Troll
 description: 
 published: true
-date: 2026-01-01T18:11:47.197Z
+date: 2026-01-02T03:24:02.454Z
 tags: troll, races
 editor: markdown
 dateCreated: 2025-12-15T02:42:57.368Z
@@ -30,7 +30,7 @@ The city of Grobb lies within the Innothule Swamp of Antonica. The city is infes
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 20% more experience required per level
 * **Faction Alignment**: Evil
-* **Playable Classes**: [Beastlord](/character/classes/beastlord)*, [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
+* **Playable Classes**: [Beastlord](/character/classes/beastlord)*, ~~Berserker (GoD)~~, [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Increased Consumption Rate, Increased HP Regeneration, Infravision, Slam, -20 Fire Resist
 * **Starting City**: Grobb
 * **Languages**: Common Tongue (100), Dark Speech (100), Troll (100, racial)
