@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T01:24:37.791Z
+date: 2026-01-02T01:28:27.032Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -20,8 +20,9 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
 
 ## Basic Information
 * **Armor**: Small, Medium
-* **Deities**: Mithaniel Marr
-    * 2005: Innoruuk*
+* **Deities**: 
+    * LoY release: Mithaniel Marr
+    * August 12, 2005[^1]: Innoruuk*
     * 2014: Quellious*
 * **Experience Modifier**: None
 * **Faction Alignment**: Good except for evil-aligned classes
@@ -74,5 +75,5 @@ The starting bind point for Frogloks starting in Gukta is in **Innothule Swamp**
 | Wizard | 70 | 90 | 100 | 100 | 75 | 85 | 50 | 30 |
 
 ---
-[^1]: "Evil Frogloks!". Available online at https://www.everquest.com/news/imported-eq-enus-50026. Last accessed January 1, 2026.  An archived version of the original article is available at https://web.archive.org/web/20051013072302/http://eqlive.station.sony.com/news_section/newsview.jsp?story=50026.
+[^1]: "Evil Frogloks!". Available online at https://www.everquest.com/news/imported-eq-enus-50026. Last accessed January 1, 2026.  An archived version of the original article is available at https://web.archive.org/web/20051013072302/http://eqlive.station.sony.com/news_section/newsview.jsp?story=50026.  This coincides with the end of The War in August 11, 2005 when the Trolls retook Grobb, and the Frogloks fled to Rathe Mountains.
 [^2]: "A Letter to Froglok Monks".  Available online at https://www.everquest.com/news/a-letter-to-froglok-monks
