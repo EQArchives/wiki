@@ -2,7 +2,7 @@
 title: Clients List
 description: A list of EverQuest game clients released over the years
 published: true
-date: 2026-01-02T00:56:54.936Z
+date: 2026-01-02T00:57:39.190Z
 tags: research, clients, game clients
 editor: markdown
 dateCreated: 2025-08-11T01:38:20.490Z
