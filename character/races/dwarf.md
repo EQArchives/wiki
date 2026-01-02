@@ -2,7 +2,7 @@
 title: Dwarf
 description: 
 published: true
-date: 2026-01-01T20:50:00.829Z
+date: 2026-01-02T03:22:34.281Z
 tags: dwarf, dwarves
 editor: markdown
 dateCreated: 2025-12-29T03:43:49.052Z
@@ -23,7 +23,7 @@ Dwarves have broad faces, usually with a prominent nose, and take extraordinary 
 * **Armor**: Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
 * **Faction Alignment**: Good
-* **Playable Classes**: [Cleric](/character/classes/cleric), [Paladin](/character/classes/paladin), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
+* **Playable Classes**: ~~Berseker (GoD)~~, [Cleric](/character/classes/cleric), [Paladin](/character/classes/paladin), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Barrel Roll, Infravision, Sense Heading (+50), +5 Magic Resist, +5 Poison Resist
 * **Starting City**: Kaladim
 * **Languages**: Common Tongue (100), Dwarvish (100, racial), Gnomish (25)
