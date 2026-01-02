@@ -2,7 +2,7 @@
 title: Barbarian
 description: 
 published: true
-date: 2026-01-01T21:25:00.601Z
+date: 2026-01-02T03:21:56.470Z
 tags: barbarian, races
 editor: markdown
 dateCreated: 2025-12-14T03:57:27.547Z
@@ -23,7 +23,7 @@ Barbarians live in the frigid city of Halas, nestled amidst the icy peaks of Eve
 * **Armor**: Large and Medium, *Cannot Wear Robes*
 * **Experience Modifier**: 5% More Required per Level
 * **Faction Alignment**: Good
-* **Playable Classes**: [Beastlord*](/character/classes/beastlord), [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
+* **Playable Classes**: ~~Berserker (GoD)~~, [Beastlord*](/character/classes/beastlord), [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Increased Consumption Rate, Slam, +10 Cold Resist
 * **Starting City**: Halas
 
