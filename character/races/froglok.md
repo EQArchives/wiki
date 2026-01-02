@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T00:29:35.704Z
+date: 2026-01-02T00:36:04.357Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -28,6 +28,9 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
 * **Starting City**: Gukta (later Rathe Mountains)
 * **Language(s)**: Common Tongue(100), Guktan(100, racial), Troll (25)
 * **Abbreviation**: FRG
+
+> Frogloks didn't follow Innoruuk until the Depths of Darkhallow expansion released.
+{.is-warning}
 
 ### Ultravision
 Extremely improved night vision, better than Infravision. Ultravision has a slightly purple tint to it. As a racial trait, it was unique to Dark Elves until the Legacy of Ykesha expansion when Frogloks became playable.
