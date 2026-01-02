@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T01:07:06.722Z
+date: 2026-01-02T01:24:37.791Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -20,16 +20,20 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
 
 ## Basic Information
 * **Armor**: Small, Medium
-* **Deities**: Mithaniel Marr, Quellious, Innoruuk*
+* **Deities**: Mithaniel Marr
+    * 2005: Innoruuk*
+    * 2014: Quellious*
 * **Experience Modifier**: None
 * **Faction Alignment**: Good except for evil-aligned classes
 * **Playable Classes**: [Cleric](/character/classes/cleric), [Paladin](/character/classes/paladin), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
-    * DoDH: [Necromancer*](/character/classes/necromancer),[Rogue*](/character/classes/rogue), [Shadowknight*](/character/classes/shadowknight),
+    * DoDH - August 12, 2005[^1]: ~~[Necromancer*](/character/classes/necromancer),[Rogue*](/character/classes/rogue), [Shadowknight*](/character/classes/shadowknight)~~
+    * 2014 - ~~[Monk](/character/classes/monk)~~
 * **Racial(s)**: +15 PR, +5 MR, Swimming (125), Ultravision
 * **Starting City**: Gukta (becomes Rathe Mountains after August 11, 2005 patch on EQ Live)
 * **Language(s)**: Common Tongue(100), Guktan(100, racial), Troll (25)
 * **Abbreviation**: FRG
 
+>During the events of The War in 2005, the trolls reclaimed Grobb with the assistance of the Teir'Dal. Gukta was relocated to the Rathe Mountains. The Frogloks, distraught at their loss, took to darker magics and deception to assist in gaining their old home back. Frogloks can now, in addition to the aforementioned classes, play as necromancers, rogues, and shadow knights. In 2014, Monks became a playable class for Frogloks.[^2]
 > Frogloks didn't follow Innoruuk until the Depths of Darkhallow expansion released.
 {.is-warning}
 
@@ -68,3 +72,7 @@ The starting bind point for Frogloks starting in Gukta is in **Innothule Swamp**
 | Shaman | 70 | 85 | 100 | 100 | 85 | 75 | 55 | 30 |
 | Warrior | 80 | 90 | 105 | 100 | 75 | 75 | 50 | 25 |
 | Wizard | 70 | 90 | 100 | 100 | 75 | 85 | 50 | 30 |
+
+---
+[^1]: "Evil Frogloks!". Available online at https://www.everquest.com/news/imported-eq-enus-50026. Last accessed January 1, 2026.  An archived version of the original article is available at https://web.archive.org/web/20051013072302/http://eqlive.station.sony.com/news_section/newsview.jsp?story=50026.
+[^2]: "A Letter to Froglok Monks".  Available online at https://www.everquest.com/news/a-letter-to-froglok-monks
