@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-02T02:15:41.057Z
+date: 2026-01-02T03:36:02.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -49,7 +49,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Medium and Small
 * **Experience Modifier**: None
 * **Faction Alignment**: Evil
-* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Necromancer](/character/classes/necromancer), ~~Ranger (TOB)~~, [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
 * **Racial(s)**: Hide, Ultravision
 * **Starting City**: Neriak
 
@@ -164,7 +164,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Large
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
-- **Playable Classes:** [Bard](/character/classes/bard), [Beastlord](/character/classes/beastlord), ~~Berserker (GoD)~~, [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
+- **Playable Classes:** [Bard](/character/classes/bard), [Beastlord](/character/classes/beastlord), ~~Berserker (GoD)~~, ~~Druid (SoR)~~, [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Safe Fall, Infravision
 * **Starting City**: Shar Vhal
 
