@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T01:39:37.575Z
+date: 2026-01-02T01:40:30.488Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -35,8 +35,7 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
 * **Language(s)**: Common Tongue(100), Guktan(100, racial), Troll (25)
 * **Abbreviation**: FRG
 
->During the events of The War in 2005, the trolls reclaimed Grobb with the assistance of the Teir'Dal. Gukta was relocated to the Rathe Mountains. The Frogloks, distraught at their loss, took to darker magics and deception to assist in gaining their old home back. Frogloks can now, in addition to the aforementioned classes, play as necromancers, rogues, and shadow knights. In 2014, Monks became a playable class for Frogloks.[^3]
-> Frogloks didn't follow Innoruuk until the Depths of Darkhallow expansion released.
+>During the events of The War in 2005, the trolls reclaimed Grobb with the assistance of the Teir'Dal. Gukta was relocated to the Rathe Mountains. The Frogloks, distraught at their loss, took to darker magics and deception to assist in gaining their old home back. Frogloks can now, in addition to the aforementioned classes, play as necromancers, rogues, and shadow knights[^1][^2]. In 2014, Monks became a playable class for Frogloks.[^3]
 {.is-warning}
 
 ### Ultravision
