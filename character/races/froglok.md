@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T01:41:11.047Z
+date: 2026-01-02T01:50:22.139Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -37,6 +37,9 @@ Being swamp-dwelling creatures, the Frogloks are particularly resistant to poiso
 
 >During the events of The War in 2005, the trolls reclaimed Grobb with the assistance of the Teir'Dal. Gukta was relocated to the Rathe Mountains. The Frogloks, distraught at their loss, took to darker magics and deception to assist in gaining their old home back. Frogloks can now, in addition to the aforementioned classes, play as necromancers, rogues, and shadow knights[^1][^2]. In 2014, Monks became a playable class for Frogloks.[^3]
 {.is-warning}
+
+>Evil Frogloks is supported by the EverQuest Titanium Client (January 10, 2006) and RoF2 clients.
+{.is-success}
 
 ### Ultravision
 Extremely improved night vision, better than Infravision. Ultravision has a slightly purple tint to it. As a racial trait, it was unique to Dark Elves until the Legacy of Ykesha expansion when Frogloks became playable.
