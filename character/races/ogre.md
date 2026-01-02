@@ -2,7 +2,7 @@
 title: Ogre
 description: 
 published: true
-date: 2026-01-01T21:15:22.853Z
+date: 2026-01-02T03:23:19.274Z
 tags: ogre, races
 editor: markdown
 dateCreated: 2025-12-15T02:02:41.615Z
@@ -23,7 +23,7 @@ The crude tunneled city of Oggok lies within the Feerrott, a jungle-like area bo
 * **Armor**: Large, *Cannot Wear Robes*
 * **Experience Modifier**: 15% more experience required per level
 * **Faction Alignment**: Evil
-* **Playable Classes**: [Beastlord*](/character/classes/beastlord), [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
+* **Playable Classes**: [Beastlord*](/character/classes/beastlord), ~~Berserker (GoD)~~, [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Increased Consumption Rate, Infravision, Frontal Stun Immunity, Slam
 * **Starting City**: Oggok
 * **Known Languages**: Common Tongue (100), Dark Speech (100), Ogre (100, racial)
