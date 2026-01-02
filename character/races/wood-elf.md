@@ -2,7 +2,7 @@
 title: Wood Elf
 description: 
 published: true
-date: 2026-01-01T21:16:30.823Z
+date: 2026-01-02T03:25:22.269Z
 tags: wood elf, races
 editor: markdown
 dateCreated: 2026-01-01T18:03:57.725Z
@@ -26,7 +26,7 @@ The Feir`Dal are at home in the trees in their intricate city of Kelethin, which
 * **Armor**: Medium, Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
 * **Faction Alignment**: Good
-* **Playable Classes**: [Bard](/character/classes/bard), [Druid](/character/classes/druid), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
+* **Playable Classes**: [Bard](/character/classes/bard), ~~Beastlord (HoT)~~, [Druid](/character/classes/druid), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Forage (50), Hide (50), Infravision
 * **Starting City**: Kelethin
 * **Language(s)**: Common Tongue (100), Elvish (100, racial)
