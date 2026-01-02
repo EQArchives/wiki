@@ -2,7 +2,7 @@
 title: Clients List
 description: A list of EverQuest game clients released over the years
 published: true
-date: 2025-08-11T01:38:24.167Z
+date: 2026-01-02T00:56:54.936Z
 tags: research, clients, game clients
 editor: markdown
 dateCreated: 2025-08-11T01:38:20.490Z
@@ -24,7 +24,7 @@ dateCreated: 2025-08-11T01:38:20.490Z
 | TAKP Client | December 2002 | This client is semi-unofficial. It was slightly modified by The Al'Kabor Project from the MAC client built for The Al'Kabor Server |
 | Everquest: Macintosh Edition | June 24, 2003 | In theory, TAKP client is based on this. See https://www.sony.com/en_us/SCA/company-news/press-releases/sony-online-entertainment/2003/everquest-macintosh-edition-now-available-for-mac-gamers.html |
 | The Legacy of Ykesha | February 2003 | |
-| **Everquest Evolution** | August 25, 2003 | Original game plus all of the expansion packs released so far: The Ruins of Kunark, The Scars of Velious, The Shadows of Luclin, The Planes of Power, and The Legacy of Ykesha. |
+| **Everquest Evolution** | July 10, 2003 (August 25, 2003 release) | Original game plus all of the expansion packs released so far: The Ruins of Kunark, The Scars of Velious, The Shadows of Luclin, The Planes of Power, and The Legacy of Ykesha. |
 | Lost Dungeons of Norrath | September 2003 | |
 | Gates of Discord | February 2004 | |
 | Omens of War | September 2004 | |
