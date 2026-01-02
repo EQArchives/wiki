@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2026-01-02T01:56:51.293Z
+date: 2026-01-02T02:03:56.925Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -13,7 +13,7 @@ dateCreated: 2025-10-30T13:15:40.003Z
 **At a Glance**
 - **Release Date:** February 25, 2003
 - **Level Range:** 36-60 (new zones)
-- **New Playable Race:** Frogloks
+- **New Playable Race:** [Frogloks](/character/races/froglok)
 - **New Zones:** 5 (Broken Skull Rock region)
 - **Key Features:** Armor dyeing, charm equipment slot, enhanced guild management, expanded bank slots, overhead mapping system
 
@@ -51,7 +51,7 @@ But not all trolls retreated to the dark elf city. The Broken Skull Clan, long r
 
 ## The Froglok Race
 ![froglok_race.png](/froglok_race.png =250x)
-Frogloks are now available as a playable race—an amicable, **good-aligned*** people with a complex history. They worship Mithaniel Marr, a deity of honor and valor. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
+[Frogloks](/character/races/froglok) are now available as a playable race—an amicable, **good-aligned*** people with a complex history. They worship Mithaniel Marr, a deity of honor and valor. These intelligent amphibians possess superior night vision and natural swimming abilities, making them formidable in their native swamps.
 
 >Froglok's are good-aligned at expansion release until The Fall of Gukta when some Froglok's adopt evil-aligned classes (see below).
 {.is-info}
