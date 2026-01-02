@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2025-12-24T00:08:45.085Z
+date: 2026-01-02T01:56:51.293Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -27,7 +27,7 @@ The Legacy of Ykesha is EverQuest's fifth expansion, bringing significant change
 But not all trolls retreated to the dark elf city. The Broken Skull Clan, long rivals of the Grobb trolls, established themselves on Broken Skull Rock—a treacherous island off the southern coast of Antonica. This is where your journey into the expansion begins.
 
 ## Detailed Guides
-- **[Froglok Starting Guide](/expansions/the_legacy_of_ykesha/froglok_guide)** - TODO
+- **[Froglok Starting Guide](/expansions/the_legacy_of_ykesha/froglok_guide)** - Contributions appreciated!
 - **[Faction Guide](/expansions/the_legacy_of_ykesha/faction_guide)** - Details in-game reputation factions (e.g., Broken Skull Clan, Pirates of Gunthak) and lore groups (Luggalds, Clan Ykesha) introduced in Legacy of Ykesha
 - **[Launch Week Strategy](/expansions/the_legacy_of_ykesha/launch_week_strategy)** - What you should expect when the expansion releases.
 - Leveling Guide
