@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T00:36:04.357Z
+date: 2026-01-02T00:37:42.763Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
