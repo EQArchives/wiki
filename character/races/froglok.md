@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T00:23:59.560Z
+date: 2026-01-02T00:29:21.957Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -35,6 +35,7 @@ Extremely improved night vision, better than Infravision. Ultravision has a slig
 ## New Characters
 
 ### Starting Locations
+
 
 ### Starting Bind Point
 The starting bind point for Frogloks starting in Gukta is in Innothule Swamp at **Y**: -2408.00, **X**: -339.00, **Z**: -18.32.
