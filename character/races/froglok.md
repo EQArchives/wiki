@@ -2,7 +2,7 @@
 title: Froglok
 description: 
 published: true
-date: 2026-01-02T00:01:12.892Z
+date: 2026-01-02T00:10:28.396Z
 tags: races, froglok, frg
 editor: markdown
 dateCreated: 2026-01-01T22:56:19.268Z
@@ -41,15 +41,16 @@ Extremely improved night vision, better than Infravision. Ultravision has a slig
 ## Base Stats
 | STR | STA | AGI | DEX | WIS | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- |
+| 70 | 80 | 100 | 100 | 75 | 75 | 50 |
 
 ## Starting Statistics
 | Class | STR | STA | AGI | DEX | WIS | INT | CHA | Bonus Points |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cleric | | | | | | | |
-| Necromancer* | | | | | | | |
-| Paladin | | | | | | | |
-| Rogue* | | | | | | | |
-| Shadowknight* | | | | | | | |
-| Shaman | | | | | | | |
-| Warrior | | | | | | | |
-| Wizard | | | | | | | |
+| Cleric | 75 | 85 | 100 | 100 | 85 | 75 | 50 | 30 |
+| Necromancer* | 70 | 80 | 100 | 110 | 75 | 85 | 50 | 30 |
+| Paladin | 80 | 85 | 100 | 100 | 80 | 75 | 60 | 20 |
+| Rogue* | 70 | 80 | 110 | 110 | 75 | 75 | 50 | 30 |
+| Shadowknight* | 80 | 85 | 100 | 100 | 75 | 85 | 55 | 20 |
+| Shaman | 70 | 85 | 100 | 100 | 85 | 75 | 55 | 30 |
+| Warrior | 80 | 90 | 105 | 100 | 75 | 75 | 50 | 25 |
+| Wizard | 70 | 90 | 100 | 100 | 75 | 85 | 50 | 30 |
