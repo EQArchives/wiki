@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-02T01:43:10.339Z
+date: 2026-01-02T02:09:03.232Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -156,7 +156,7 @@ At initial launch, EverQuest had 12 playable races.
 * **Armor**: Medium, Small, *Cannot Wear Robes*
 * **Experience Modifier**: None
 * **Faction Alignment**: Good
-* **Playable Classes**: [Bard](/character/classes/bard), [Druid](/character/classes/druid), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
+* **Playable Classes**: [Bard](/character/classes/bard), ~~Beastlord (HoT)~~, [Druid](/character/classes/druid), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Warrior](/character/classes/warrior)
 * **Racial(s)**: Forage, Hide, Infravision
 * **Starting City**: Kelethin
 
