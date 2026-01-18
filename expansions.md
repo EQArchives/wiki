@@ -2,7 +2,7 @@
 title: Expansions
 description: A list of EverQuest expansions
 published: true
-date: 2025-12-24T00:26:45.321Z
+date: 2026-01-18T02:16:05.994Z
 tags: expansions
 editor: markdown
 dateCreated: 2025-10-31T17:30:21.565Z
@@ -22,7 +22,7 @@ Besides the obvious need for the list, matching release dates to expansion numbe
 | 6 |  | Lost Dungeons of Norrath | Sony Online Entertainment | Sony Online Entertainment | NA: September 9, 2003, EU: September 12, 2003 |
 | 7 |  | Gates of Discord | Sony Online Entertainment | Sony Online Entertainment | February 10, 2004 |
 | 8 |  | Omens of War | Sony Online Entertainment | Sony Online Entertainment | September 14, 2004 |
-| 9 |  | Dragons of Norrath | Sony Online Entertainment | Sony Online Entertainment | February 15, 2005 |
+| 9 |  | [Dragons of Norrath](/expansions/dragons_of_norrath) | Sony Online Entertainment | Sony Online Entertainment | February 15, 2005 |
 | 10 |  | Depths of Darkhollow | Sony Online Entertainment | Sony Online Entertainment | September 13, 2005 |
 | 11 |  | Prophecy of Ro | Sony Online Entertainment | Sony Online Entertainment | February 21, 2006 |
 | 12 |  | The Serpent's Spine | Sony Online Entertainment | Sony Online Entertainment | September 19, 2006 |
