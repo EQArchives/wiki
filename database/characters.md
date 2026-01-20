@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-20T06:37:24.864Z
+date: 2026-01-20T06:39:59.667Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -43,10 +43,8 @@ FROM account
 WHERE name LIKE "soandso%";
 ```
 
-## Tables That Should be Copied Forward from TAKP Schema
-
-### character_alternate_abilities - AA progression
-#### TAKP Format
+## character_alternate_abilities
+### TAKP Format
 ```sql
 +----------+-----------------------+------+-----+---------+-------+
 | Field    | Type                  | Null | Key | Default | Extra |
@@ -57,7 +55,7 @@ WHERE name LIKE "soandso%";
 | aa_value | smallint(11) unsigned | NO   |     | 0       |       |
 +----------+-----------------------+------+-----+---------+-------+
 ```
-#### PEQ Format
+### PEQ Format
 ```sql
 +----------+-----------------------+------+-----+---------+-------+
 | Field    | Type                  | Null | Key | Default | Extra |
@@ -68,8 +66,8 @@ WHERE name LIKE "soandso%";
 | charges  | smallint(11) unsigned | NO   |     | 0       |       |
 +----------+-----------------------+------+-----+---------+-------+
 ```
-### character_bind - Bind points
-#### TAKP Format
+## character_bind
+### TAKP Format
 ```sql
 +---------+-----------------------+------+-----+---------+----------------+
 | Field   | Type                  | Null | Key | Default | Extra          |
@@ -84,7 +82,7 @@ WHERE name LIKE "soandso%";
 +---------+-----------------------+------+-----+---------+----------------+
 ```
 
-#### PEQ Format
+### PEQ Format
 ```sql
 +-------------+------------------------+------+-----+---------+----------------+
 | Field       | Type                   | Null | Key | Default | Extra          |
@@ -99,9 +97,9 @@ WHERE name LIKE "soandso%";
 | heading     | float                  | NO   |     | 0       |                |
 +-------------+------------------------+------+-----+---------+----------------+
 ```
-- character_buffs - Active buffs
-- character_currency - Money (platinum, gold, silver, copper)
-- character_data - Core character info (name, level, class, race, stats, etc.)
+## character_buffs
+## character_currency
+## character_data
 #### PEQ Format
 ```sql
 +-------------------------+-----------------------+------+-----+---------+----------------+
@@ -216,10 +214,10 @@ WHERE name LIKE "soandso%";
 +-------------------------+-----------------------+------+-----+---------+----------------+
 106 rows in set (0.002 sec)
 ```
-- character_faction_values - Faction standings
-- character_inventory - Items in inventory/equipped
-- character_keyring - Keys collected
-- character_languages - Language skills
-- character_memmed_spells - Memorized spells
-- character_skills - Skill values
-- character_spells - Learned spells/scribed spells
+## character_faction_values
+## character_inventory
+## character_keyring
+## character_languages
+## character_memmed_spells
+## character_skills
+## character_spells
