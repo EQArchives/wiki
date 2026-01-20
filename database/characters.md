@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-20T06:41:47.080Z
+date: 2026-01-20T06:43:41.149Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -10,7 +10,57 @@ dateCreated: 2026-01-20T03:13:49.975Z
 
 # Character Migration
 ## login_accounts
+### PEQ Format
+```sql
++--------------------+------------------+------+-----+---------------------+-------+
+| Field              | Type             | Null | Key | Default             | Extra |
++--------------------+------------------+------+-----+---------------------+-------+
+| id                 | int(11) unsigned | NO   | PRI | NULL                |       |
+| account_name       | varchar(50)      | NO   |     | NULL                |       |
+| account_password   | text             | NO   |     | NULL                |       |
+| account_email      | varchar(100)     | NO   |     | NULL                |       |
+| source_loginserver | varchar(64)      | YES  | MUL | NULL                |       |
+| last_ip_address    | varchar(80)      | NO   |     | NULL                |       |
+| last_login_date    | datetime         | NO   |     | NULL                |       |
+| created_at         | datetime         | YES  |     | NULL                |       |
+| updated_at         | datetime         | YES  |     | current_timestamp() |       |
++--------------------+------------------+------+-----+---------------------+-------+
+9 rows in set (0.001 sec)
+```
 ## account
+### PEQ Format
+```sql
++---------------------+---------------------+------+-----+---------+----------------+
+| Field               | Type                | Null | Key | Default | Extra          |
++---------------------+---------------------+------+-----+---------+----------------+
+| id                  | int(11)             | NO   | PRI | NULL    | auto_increment |
+| name                | varchar(30)         | NO   | MUL |         |                |
+| charname            | varchar(64)         | NO   |     |         |                |
+| auto_login_charname | varchar(64)         | NO   |     |         |                |
+| sharedplat          | int(11) unsigned    | NO   |     | 0       |                |
+| password            | varchar(50)         | NO   |     |         |                |
+| status              | int(5)              | NO   |     | 0       |                |
+| ls_id               | varchar(64)         | YES  | MUL | eqemu   |                |
+| lsaccount_id        | int(11) unsigned    | YES  |     | NULL    |                |
+| gmspeed             | tinyint(3) unsigned | NO   |     | 0       |                |
+| invulnerable        | tinyint(4)          | YES  |     | 0       |                |
+| flymode             | tinyint(4)          | YES  |     | 0       |                |
+| ignore_tells        | tinyint(4)          | YES  |     | 0       |                |
+| revoked             | tinyint(3) unsigned | NO   |     | 0       |                |
+| karma               | int(5) unsigned     | NO   |     | 0       |                |
+| minilogin_ip        | varchar(32)         | NO   |     |         |                |
+| hideme              | tinyint(4)          | NO   |     | 0       |                |
+| rulesflag           | tinyint(1) unsigned | NO   |     | 0       |                |
+| suspendeduntil      | datetime            | YES  |     | NULL    |                |
+| time_creation       | int(10) unsigned    | NO   |     | 0       |                |
+| ban_reason          | text                | YES  |     | NULL    |                |
+| suspend_reason      | text                | YES  |     | NULL    |                |
+| crc_eqgame          | text                | YES  |     | NULL    |                |
+| crc_skillcaps       | text                | YES  |     | NULL    |                |
+| crc_basedata        | text                | YES  |     | NULL    |                |
++---------------------+---------------------+------+-----+---------+----------------+
+25 rows in set (0.002 sec)
+```
 ### select from takp db for peq db insertion
 The following query in a TAKP schema will retrieve account data and add additional fields left as blank for eqemu.
 ```sql
