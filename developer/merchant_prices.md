@@ -2,42 +2,68 @@
 title: Merchant Pricing
 description: 
 published: true
-date: 2026-01-22T19:18:45.225Z
+date: 2026-01-22T19:20:26.652Z
 tags: merchant, pricing, developer, prices, vendor, price
 editor: markdown
 dateCreated: 2026-01-22T19:18:45.225Z
 ---
 
-# Factors Affecting Merchant Pricing
-### Key Price Formula                                                
-When buying from a merchant:                                                                          
-`Final Price = item->Price × item->SellRate × CalcPriceMod(npc)`
+# Merchant Pricing
 
-### Main Factors Affecting Price
+## Price Formula
 
-1. **CalcPriceMod()** - zone/client.cpp:3023-3107                       
+When buying from a merchant, the final price is calculated as:
 
-This is the core price modifier based on:
+```
+Final Price = item->Price × item->SellRate × CalcPriceMod(npc)
+```
 
-* Charisma - Higher CHA = better prices
-* Faction - Amiable or better grants +11 CHA bonus
-* NPC Greed - Increases prices (default vendor markup is 25%)                                                                                
-2. **SellRate** - Item database field                                                         
-A multiplier stored per item in the database (item_data.h:285)                                                                       
-3. **NPC Greed** - zone/npc.cpp:2569-2593                                                 * Can be fixed in database (npc_types.greed field)
-* Or dynamic if Merchant:UseGreed rule is enabled (increases with shop_count)                                                                 
-The math: 2600cp / 500cp = 5.2x multiplier                                                                                                                                           
-Possible causes:                                                                                                                          
-1. SellRate in database - Check if the item has SellRate = 5.2 instead of 1.0                                                              
-2. High NPC greed - Nimren Stonecutter may have a greed value set in npc_types                                                     
-3. CalcPriceMod formula - With low CHA and/or bad faction, combined with greed, prices can inflate significantly                                                                                                                                   
-### Quick Database Checks                                                                                                           
-#### For the item:
-```sql                                                                 
-SELECT id, Name, Price, SellRate FROM items WHERE Name LIKE '%[item_name]%';               ```
+## Factors Affecting Price
 
-#### For Nimren Stonecutter:
+### 1. CalcPriceMod()
+**Location:** `zone/client.cpp:3023-3107`
+
+The core price modifier is calculated based on:
+
+- **Charisma** - Higher CHA results in better prices
+- **Faction** - Amiable or better standing grants a +11 CHA bonus
+- **NPC Greed** - Increases prices relative to the vendor's greed setting (default vendor markup is 25%)
+
+### 2. SellRate
+**Location:** `item_data.h:285`
+
+A per-item multiplier stored in the item database that scales the final price.
+
+### 3. NPC Greed
+**Location:** `zone/npc.cpp:2569-2593`
+
+- Can be fixed in the database via the `npc_types.greed` field
+- Or dynamic if the `Merchant:UseGreed` rule is enabled (increases with shop_count)
+
+**Example:** A price multiplier of 5.2x could result from `2600cp / 500cp = 5.2`
+
+## Troubleshooting High Prices
+
+### Possible Causes
+
+1. **High SellRate** - The item may have an unusually high SellRate value (e.g., 5.2 instead of 1.0)
+2. **NPC Greed** - The vendor may have a high greed value set in the database
+3. **CalcPriceMod** - Combined effect of low Charisma and/or poor faction standing with vendor greed
+
+## Database Queries
+
+### Check Item SellRate
 
 ```sql
-SELECT id, name, greed FROM npc_types WHERE name LIKE '%Nimren%Stonecutter%';
+SELECT id, Name, Price, SellRate 
+FROM items 
+WHERE Name LIKE '%[item_name]%';
+```
+
+### Check NPC Greed
+
+```sql
+SELECT id, name, greed 
+FROM npc_types 
+WHERE name LIKE '%Nimren%Stonecutter%';
 ```
