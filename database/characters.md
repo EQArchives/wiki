@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:17:24.628Z
+date: 2026-01-24T21:20:07.333Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -33,38 +33,160 @@ dateCreated: 2026-01-20T03:13:49.975Z
 
 #### Account Table Schema Comparison
 
-| Field | PEQ Type | PEQ Default | TAKP Type | TAKP Default | Notes |
-|-------|----------|-------------|-----------|--------------|-------|
-| id | int(11) PRI AI | NULL | int(11) PRI AI | NULL | ✓ Same |
-| name | varchar(30) MUL | '' | varchar(30) UNI | NULL | Key differs |
-| charname | varchar(64) | '' | varchar(64) | NULL | ✓ Same |
-| **auto_login_charname** | varchar(64) | '' | - | - | PEQ only |
-| sharedplat | int(11) unsigned | 0 | int(11) unsigned | 0 | ✓ Same |
-| password | varchar(50) | '' | varchar(50) | NULL | ✓ Same |
-| status | int(5) | 0 | int(5) | 0 | ✓ Same |
-| **ls_id** | varchar(64) MUL | eqemu | - | - | PEQ only |
-| lsaccount_id | int(11) unsigned NULL | NULL | int(11) unsigned UNI NULL | NULL | Key differs |
-| **forum_id** | - | - | int(10) | 0 | TAKP only |
-| gmspeed | tinyint(3) unsigned | 0 | tinyint(3) unsigned | 0 | ✓ Same |
-| invulnerable (PEQ)<br>gminvul (TAKP) | tinyint(4) NULL | 0 | tinyint(4) | 0 | Renamed, nullable differs |
-| flymode | tinyint(4) NULL | 0 | tinyint(4) | 0 | Nullable differs |
-| ignore_tells | tinyint(4) NULL | 0 | tinyint(4) | 0 | Nullable differs |
-| revoked | tinyint(3) unsigned | 0 | tinyint(3) unsigned | 0 | ✓ Same |
-| karma | int(5) unsigned | 0 | int(5) unsigned | 0 | ✓ Same |
-| minilogin_ip | varchar(32) | '' | varchar(32) | NULL | ✓ Same |
-| hideme | tinyint(4) | 0 | tinyint(4) | 0 | ✓ Same |
-| rulesflag | tinyint(1) unsigned | 0 | tinyint(1) unsigned | 0 | ✓ Same |
-| suspendeduntil | datetime NULL | NULL | datetime | 0000-00-00 00:00:00 | Nullable differs |
-| time_creation | int(10) unsigned | 0 | int(10) unsigned | 0 | ✓ Same |
-| **expansion** | - | - | tinyint(4) | 12 | TAKP only |
-| ban_reason | text NULL | NULL | text NULL | NULL | ✓ Same |
-| suspend_reason | text NULL | NULL | text NULL | NULL | ✓ Same |
-| **crc_eqgame** | text NULL | NULL | - | - | PEQ only |
-| **crc_skillcaps** | text NULL | NULL | - | - | PEQ only |
-| **crc_basedata** | text NULL | NULL | - | - | PEQ only |
-| **active** | - | - | tinyint(4) | 0 | TAKP only |
-| **ip_exemption_multiplier** | - | - | int(5) NULL | 1 | TAKP only |
-| **mule** | - | - | tinyint(4) | 0 | TAKP only |
+<div class="schema-summary">
+  <div class="summary-card summary-peq">
+    <h4>PEQ Exclusive (4 fields)</h4>
+    <ul>
+      <li><code>auto_login_charname</code></li>
+      <li><code>ls_id</code></li>
+      <li><code>crc_eqgame</code></li>
+      <li><code>crc_skillcaps</code></li>
+      <li><code>crc_basedata</code></li>
+    </ul>
+  </div>
+  
+  <div class="summary-card summary-takp">
+    <h4>TAKP Exclusive (5 fields)</h4>
+    <ul>
+      <li><code>forum_id</code></li>
+      <li><code>expansion</code></li>
+      <li><code>active</code></li>
+      <li><code>ip_exemption_multiplier</code></li>
+      <li><code>mule</code></li>
+    </ul>
+  </div>
+  
+  <div class="summary-card summary-shared">
+    <h4>Compatible Fields</h4>
+    <ul>
+      <li>13 identical fields</li>
+      <li>7 fields with minor differences</li>
+      <li>Total: 20 mappable fields</li>
+    </ul>
+  </div>
+</div>
+
+<div class="schema-legend">
+  <div class="legend-item">
+    <div class="legend-box" style="background-color: #e8f5e9;"></div>
+    <span>Identical fields</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-box" style="background-color: #fff3e0;"></div>
+    <span>Compatible with differences</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-box" style="background-color: #e3f2fd;"></div>
+    <span>Exclusive to one schema</span>
+  </div>
+</div>
+
+<table class="schema-comparison">
+<thead>
+  <tr>
+    <th>Field Name</th>
+    <th>PEQ Type</th>
+    <th>PEQ Default</th>
+    <th>TAKP Type</th>
+    <th>TAKP Default</th>
+    <th>Migration Notes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr class="comparison-same">
+    <td><code>id</code></td>
+    <td>int(11) PRI AI</td>
+    <td>NULL</td>
+    <td>int(11) PRI AI</td>
+    <td>NULL</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-diff">
+    <td><code>name</code></td>
+    <td>varchar(30) <strong>MUL</strong></td>
+    <td>''</td>
+    <td>varchar(30) <strong>UNI</strong></td>
+    <td>NULL</td>
+    <td>Index type differs: non-unique vs unique</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>charname</code></td>
+    <td>varchar(64)</td>
+    <td>''</td>
+    <td>varchar(64)</td>
+    <td>NULL</td>
+    <td>Type compatible</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>auto_login_charname</code></td>
+    <td>varchar(64)</td>
+    <td>''</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to empty string on migration</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>sharedplat</code></td>
+    <td>int(11) unsigned</td>
+    <td>0</td>
+    <td>int(11) unsigned</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>password</code></td>
+    <td>varchar(50)</td>
+    <td>''</td>
+    <td>varchar(50)</td>
+    <td>NULL</td>
+    <td>Type compatible</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>status</code></td>
+    <td>int(5)</td>
+    <td>0</td>
+    <td>int(5)</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ls_id</code></td>
+    <td>varchar(64) MUL</td>
+    <td>eqemu</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 'local' on migration</td>
+  </tr>
+  
+  <tr class="comparison-diff">
+    <td><code>lsaccount_id</code></td>
+    <td>int(11) unsigned NULL</td>
+    <td>NULL</td>
+    <td>int(11) unsigned <strong>UNI</strong> NULL</td>
+    <td>NULL</td>
+    <td>TAKP adds unique index</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>forum_id</code></td>
+    <td>—</td>
+    <td>—</td>
+    <td>int(10)</td>
+    <td>0</td>
+    <td><strong>TAKP only:</strong> Lost on migration</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>gmspeed</code></td>
+    <td>tinyint(3) unsigned</td>
+    <td>
 
 #### PEQ Format
 ```sql
