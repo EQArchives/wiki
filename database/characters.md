@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T19:56:33.068Z
+date: 2026-01-24T21:09:30.685Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -126,6 +126,29 @@ FROM account
 WHERE name LIKE "soandso%";
 ```
 
+## account_ip
+### TAKP Format
+```sql
++-----------+-------------+------+-----+---------------------+-------+
+| Field     | Type        | Null | Key | Default             | Extra |
++-----------+-------------+------+-----+---------------------+-------+
+| accid     | int(11)     | NO   | PRI | 0                   |       |
+| ip        | varchar(32) | NO   | PRI | NULL                |       |
+| count     | int(11)     | NO   |     | 1                   |       |
+| lastused  | timestamp   | NO   |     | current_timestamp() |       |
++-----------+-------------+------+-----+---------------------+-------+
+```
+### PEQ Format
+```sql
++-----------+-------------+------+-----+---------------------+-------+
+| Field     | Type        | Null | Key | Default             | Extra |
++-----------+-------------+------+-----+---------------------+-------+
+| accid     | int(11)     | NO   | PRI | 0                   |       |
+| ip        | varchar(32) | NO   | PRI | NULL                |       |
+| count     | int(11)     | NO   |     | 1                   |       |
+| lastused  | timestamp   | NO   |     | current_timestamp() |       |
++-----------+-------------+------+-----+---------------------+-------+
+```
 ## character_alternate_abilities
 ### TAKP Format
 ```sql
