@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T22:27:00.147Z
+date: 2026-01-24T22:28:53.116Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -992,6 +992,7 @@ WHERE id = ?            -- character_id
 
 <details>
 <summary><strong>Click to view raw PEQ schema</strong></summary>
+  
 ```sql
 +-------------------------+------------------+------+-----+---------+-------+
 | Field                   | Type             | Null | Key | Default | Extra |
@@ -1020,6 +1021,7 @@ WHERE id = ?            -- character_id
 
 <details>
 <summary><strong>Click to view raw TAKP schema</strong></summary>
+  
 ```sql
 +-----------------+------------------+------+-----+---------+-------+
 | Field           | Type             | Null | Key | Default | Extra |
