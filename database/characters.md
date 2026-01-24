@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:27:18.434Z
+date: 2026-01-24T21:28:55.252Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -492,7 +492,10 @@ FROM account
 WHERE name LIKE "soandso%";
 ```
 
+### End Tabs {.tabset}
+
 ## account_ip
+
 ### TAKP Format
 ```sql
 +-----------+-------------+------+-----+---------------------+-------+
