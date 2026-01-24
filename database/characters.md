@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:30:59.189Z
+date: 2026-01-24T21:41:58.887Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -29,9 +29,9 @@ dateCreated: 2026-01-20T03:13:49.975Z
 ```
 ## account 
 
-### Tabs {.tabset}
+## Tabs {.tabset}
 
-#### Account Table Schema Comparison
+### Account Table Schema Comparison
 <div class="schema-summary">
   <div class="summary-card summary-peq">
     <h4>PEQ Exclusive (4 fields)</h4>
@@ -364,7 +364,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 </tbody>
 </table>
 
-#### Migration Considerations
+### Migration Considerations
 
 > **⚠️ Data Loss Warning**
 > 
@@ -383,7 +383,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 > - Set `auto_login_charname` to empty string
 > - Handle NULL constraints for `flymode`, `ignore_tells`, `suspendeduntil`
 
-#### Raw Schema Details
+### Raw Schema Details
 
 <details>
 <summary><strong>Click to view raw PEQ schema</strong></summary>
@@ -459,7 +459,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
   
 </details>
 
-#### SQL Query Example
+### SQL Query Example
 The following query in a TAKP schema will retrieve account data and add additional fields left as blank for eqemu.
 ```sql
 SELECT 
@@ -491,8 +491,6 @@ SELECT
 FROM account
 WHERE name LIKE "soandso%";
 ```
-
-### End Tabs {.tabset}
 
 ## account_ip
 
