@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:09:30.685Z
+date: 2026-01-24T21:13:43.483Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -27,7 +27,43 @@ dateCreated: 2026-01-20T03:13:49.975Z
 +--------------------+------------------+------+-----+---------------------+-------+
 9 rows in set (0.001 sec)
 ```
-## account
+## account {.tabset}
+
+### Account Table Schema Comparison
+
+| Field | PEQ Type | PEQ Default | TAKP Type | TAKP Default | Notes |
+|-------|----------|-------------|-----------|--------------|-------|
+| id | int(11) PRI AI | NULL | int(11) PRI AI | NULL | ✓ Same |
+| name | varchar(30) MUL | '' | varchar(30) UNI | NULL | Key differs |
+| charname | varchar(64) | '' | varchar(64) | NULL | ✓ Same |
+| **auto_login_charname** | varchar(64) | '' | - | - | PEQ only |
+| sharedplat | int(11) unsigned | 0 | int(11) unsigned | 0 | ✓ Same |
+| password | varchar(50) | '' | varchar(50) | NULL | ✓ Same |
+| status | int(5) | 0 | int(5) | 0 | ✓ Same |
+| **ls_id** | varchar(64) MUL | eqemu | - | - | PEQ only |
+| lsaccount_id | int(11) unsigned NULL | NULL | int(11) unsigned UNI NULL | NULL | Key differs |
+| **forum_id** | - | - | int(10) | 0 | TAKP only |
+| gmspeed | tinyint(3) unsigned | 0 | tinyint(3) unsigned | 0 | ✓ Same |
+| invulnerable (PEQ)<br>gminvul (TAKP) | tinyint(4) NULL | 0 | tinyint(4) | 0 | Renamed, nullable differs |
+| flymode | tinyint(4) NULL | 0 | tinyint(4) | 0 | Nullable differs |
+| ignore_tells | tinyint(4) NULL | 0 | tinyint(4) | 0 | Nullable differs |
+| revoked | tinyint(3) unsigned | 0 | tinyint(3) unsigned | 0 | ✓ Same |
+| karma | int(5) unsigned | 0 | int(5) unsigned | 0 | ✓ Same |
+| minilogin_ip | varchar(32) | '' | varchar(32) | NULL | ✓ Same |
+| hideme | tinyint(4) | 0 | tinyint(4) | 0 | ✓ Same |
+| rulesflag | tinyint(1) unsigned | 0 | tinyint(1) unsigned | 0 | ✓ Same |
+| suspendeduntil | datetime NULL | NULL | datetime | 0000-00-00 00:00:00 | Nullable differs |
+| time_creation | int(10) unsigned | 0 | int(10) unsigned | 0 | ✓ Same |
+| **expansion** | - | - | tinyint(4) | 12 | TAKP only |
+| ban_reason | text NULL | NULL | text NULL | NULL | ✓ Same |
+| suspend_reason | text NULL | NULL | text NULL | NULL | ✓ Same |
+| **crc_eqgame** | text NULL | NULL | - | - | PEQ only |
+| **crc_skillcaps** | text NULL | NULL | - | - | PEQ only |
+| **crc_basedata** | text NULL | NULL | - | - | PEQ only |
+| **active** | - | - | tinyint(4) | 0 | TAKP only |
+| **ip_exemption_multiplier** | - | - | int(5) NULL | 1 | TAKP only |
+| **mule** | - | - | tinyint(4) | 0 | TAKP only |
+
 ### PEQ Format
 ```sql
 +---------------------+---------------------+------+-----+---------+----------------+
