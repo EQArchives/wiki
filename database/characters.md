@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:23:44.560Z
+date: 2026-01-24T21:27:18.434Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -459,7 +459,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
   
 </details>
 
-#### select from takp db for peq db insertion
+#### SELECT TAKP --> PEQ
 The following query in a TAKP schema will retrieve account data and add additional fields left as blank for eqemu.
 ```sql
 SELECT 
