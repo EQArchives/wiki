@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:21:36.622Z
+date: 2026-01-24T21:22:22.986Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -32,8 +32,6 @@ dateCreated: 2026-01-20T03:13:49.975Z
 ### Tabs {.tabset}
 
 #### Account Table Schema Comparison
-# Account Table Schema Comparison
-
 <div class="schema-summary">
   <div class="summary-card summary-peq">
     <h4>PEQ Exclusive (4 fields)</h4>
@@ -366,7 +364,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 </tbody>
 </table>
 
-## Migration Considerations
+#### Migration Considerations
 
 > **⚠️ Data Loss Warning**
 > 
@@ -385,7 +383,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 > - Set `auto_login_charname` to empty string
 > - Handle NULL constraints for `flymode`, `ignore_tells`, `suspendeduntil`
 
-## Raw Schema Details
+#### Raw Schema Details
 
 <details>
 <summary><strong>Click to view raw PEQ schema</strong></summary>
