@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-20T06:43:41.149Z
+date: 2026-01-24T19:56:33.068Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -60,6 +60,38 @@ dateCreated: 2026-01-20T03:13:49.975Z
 | crc_basedata        | text                | YES  |     | NULL    |                |
 +---------------------+---------------------+------+-----+---------+----------------+
 25 rows in set (0.002 sec)
+```
+### TAKP Format
+```sql
++-------------------------+---------------------+------+-----+---------------------+----------------+
+| Field                   | Type                | Null | Key | Default             | Extra          |
++-------------------------+---------------------+------+-----+---------------------+----------------+
+| id                      | int(11)             | NO   | PRI | NULL                | auto_increment |
+| name                    | varchar(30)         | NO   | UNI | NULL                |                |
+| charname                | varchar(64)         | NO   |     | NULL                |                |
+| sharedplat              | int(11) unsigned    | NO   |     | 0                   |                |
+| password                | varchar(50)         | NO   |     | NULL                |                |
+| status                  | int(5)              | NO   |     | 0                   |                |
+| lsaccount_id            | int(11) unsigned    | YES  | UNI | NULL                |                |
+| forum_id                | int(10)             | NO   |     | 0                   |                |
+| gmspeed                 | tinyint(3) unsigned | NO   |     | 0                   |                |
+| revoked                 | tinyint(3) unsigned | NO   |     | 0                   |                |
+| karma                   | int(5) unsigned     | NO   |     | 0                   |                |
+| minilogin_ip            | varchar(32)         | NO   |     | NULL                |                |
+| hideme                  | tinyint(4)          | NO   |     | 0                   |                |
+| rulesflag               | tinyint(1) unsigned | NO   |     | 0                   |                |
+| suspendeduntil          | datetime            | NO   |     | 0000-00-00 00:00:00 |                |
+| time_creation           | int(10) unsigned    | NO   |     | 0                   |                |
+| expansion               | tinyint(4)          | NO   |     | 12                  |                |
+| ban_reason              | text                | YES  |     | NULL                |                |
+| suspend_reason          | text                | YES  |     | NULL                |                |
+| active                  | tinyint(4)          | NO   |     | 0                   |                |
+| ip_exemption_multiplier | int(5)              | YES  |     | 1                   |                |
+| gminvul                 | tinyint(4)          | NO   |     | 0                   |                |
+| flymode                 | tinyint(4)          | NO   |     | 0                   |                |
+| ignore_tells            | tinyint(4)          | NO   |     | 0                   |                |
+| mule                    | tinyint(4)          | NO   |     | 0                   |                |
++-------------------------+---------------------+------+-----+---------------------+----------------+
 ```
 ### select from takp db for peq db insertion
 The following query in a TAKP schema will retrieve account data and add additional fields left as blank for eqemu.
