@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:20:07.333Z
+date: 2026-01-24T21:21:36.622Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -32,6 +32,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 ### Tabs {.tabset}
 
 #### Account Table Schema Comparison
+# Account Table Schema Comparison
 
 <div class="schema-summary">
   <div class="summary-card summary-peq">
@@ -186,9 +187,208 @@ dateCreated: 2026-01-20T03:13:49.975Z
   <tr class="comparison-same">
     <td><code>gmspeed</code></td>
     <td>tinyint(3) unsigned</td>
-    <td>
+    <td>0</td>
+    <td>tinyint(3) unsigned</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-diff">
+    <td><code>invulnerable</code> / <code>gminvul</code></td>
+    <td>tinyint(4) <strong>NULL</strong></td>
+    <td>0</td>
+    <td>tinyint(4) <strong>NOT NULL</strong></td>
+    <td>0</td>
+    <td>Renamed field, PEQ allows NULL</td>
+  </tr>
+  
+  <tr class="comparison-diff">
+    <td><code>flymode</code></td>
+    <td>tinyint(4) <strong>NULL</strong></td>
+    <td>0</td>
+    <td>tinyint(4) <strong>NOT NULL</strong></td>
+    <td>0</td>
+    <td>PEQ allows NULL, TAKP doesn't</td>
+  </tr>
+  
+  <tr class="comparison-diff">
+    <td><code>ignore_tells</code></td>
+    <td>tinyint(4) <strong>NULL</strong></td>
+    <td>0</td>
+    <td>tinyint(4) <strong>NOT NULL</strong></td>
+    <td>0</td>
+    <td>PEQ allows NULL, TAKP doesn't</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>revoked</code></td>
+    <td>tinyint(3) unsigned</td>
+    <td>0</td>
+    <td>tinyint(3) unsigned</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>karma</code></td>
+    <td>int(5) unsigned</td>
+    <td>0</td>
+    <td>int(5) unsigned</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>minilogin_ip</code></td>
+    <td>varchar(32)</td>
+    <td>''</td>
+    <td>varchar(32)</td>
+    <td>NULL</td>
+    <td>Type compatible</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>hideme</code></td>
+    <td>tinyint(4)</td>
+    <td>0</td>
+    <td>tinyint(4)</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>rulesflag</code></td>
+    <td>tinyint(1) unsigned</td>
+    <td>0</td>
+    <td>tinyint(1) unsigned</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-diff">
+    <td><code>suspendeduntil</code></td>
+    <td>datetime <strong>NULL</strong></td>
+    <td>NULL</td>
+    <td>datetime <strong>NOT NULL</strong></td>
+    <td>0000-00-00 00:00:00</td>
+    <td>Nullable and default value differ</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>time_creation</code></td>
+    <td>int(10) unsigned</td>
+    <td>0</td>
+    <td>int(10) unsigned</td>
+    <td>0</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>expansion</code></td>
+    <td>—</td>
+    <td>—</td>
+    <td>tinyint(4)</td>
+    <td>12</td>
+    <td><strong>TAKP only:</strong> Lost on migration</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>ban_reason</code></td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>suspend_reason</code></td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>crc_eqgame</code></td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Client validation field</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>crc_skillcaps</code></td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Client validation field</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>crc_basedata</code></td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Client validation field</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>active</code></td>
+    <td>—</td>
+    <td>—</td>
+    <td>tinyint(4)</td>
+    <td>0</td>
+    <td><strong>TAKP only:</strong> Lost on migration</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ip_exemption_multiplier</code></td>
+    <td>—</td>
+    <td>—</td>
+    <td>int(5) NULL</td>
+    <td>1</td>
+    <td><strong>TAKP only:</strong> Lost on migration</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>mule</code></td>
+    <td>—</td>
+    <td>—</td>
+    <td>tinyint(4)</td>
+    <td>0</td>
+    <td><strong>TAKP only:</strong> Lost on migration</td>
+  </tr>
+</tbody>
+</table>
 
-#### PEQ Format
+## Migration Considerations
+
+> **⚠️ Data Loss Warning**
+> 
+> When migrating from TAKP to PEQ, the following fields will be lost:
+> - `forum_id` - Forum integration data
+> - `expansion` - Expansion flag settings
+> - `active` - Account status flags
+> - `ip_exemption_multiplier` - Connection limit settings
+> - `mule` - Mule account flags
+
+> **🔄 Field Mappings**
+> 
+> The following fields require special handling:
+> - `gminvul` (TAKP) → `invulnerable` (PEQ)
+> - Set `ls_id` to 'local' (PEQ default)
+> - Set `auto_login_charname` to empty string
+> - Handle NULL constraints for `flymode`, `ignore_tells`, `suspendeduntil`
+
+## Raw Schema Details
+
+<details>
+<summary><strong>Click to view raw PEQ schema</strong></summary>
 ```sql
 +---------------------+---------------------+------+-----+---------+----------------+
 | Field               | Type                | Null | Key | Default | Extra          |
@@ -220,7 +420,10 @@ dateCreated: 2026-01-20T03:13:49.975Z
 | crc_basedata        | text                | YES  |     | NULL    |                |
 +---------------------+---------------------+------+-----+---------+----------------+
 ```
-#### TAKP Format
+</details>
+
+<details>
+<summary><strong>Click to view raw TAKP schema</strong></summary>
 ```sql
 +-------------------------+---------------------+------+-----+---------------------+----------------+
 | Field                   | Type                | Null | Key | Default             | Extra          |
@@ -252,6 +455,8 @@ dateCreated: 2026-01-20T03:13:49.975Z
 | mule                    | tinyint(4)          | NO   |     | 0                   |                |
 +-------------------------+---------------------+------+-----+---------------------+----------------+
 ```
+</details>
+
 #### select from takp db for peq db insertion
 The following query in a TAKP schema will retrieve account data and add additional fields left as blank for eqemu.
 ```sql
