@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:15:02.054Z
+date: 2026-01-24T21:17:24.628Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -97,7 +97,6 @@ dateCreated: 2026-01-20T03:13:49.975Z
 | crc_skillcaps       | text                | YES  |     | NULL    |                |
 | crc_basedata        | text                | YES  |     | NULL    |                |
 +---------------------+---------------------+------+-----+---------+----------------+
-25 rows in set (0.002 sec)
 ```
 #### TAKP Format
 ```sql
