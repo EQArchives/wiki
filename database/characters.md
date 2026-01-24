@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:13:43.483Z
+date: 2026-01-24T21:15:02.054Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -27,9 +27,11 @@ dateCreated: 2026-01-20T03:13:49.975Z
 +--------------------+------------------+------+-----+---------------------+-------+
 9 rows in set (0.001 sec)
 ```
-## account {.tabset}
+## account 
 
-### Account Table Schema Comparison
+### Tabs {.tabset}
+
+#### Account Table Schema Comparison
 
 | Field | PEQ Type | PEQ Default | TAKP Type | TAKP Default | Notes |
 |-------|----------|-------------|-----------|--------------|-------|
@@ -64,7 +66,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 | **ip_exemption_multiplier** | - | - | int(5) NULL | 1 | TAKP only |
 | **mule** | - | - | tinyint(4) | 0 | TAKP only |
 
-### PEQ Format
+#### PEQ Format
 ```sql
 +---------------------+---------------------+------+-----+---------+----------------+
 | Field               | Type                | Null | Key | Default | Extra          |
@@ -97,7 +99,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 +---------------------+---------------------+------+-----+---------+----------------+
 25 rows in set (0.002 sec)
 ```
-### TAKP Format
+#### TAKP Format
 ```sql
 +-------------------------+---------------------+------+-----+---------------------+----------------+
 | Field                   | Type                | Null | Key | Default             | Extra          |
@@ -129,7 +131,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 | mule                    | tinyint(4)          | NO   |     | 0                   |                |
 +-------------------------+---------------------+------+-----+---------------------+----------------+
 ```
-### select from takp db for peq db insertion
+#### select from takp db for peq db insertion
 The following query in a TAKP schema will retrieve account data and add additional fields left as blank for eqemu.
 ```sql
 SELECT 
