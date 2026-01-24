@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T21:28:55.252Z
+date: 2026-01-24T21:30:59.189Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -459,7 +459,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
   
 </details>
 
-#### SELECT TAKP --> PEQ
+#### SQL Query Example
 The following query in a TAKP schema will retrieve account data and add additional fields left as blank for eqemu.
 ```sql
 SELECT 
@@ -496,6 +496,11 @@ WHERE name LIKE "soandso%";
 
 ## account_ip
 
+> **ℹ️ Schema Compatibility**
+> 
+> The `account_ip` table is **identical** between PEQ and TAKP. No migration adjustments needed.
+{.is-success}
+
 ### TAKP Format
 ```sql
 +-----------+-------------+------+-----+---------------------+-------+
@@ -507,17 +512,10 @@ WHERE name LIKE "soandso%";
 | lastused  | timestamp   | NO   |     | current_timestamp() |       |
 +-----------+-------------+------+-----+---------------------+-------+
 ```
+
 ### PEQ Format
-```sql
-+-----------+-------------+------+-----+---------------------+-------+
-| Field     | Type        | Null | Key | Default             | Extra |
-+-----------+-------------+------+-----+---------------------+-------+
-| accid     | int(11)     | NO   | PRI | 0                   |       |
-| ip        | varchar(32) | NO   | PRI | NULL                |       |
-| count     | int(11)     | NO   |     | 1                   |       |
-| lastused  | timestamp   | NO   |     | current_timestamp() |       |
-+-----------+-------------+------+-----+---------------------+-------+
-```
+Same as TAKP (see above)
+
 ## character_alternate_abilities
 ### TAKP Format
 ```sql
