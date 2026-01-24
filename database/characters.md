@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-24T22:43:47.782Z
+date: 2026-01-24T23:50:37.163Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -646,6 +646,7 @@ Same as TAKP (see above)
 
 <details>
 <summary><strong>Click to view raw PEQ schema</strong></summary>
+  
 ```sql
 +----------+-----------------------+------+-----+---------+-------+
 | Field    | Type                  | Null | Key | Default | Extra |
@@ -663,6 +664,7 @@ Same as TAKP (see above)
 
 <details>
 <summary><strong>Click to view raw TAKP schema</strong></summary>
+  
 ```sql
 +----------+-----------------------+------+-----+---------+-------+
 | Field    | Type                  | Null | Key | Default | Extra |
