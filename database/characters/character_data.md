@@ -2,7 +2,7 @@
 title: character_data
 description: 
 published: true
-date: 2026-01-25T17:03:16.403Z
+date: 2026-01-25T17:21:30.523Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T01:20:40.561Z
@@ -100,7 +100,7 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td><code>forum_id</code></td>
     <td>—</td>
     <td>int(10)</td>
-    <td><strong>TAKP only:</strong> Lost on migration</td>
+    <td><strong>TAKP only:</strong> Lost on migration (forum integration)</td>
   </tr>
   
   <tr class="comparison-same">
@@ -138,11 +138,51 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td>Identical</td>
   </tr>
   
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Gates of Discord (Feb 2004) - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>zone_instance</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (instanced zones)</td>
+  </tr>
+  
   <tr class="comparison-same">
-    <td><code>x, y, z, heading</code></td>
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>y</code></td>
     <td>float</td>
     <td>float</td>
-    <td>All identical - position coordinates</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>x</code></td>
+    <td>float</td>
+    <td>float</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>z</code></td>
+    <td>float</td>
+    <td>float</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>heading</code></td>
+    <td>float</td>
+    <td>float</td>
+    <td>Identical</td>
   </tr>
   
   <tr class="comparison-same">
@@ -271,11 +311,97 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td>Identical</td>
   </tr>
   
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 The Serpent's Spine (Sept 2006) - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>drakkin_heritage</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (Drakkin race customization)</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>drakkin_tattoo</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>drakkin_details</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions (Post-2004) - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ability_time_seconds</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (discipline cooldown tracking)</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ability_number</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ability_time_minutes</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ability_time_hours</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
+  </tr>
+  
   <tr class="comparison-same">
     <td><code>exp</code></td>
     <td>int(11) unsigned</td>
     <td>int(11) unsigned</td>
     <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>exp_enabled</code></td>
+    <td>tinyint(1) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 1 (experience gain toggle)</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
   </tr>
   
   <tr class="comparison-same">
@@ -297,6 +423,46 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td>int(11) unsigned</td>
     <td>int(11) unsigned</td>
     <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Gates of Discord (Feb 2004) - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>group_leadership_exp</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (leadership AA system)</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>raid_leadership_exp</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>group_leadership_points</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>raid_leadership_points</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
   </tr>
   
   <tr class="comparison-same">
@@ -383,11 +549,49 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td>Identical</td>
   </tr>
   
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>extra_haste</code></td>
+    <td>int(11)</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (overhaste)</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
+  </tr>
+  
   <tr class="comparison-same">
     <td><code>zone_change_count</code></td>
     <td>int(11) unsigned</td>
     <td>int(11) unsigned</td>
     <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>toxicity</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (poison resistance tracking)</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
   </tr>
   
   <tr class="comparison-same">
@@ -404,203 +608,15 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td>Identical</td>
   </tr>
   
-  <tr class="comparison-same">
-    <td><code>pvp_status</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>tinyint(11) unsigned</td>
-    <td>Identical</td>
-  </tr>
-  
-  <tr class="comparison-same">
-    <td><code>air_remaining</code></td>
-    <td>int(11) unsigned</td>
-    <td>int(11) unsigned</td>
-    <td>Identical</td>
-  </tr>
-  
-  <tr class="comparison-same">
-    <td><code>autosplit_enabled</code></td>
-    <td>int(11) unsigned</td>
-    <td>int(11) unsigned</td>
-    <td>Identical</td>
-  </tr>
-  
-  <tr class="comparison-same">
-    <td><code>mailkey</code></td>
-    <td>char(16)</td>
-    <td>char(16)</td>
-    <td>Identical</td>
-  </tr>
-  
-  <tr class="comparison-diff">
-    <td><code>firstlogon</code> → <code>first_login</code></td>
-    <td>int(11) unsigned</td>
-    <td>tinyint(3)</td>
-    <td>Field name and type differ but compatible</td>
-  </tr>
-  
-  <tr class="comparison-same">
-    <td><code>e_aa_effects</code></td>
-    <td>int(11) unsigned</td>
-    <td>int(11) unsigned</td>
-    <td>Identical</td>
-  </tr>
-  
-  <tr class="comparison-same">
-    <td><code>e_percent_to_aa</code></td>
-    <td>int(11) unsigned</td>
-    <td>int(11) unsigned</td>
-    <td>Identical</td>
-  </tr>
-  
-  <tr class="comparison-same">
-    <td><code>e_expended_aa_spent</code></td>
-    <td>int(11) unsigned</td>
-    <td>int(11) unsigned</td>
-    <td>Identical</td>
-  </tr>
-  
-  <tr class="comparison-diff">
-    <td><code>showhelm</code> → <code>show_helm</code></td>
-    <td>int(11) unsigned, default 0</td>
-    <td>tinyint(4), default 1</td>
-    <td>Type and default differ - TAKP shows helm by default</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td colspan="4" style="background-color: #fff3e0; font-weight: bold; text-align: center;">
-      ⚠️ TAKP-Specific Features (Lost on Migration)
-    </td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>boatid</code></td>
-    <td>—</td>
-    <td>int(11) unsigned</td>
-    <td><strong>TAKP only:</strong> Boat/mount tracking</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>boatname</code></td>
-    <td>—</td>
-    <td>varchar(25) NULL</td>
-    <td><strong>TAKP only:</strong> Boat/mount name</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>famished</code></td>
-    <td>—</td>
-    <td>int(11)</td>
-    <td><strong>TAKP only:</strong> Extended hunger system</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>is_deleted</code></td>
-    <td>—</td>
-    <td>tinyint(4)</td>
-    <td><strong>TAKP only:</strong> Soft delete flag</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>fatigue</code></td>
-    <td>—</td>
-    <td>int(11)</td>
-    <td><strong>TAKP only:</strong> Fatigue system</td>
-  </tr>
-  
   <tr class="comparison-exclusive">
     <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
-      🔷 Gates of Discord (Feb 2004) - PEQ Only
+      🔷 Modern Expansions - PEQ Only
     </td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>zone_instance</code></td>
+    <td><code>ability_up</code></td>
     <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (instanced zones)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>group_leadership_exp</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (leadership AA system)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>raid_leadership_exp</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>group_leadership_points</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>raid_leadership_points</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>tribute_time_remaining</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (tribute system)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>career_tribute_points</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>tribute_points</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>tribute_active</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>group_auto_consent</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (auto-consent features)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>raid_auto_consent</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>guild_auto_consent</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>leadership_exp_on</code></td>
-    <td>tinyint(11) unsigned</td>
     <td>—</td>
     <td><strong>PEQ only:</strong> Set to 0</td>
   </tr>
@@ -655,91 +671,55 @@ dateCreated: 2026-01-25T01:20:40.561Z
   
   <tr class="comparison-exclusive">
     <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
-      🔷 The Serpent's Spine (Sept 2006) - PEQ Only
+      🔷 Gates of Discord (Feb 2004) - PEQ Only
     </td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>drakkin_heritage</code></td>
+    <td><code>tribute_time_remaining</code></td>
     <td>int(11) unsigned</td>
     <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (Drakkin race customization)</td>
+    <td><strong>PEQ only:</strong> Set to 0 (tribute system)</td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>drakkin_tattoo</code></td>
+    <td><code>career_tribute_points</code></td>
     <td>int(11) unsigned</td>
     <td>—</td>
     <td><strong>PEQ only:</strong> Set to 0</td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>drakkin_details</code></td>
+    <td><code>tribute_points</code></td>
     <td>int(11) unsigned</td>
     <td>—</td>
     <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>tribute_active</code></td>
+    <td>int(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>pvp_status</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>tinyint(11) unsigned</td>
+    <td>Identical</td>
   </tr>
   
   <tr class="comparison-exclusive">
     <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
-      🔷 Modern Expansions (Post-2004) - PEQ Only
+      🔷 Modern Expansions - PEQ Only
     </td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>ability_time_seconds</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (discipline cooldown tracking)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>ability_number</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>ability_time_minutes</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>ability_time_hours</code></td>
-    <td>tinyint(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>exp_enabled</code></td>
-    <td>tinyint(1) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 1 (experience gain toggle)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>extra_haste</code></td>
-    <td>int(11)</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (overhaste)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>toxicity</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (poison resistance tracking)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>ability_up</code></td>
-    <td>int(11) unsigned</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0</td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -805,11 +785,51 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td><strong>PEQ only:</strong> Set to 0</td>
   </tr>
   
+  <tr class="comparison-diff">
+    <td><code>showhelm</code> → <code>show_helm</code></td>
+    <td>int(11) unsigned</td>
+    <td>tinyint(4)</td>
+    <td>Field renamed. TAKP default is 1 (show), PEQ default is 0 (hide)</td>
+  </tr>
+  
   <tr class="comparison-exclusive">
-    <td><code>xtargets</code></td>
-    <td>tinyint(3) unsigned, default 5</td>
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Gates of Discord (Feb 2004) - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>group_auto_consent</code></td>
+    <td>tinyint(11) unsigned</td>
     <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 5 (extended target window slots)</td>
+    <td><strong>PEQ only:</strong> Set to 0 (auto-consent features)</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>raid_auto_consent</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>guild_auto_consent</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>leadership_exp_on</code></td>
+    <td>tinyint(11) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -817,6 +837,32 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td>int(11) unsigned</td>
     <td>—</td>
     <td><strong>PEQ only:</strong> Set to 0 (rest state timer)</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>air_remaining</code></td>
+    <td>int(11) unsigned</td>
+    <td>int(11) unsigned</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>autosplit_enabled</code></td>
+    <td>int(11) unsigned</td>
+    <td>int(11) unsigned</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -833,11 +879,77 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td><strong>PEQ only:</strong> Set to 0 (looking for group flag)</td>
   </tr>
   
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>mailkey</code></td>
+    <td>char(16)</td>
+    <td>char(16)</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>xtargets</code></td>
+    <td>tinyint(3) unsigned</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 5 (extended target window slots)</td>
+  </tr>
+  
+  <tr class="comparison-diff">
+    <td><code>firstlogon</code> → <code>first_login</code></td>
+    <td>int(11) unsigned</td>
+    <td>tinyint(3)</td>
+    <td>Field renamed. Type differs but compatible</td>
+  </tr>
+  
   <tr class="comparison-exclusive">
     <td><code>ingame</code></td>
     <td>tinyint(1) unsigned</td>
     <td>—</td>
     <td><strong>PEQ only:</strong> Set to 0 (online status flag)</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td colspan="4" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ (continued)
+    </td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>e_aa_effects</code></td>
+    <td>int(11) unsigned</td>
+    <td>int(11) unsigned</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>e_percent_to_aa</code></td>
+    <td>int(11) unsigned</td>
+    <td>int(11) unsigned</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-same">
+    <td><code>e_expended_aa_spent</code></td>
+    <td>int(11) unsigned</td>
+    <td>int(11) unsigned</td>
+    <td>Identical</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -859,6 +971,53 @@ dateCreated: 2026-01-25T01:20:40.561Z
     <td>int(11) unsigned</td>
     <td>—</td>
     <td><strong>PEQ only:</strong> Set to 0 (inventory snapshot timestamp)</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #fff3e0; font-weight: bold; text-align: center;">
+      ⚠️ TAKP-Specific Features (Lost on Migration)
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>boatid</code></td>
+    <td>—</td>
+    <td>int(11) unsigned</td>
+    <td><strong>TAKP only:</strong> Boat/mount ID tracking</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>boatname</code></td>
+    <td>—</td>
+    <td>varchar(25) NULL</td>
+    <td><strong>TAKP only:</strong> Boat/mount name</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>famished</code></td>
+    <td>—</td>
+    <td>int(11)</td>
+    <td><strong>TAKP only:</strong> Extended hunger system</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>is_deleted</code></td>
+    <td>—</td>
+    <td>tinyint(4)</td>
+    <td><strong>TAKP only:</strong> Soft delete flag</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>fatigue</code></td>
+    <td>—</td>
+    <td>int(11) NULL</td>
+    <td><strong>TAKP only:</strong> Fatigue system</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td colspan="4" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions - PEQ Only
+    </td>
   </tr>
   
   <tr class="comparison-exclusive">
