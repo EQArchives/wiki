@@ -2,7 +2,7 @@
 title: character_inventory
 description: 
 published: true
-date: 2026-01-25T16:36:55.151Z
+date: 2026-01-25T16:38:27.358Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T16:16:52.564Z
@@ -288,6 +288,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
 
 <details>
 <summary><strong>Click to view raw PEQ schema</strong></summary>
+  
 ```sql
 +---------------------+-----------------------+------+-----+---------+-------+
 | Field               | Type                  | Null | Key | Default | Extra |
@@ -319,6 +320,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
 
 <details>
 <summary><strong>Click to view raw TAKP schema</strong></summary>
+  
 ```sql
 +---------------+-----------------------+------+-----+---------+-------+
 | Field         | Type                  | Null | Key | Default | Extra |
