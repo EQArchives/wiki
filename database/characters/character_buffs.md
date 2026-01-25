@@ -2,7 +2,7 @@
 title: character_buffs
 description: 
 published: true
-date: 2026-01-25T15:24:20.294Z
+date: 2026-01-25T16:54:51.426Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T15:23:48.952Z
