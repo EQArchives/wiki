@@ -2,7 +2,7 @@
 title: character_faction_values
 description: 
 published: true
-date: 2026-01-25T02:32:18.397Z
+date: 2026-01-25T16:55:50.817Z
 tags: database, takp_peq_migration, character_faction_values
 editor: markdown
 dateCreated: 2026-01-25T02:15:16.451Z
