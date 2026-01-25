@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T01:01:12.211Z
+date: 2026-01-25T01:05:16.362Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -917,6 +917,7 @@ WHERE id = ?            -- character_id
 ```
 
 ## character_buffs
+Since character buffs are very temporary and not critical to character migration to a new server, I recommend not copying this table over and leaving it alone.
 
 ## Tabs {.tabset}
 
