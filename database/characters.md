@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T20:53:13.472Z
+date: 2026-01-25T20:53:53.003Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -50,7 +50,7 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | character_pet_inventory | ❌ No | Equipment handed to character pets |
 | character_soulmarks | ❌ No | 
 | character_timers | ❌ No | Timers for characters (like spell recast timers) |
-| character_zone_flags | ❌ No | Flags for whether a character is flagged for a zone (PoP) only |
+| character_zone_flags | ⚠️ Conditional | Flags for whether a character is flagged for a zone (PoP) only |
 
 ## login_accounts
 ### PEQ Format
