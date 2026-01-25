@@ -2,13 +2,11 @@
 title: character_data
 description: 
 published: true
-date: 2026-01-25T01:20:40.561Z
+date: 2026-01-25T01:20:58.132Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T01:20:40.561Z
 ---
-
-Perfect! Now I have both schemas. This is a massive comparison (106 PEQ fields vs 63 TAKP fields), so I'll create a concise version highlighting the key differences:
 
 ## character_data
 
