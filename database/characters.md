@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T20:38:07.334Z
+date: 2026-01-25T20:39:12.469Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -10,39 +10,6 @@ dateCreated: 2026-01-20T03:13:49.975Z
 
 # Character Migration
 This article documents the schema compatibility between TAKP and PEQ database formats, and provides insight into what tables should be copied, and which ones aren't important.
-
-The following character-related tables should NOT be copied forward:
-
-* account_flags
-* account_rewards
-* character_buffs
-* character_consent
-* character_corpse_items
-* character_corpse_items_backup
-* character_corpses
-* character_corpses_backup
-* character_inspect_messages
-* character_lookup
-* character_magelo_stats
-* character_pet_buffs
-* character_pet_info
-* character_pet_inventory
-* character_soulmarks
-* character_timers
-* character_zone_flags
-* friends
-* guilds
-* guild_ranks
-* guild_members
-* mail
-* petitions
-* player_titlesets
-* quest_globals
-* spell_globals
-* client_version
-* commands_log
-* titles
-* trader
 
 >Database versioning would be a good future step, but not there yet.
 {.is-warning}
@@ -89,4 +56,36 @@ The following character-related tables should NOT be copied forward:
 +--------------------+------------------+------+-----+---------------------+-------+
 9 rows in set (0.001 sec)
 ```
+## Ephemeral Character Tables
+The following character-related tables are somewhat ephemeral, or specific to a server and do not need to be migrated forward.
 
+* account_flags
+* account_rewards
+* character_buffs
+* character_consent
+* character_corpse_items
+* character_corpse_items_backup
+* character_corpses
+* character_corpses_backup
+* character_inspect_messages
+* character_lookup
+* character_magelo_stats
+* character_pet_buffs
+* character_pet_info
+* character_pet_inventory
+* character_soulmarks
+* character_timers
+* character_zone_flags
+* friends
+* guilds
+* guild_ranks
+* guild_members
+* mail
+* petitions
+* player_titlesets
+* quest_globals
+* spell_globals
+* client_version
+* commands_log
+* titles
+* trader
