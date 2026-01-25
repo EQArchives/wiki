@@ -2,13 +2,31 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T01:05:16.362Z
+date: 2026-01-25T01:08:09.990Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
 ---
 
 # Character Migration
+
+## Account Tables
+## Character Tables
+| Table Name | Copy? | Notes |
+| --- | --- | --- |
+| character_alternate_abilities | ⚠️ Conditional | Primary key structure differs. Requires deduplication if same AA exists in multiple slots. Recommend checking for duplicates first. |
+| character_bind | ✅ Yes | High compatibility. Simple field rename (`is_home` → `slot`). |
+| character_buffs | ❌ No | Transient runtime data. Standard practice is to skip - characters rebuff naturally after login. |
+| character_currency | ✅ Yes | Excellent compatibility. All TAKP fields map 1:1 to PEQ. |
+| character_data | ⚠️ Pending | Schema comparison not yet complete. |
+| character_faction_values | ⚠️ Pending | Schema comparison not yet complete. |
+| character_inventory | ⚠️ Pending | Schema comparison not yet complete. |
+| character_keyring | ⚠️ Pending | Schema comparison not yet complete. |
+| character_languages | ⚠️ Pending | Schema comparison not yet complete. |
+| character_memmed_spells | ⚠️ Pending | Schema comparison not yet complete. |
+| character_skills | ⚠️ Pending | Schema comparison not yet complete. |
+| character_spells | ⚠️ Pending | Schema comparison not yet complete. |
+
 ## login_accounts
 ### PEQ Format
 ```sql
