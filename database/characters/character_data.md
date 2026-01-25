@@ -2,7 +2,7 @@
 title: character_data
 description: 
 published: true
-date: 2026-01-25T02:31:59.273Z
+date: 2026-01-25T16:51:45.938Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T01:20:40.561Z
