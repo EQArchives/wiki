@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T16:06:48.180Z
+date: 2026-01-25T16:15:52.711Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -30,7 +30,7 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | [character_currency](character_currency) | ✅ Yes | Excellent compatibility. All TAKP fields map 1:1 to PEQ. |
 | [character_data](character_data) |  ✅ Yes | High compatibility. All core fields identical. PEQ expansion features set to 0. See [full comparison](/migration/tables/character-data) for field mappings. |
 | [character_faction_values](character_faction_values) | ✅ Yes | Excellent compatibility. Field rename: `id`→`char_id`. Direct 1:1 copy of all faction standings. |
-| [character_inventory](character_inventory) | ⚠️ Pending | Schema comparison not yet complete. |
+| [character_inventory](character_inventory) | ✅ Yes | Good compatibility. Table rename: `character_inventory`→`inventory`. Field renames: `id`→`character_id`, `slotid`→`slot_id`, `itemid`→`item_id`. Set augment/ornament fields to 0. TAKP serial tracking lost. |
 | [character_keyring](/character_keyring) | ⚠️ Pending | Schema comparison not yet complete. |
 | [character_languages](character_languages) | ⚠️ Pending | Schema comparison not yet complete. |
 | [character_memmed_spells](character_memmed_spells) | ⚠️ Pending | Schema comparison not yet complete. |
