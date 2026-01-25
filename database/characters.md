@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T22:34:34.279Z
+date: 2026-01-25T22:36:27.505Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
