@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T21:17:16.469Z
+date: 2026-01-25T21:18:19.661Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -19,9 +19,9 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | --- | --- | --- |
 | [account](account) | ✅ Yes | Good compatibility. Field rename: `gminvul`→`invulnerable`. Set `ls_id` to 'local', `auto_login_charname` to empty. TAKP fields lost: `forum_id`, `expansion`, `active`, `ip_exemption_multiplier`, `mule`. |
 | [account_ip](account_ip) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
-| account_flags | ❌ No | Typically unused in TAKP. |
-| account_rewards | ❌ No | Typically unused in TAKP. |
-| client_version | ❌ No | Unused; TAKP does not support multiple client versions |
+| account_flags | ❌ No | Unused on TAKP schema |
+| account_rewards | ❌ No | Unused on TAKP schema |
+| client_version | ❌ No | Unused on TAKP schema; TAKP does not support multiple client versions |
 
 ## Character Tables
 | Table Name | Copy? | Notes |
