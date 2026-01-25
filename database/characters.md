@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T20:55:44.503Z
+date: 2026-01-25T21:17:16.469Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -21,6 +21,7 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | [account_ip](account_ip) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
 | account_flags | ❌ No | Typically unused in TAKP. |
 | account_rewards | ❌ No | Typically unused in TAKP. |
+| client_version | ❌ No | Unused; TAKP does not support multiple client versions |
 
 ## Character Tables
 | Table Name | Copy? | Notes |
@@ -52,6 +53,17 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | character_timers | ❌ No | Timers for characters (like spell recast timers) |
 | character_zone_flags | ⚠️ Conditional | Flags for whether a character is flagged for a zone (PoP) only |
 
+## Character Associated Tables
+| Table Name | Copy? | Notes |
+| --- | --- | --- |
+| commands_log | ❌ No | Does not exist in PEQ schema. |
+| friends | ❌ No | Unused on TAKP schema |
+| player_titlesets | ❌ No | Unused on TAKP schema |
+| titles | ❌ No | Unused on TAKP schema - must use lastname |
+| spell_globals | ❌ No | Unused on TAKP schema |
+| mail | ❌ No | Unused on TAKP schema - not introduced until Dragons of Norrath |
+| quest_globals | ⚠️ Conditional | If used and comopatible |
+
 ## login_accounts
 ### PEQ Format
 ```sql
@@ -73,16 +85,8 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 ## Ephemeral Character Tables
 The following character-related tables are somewhat ephemeral, or specific to a server and do not need to be migrated forward.
 
-* friends
 * guilds
 * guild_ranks
 * guild_members
-* mail
 * petitions
-* player_titlesets
-* quest_globals
-* spell_globals
-* client_version
-* commands_log
-* titles
 * trader
