@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T21:18:19.661Z
+date: 2026-01-25T21:20:07.963Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -62,7 +62,10 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | titles | ❌ No | Unused on TAKP schema - must use lastname |
 | spell_globals | ❌ No | Unused on TAKP schema |
 | mail | ❌ No | Unused on TAKP schema - not introduced until Dragons of Norrath |
-| quest_globals | ⚠️ Conditional | If used and comopatible |
+| quest_globals | ⚠️ Conditional | If used and compatible |
+| guilds | ⚠️ Conditional | If desired |
+| guild_ranks | ⚠️ Conditional | If desired |
+| guild_members | ⚠️ Conditional | If desired |
 
 ## login_accounts
 ### PEQ Format
@@ -85,8 +88,5 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 ## Ephemeral Character Tables
 The following character-related tables are somewhat ephemeral, or specific to a server and do not need to be migrated forward.
 
-* guilds
-* guild_ranks
-* guild_members
 * petitions
 * trader
