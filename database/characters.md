@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T20:39:12.469Z
+date: 2026-01-25T20:49:13.882Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -25,9 +25,8 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 ## Character Tables
 | Table Name | Copy? | Notes |
 | --- | --- | --- |
-| [character_alternate_abilities](character_alternate_abilities) | ⚠️ Conditional | Primary key structure differs. Requires deduplication if same AA exists in multiple slots. Recommend checking for duplicates first. |
+| [character_alternate_abilities](character_alternate_abilities) | ✅ Yes | Primary key structure differs. Requires deduplication if same AA exists in multiple slots. Recommend checking for duplicates first. |
 | [character_bind](character_bind) | ✅ Yes | High compatibility. Simple field rename (`is_home` → `slot`). |
-| [character_buffs](character_buffs) | ❌ No | Transient runtime data. Standard practice is to skip - characters rebuff naturally after login. |
 | [character_currency](character_currency) | ✅ Yes | Excellent compatibility. All TAKP fields map 1:1 to PEQ. |
 | [character_data](character_data) |  ✅ Yes | High compatibility. All core fields identical. PEQ expansion features set to 0. See [full comparison](/migration/tables/character-data) for field mappings. |
 | [character_faction_values](character_faction_values) | ✅ Yes | Excellent compatibility. Field rename: `id`→`char_id`. Direct 1:1 copy of all faction standings. |
@@ -37,6 +36,21 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | [character_memmed_spells](character_memmed_spells) | ⚠️ Pending | Schema comparison not yet complete. |
 | [character_skills](character_skills) | ⚠️ Pending | Schema comparison not yet complete. |
 | [character_spells](character_spells) | ⚠️ Pending | Schema comparison not yet complete. |
+| [character_buffs](character_buffs) | ❌ No | Transient runtime data. Standard practice is to skip - characters rebuff naturally after login. |
+| character_consent | ❌ No | Used for consenting players to drag corpses with /corpse |
+| character_corpse_items | ❌ No | Items left on active corpses |
+| character_corpse_items_backup | ❌ No | backup of items left on corpses |
+| character_corpses | ❌ No | active corpses |
+| character_corpses_backup | ❌ No | backup of corpses - usually after it decays |
+| character_inspect_messages | ❌ No | Typically unused in TAKP |
+| character_lookup | ❌ No | Typically unused in TAKP |
+| character_magelo_stats | ❌ No | Does not exist in PEQ schema.  Used for TAKP magelo web app |
+| character_pet_buffs | ❌ No | Temporary buffs on pets. |
+| character_pet_info | ❌ No | Summoned character pets |
+| character_pet_inventory | ❌ No | Equipment handed to character pets |
+| character_soulmarks | ❌ No | 
+| character_timers | ❌ No | Timers for characters (like spell recast timers) |
+| character_zone_flags | ❌ No | Flags for whether a character is flagged for a zone (PoP) only |
 
 ## login_accounts
 ### PEQ Format
@@ -61,21 +75,6 @@ The following character-related tables are somewhat ephemeral, or specific to a 
 
 * account_flags
 * account_rewards
-* character_buffs
-* character_consent
-* character_corpse_items
-* character_corpse_items_backup
-* character_corpses
-* character_corpses_backup
-* character_inspect_messages
-* character_lookup
-* character_magelo_stats
-* character_pet_buffs
-* character_pet_info
-* character_pet_inventory
-* character_soulmarks
-* character_timers
-* character_zone_flags
 * friends
 * guilds
 * guild_ranks
