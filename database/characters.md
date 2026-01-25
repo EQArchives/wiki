@@ -2,14 +2,48 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T18:43:58.025Z
+date: 2026-01-25T20:38:07.334Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
 ---
 
 # Character Migration
-This article documents the schema compatibility between TAKP and PEQ database formats.
+This article documents the schema compatibility between TAKP and PEQ database formats, and provides insight into what tables should be copied, and which ones aren't important.
+
+The following character-related tables should NOT be copied forward:
+
+* account_flags
+* account_rewards
+* character_buffs
+* character_consent
+* character_corpse_items
+* character_corpse_items_backup
+* character_corpses
+* character_corpses_backup
+* character_inspect_messages
+* character_lookup
+* character_magelo_stats
+* character_pet_buffs
+* character_pet_info
+* character_pet_inventory
+* character_soulmarks
+* character_timers
+* character_zone_flags
+* friends
+* guilds
+* guild_ranks
+* guild_members
+* mail
+* petitions
+* player_titlesets
+* quest_globals
+* spell_globals
+* client_version
+* commands_log
+* titles
+* trader
+
 >Database versioning would be a good future step, but not there yet.
 {.is-warning}
 ## Account Tables
