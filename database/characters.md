@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T01:18:24.814Z
+date: 2026-01-25T01:19:40.092Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -18,7 +18,7 @@ dateCreated: 2026-01-20T03:13:49.975Z
 | character_bind | ✅ Yes | High compatibility. Simple field rename (`is_home` → `slot`). |
 | character_buffs | ❌ No | Transient runtime data. Standard practice is to skip - characters rebuff naturally after login. |
 | character_currency | ✅ Yes | Excellent compatibility. All TAKP fields map 1:1 to PEQ. |
-| [character_data](/character_data) | ⚠️ Pending | Schema comparison not yet complete. |
+| [character_data](character_data) | ⚠️ Pending | Schema comparison not yet complete. |
 | character_faction_values | ⚠️ Pending | Schema comparison not yet complete. |
 | character_inventory | ⚠️ Pending | Schema comparison not yet complete. |
 | character_keyring | ⚠️ Pending | Schema comparison not yet complete. |
