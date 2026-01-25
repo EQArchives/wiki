@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T20:52:45.967Z
+date: 2026-01-25T20:53:13.472Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -33,7 +33,7 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | [character_inventory](character_inventory) | ✅ Yes | Good compatibility. Table rename: `character_inventory`→`inventory`. Field renames: `id`→`character_id`, `slotid`→`slot_id`, `itemid`→`item_id`. Set augment/ornament fields to 0. TAKP serial tracking lost. |
 | [character_keyring](/character_keyring) | ⚠️ Pending | Schema comparison not yet complete. |
 | [character_languages](character_languages) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
-| [character_memmed_spells](character_memmed_spells) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments  |
+| [character_memmed_spells](character_memmed_spells) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
 | [character_skills](character_skills) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
 | [character_spells](character_spells) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
 | [character_buffs](character_buffs) | ❌ No | Transient runtime data. Standard practice is to skip - characters rebuff naturally after login. |
