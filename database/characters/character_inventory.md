@@ -2,7 +2,7 @@
 title: character_inventory
 description: 
 published: true
-date: 2026-01-25T16:34:51.969Z
+date: 2026-01-25T16:36:55.151Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T16:16:52.564Z
