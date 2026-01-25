@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T02:16:01.131Z
+date: 2026-01-25T02:17:36.553Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -22,10 +22,10 @@ dateCreated: 2026-01-20T03:13:49.975Z
 ## Character Tables
 | Table Name | Copy? | Notes |
 | --- | --- | --- |
-| character_alternate_abilities | ⚠️ Conditional | Primary key structure differs. Requires deduplication if same AA exists in multiple slots. Recommend checking for duplicates first. |
-| character_bind | ✅ Yes | High compatibility. Simple field rename (`is_home` → `slot`). |
-| character_buffs | ❌ No | Transient runtime data. Standard practice is to skip - characters rebuff naturally after login. |
-| character_currency | ✅ Yes | Excellent compatibility. All TAKP fields map 1:1 to PEQ. |
+| [character_alternate_abilities](character_alternate_abilities) | ⚠️ Conditional | Primary key structure differs. Requires deduplication if same AA exists in multiple slots. Recommend checking for duplicates first. |
+| [character_bind](character_bind) | ✅ Yes | High compatibility. Simple field rename (`is_home` → `slot`). |
+| [character_buffs](character_buffs) | ❌ No | Transient runtime data. Standard practice is to skip - characters rebuff naturally after login. |
+| [character_currency](character_currency) | ✅ Yes | Excellent compatibility. All TAKP fields map 1:1 to PEQ. |
 | [character_data](character_data) |  ✅ Yes | High compatibility. All core fields identical. PEQ expansion features set to 0. See [full comparison](/migration/tables/character-data) for field mappings. |
 | [character_faction_values](character_faction_values) | ✅ Yes | Excellent compatibility. Field rename: `id`→`char_id`. Direct 1:1 copy of all faction standings. || [character_inventory](character_inventory) | ⚠️ Pending | Schema comparison not yet complete. |
 | [character_keyring](/character_keyring) | ⚠️ Pending | Schema comparison not yet complete. |
