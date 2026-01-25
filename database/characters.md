@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T20:53:53.003Z
+date: 2026-01-25T20:54:35.602Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -48,7 +48,7 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 | character_pet_buffs | ❌ No | Temporary buffs on pets. |
 | character_pet_info | ❌ No | Summoned character pets |
 | character_pet_inventory | ❌ No | Equipment handed to character pets |
-| character_soulmarks | ❌ No | 
+| character_soulmarks | ❌ No | Typically unused on TAKP |
 | character_timers | ❌ No | Timers for characters (like spell recast timers) |
 | character_zone_flags | ⚠️ Conditional | Flags for whether a character is flagged for a zone (PoP) only |
 
