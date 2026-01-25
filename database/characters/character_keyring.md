@@ -2,7 +2,7 @@
 title: character_keyring
 description: 
 published: true
-date: 2026-01-25T22:49:43.092Z
+date: 2026-01-25T23:19:28.193Z
 tags: database, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T22:27:28.217Z
@@ -123,7 +123,7 @@ dateCreated: 2026-01-25T22:27:28.217Z
 > The keyring stores keys (quest items) that persist across character logins:
 > - Each row represents one key item the character owns
 > - Keys are typically quest items that unlock doors or gates
-> - Common keys: Soulfire key, Iksar skull key, etc.
+> - Common keys: Trakanon Idol, Key to Veeshan, Key to Charasis
 
 ### Raw Schema Details
 
