@@ -2,7 +2,7 @@
 title: character_inventory
 description: 
 published: true
-date: 2026-01-25T16:17:26.460Z
+date: 2026-01-25T16:24:35.146Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T16:16:52.564Z
@@ -71,6 +71,12 @@ dateCreated: 2026-01-25T16:16:52.564Z
   </tr>
 </thead>
 <tbody>
+  <tr class="comparison-same">
+    <td colspan="6" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
+      ✅ Classic EQ Fields (Compatible with TAKP)
+    </td>
+  </tr>
+  
   <tr class="comparison-diff">
     <td><code>character_id</code> / <code>id</code></td>
     <td>int(11) unsigned PRI</td>
@@ -107,13 +113,19 @@ dateCreated: 2026-01-25T16:16:52.564Z
     <td>Identical</td>
   </tr>
   
+  <tr class="comparison-same">
+    <td><code>custom_data</code></td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>text NULL</td>
+    <td>NULL</td>
+    <td>Identical - custom item data storage</td>
+  </tr>
+  
   <tr class="comparison-exclusive">
-    <td><code>color</code></td>
-    <td>int(11) unsigned</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (item tint/dye color)</td>
+    <td colspan="6" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 LDoN Expansion (Sept 2003) - PEQ Only
+    </td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -122,52 +134,18 @@ dateCreated: 2026-01-25T16:16:52.564Z
     <td>0</td>
     <td>—</td>
     <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (augment slot 1, LDoN+ feature)</td>
+    <td><strong>PEQ only:</strong> Set to 0 (augment slot 1)</td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>augment_two</code></td>
-    <td>mediumint(7) unsigned</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (augment slot 2)</td>
+    <td><code>augment_two</code> through <code>augment_six</code></td>
+    <td colspan="5"><em>5 more augment slots - all set to 0</em></td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>augment_three</code></td>
-    <td>mediumint(7) unsigned</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (augment slot 3)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>augment_four</code></td>
-    <td>mediumint(7) unsigned</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (augment slot 4)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>augment_five</code></td>
-    <td>mediumint(7) unsigned</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (augment slot 5)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>augment_six</code></td>
-    <td>mediumint(7) unsigned</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (augment slot 6)</td>
+    <td colspan="6" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Gates of Discord (Feb 2004) - PEQ Only
+    </td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -179,40 +157,24 @@ dateCreated: 2026-01-25T16:16:52.564Z
     <td><strong>PEQ only:</strong> Set to 0 (instance-specific no-drop flag)</td>
   </tr>
   
-  <tr class="comparison-same">
-    <td><code>custom_data</code></td>
-    <td>text NULL</td>
-    <td>NULL</td>
-    <td>text NULL</td>
-    <td>NULL</td>
-    <td>Identical - custom item data storage</td>
+  <tr class="comparison-exclusive">
+    <td colspan="6" style="background-color: #e3f2fd; font-weight: bold; text-align: center;">
+      🔷 Modern Expansions (Post-2010) - PEQ Only
+    </td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>ornament_icon</code></td>
+    <td><code>color</code></td>
     <td>int(11) unsigned</td>
     <td>0</td>
     <td>—</td>
     <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (ornament system from later expansions)</td>
+    <td><strong>PEQ only:</strong> Set to 0 (item tint/dye system)</td>
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>ornament_idfile</code></td>
-    <td>int(11) unsigned</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (ornament graphics file)</td>
-  </tr>
-  
-  <tr class="comparison-exclusive">
-    <td><code>ornament_hero_model</code></td>
-    <td>int(11)</td>
-    <td>0</td>
-    <td>—</td>
-    <td>—</td>
-    <td><strong>PEQ only:</strong> Set to 0 (hero's forge model)</td>
+    <td><code>ornament_icon, ornament_idfile, ornament_hero_model</code></td>
+    <td colspan="5"><em>Hero's Forge ornament system (House of Thule+) - all set to 0</em></td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -225,12 +187,18 @@ dateCreated: 2026-01-25T16:16:52.564Z
   </tr>
   
   <tr class="comparison-exclusive">
+    <td colspan="6" style="background-color: #fff3e0; font-weight: bold; text-align: center;">
+      ⚠️ TAKP-Specific Features (Lost on Migration)
+    </td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
     <td><code>serialnumber</code></td>
     <td>—</td>
     <td>—</td>
     <td>int(10)</td>
     <td>0</td>
-    <td><strong>TAKP only:</strong> Lost on migration (item serial tracking)</td>
+    <td><strong>TAKP only:</strong> Item serial tracking</td>
   </tr>
   
   <tr class="comparison-exclusive">
@@ -239,7 +207,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
     <td>—</td>
     <td>tinyint(3)</td>
     <td>0</td>
-    <td><strong>TAKP only:</strong> Lost on migration (initial serial flag)</td>
+    <td><strong>TAKP only:</strong> Initial serial flag</td>
   </tr>
 </tbody>
 </table>
