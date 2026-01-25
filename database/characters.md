@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T02:33:23.852Z
+date: 2026-01-25T02:34:50.459Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -908,7 +908,6 @@ WHERE id = 12345;       -- Replace with actual character_id
 +-------------------------+-----------------------+------+-----+---------+----------------+
 106 rows in set (0.002 sec)
 ```
-## character_faction_values
 ## character_inventory
 ## character_keyring
 ## character_languages
