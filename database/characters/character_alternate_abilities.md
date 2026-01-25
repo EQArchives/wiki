@@ -2,7 +2,7 @@
 title: character_alternate_abilities
 description: 
 published: true
-date: 2026-01-25T15:17:44.350Z
+date: 2026-01-25T15:18:46.038Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T15:17:44.350Z
