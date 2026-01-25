@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T01:59:14.929Z
+date: 2026-01-25T02:02:00.644Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -14,8 +14,8 @@ dateCreated: 2026-01-20T03:13:49.975Z
 
 | Table Name | Copy? | Notes |
 | --- | --- | --- |
-| account | ✅ Yes | Good compatibility. Field rename: `gminvul`→`invulnerable`. Set `ls_id` to 'local', `auto_login_charname` to empty. TAKP fields lost: `forum_id`, `expansion`, `active`, `ip_exemption_multiplier`, `mule`. |
-| account_ip | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
+| [account](account) | ✅ Yes | Good compatibility. Field rename: `gminvul`→`invulnerable`. Set `ls_id` to 'local', `auto_login_charname` to empty. TAKP fields lost: `forum_id`, `expansion`, `active`, `ip_exemption_multiplier`, `mule`. |
+| [account_ip](account_ip) | ✅ Yes | Identical schemas. Direct 1:1 copy, no adjustments needed. |
 | account_flags | ❌ No | Typically unused in TAKP. |
 | account_rewards | ❌ No | Typically unused in TAKP. |
 
