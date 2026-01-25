@@ -2,14 +2,16 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T16:05:29.611Z
+date: 2026-01-25T16:06:48.180Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
 ---
 
 # Character Migration
-
+This article documents the schema compatibility between TAKP and PEQ database formats.
+>Database versioning would be a good future step, but not there yet.
+{.is-warning}
 ## Account Tables
 
 | Table Name | Copy? | Notes |
