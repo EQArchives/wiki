@@ -2,7 +2,7 @@
 title: character_inventory
 description: 
 published: true
-date: 2026-01-25T16:24:35.146Z
+date: 2026-01-25T16:28:44.607Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T16:16:52.564Z
@@ -73,7 +73,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
 <tbody>
   <tr class="comparison-same">
     <td colspan="6" style="background-color: #f5f5f5; font-weight: bold; text-align: center;">
-      ✅ Classic EQ Fields (Compatible with TAKP)
+      📜 Classic EQ (1999-2001) (Compatible with TAKP)
     </td>
   </tr>
   
@@ -163,7 +163,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
     </td>
   </tr>
   
-  <tr class="comparison-exclusive">
+ <tr class="comparison-exclusive">
     <td><code>color</code></td>
     <td>int(11) unsigned</td>
     <td>0</td>
@@ -173,8 +173,30 @@ dateCreated: 2026-01-25T16:16:52.564Z
   </tr>
   
   <tr class="comparison-exclusive">
-    <td><code>ornament_icon, ornament_idfile, ornament_hero_model</code></td>
-    <td colspan="5"><em>Hero's Forge ornament system (House of Thule+) - all set to 0</em></td>
+    <td><code>ornament_icon</code></td>
+    <td>int(11) unsigned</td>
+    <td>0</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (ornament icon - House of Thule+)</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ornament_idfile</code></td>
+    <td>int(11) unsigned</td>
+    <td>0</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (ornament graphics file)</td>
+  </tr>
+  
+  <tr class="comparison-exclusive">
+    <td><code>ornament_hero_model</code></td>
+    <td>int(11)</td>
+    <td>0</td>
+    <td>—</td>
+    <td>—</td>
+    <td><strong>PEQ only:</strong> Set to 0 (Hero's Forge model)</td>
   </tr>
   
   <tr class="comparison-exclusive">
