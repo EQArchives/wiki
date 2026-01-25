@@ -2,7 +2,7 @@
 title: TAKP to EQEMU Character Migration
 description: 
 published: true
-date: 2026-01-25T20:54:35.602Z
+date: 2026-01-25T20:55:44.503Z
 tags: database
 editor: markdown
 dateCreated: 2026-01-20T03:13:49.975Z
@@ -73,8 +73,6 @@ This article documents the schema compatibility between TAKP and PEQ database fo
 ## Ephemeral Character Tables
 The following character-related tables are somewhat ephemeral, or specific to a server and do not need to be migrated forward.
 
-* account_flags
-* account_rewards
 * friends
 * guilds
 * guild_ranks
