@@ -2,7 +2,7 @@
 title: character_inventory
 description: 
 published: true
-date: 2026-01-25T16:28:44.607Z
+date: 2026-01-25T16:31:29.242Z
 tags: database, characters, takp_peq_migration
 editor: markdown
 dateCreated: 2026-01-25T16:16:52.564Z
@@ -78,7 +78,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
   </tr>
   
   <tr class="comparison-diff">
-    <td><code>character_id</code> / <code>id</code></td>
+    <td><code>id</code> → <code>character_id</code></td>
     <td>int(11) unsigned PRI</td>
     <td>0</td>
     <td>int(11) PRI</td>
@@ -87,7 +87,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
   </tr>
   
   <tr class="comparison-diff">
-    <td><code>slot_id</code> / <code>slotid</code></td>
+  	<td><code>slotid</code> → <code>slot_id</code></td>
     <td>mediumint(7) unsigned PRI</td>
     <td>0</td>
     <td>mediumint(7) unsigned PRI</td>
@@ -96,7 +96,7 @@ dateCreated: 2026-01-25T16:16:52.564Z
   </tr>
   
   <tr class="comparison-diff">
-    <td><code>item_id</code> / <code>itemid</code></td>
+  	<td><code>itemid</code> → <code>item_id</code></td>
     <td>int(11) unsigned NULL</td>
     <td>0</td>
     <td>int(11) unsigned NULL</td>
