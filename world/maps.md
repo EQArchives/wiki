@@ -2,7 +2,7 @@
 title: Maps of Norrath
 description: Maps of the World of Norrath / Zone Connection Maps
 published: true
-date: 2025-12-23T02:47:39.292Z
+date: 2026-01-30T02:10:12.465Z
 tags: maps, zone connections, cartography
 editor: markdown
 dateCreated: 2025-12-23T02:29:58.160Z
@@ -10,11 +10,9 @@ dateCreated: 2025-12-23T02:29:58.160Z
 
 # Maps of the World of Norrath
 
-## Zone Connections
-
-### Shadows of Luclin
+## Shadows of Luclin
 ![everquest_with_luclin.png](/maps/everquest_with_luclin.png)
 ![ultimate_norrath_map.jpg](/maps/ultimate_norrath_map.jpg)
-### Velious
+## Velious
 ![velious_mapmaster255.jpg](/maps/velious_mapmaster255.jpg)
-### Kunark
+## Kunark
