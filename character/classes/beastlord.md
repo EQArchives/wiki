@@ -2,7 +2,7 @@
 title: Beastlord
 description: 
 published: true
-date: 2025-12-21T04:14:20.798Z
+date: 2026-02-04T06:18:34.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:58:29.332Z
@@ -24,7 +24,7 @@ Beastlords can adventure solo well in many places. They depend upon coordination
 {.is-info}
 ## Skill Caps
 
->Table below needs verification.  Skill cap progression for Beastlords from levels 50-60.[^1] 
+>Table below is current for TAKP client. Beastlords (and many other classes) get updated skillcaps during modern-client (not TAKP) PoP-GoD.[^1] 
 {.is-warning}
 
 | Skill | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | Gain |
