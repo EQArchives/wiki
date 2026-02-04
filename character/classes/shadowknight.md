@@ -2,7 +2,7 @@
 title: Shadowknight
 description: 
 published: true
-date: 2025-08-10T23:19:17.264Z
+date: 2026-02-04T06:13:24.615Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T15:16:17.483Z
@@ -73,7 +73,7 @@ An extremely fun combination to play, the Troll Shadow Knight is strong and hard
 
 ### Starting Statistics
 
-It is important to note that each race has slightly different starting statistics. For Clerics, your WIS is important for a larger mana pool, and AGI contributes to your AC. You will likely find that it is easiest to max WIS if you pursue raiding and high-end gear.
+It is important to note that each race has slightly different starting statistics. For Shadow Knights, the priority would be to cap STA, then DEx, STR, and AGI, with INT being relevant for casting at higher levels, especially from PoP onwards. 
 
 | Race | STR | DEX | AGI | STA | INT | WIS | CHA | Bonus |
 |------|-----|-----|-----|-----|-----|-----|-----|-------|
