@@ -2,15 +2,13 @@
 title: Lore Index
 description: 
 published: true
-date: 2026-08-30T22:18:05.008Z
+date: 2026-08-30T22:18:22.407Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-30T22:18:05.008Z
 ---
 
 # EverQuest Lore
-
-*Category: Lore*
 
 ## Everquest Beta Histories
 
