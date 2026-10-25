@@ -2,7 +2,7 @@
 title: Cultural Tradeskills
 description: 
 published: true
-date: 2025-08-18T11:10:17.956Z
+date: 2026-10-25T21:40:09.230Z
 tags: tradeskills, skills
 editor: markdown
 dateCreated: 2025-08-10T16:25:03.202Z
@@ -20,27 +20,16 @@ While a few of the normal Tradeskills are restricted by class, most races of Nor
 </figure>
 
 * [Barbarians](/character/tradeskills/cultural_tradeskills/barbarian) - Can forge a chain-class armor, plus weapons. The armor can be worn by all chain-wearing non-small, non-large folk, including iksar (no dwarves, gnomes, halflings, trolls or ogres). Use a Northman Forge.
-
 * [Dark Elves](/character/tradeskills/cultural_tradeskills/dark_elf) - Can forge Adamantite Armor - both chain and plate varieties, plus weapons. The armor can also be worn by half elves. Use a Teir'dal Forge.
-
 * [Dwarves](/character/tradeskills/cultural_tradeskills/dwarf) - Can forge Brellium Armor - wearable by plate classes, plus weapons. The armor can also be worn by gnomes and halflings. Use a Stormguard Forge.
-
 * [Erudites](/character/tradeskills/cultural_tradeskills/erudite) - Can tailor Erudite-only plate armor from the silk of Terrorantula. Use a Worn Erudite Sewing Kit.
-
 * [Gnomes](/character/tradeskills/cultural_tradeskills/gnome) - *Gnome cultural smithing was not available on the original timeline during Kunark expansion.* But tinkering was.
-
 * [Halflings](/character/tradeskills/cultural_tradeskills/halfling) - Can make Vale Leather Armor (tailored with smithing components). Use a Vale Forge for the smithing.
-
 * [High Elves](/character/tradeskills/cultural_tradeskills/high_elf) - Can make Mithril Armor which can also be worn by wood elves and half elves. Use a Koada'dal Forge for the smithing.
-
 * [Humans](/character/tradeskills/cultural_tradeskills/human) - Can make Seafarers' Ringmail (Freeport), Field Plate (Freeport), Full Plate (Qeynos) armor sets. These can also be worn by barbarians, erudites, and half elves. Note that humans have TWO cultural forges, one in Freeport and one in Qeynos. They can make armor in both locations, but must use the proper forge with the proper recipe. Use either a Antonican Forge (*not in game*) or a Royal Qeynos Forge for the smithing.
-
 * [Iksar](/character/tradeskills/cultural_tradeskills/iksar) - Can make Skyiron Armor, weapons, and shields. Use a Iksar Forge for the smithing.
-
 * [Ogres](/character/tradeskills/cultural_tradeskills/ogre) - Can make Ogre War Plate and Ogre Splintmail armor sets, which can also be worn by trolls. Use a Oggok Forge for the smithing.
-
 * [Trolls](/character/tradeskills/cultural_tradeskills/troll) - *Troll cultural smithing was finally implemented during the Shadows of Luclin expansion.
-
 * [Wood Elves](/character/tradeskills/cultural_tradeskills/wood_elf) - Can make Mithril Studded Leather and Mithril Reinforced Leather (tailored with smithing components) as well as Mithril Feir'dal weapons. Use a Fier'dal Forge for the smithing.
 
 ## A Note About Armor Set Varieties
