@@ -2,7 +2,7 @@
 title: Clients List
 description: A list of EverQuest game clients released over the years
 published: true
-date: 2026-10-25T23:38:40.121Z
+date: 2026-10-25T23:55:36.199Z
 tags: research, clients, game clients
 editor: markdown
 dateCreated: 2025-08-11T01:38:20.490Z
@@ -24,7 +24,7 @@ dateCreated: 2025-08-11T01:38:20.490Z
 | The Planes of Power | October 29, 2002 | 8145EQPBL1 (2 disc install). A separate UK edition was published by Ubisoft (discs mastered October 20, 2002).[^4] |
 | **EverQuest Gold Edition - Version 2 (North America, SOE)** | November 4, 2002 (North America) | Original game and its first four expansion packs: Kunark, Velious, Luclin, Planes of Power. Published by SOE; discs mastered October 15, 2002.[^4] |
 | **EverQuest Europa** | November 21, 2002 | Localized version of EverQuest launches in Europe (French and German) |
-| **EverQuest New Dawn** | November 22, 2002 (Europe) | European compilation edition.[^1] |
+| **EverQuest New Dawn** | November 22, 2002 (Europe) | European compilation edition.[^1]  Includes original game and its first four expansion packs: Kunark, Velious, Luclin, Planes of Power.|
 | TAKP Client | December 2002 | This client is semi-unofficial. It was slightly modified by The Al'Kabor Project from the MAC client built for The Al'Kabor Server |
 | The Legacy of Ykesha | February 2003 | |
 | EverQuest: Macintosh Edition | June 24, 2003 | In theory, TAKP client is based on this. See https://www.sony.com/en_us/SCA/company-news/press-releases/sony-online-entertainment/2003/everquest-macintosh-edition-now-available-for-mac-gamers.html |
