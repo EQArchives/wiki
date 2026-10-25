@@ -2,7 +2,7 @@
 title: Clients List
 description: A list of EverQuest game clients released over the years
 published: true
-date: 2026-10-25T23:33:30.144Z
+date: 2026-10-25T23:38:40.121Z
 tags: research, clients, game clients
 editor: markdown
 dateCreated: 2025-08-11T01:38:20.490Z
@@ -12,30 +12,31 @@ dateCreated: 2025-08-11T01:38:20.490Z
 
 | Client Name | Date | Description |
 |-------------|------|-------------|
-| Beta Phase 4 | January 01, 1999 | Only available to Beta 4 participants |
-| Original EverQuest | March 16, 1999 | 23460-CDR-00 989 Studios EverQuest Windows 95 98 CD PC Game 1998 Sony Computer Equipment America |
-| The Ruins of Kunark | April 24, 2000 | Installing this expansion simply adds new zone files to the original installation. |
-| The Scars of Velious | December 5, 2000 | Installing this expansion simply adds new zone files to the existing installation (see article for file manifest). |
+| EverQuest Beta Phase 4 | January 1999 | Pre-release client sent to beta testers, mailed in a disc envelope with a producer letter. Disc mastered January 26, 1999.[^4] |
+| Original EverQuest | March 16, 1999 | 23460-CDR-00 989 Studios EverQuest Windows 95 98 CD PC Game 1998 Sony Computer Equipment America. Retail disc mastered February 18, 1999.[^4] |
+| The Ruins of Kunark | April 24, 2000 | Installing this expansion simply adds new zone files to the original installation. Disc mastered March 15, 2000.[^4] |
+| The Scars of Velious | December 5, 2000 | Installing this expansion simply adds new zone files to the existing installation (see article for file manifest). Disc mastered November 17, 2000.[^4] |
 | **EverQuest Deluxe Edition** | March 6, 2001 (Europe) | European compilation edition.[^1] |
-| **EverQuest Trilogy - Original, Kunark, Velious** | September 18, 2001 | UPC Barcode: 814582402127; There was a digital download freely available here for years: ftp://eqftp.station.sony.com/eqtrilogy.exe |
-| The Shadows of Luclin | December 4, 2001 | SONYON 8145EQLCD 5304 (3 disc install) Installs the Shadows of Luclin files, optional Updated Texture Files for EverQuest Classic, Kunark, and Velious, and optional Localization Files (French, German, Japanese, Korean) |
-| **EverQuest Gold Edition - Version 1** | March 22, 2002 (Europe) | Original game and its first three expansion packs: Kunark, Velious, Luclin |
-| The Planes of Power | October 29, 2002 | 8145EQPBL1 (2 disc install) |
-| **EverQuest Gold Edition - Version 2** | November 4, 2002 (North America) | Original game and its first four expansion packs: Kunark, Velious, Luclin, Planes of Power |
+| **EverQuest Trilogy - Original, Kunark, Velious** | September 18, 2001 | UPC Barcode: 814582402127; There was a digital download freely available here for years: ftp://eqftp.station.sony.com/eqtrilogy.exe. The same UPC appears on the 2002 Trilogy Special Edition box, so it may belong to that reprint rather than the 2001 original, or both may share it.[^4] |
+| The Shadows of Luclin | December 4, 2001 | SONYON 8145EQLCD 5304 (3 disc install) Installs the Shadows of Luclin files, optional Updated Texture Files for EverQuest Classic, Kunark, and Velious, and optional Localization Files (French, German, Japanese, Korean). Discs mastered November 22, 2001.[^4] |
+| **EverQuest Gold Edition - Version 1 (Europe, Ubisoft)** | March 22, 2002 (Europe) | Original game and its first three expansion packs: Kunark, Velious, Luclin. Published in Europe by Ubisoft; discs mastered February 5, 2002.[^4] |
+| **EverQuest Trilogy Special Edition** | 2002 | Reprint of Trilogy (EverQuest, Kunark and Velious) with both SOE and Verant logos on the back of the box. Files on the discs are dated up to July 2002, a newer patch level than the 2001 original. UPC 814582402127. The archived discs are labeled "NEW" and were authored with Nero Burning ROM, which suggests a burned copy, so their July 24, 2002 date may not be the original pressing date.[^4] |
+| The Planes of Power | October 29, 2002 | 8145EQPBL1 (2 disc install). A separate UK edition was published by Ubisoft (discs mastered October 20, 2002).[^4] |
+| **EverQuest Gold Edition - Version 2 (North America, SOE)** | November 4, 2002 (North America) | Original game and its first four expansion packs: Kunark, Velious, Luclin, Planes of Power. Published by SOE; discs mastered October 15, 2002.[^4] |
 | **EverQuest Europa** | November 21, 2002 | Localized version of EverQuest launches in Europe (French and German) |
 | **EverQuest New Dawn** | November 22, 2002 (Europe) | European compilation edition.[^1] |
 | TAKP Client | December 2002 | This client is semi-unofficial. It was slightly modified by The Al'Kabor Project from the MAC client built for The Al'Kabor Server |
 | The Legacy of Ykesha | February 2003 | |
 | EverQuest: Macintosh Edition | June 24, 2003 | In theory, TAKP client is based on this. See https://www.sony.com/en_us/SCA/company-news/press-releases/sony-online-entertainment/2003/everquest-macintosh-edition-now-available-for-mac-gamers.html |
-| **EverQuest Evolution** | July 10, 2003 (August 25, 2003 release) | Original game plus all of the expansion packs released so far: The Ruins of Kunark, The Scars of Velious, The Shadows of Luclin, The Planes of Power, and The Legacy of Ykesha. |
+| **EverQuest Evolution** | July 10, 2003 (August 25, 2003 release) | Original game plus all of the expansion packs released so far: The Ruins of Kunark, The Scars of Velious, The Shadows of Luclin, The Planes of Power, and The Legacy of Ykesha. Discs mastered July 15, 2003, so the July 10, 2003 date is not the mastering date.[^4] |
 | Lost Dungeons of Norrath | September 9, 2003 | |
 | Gates of Discord | February 10, 2004 | |
-| **EverQuest Platinum Edition** | July 26, 2004 | Classic EverQuest and first seven expansion packs |
+| **EverQuest Platinum Edition** | July 26, 2004 | Classic EverQuest and first seven expansion packs. Discs mastered June 22, 2004.[^4] |
 | Omens of War | September 14, 2004 | |
 | **EverQuest Chronicles: Volume One** | September 20, 2004 (North America) | North American compilation edition.[^1] |
 | Dragons of Norrath | February 15, 2005 | |
 | Depths of Darkhollow | September 13, 2005 | |
-| **EverQuest: Titanium Edition** | January 10, 2006 | This is the client used by Project 1999. EQEMU: "This client was the start of the disk-standard whereby the play servers accept client versions that were released on DVD instead of the previously chaotic method of attempting to keep up with every patched version of Everquest. It is widely accepted that this standard greatly increased the popularity of EQ emulation as a client could be easily obtained, and the long term stability of the client allowed the developers to focus on other issues." |
+| **EverQuest: Titanium Edition** | January 10, 2006 | This is the client used by Project 1999. EQEMU: "This client was the start of the disk-standard whereby the play servers accept client versions that were released on DVD instead of the previously chaotic method of attempting to keep up with every patched version of Everquest. It is widely accepted that this standard greatly increased the popularity of EQ emulation as a client could be easily obtained, and the long term stability of the client allowed the developers to focus on other issues." Discs mastered November 11, 2005.[^4] |
 | Prophecy of Ro | February 21, 2006 | |
 | The Serpent's Spine | September 19, 2006 | |
 | The Buried Sea | February 13, 2007 | |
@@ -68,3 +69,4 @@ dateCreated: 2025-08-11T01:38:20.490Z
 [^1]: "EverQuest expansions". Wikipedia. Available online at https://en.wikipedia.org/wiki/EverQuest_expansions. Last accessed October 25, 2026. Expansion and compilation release dates on this page are from this article unless noted otherwise.
 [^2]: EQEmu server source code, client patch files for Titanium, SoF, SoD, UF, RoF and RoF2. Available online at https://github.com/EQEmu/EQEmu. Last accessed October 25, 2026.
 [^3]: "EverQuest announces its expansion for 2026, Favors of Fortune, in the newest producer's letter". Massively Overpowered. Published September 30, 2026. Available online at https://massivelyop.com/2026/09/30/everquest-announces-its-expansion-for-2026-favors-of-fortune-in-the-newest-producers-letter/. Last accessed October 25, 2026.
+[^4]: "EverQuest client archive". Available online at https://ff7t1.es/a/index.html. Last accessed October 25, 2026. Mastering dates come from the ISO9660 metadata recorded on the archived discs and may precede the retail release.
