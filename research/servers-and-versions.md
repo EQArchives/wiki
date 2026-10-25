@@ -2,20 +2,10 @@
 title: Servers and Versions
 description: 
 published: true
-date: 2026-10-25T23:12:15.295Z
-tags: servers, history
+date: 2026-10-25T23:13:30.453Z
+tags: servers, history, tlp, progression, test server
 editor: markdown
 dateCreated: 2026-10-25T23:00:18.652Z
----
-
----
-title: Servers & Versions
-description: The EverQuest servers running today, how progression and Test servers work, and the history of server launches and merges
-published: true
-date: 2026-10-25T23:20:00.000Z
-tags: servers, progression, tlp, test server, history
-editor: markdown
-dateCreated: 2026-10-25T23:20:00.000Z
 ---
 
 # Servers & Versions
