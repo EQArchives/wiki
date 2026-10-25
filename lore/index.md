@@ -2,7 +2,7 @@
 title: Lore Index
 description: 
 published: true
-date: 2026-10-25T21:50:15.810Z
+date: 2026-10-25T21:53:46.567Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-30T22:18:05.008Z
