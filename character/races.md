@@ -2,7 +2,7 @@
 title: Races
 description: 
 published: true
-date: 2026-01-02T03:36:02.465Z
+date: 2026-10-25T20:51:31.822Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-10T04:27:12.301Z
@@ -53,6 +53,17 @@ At initial launch, EverQuest had 12 playable races.
 * **Racial(s)**: Hide, Ultravision
 * **Starting City**: Neriak
 
+## [Drakkin](/character/races/drakkin) (DRK)
+
+* **Armor**: Medium
+* **Experience Modifier**: None
+* **Faction Alignment**: Neutral
+* **Playable Classes**: [Bard](/character/classes/bard), [Cleric](/character/classes/cleric), [Druid](/character/classes/druid), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Monk](/character/classes/monk), [Necromancer](/character/classes/necromancer), [Paladin](/character/classes/paladin), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
+* **Racial(s)**: Dragon Breath, Infravision
+* **Starting City**: Crescent Reach
+
+*Note: Drakkin were introduced with The Serpent's Spine expansion.*
+
 ## [Dwarf](/character/races/dwarf) (DWF)
 
 * **Armor**: Small, *Cannot Wear Robes*
@@ -72,6 +83,17 @@ At initial launch, EverQuest had 12 playable races.
 * **Starting City**: Erudin, Paineel
 
 *Note: In classic-era game clients, night blindness was a real problem with Erudites; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
+
+## [Froglok](/character/races/froglok) (FRG)
+
+* **Armor**: Medium and Small
+* **Experience Modifier**: None
+* **Faction Alignment**: Neutral
+* **Playable Classes**: [Cleric](/character/classes/cleric), [Necromancer](/character/classes/necromancer), [Paladin](/character/classes/paladin), [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
+* **Racial(s)**: Swimming (125), Ultravision
+* **Starting City**: Gukta
+
+*Note: Frogloks were introduced with the Legacy of Ykesha expansion. Their original home city was Gukta (formerly Grobb), which the Trolls retook in a 2005 event.*
 
 ## [Gnome](/character/races/gnome) (GNM)
 
@@ -120,17 +142,17 @@ At initial launch, EverQuest had 12 playable races.
 * **Faction Alignment**: Neutral
 * **Playable Classes**: [Bard](/character/classes/bard), [Cleric](/character/classes/cleric), [Druid](/character/classes/druid), [Enchanter](/character/classes/enchanter), [Magician](/character/classes/magician), [Monk](/character/classes/monk), [Necromancer](/character/classes/necromancer), [Paladin](/character/classes/paladin), [Ranger](/character/classes/ranger), [Rogue](/character/classes/rogue), [Shadow Knight](/character/classes/shadowknight), [Warrior](/character/classes/warrior), [Wizard](/character/classes/wizard)
 * **Racial(s)**: None*
-* **Starting City**: Freeport, Qeynos
+* **Starting City**: Freeport, Qeynos, Surefall Glade
 
 *Note: In classic-era game clients, night blindness was a real problem with humans; especially when not carrying a light source. The Everquest Trilogy client is probably the last version of the client where this was still implemented.*
 
 ## [Iksar](/character/races/iksar) (IKS)
 
-* **Armor**: Medium, **Cannot Wear Plate**
+* **Armor**: Medium, **Cannot Wear most pre-Velious Plate**
 * **Experience Modifier**: 20% More Required per Level
 * **Faction Alignment**: Evil ("super evil", not friendly with the other evil races of Antonica)
 - **Playable Classes**: [Beastlord*](/character/classes/beastlord), [Monk](/character/classes/monk), [Necromancer](/character/classes/necromancer), [Shadow Knight](/character/classes/shadowknight), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
-* **Racial(s)**: Forage, Increased Armor Class, Increased HP Regeneration, Infravision, Swimming (100), -10 Cold Resist, +5 Fire Resist
+* **Racial(s)**: Forage, Increased Armor Class, Increased HP Regeneration, Infravision, Swimming (100), -10 Cold Resist, +5 Fire Resist, consumes food faster
 * **Starting City**: Cabilis
 
 ## [Ogre](/character/races/ogre) (OGR)
@@ -161,11 +183,11 @@ At initial launch, EverQuest had 12 playable races.
 * **Starting City**: Kelethin
 
 ## [Vah Shir](/character/races/vah-shir) (VAH)
-* **Armor**: Large
+* **Armor**: Medium, Large
 * **Experience Modifier**: None
 * **Faction Alignment**: Neutral
 - **Playable Classes:** [Bard](/character/classes/bard), [Beastlord](/character/classes/beastlord), ~~Berserker (GoD)~~, ~~Druid (SoR)~~, [Rogue](/character/classes/rogue), [Shaman](/character/classes/shaman), [Warrior](/character/classes/warrior)
-* **Racial(s)**: Safe Fall, Infravision
+* **Racial(s)**: Safe Fall, Infravision, consumes food faster
 * **Starting City**: Shar Vhal
 
 ## Racial Bonuses and Penalties
@@ -199,7 +221,7 @@ Halflings, Dark Elves, and Wood Elves have the innate ability to vanish from sig
 Iksar start with a +15 AC bonus (+17 if they are a Warrior) over other races, which scales with level, increasing up to a maximum of +35. However, they cannot wear most pre-Velious plate armor.
 
 ### Increased Consumption Rate
-Barbarians, Halflings, Ogres, and Trolls all consume food and drink slightly faster than other races.
+Barbarians, Halflings, Ogres, Trolls, and Vah Shir all consume food and drink slightly faster than other races.
 
 ### Increased HP Regeneration
 Both Iksar and Trolls have higher HP regeneration rates (per tick):
