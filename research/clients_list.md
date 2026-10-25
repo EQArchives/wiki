@@ -2,7 +2,7 @@
 title: Clients List
 description: A list of EverQuest game clients released over the years
 published: true
-date: 2026-10-25T23:28:08.413Z
+date: 2026-10-25T23:33:30.144Z
 tags: research, clients, game clients
 editor: markdown
 dateCreated: 2025-08-11T01:38:20.490Z
@@ -12,6 +12,7 @@ dateCreated: 2025-08-11T01:38:20.490Z
 
 | Client Name | Date | Description |
 |-------------|------|-------------|
+| Beta Phase 4 | January 01, 1999 | Only available to Beta 4 participants |
 | Original EverQuest | March 16, 1999 | 23460-CDR-00 989 Studios EverQuest Windows 95 98 CD PC Game 1998 Sony Computer Equipment America |
 | The Ruins of Kunark | April 24, 2000 | Installing this expansion simply adds new zone files to the original installation. |
 | The Scars of Velious | December 5, 2000 | Installing this expansion simply adds new zone files to the existing installation (see article for file manifest). |
