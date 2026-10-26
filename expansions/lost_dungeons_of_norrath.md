@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-26T01:20:28.022Z
+date: 2026-10-26T01:29:44.658Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -100,68 +100,83 @@ Each theme has a Wayfarer camp, where you speak to the camp's NPC for an adventu
 **Travel:** each camp has a magus who can teleport you between the Wayfarer camps.
 
 ### Dungeon Variations
+Each dungeon variation is a separate zone with its own map. The zone short names are the ones used by the game files and by EQEmu, and are listed here in EQEmu's zone order.[^6]
+
+>For six of the 48 maps, EQEmu uses a raid name instead of a dungeon name: *The Curse Reborn*, *Frozen Nightmare*, *Struggles within the Progeny*, *Scion Lair of Fury*, *Prison Break* and *Within the Compact*. Raids appear to reuse the group dungeon maps, so these maps probably also carry the dungeon names that otherwise have no EQEmu match. Those pairings are marked *unconfirmed* below, and short names derived from them are marked with a question mark elsewhere on this page.
+{.is-warning}
+
 **Deepest Guk**
 
-* Accursed Sanctuary
-* Ancient Aqueducts
-* Cauldron of Lost Souls
-* Chapel of the Witnesses
-* Drowning Crypt
-* Foreboding Prison
-* Mushroom Grove
-* Root Garden
+| Short name | Dungeon | EQEmu zone name | Notes |
+| --- | --- | --- | --- |
+| `guka` | Cauldron of Lost Souls | Deepest Guk: Cauldron of Lost Souls |  |
+| `gukb` | Drowning Crypt | The Drowning Crypt |  |
+| `gukc` | Ancient Aqueducts | Deepest Guk: Ancient Aqueducts |  |
+| `gukd` | Mushroom Grove | The Mushroom Grove |  |
+| `guke` | Foreboding Prison *(unconfirmed)* | Deepest Guk: The Curse Reborn | EQEmu names this map after the raid *The Curse Reborn*. Foreboding Prison is the only Deepest Guk dungeon without an EQEmu match, so it is probably this map, but that is unconfirmed. |
+| `gukf` | Chapel of the Witnesses | Deepest Guk: Chapel of the Witnesses |  |
+| `gukg` | Root Garden | The Root Garden |  |
+| `gukh` | Accursed Sanctuary | Deepest Guk: Accursed Sanctuary |  |
 
 **Miragul's Menagerie**
 
-* Forgotten Wastes
-* Frosted Halls
-* Grand Library
-* Heart of the Menagerie
-* Hushed Banquet
-* Maw of the Menagerie
-* Morbid Laboratory
-* Silent Gallery
-* Spider Den
-* Theater of Imprisoned Horrors
+| Short name | Dungeon | EQEmu zone name | Notes |
+| --- | --- | --- | --- |
+| `mira` | Silent Gallery | Miragul's Menagerie: Silent Gallery |  |
+| `mirb` | Maw of the Menagerie *(unconfirmed)* | Miragul's Menagerie: Frozen Nightmare | EQEmu names this map after the raid *Frozen Nightmare*. Maw of the Menagerie is the only Miragul's Menagerie dungeon without an EQEmu match, so it is probably this map, but that is unconfirmed. |
+| `mirc` | Spider Den | The Spider Den | Also the name of a raid. |
+| `mird` | Hushed Banquet | Miragul's Menagerie: Hushed Banquet |  |
+| `mire` | Frosted Halls | The Frosted Halls |  |
+| `mirf` | Forgotten Wastes | The Forgotten Wastes |  |
+| `mirg` | Heart of the Menagerie | Miragul's Menagerie: Heart of the Menagerie |  |
+| `mirh` | Morbid Laboratory | The Morbid Laboratory |  |
+| `miri` | Theater of Imprisoned Horrors | The Theater of Imprisoned Horror | EQEmu spells it "Horror", singular. |
+| `mirj` | Grand Library | Miragul's Menagerie: Grand Library |  |
 
 **Mistmoore Catacombs**
 
-* Aisles of Blood
-* Asylum of Invoked Stone
-* Cesspits of Putrescence
-* Chambers of Eternal Affliction
-* Dreary Grotto
-* Forlorn Caverns
-* Halls of Sanguinary Rites
-* Infernal Sanctuary
-* Ritualistic Summoning Grounds
-* Sepulcher of the Damned
+| Short name | Dungeon | EQEmu zone name | Notes |
+| --- | --- | --- | --- |
+| `mmca` | Forlorn Caverns | Mistmoore's Catacombs: Forlorn Caverns |  |
+| `mmcb` | Dreary Grotto | Mistmoore's Catacombs: Dreary Grotto |  |
+| `mmcc` | Asylum of Invoked Stone *or* Ritualistic Summoning Grounds *(unconfirmed)* | Mistmoore's Catacombs: Struggles within the Progeny | EQEmu names this map after the raid *Struggles within the Progeny*. Asylum of Invoked Stone and Ritualistic Summoning Grounds have no EQEmu match, so this map is probably one of them, but which one is unconfirmed. |
+| `mmcd` | Chambers of Eternal Affliction | Mistmoore's Catacombs: Chambers of Eternal Affliction |  |
+| `mmce` | Sepulcher of the Damned | Mistmoore's Catacombs: Sepulcher of the Damned |  |
+| `mmcf` | Asylum of Invoked Stone *or* Ritualistic Summoning Grounds *(unconfirmed)* | Mistmoore's Catacombs: Scion Lair of Fury | EQEmu names this map after the raid *Scion Lair of Fury*. See the note for `mmcc`. |
+| `mmcg` | Cesspits of Putrescence | Mistmoore's Catacombs: Cesspits of Putrescence |  |
+| `mmch` | Aisles of Blood | Mistmoore's Catacombs: Aisles of Blood |  |
+| `mmci` | Halls of Sanguinary Rites | Mistmoore's Catacombs: Halls of Sanguinary Rites |  |
+| `mmcj` | Infernal Sanctuary | Mistmoore's Catacombs: Infernal Sanctuary |  |
 
 **Rujarkian Hills**
 
-* Arena of Chance
-* Barracks of War
-* Blazing Forge
-* Bloodied Quarries
-* Drudge Hollows
-* Fortified Lair of the Taskmasters
-* Gladiator Pits
-* Halls of War
-* Hidden Vale
-* Wind Bridges
+| Short name | Dungeon | EQEmu zone name | Notes |
+| --- | --- | --- | --- |
+| `ruja` | Bloodied Quarries | The Rujarkian Hills: Bloodied Quarries |  |
+| `rujb` | Halls of War | The Rujarkian Hills: Halls of War |  |
+| `rujc` | Wind Bridges | The Rujarkian Hills: Wind Bridges |  |
+| `rujd` | Gladiator Pits *(unconfirmed)* | The Rujarkian Hills: Prison Break | EQEmu names this map after the raid *Prison Break*. Gladiator Pits is the only Rujarkian Hills dungeon without an EQEmu match, so it is probably this map, but that is unconfirmed. |
+| `ruje` | Drudge Hollows | The Rujarkian Hills: Drudge Hollows |  |
+| `rujf` | Fortified Lair of the Taskmasters | The Rujarkian Hills: Fortified Lair of the Taskmasters |  |
+| `rujg` | Hidden Vale | The Rujarkian Hills: Hidden Vale of Deceit | EQEmu uses the longer name, which Bonzz also gives for the raid *The Hidden Vale*. |
+| `rujh` | Blazing Forge | The Rujarkian Hills: Blazing Forge |  |
+| `ruji` | Arena of Chance | The Rujarkian Hills: Arena of Chance |  |
+| `rujj` | Barracks of War | The Rujarkian Hills: Barracks of War |  |
 
 **Takish-Hiz**
 
-* Antiquated Palace
-* Balancing Chamber
-* Fading Temple
-* Prismatic Corridors
-* River of Recollection
-* Royal Observatory
-* Sandfall Corridors
-* Shifting Tower
-* Sunken Library
-* Sweeping Tides
+| Short name | Dungeon | EQEmu zone name | Notes |
+| --- | --- | --- | --- |
+| `taka` | Sunken Library | Takish-Hiz: Sunken Library | Also the name of a raid. |
+| `takb` | Shifting Tower | Takish-Hiz: Shifting Tower |  |
+| `takc` | Fading Temple *(unconfirmed)* | Takish-Hiz: Within the Compact | EQEmu names this map after the raid *Within the Compact*. Fading Temple is the only Takish-Hiz dungeon without an EQEmu match, so it is probably this map, but that is unconfirmed. |
+| `takd` | Royal Observatory | Takish-Hiz: Royal Observatory |  |
+| `take` | River of Recollection | Takish-Hiz: River of Recollection |  |
+| `takf` | Sandfall Corridors | Takish-Hiz: Sandfall Corridors |  |
+| `takg` | Balancing Chamber | Takish-Hiz: Balancing Chamber |  |
+| `takh` | Sweeping Tides | Takish-Hiz: Sweeping Tides |  |
+| `taki` | Antiquated Palace | Takish-Hiz: Antiquated Palace |  |
+| `takj` | Prismatic Corridors | Takish-Hiz: Prismatic Corridors |  |
 
 ## Adventures by Zone
 Each dungeon variation is only offered for certain kinds of adventure. This section collects what is known so far from various sources and is incomplete.
@@ -188,47 +203,47 @@ Deep within the frozen tundra, magic has taken on a form of its own. As Miragul'
 ### Mistmoore Catacombs
 Beneath Faydwer's fog-clad surface, darkness flows through tendril-like tunnels. Shielded from the daylight, unseen and unstoppable, the children of twilight lie in wait. Vampires and other horrors move beneath the unsuspecting citizens of Faydwer like foul blood through a network of veins... with Castle Mistmoore as its undying heart. Will you be able to destroy this evil before twilight's arrival?[^3]
 
-| Zone | Request type | Target | Also offered in |
-| --- | --- | --- | --- |
-| Asylum of Invoked Stone | Boss | Kuren K\`sayen | |
+| Zone | Short name | Request type | Target | Also offered in |
+| --- | --- | --- | --- | --- |
+| Asylum of Invoked Stone | `mmcc` or `mmcf`? | Boss | Kuren K\`sayen | |
 
 ### Rujarkian Hills
 Tavern tales have alluded to a lost tribe of orcs. Said to be the direct descendents of Rallos Zek’s first creations, these savage creatures are more cunning than any orc you may have encountered. These same tales tell of a hidden fortress, teeming with the constant toil of slave labor. It’s said that on still evenings near those hills, you can hear the sounds of mining and the rhythmic cadence of orcish drums. Conqueror or slave labor - which fate awaits you?[^3]
 
-| Zone | Request type | Target | Also offered in |
-| --- | --- | --- | --- |
-| Arena of Chance | Boss | Pyol Skinsear | Fortified Lair of the Taskmasters |
-| Arena of Chance | Boss | Elokoh the Trainer | |
-| Arena of Chance | Boss | Warmaster Skooru | Bloodied Quarries |
-| Arena of Chance | Kill count | 54 | Hidden Vale |
-| Arena of Chance | Collect | 24 Orc Bone Studs (capital "Orc") | |
-| Arena of Chance | Collect | 29 Clay Prayer Idols | |
-| Barracks of War | Boss | Dokolet of Rujark | Fortified Lair of the Taskmasters |
-| Barracks of War | Boss | Vokrek of Rujark | Gladiator Pits |
-| Barracks of War | Boss | Maotog One Tusk | Gladiator Pits |
-| Barracks of War | Kill count | 60 | Halls of War |
-| Blazing Forge | Boss | Noyon Kteggen | |
-| Blazing Forge | Kill count | 51 | |
-| Bloodied Quarries | Boss | Warmaster Skooru | Arena of Chance |
-| Bloodied Quarries | Boss | Ubril Vkelrel | |
-| Bloodied Quarries | Kill count | 56 | |
-| Drudge Hollows | Boss | Tjumuen Ghendi | |
-| Drudge Hollows | Kill count | 53 | Fortified Lair of the Taskmasters |
-| Fortified Lair of the Taskmasters | Boss | Pyol Skinsear | Arena of Chance |
-| Fortified Lair of the Taskmasters | Boss | Dokolet of Rujark | Barracks of War |
-| Fortified Lair of the Taskmasters | Collect | 28 Goblin Teeth | |
-| Fortified Lair of the Taskmasters | Kill count | 53 | Drudge Hollows |
-| Gladiator Pits | Boss | Vokrek of Rujark | Barracks of War |
-| Gladiator Pits | Boss | Maotog One Tusk | Barracks of War |
-| Gladiator Pits | Kill count | 58 | |
-| Halls of War | Boss | Xendren Marl | |
-| Halls of War | Collect | 30 Orc Bone Studs (capital "Orc") | |
-| Halls of War | Kill count | 60 | Barracks of War |
-| Hidden Vale | Boss | Orut Egne | |
-| Hidden Vale | Kill count | 54 | Arena of Chance |
-| Hidden Vale | Collect | 30 orc Bone Studs (lowercase "orc") | |
-| Wind Bridges | Boss | Urut Egne | |
-| Wind Bridges | Kill count | 50 | |
+| Zone | Short name | Request type | Target | Also offered in |
+| --- | --- | --- | --- | --- |
+| Arena of Chance | `ruji` | Boss | Pyol Skinsear | Fortified Lair of the Taskmasters |
+| Arena of Chance | `ruji` | Boss | Elokoh the Trainer | |
+| Arena of Chance | `ruji` | Boss | Warmaster Skooru | Bloodied Quarries |
+| Arena of Chance | `ruji` | Kill count | 54 | Hidden Vale |
+| Arena of Chance | `ruji` | Collect | 24 Orc Bone Studs (capital "Orc") | |
+| Arena of Chance | `ruji` | Collect | 29 Clay Prayer Idols | |
+| Barracks of War | `rujj` | Boss | Dokolet of Rujark | Fortified Lair of the Taskmasters |
+| Barracks of War | `rujj` | Boss | Vokrek of Rujark | Gladiator Pits |
+| Barracks of War | `rujj` | Boss | Maotog One Tusk | Gladiator Pits |
+| Barracks of War | `rujj` | Kill count | 60 | Halls of War |
+| Blazing Forge | `rujh` | Boss | Noyon Kteggen | |
+| Blazing Forge | `rujh` | Kill count | 51 | |
+| Bloodied Quarries | `ruja` | Boss | Warmaster Skooru | Arena of Chance |
+| Bloodied Quarries | `ruja` | Boss | Ubril Vkelrel | |
+| Bloodied Quarries | `ruja` | Kill count | 56 | |
+| Drudge Hollows | `ruje` | Boss | Tjumuen Ghendi | |
+| Drudge Hollows | `ruje` | Kill count | 53 | Fortified Lair of the Taskmasters |
+| Fortified Lair of the Taskmasters | `rujf` | Boss | Pyol Skinsear | Arena of Chance |
+| Fortified Lair of the Taskmasters | `rujf` | Boss | Dokolet of Rujark | Barracks of War |
+| Fortified Lair of the Taskmasters | `rujf` | Collect | 28 Goblin Teeth | |
+| Fortified Lair of the Taskmasters | `rujf` | Kill count | 53 | Drudge Hollows |
+| Gladiator Pits | `rujd`? | Boss | Vokrek of Rujark | Barracks of War |
+| Gladiator Pits | `rujd`? | Boss | Maotog One Tusk | Barracks of War |
+| Gladiator Pits | `rujd`? | Kill count | 58 | |
+| Halls of War | `rujb` | Boss | Xendren Marl | |
+| Halls of War | `rujb` | Collect | 30 Orc Bone Studs (capital "Orc") | |
+| Halls of War | `rujb` | Kill count | 60 | Barracks of War |
+| Hidden Vale | `rujg` | Boss | Orut Egne | |
+| Hidden Vale | `rujg` | Kill count | 54 | Arena of Chance |
+| Hidden Vale | `rujg` | Collect | 30 orc Bone Studs (lowercase "orc") | |
+| Wind Bridges | `rujc` | Boss | Urut Egne | |
+| Wind Bridges | `rujc` | Kill count | 50 | |
 
 ### Takish-Hiz
 In an earlier age, endless aisles of marble stood cool in the shadows of the great Eldarr Forest. Now all that remains is a lifeless sea of sand and stone. Beneath these sun scorched reminders rests a piece of time forgotten even by the god which set the condemning sands in motion. No longer living, yet unable to forget, something vengeful is moving beneath the desert of Ro. If you venture into this realm of cursed memories, will you survive to tell their story?[^3]
@@ -242,89 +257,89 @@ Some combinations can lead to more than one dungeon.
 
 **Deepest Guk** (entrances in Innothule Swamp or Upper Guk)
 
-| Kills | Entrance | Dungeon |
-| --- | --- | --- |
-| 51 | Tree or Upper Guk | Accursed Sanctuary |
-| 53 | Tree or Upper Guk | Cauldron of Lost Souls |
-| 54 | Tree | Drowning Crypt |
-| 55 | Tree or Upper Guk | Root Garden |
-| 56 | Tree | Chapel of the Witnesses |
-| 56 | Upper Guk | Foreboding Prison or Chapel of the Witnesses |
-| 57 | Tree or Upper Guk | Ancient Aqueducts |
-| 58 | Upper Guk | Mushroom Grove |
+| Kills | Entrance | Dungeon | Short name |
+| --- | --- | --- | --- |
+| 51 | Tree or Upper Guk | Accursed Sanctuary | `gukh` |
+| 53 | Tree or Upper Guk | Cauldron of Lost Souls | `guka` |
+| 54 | Tree | Drowning Crypt | `gukb` |
+| 55 | Tree or Upper Guk | Root Garden | `gukg` |
+| 56 | Tree | Chapel of the Witnesses | `gukf` |
+| 56 | Upper Guk | Foreboding Prison or Chapel of the Witnesses | `guke`?, `gukf` |
+| 57 | Tree or Upper Guk | Ancient Aqueducts | `gukc` |
+| 58 | Upper Guk | Mushroom Grove | `gukd` |
 
 **Miragul's Menagerie** (entrances in Everfrost)
 
-| Kills | Entrance | Dungeon |
-| --- | --- | --- |
-| 50 | Portal | Silent Gallery or Frosted Halls |
-| 50 | Mine | Frosted Halls, Silent Gallery or Morbid Laboratory |
-| 51 | Portal | Spider Den or Heart of the Menagerie |
-| 51 | Mine | Heart of the Menagerie |
-| 54 | Portal or Mine | Theater of Imprisoned Horrors |
-| 56 | Portal or Mine | Forgotten Wastes |
-| 58 | Portal or Mine | Maw of the Menagerie |
-| 60 | Portal | Hushed Banquet |
-| 60 | Mine | Grand Library or Hushed Banquet |
+| Kills | Entrance | Dungeon | Short name |
+| --- | --- | --- | --- |
+| 50 | Portal | Silent Gallery or Frosted Halls | `mira`, `mire` |
+| 50 | Mine | Frosted Halls, Silent Gallery or Morbid Laboratory | `mire`, `mira`, `mirh` |
+| 51 | Portal | Spider Den or Heart of the Menagerie | `mirc`, `mirg` |
+| 51 | Mine | Heart of the Menagerie | `mirg` |
+| 54 | Portal or Mine | Theater of Imprisoned Horrors | `miri` |
+| 56 | Portal or Mine | Forgotten Wastes | `mirf` |
+| 58 | Portal or Mine | Maw of the Menagerie | `mirb`? |
+| 60 | Portal | Hushed Banquet | `mird` |
+| 60 | Mine | Grand Library or Hushed Banquet | `mirj`, `mird` |
 
 **Mistmoore Catacombs** (entrances in Lesser Faydark)
 
-| Kills | Entrance | Dungeon |
-| --- | --- | --- |
-| 50 | Grave or Crypt | Dreary Grotto |
-| 53 | Crypt | Chambers of Eternal Affliction |
-| 53 | Grave | Cesspits of Putrescence |
-| 55 | Grave | Forlorn Caverns |
-| 55 | Crypt | Infernal Sanctuary |
-| 56 | Grave or Crypt | Ritualistic Summoning Grounds |
-| 57 | Grave | Sepulcher of the Damned |
-| 59 | Grave | Halls of Sanguinary Rites |
-| 59 | Crypt | Asylum of Invoked Stone |
-| 60 | Crypt | Aisles of Blood |
+| Kills | Entrance | Dungeon | Short name |
+| --- | --- | --- | --- |
+| 50 | Grave or Crypt | Dreary Grotto | `mmcb` |
+| 53 | Crypt | Chambers of Eternal Affliction | `mmcd` |
+| 53 | Grave | Cesspits of Putrescence | `mmcg` |
+| 55 | Grave | Forlorn Caverns | `mmca` |
+| 55 | Crypt | Infernal Sanctuary | `mmcj` |
+| 56 | Grave or Crypt | Ritualistic Summoning Grounds | `mmcc` or `mmcf`? |
+| 57 | Grave | Sepulcher of the Damned | `mmce` |
+| 59 | Grave | Halls of Sanguinary Rites | `mmci` |
+| 59 | Crypt | Asylum of Invoked Stone | `mmcc` or `mmcf`? |
+| 60 | Crypt | Aisles of Blood | `mmch` |
 
 **Rujarkian Hills** (one entrance)
 
-| Kills | Dungeon |
-| --- | --- |
-| 50 | Wind Bridges |
-| 51 | Blazing Forge |
-| 53 | Drudge Hollows or Fortified Lair of the Taskmasters |
-| 54 | Hidden Vale or Arena of Chance |
-| 56 | Bloodied Quarries |
-| 58 | Gladiator Pits |
-| 60 | Halls of War or Barracks of War |
+| Kills | Dungeon | Short name |
+| --- | --- | --- |
+| 50 | Wind Bridges | `rujc` |
+| 51 | Blazing Forge | `rujh` |
+| 53 | Drudge Hollows or Fortified Lair of the Taskmasters | `ruje`, `rujf` |
+| 54 | Hidden Vale or Arena of Chance | `rujg`, `ruji` |
+| 56 | Bloodied Quarries | `ruja` |
+| 58 | Gladiator Pits | `rujd`? |
+| 60 | Halls of War or Barracks of War | `rujb`, `rujj` |
 
 **Takish-Hiz** (one entrance)
 
-| Kills | Dungeon |
-| --- | --- |
-| 51 | Shifting Tower, Prismatic Corridors or Fading Temple |
-| 54 | Royal Observatory or Balancing Chamber |
-| 56 | Sunken Library or Sandfall Corridors |
-| 57 | Antiquated Palace or Sweeping Tides |
-| 59 | River of Recollection |
+| Kills | Dungeon | Short name |
+| --- | --- | --- |
+| 51 | Shifting Tower, Prismatic Corridors or Fading Temple | `takb`, `takj`, `takc`? |
+| 54 | Royal Observatory or Balancing Chamber | `takd`, `takg` |
+| 56 | Sunken Library or Sandfall Corridors | `taka`, `takf` |
+| 57 | Antiquated Palace or Sweeping Tides | `taki`, `takh` |
+| 59 | River of Recollection | `take` |
 
 ## Raids
-Each theme has raid adventures. Raids allow 6 to 54 players, and each is started by talking to its event NPC.[^4]
+Each theme has raid adventures. Raids allow 6 to 54 players, and each is started by talking to its event NPC.[^4] The Map column shows the zone whose EQEmu name matches the raid; raids without a match are left blank.[^6]
 
-| Dungeon theme | Raid | Event NPC | Location |
-| --- | --- | --- | --- |
-| Deepest Guk | Ritualist of Hate | Friggal Bribbitz | South Ro |
-| Deepest Guk | The Curse Reborn | Ruwakka | South Ro |
-| Deepest Guk | The Rescue | Scout Miigle | South Ro |
-| Miragul's Menagerie | Frozen Nightmare | Qileour Bahiael | Everfrost Peaks |
-| Miragul's Menagerie | Folly of Miragul's Ambition | Trelsa McKindle | Everfrost Peaks |
-| Miragul's Menagerie | Spider Den | Mathii Faurls | Everfrost Peaks |
-| Mistmoore Catacombs | Scion Lair of Fury | Glopruk Tigglum | Butcherblock Mountains |
-| Mistmoore Catacombs | The Asylum of Invoked Stone | | |
-| Mistmoore Catacombs | The Lost Party (two groups) | Alinai Kaneriti | Butcherblock Mountains |
-| Mistmoore Catacombs | Struggles within the Progeny | Kroggl | Butcherblock Mountains |
-| Rujarkian Hills | Prison Break | Luarnn Gibbizt | Commonlands |
-| Rujarkian Hills | The Hidden Vale | Chaenz Abella | Commonlands |
-| Rujarkian Hills | War March of Imal Ojun | Uzmanya Zsiksta | Commonlands |
-| Takish-Hiz | Sunken Library | Tarakix V\`Rasyrn | North Ro |
-| Takish-Hiz | The Palace Grounds | Dizzl Nulzik | North Ro |
-| Takish-Hiz | Within the Compact | Efrelle Treiui | North Ro |
+| Dungeon theme | Raid | Event NPC | Location | Map |
+| --- | --- | --- | --- | --- |
+| Deepest Guk | Ritualist of Hate | Friggal Bribbitz | South Ro |  |
+| Deepest Guk | The Curse Reborn | Ruwakka | South Ro | `guke` |
+| Deepest Guk | The Rescue | Scout Miigle | South Ro |  |
+| Miragul's Menagerie | Frozen Nightmare | Qileour Bahiael | Everfrost Peaks | `mirb` |
+| Miragul's Menagerie | Folly of Miragul's Ambition | Trelsa McKindle | Everfrost Peaks |  |
+| Miragul's Menagerie | Spider Den | Mathii Faurls | Everfrost Peaks | `mirc` |
+| Mistmoore Catacombs | Scion Lair of Fury | Glopruk Tigglum | Butcherblock Mountains | `mmcf` |
+| Mistmoore Catacombs | The Asylum of Invoked Stone | | |  |
+| Mistmoore Catacombs | The Lost Party (two groups) | Alinai Kaneriti | Butcherblock Mountains |  |
+| Mistmoore Catacombs | Struggles within the Progeny | Kroggl | Butcherblock Mountains | `mmcc` |
+| Rujarkian Hills | Prison Break | Luarnn Gibbizt | Commonlands | `rujd` |
+| Rujarkian Hills | The Hidden Vale | Chaenz Abella | Commonlands | `rujg` |
+| Rujarkian Hills | War March of Imal Ojun | Uzmanya Zsiksta | Commonlands |  |
+| Takish-Hiz | Sunken Library | Tarakix V\`Rasyrn | North Ro | `taka` |
+| Takish-Hiz | The Palace Grounds | Dizzl Nulzik | North Ro |  |
+| Takish-Hiz | Within the Compact | Efrelle Treiui | North Ro | `takc` |
 
 ### Raid Walkthroughs
 These summaries describe the main targets and mechanics of each raid.[^4] Raid leaders should adapt them to their group.
@@ -482,3 +497,4 @@ This guide was originally seeded from the Allakhazam EverQuest wiki's Lost Dunge
 [^3]: Dungeon theme descriptions from the official Lost Dungeons of Norrath website (lostdungeonsofnorrath.com), Sony Online Entertainment, 2003, as preserved by the Internet Archive.
 [^4]: "Lost Dungeons of Norrath". Bonzz's EverQuest site (bonzz.com). Last accessed October 25, 2026.
 [^5]: "EverQuest expansions". Wikipedia. Available online at https://en.wikipedia.org/wiki/EverQuest_expansions. Last accessed October 25, 2026.
+[^6]: EQEmu server source code, `common/eq_constants.h` (zone IDs 229–276). Available online at https://github.com/EQEmu/EQEmu. Last accessed October 25, 2026.
