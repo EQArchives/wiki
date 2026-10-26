@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-26T01:07:52.309Z
+date: 2026-10-26T01:09:53.538Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -150,6 +150,8 @@ Deep within the frozen tundra, magic has taken on a form of its own. As Miragul'
 *Not yet documented.*
 
 ### Mistmoore Catacombs
+Beneath Faydwer's fog-clad surface, darkness flows through tendril-like tunnels. Shielded from the daylight, unseen and unstoppable, the children of twilight lie in wait. Vampires and other horrors move beneath the unsuspecting citizens of Faydwer like foul blood through a network of veins... with Castle Mistmoore as its undying heart. Will you be able to destroy this evil before twilight's arrival?
+
 | Zone | Request type | Target | Also offered in |
 | --- | --- | --- | --- |
 | Asylum of Invoked Stone | Boss | Kuren K\`sayen | |
