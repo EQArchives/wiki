@@ -2,14 +2,14 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-26T01:40:35.271Z
+date: 2026-10-26T01:42:14.428Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
 ---
 
 # Lost Dungeons of Norrath
-![lost_dungeons_of_norrath_expansion.jpg](/lost_dungeons_of_norrath_expansion.jpg =350x){.align-right}
+![lost_dungeons_of_norrath.jpg](/lost_dungeons_of_norrath.jpg =350x){.align-right}
 **At a Glance**
 - **Release Date:** September 9, 2003[^4][^5]
 - **Level Range:** Adventures scale to the average level of your group[^4]
