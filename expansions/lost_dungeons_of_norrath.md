@@ -2,20 +2,10 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-26T00:54:30.659Z
+date: 2026-10-26T00:55:10.718Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
----
-
----
-title: Lost Dungeons of Norrath
-description: Expansion guide to Lost Dungeons of Norrath, covering the Wayfarer camps, instanced adventures, augments and raids
-published: true
-date: 2026-10-26T00:50:00.000Z
-tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
-editor: markdown
-dateCreated: 2026-10-26T00:50:00.000Z
 ---
 
 # Lost Dungeons of Norrath
