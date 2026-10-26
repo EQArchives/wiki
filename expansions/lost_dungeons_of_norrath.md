@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-26T00:55:10.718Z
+date: 2026-10-26T01:02:13.318Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -13,6 +13,22 @@ dateCreated: 2026-10-26T00:54:30.659Z
 {.is-info}
 
 *EverQuest: Lost Dungeons of Norrath* (LDoN) is the sixth expansion for EverQuest. It was released as a digital download in September 2003. Players who bought the retail box instead received an in-game item, a magic bag. This began Sony's practice of offering in-game items as an incentive to buy the retail edition of an expansion.
+
+## Announcement
+Sony Online Entertainment announced Lost Dungeons of Norrath in San Diego on June 16, 2003.[^2] SOE described it as a full-sized expansion built around more than forty dungeons, focused mainly on content for a single group. Each group would get its own copy of a dungeon, tailored to the group's strength. Michael Lustenberger, SOE's director of product marketing, said the expansion was "putting the emphasis of the game squarely on the classic fantasy environment: the dungeon."
+
+### Story
+The expansion's story picks up at Broken Skull Rock, an area from the previous expansion, The Legacy of Ykesha, as explorers push into the unexplored depths of Norrath's dungeons. The rediscovery of forgotten dungeons, artifacts and power sets Norrath's rival factions against each other. To control the newly found areas, they hire mercenaries and adventurers, and at times pit them against one another. SOE promised hundreds of new quests, with environments suited to players of all levels and play styles.
+
+### Release and Pricing
+The announcement set a fall 2003 release, both as a download and in limited quantities at retail.
+
+| Edition | Price |
+| --- | --- |
+| Digital download, through the EverQuest launcher | $24.99 |
+| Retail box | $29.99 (suggested retail price) |
+
+The expansion's promotional website was lostdungeonsofnorrath.com. It is no longer online, but copies survive in the [Internet Archive](https://web.archive.org/web/2003*/lostdungeonsofnorrath.com).
 
 ## Overview
 Lost Dungeons of Norrath brought widespread instanced dungeons to Norrath. Its content centers on the Wayfarers, an adventuring organization of NPCs who send players on adventures from their camps.
@@ -199,8 +215,9 @@ Each camp has an Adventure merchant selling augments, spells and armor specific 
 <!-- TODO: link to a merchant item listing -->
 
 ## Further Reading
-<!-- TODO: add links to the original expansion announcement and the initial patch message -->
-*Links to the original expansion announcement and the initial patch notes will be added here.*
+<!-- TODO: add a link to the initial patch message -->
+* The original announcement: Sony Online Entertainment press release, June 16, 2003.[^2]
+* *A link to the initial patch notes will be added here.*
 
 ---
 ### Acknowledgements
@@ -208,3 +225,4 @@ This guide was originally seeded from the Allakhazam EverQuest wiki's Lost Dunge
 
 ### Footnotes
 [^1]: "EQ:Lost Dungeons of Norrath". Allakhazam EverQuest Wiki. Available online at https://everquest.allakhazam.com/wiki/eq:Lost_Dungeons_of_Norrath. Last accessed October 25, 2026.
+[^2]: Lost Dungeons of Norrath announcement. Sony Online Entertainment press release via PR Newswire. San Diego, June 16, 2003. Reproduced on the Allakhazam EverQuest Wiki ("EQ:Lost Dungeons of Norrath Announcement").
