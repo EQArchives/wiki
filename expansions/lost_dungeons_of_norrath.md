@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-26T01:03:11.419Z
+date: 2026-10-26T01:07:52.309Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -140,9 +140,13 @@ Adventures come in three request types:
 {.is-warning}
 
 ### Deepest Guk
+Beyond even the lowest depths of Guk, lost Ykeshian ruins wait to be explored. This grotesque nest has been feeding for generations, waiting undisturbed beneath the murky swamp. Nothing can escape this labyrinth of mud and stone. No longer content to dine on the occasional exiled Froglok, the loathsome creatures within this den are developing quite an appetite for adventurers. Will you be their next meal?
+
 *Not yet documented.*
 
 ### Miragul's Menagerie
+Deep within the frozen tundra, magic has taken on a form of its own. As Miragul's cursed form walks on the frigid ground above, his menagerie of artifacts and arcane knowledge secretly awaits his return. Created through the use of magic, this lair now seeks power of its own. Do you have strength to harness power that waits beneath the ice... or will you become another specimen in Miragul's collection?
+
 *Not yet documented.*
 
 ### Mistmoore Catacombs
@@ -151,6 +155,8 @@ Adventures come in three request types:
 | Asylum of Invoked Stone | Boss | Kuren K\`sayen | |
 
 ### Rujarkian Hills
+Tavern tales have alluded to a lost tribe of orcs. Said to be the direct descendents of Rallos Zek’s first creations, these savage creatures are more cunning than any orc you may have encountered. These same tales tell of a hidden fortress, teeming with the constant toil of slave labor. It’s said that on still evenings near those hills, you can hear the sounds of mining and the rhythmic cadence of orcish drums. Conqueror or slave labor - which fate awaits you?
+
 | Zone | Request type | Target | Also offered in |
 | --- | --- | --- | --- |
 | Arena of Chance | Boss | Pyol Skinsear | Fortified Lair of the Taskmasters |
@@ -182,6 +188,8 @@ Adventures come in three request types:
 | Wind Bridges | Kill count | 50 | |
 
 ### Takish-Hiz
+In an earlier age, endless aisles of marble stood cool in the shadows of the great Eldarr Forest. Now all that remains is a lifeless sea of sand and stone. Beneath these sun scorched reminders rests a piece of time forgotten even by the god which set the condemning sands in motion. No longer living, yet unable to forget, something vengeful is moving beneath the desert of Ro. If you venture into this realm of cursed memories, will you survive to tell their story?
+
 *Not yet documented.*
 
 ## Raids
