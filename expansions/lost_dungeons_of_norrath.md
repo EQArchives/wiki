@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-26T01:02:13.318Z
+date: 2026-10-26T01:03:11.419Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -28,7 +28,7 @@ The announcement set a fall 2003 release, both as a download and in limited quan
 | Digital download, through the EverQuest launcher | $24.99 |
 | Retail box | $29.99 (suggested retail price) |
 
-The expansion's promotional website was lostdungeonsofnorrath.com. It is no longer online, but copies survive in the [Internet Archive](https://web.archive.org/web/2003*/lostdungeonsofnorrath.com).
+The expansion's promotional website was `lostdungeonsofnorrath.com`. It is no longer online, but copies survive in the [Internet Archive](https://web.archive.org/web/2003*/lostdungeonsofnorrath.com).
 
 ## Overview
 Lost Dungeons of Norrath brought widespread instanced dungeons to Norrath. Its content centers on the Wayfarers, an adventuring organization of NPCs who send players on adventures from their camps.
