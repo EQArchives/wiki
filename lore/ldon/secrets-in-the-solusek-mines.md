@@ -2,7 +2,7 @@
 title: Secrets in the Solusek Mines
 description: Chapter 5. Word is received that the kobold tribes are more active than usual and the result could mean great opportunities for the companions.
 published: true
-date: 2026-10-27T01:31:51.252Z
+date: 2026-10-27T01:44:51.353Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, tondal di`xevar, chardok, kobolds, solusek's eye, nagafen's lair
 editor: markdown
 dateCreated: 2026-10-27T01:31:51.252Z
@@ -39,8 +39,7 @@ Excited about a new adventure, Morden gathered the ever-increasing number of adv
 *(Chapter released in-game on July 18, 2003)*
 
 ---
-## Source
-"Secrets in the Solusek Mines" (Lost Dungeons of Norrath lore, Chapter 5). Sony Online Entertainment. Released in game July 18, 2003. Originally published at http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%205. Archived copy from March 3, 2005: https://web.archive.org/web/20050303232944/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%205. © Daybreak Game Company LLC.
+*Source: Sony Online Entertainment, [original page](http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%205) ([archived copy](https://web.archive.org/web/20050303232944/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%205), March 3, 2005). © Daybreak Game Company LLC.*
 
 ---
 ← [Chapter 4: The Hidden Passage](/lore/ldon/the-hidden-passage) | [Lore Guide](/lore/ldon) | [Chapter 6: Fires and Frustration](/lore/ldon/fires-and-frustration) →
