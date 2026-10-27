@@ -2,7 +2,7 @@
 title: Treachery within the Brood
 description: Chapter 3. Morden vows to discover the truth about the rumors coming from Chardok.
 published: true
-date: 2026-10-27T01:20:56.305Z
+date: 2026-10-27T01:46:40.815Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, sarnak, tondal di`xevar, chardok
 editor: markdown
 dateCreated: 2026-10-27T01:20:30.567Z
@@ -29,8 +29,8 @@ They each knew that the time to lead their growing band of adventurers into the 
 *(Chapter released in-game on July 7, 2003)*
 
 ---
-## Source
-"Treachery within the Brood" (Lost Dungeons of Norrath lore, Chapter 3). Sony Online Entertainment. Released in game July 7, 2003. Originally published at http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%203. Archived copy from March 3, 2005: https://web.archive.org/web/20050303235056/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%203. © Daybreak Game Company LLC.
+
+*Source: Sony Online Entertainment, [original page](http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%203) ([archived copy](https://web.archive.org/web/20050303235056/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%203), March 3, 2005). © Daybreak Game Company LLC.*
 
 ---
 ← [Chapter 2: Bound by Exile](/lore/ldon/bound-by-exile) | [Lore Guide](/lore/ldon) | [Chapter 4: The Hidden Passage](/lore/ldon/the-hidden-passage) →
