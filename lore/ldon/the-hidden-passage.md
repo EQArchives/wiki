@@ -2,7 +2,7 @@
 title: The Hidden Passage
 description: Chapter 4. A secret council is called in Chardok as Morden and his companions ready for an expedition.
 published: true
-date: 2026-10-27T01:26:31.119Z
+date: 2026-10-27T01:45:22.744Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, sarnak, chardok, korucust, bathezid di`zok, shai`din
 editor: markdown
 dateCreated: 2026-10-27T01:26:31.119Z
@@ -41,8 +41,8 @@ The Overking immediately understood the extremity of the sinister arts that Koru
 *(Chapter released in-game on July 9 2003)*
 
 ---
-## Source
-"The Hidden Passage" (Lost Dungeons of Norrath lore, Chapter 4). Sony Online Entertainment. Released in game July 9, 2003. Originally published at http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%204. Archived copy from March 3, 2005: https://web.archive.org/web/20050303235144/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%204. © Daybreak Game Company LLC.
+
+*Source: Sony Online Entertainment, [original page](http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%204) ([archived copy](https://web.archive.org/web/20050303235144/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%204), March 3, 2005). © Daybreak Game Company LLC.*
 
 ---
 ← [Chapter 3: Treachery within the Brood](/lore/ldon/treachery-within-the-brood) | [Lore Guide](/lore/ldon) | [Chapter 5: Secrets in the Solusek Mines](/lore/ldon/secrets-in-the-solusek-mines) →
