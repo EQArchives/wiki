@@ -1,8 +1,8 @@
 ---
 title: Rumors on the Wind
-description: 
+description: Chapter 1. Chasing a rumor, lifelong companions Morden and Nedaria embark on a new adventure.
 published: true
-date: 2026-10-27T01:05:11.681Z
+date: 2026-10-27T01:16:20.798Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, the overthere, sarnak
 editor: markdown
 dateCreated: 2026-10-27T00:53:39.361Z
@@ -40,8 +40,8 @@ Morden and Nedaria turn and walk up the beach together. They are age-old compani
 <center><small>(Chapter released in-game on June 20, 2003)</small></center>
 
 ---
-[Lore Guide](/lore/ldon) | [Chapter 2: Bound by Exile](/lore/ldon/bound-by-exile) →
-
----
 ## Source
 "Rumors on the Wind" (Lost Dungeons of Norrath lore, Chapter 1). Sony Online Entertainment. Released in game June 20, 2003. Originally published at http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%201. Archived copy from March 3, 2005: https://web.archive.org/web/20050303234433/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%201. © Daybreak Game Company LLC.
+
+---
+[Lore Guide](/lore/ldon) | [Chapter 2: Bound by Exile](/lore/ldon/bound-by-exile) →
