@@ -2,7 +2,7 @@
 title: Bound by Exile
 description: Chapter 2. Tondal Di`Xevar watched from the shadows, his dark elven sight allowing him to spy upon the two explorers.
 published: true
-date: 2026-10-27T01:14:45.716Z
+date: 2026-10-27T01:47:11.760Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, the overthere, tondal di`xevar
 editor: markdown
 dateCreated: 2026-10-27T01:14:45.716Z
@@ -38,8 +38,8 @@ Tondal looked up and met the steely gaze of Morden Rasp.
 *(Chapter released in-game on June 27, 2003)*
 
 ---
-## Source
-"Bound by Exile" (Lost Dungeons of Norrath lore, Chapter 2). Sony Online Entertainment. Released in game June 27, 2003. Originally published at http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%202. Archived copy from March 3, 2005: https://web.archive.org/web/20050303235010/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%202. © Daybreak Game Company LLC.
+
+*Source: Sony Online Entertainment, [original page](http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%202) ([archived copy](https://web.archive.org/web/20050303235010/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%202), March 3, 2005). © Daybreak Game Company LLC.*
 
 ---
 ← [Chapter 1: Rumors on the Wind](/lore/ldon/rumors-on-the-wind) | [Lore Guide](/lore/ldon) | [Chapter 3: Treachery within the Brood](/lore/ldon/treachery-within-the-brood) →
