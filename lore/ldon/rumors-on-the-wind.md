@@ -2,7 +2,7 @@
 title: Rumors on the Wind
 description: 
 published: true
-date: 2026-10-27T00:53:39.361Z
+date: 2026-10-27T00:58:06.619Z
 tags: lore, ldon
 editor: markdown
 dateCreated: 2026-10-27T00:53:39.361Z
