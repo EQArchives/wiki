@@ -2,12 +2,13 @@
 title: Treachery within the Brood
 description: Chapter 3. Morden vows to discover the truth about the rumors coming from Chardok.
 published: true
-date: 2026-10-27T01:20:30.567Z
+date: 2026-10-27T01:20:56.305Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, sarnak, tondal di`xevar, chardok
 editor: markdown
 dateCreated: 2026-10-27T01:20:30.567Z
 ---
 
+![b-w_01.gif](/b-w_01.gif)
 # Treachery within the Brood
 *Lost Dungeons of Norrath lore, Chapter 3*
 
