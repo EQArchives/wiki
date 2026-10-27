@@ -2,7 +2,7 @@
 title: Fires and Frustration
 description: Chapter 6. The searing heat and the Lavastorm Mountains are witness to the birth of a name, the origin of a family.
 published: true
-date: 2026-10-27T01:35:01.829Z
+date: 2026-10-27T01:43:08.297Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, tondal di`xevar, kobolds, lavastorm mountains
 editor: markdown
 dateCreated: 2026-10-27T01:35:01.829Z
@@ -35,8 +35,8 @@ Nedaria and Tondal both hoped he would have more success this day.
 *(Chapter released in-game on July 25, 2003)*
 
 ---
-## Source
-"Fires and Frustration" (Lost Dungeons of Norrath lore, Chapter 6). Sony Online Entertainment. Released in game July 25, 2003. Originally published at http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%206. Archived copy from March 3, 2005: https://web.archive.org/web/20050303233034/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%206. © Daybreak Game Company LLC.
+
+*Source: Sony Online Entertainment, [original page](http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%206) ([archived copy](https://web.archive.org/web/20050303233034/http://everquest.station.sony.com/lostdungeons/lore.jsp?page=LDON%20Lore%20Chapter%206), March 3, 2005). © Daybreak Game Company LLC.*
 
 ---
 ← [Chapter 5: Secrets in the Solusek Mines](/lore/ldon/secrets-in-the-solusek-mines) | [Lore Guide](/lore/ldon) | [Chapter 7: A Shadow Speaks](/lore/ldon/a-shadow-speaks) →
