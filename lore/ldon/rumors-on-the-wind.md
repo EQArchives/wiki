@@ -2,7 +2,7 @@
 title: Rumors on the Wind
 description: 
 published: true
-date: 2026-10-27T00:58:06.619Z
+date: 2026-10-27T00:58:49.555Z
 tags: lore, ldon
 editor: markdown
 dateCreated: 2026-10-27T00:53:39.361Z
@@ -37,4 +37,4 @@ He holds her gently as she carefully makes her descent onto the sands.
 
 Morden and Nedaria turn and walk up the beach together. They are age-old companions, moved by loyalty to one another and adventure...anywhere.
 
-(Chapter released in-game on June 20, 2003)
+<center><small>(Chapter released in-game on June 20, 2003)</small></center>
