@@ -2,14 +2,18 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-31T22:34:01.566Z
+date: 2026-10-31T22:40:52.055Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
 ---
 
 # Lost Dungeons of Norrath
-![lost_dungeons_of_norrath.jpg](/lost_dungeons_of_norrath.jpg =350x){.align-right}
+<figure style="float: right; max-width: 350px; margin: 0 0 1em 1.5em;">
+  <img src="/lost_dungeons_of_norrath.jpg" alt="Lost Dungeons of Norrath cover art by Don Maitz" style="width: 100%; height: auto; display: block; border-radius: 4px;" />
+  <figcaption style="font-size: 0.85em; font-style: italic; text-align: center; padding-top: 6px;">Lost Dungeons of Norrath cover art by Don Maitz</figcaption>
+</figure>
+
 **At a Glance**
 - **Release Date:** September 9, 2003[^4][^5]
 - **Level Range:** Adventures scale to the average level of your group[^4]
@@ -28,6 +32,8 @@ dateCreated: 2026-10-26T00:54:30.659Z
 *EverQuest: Lost Dungeons of Norrath* (LDoN) is EverQuest's sixth expansion, and the last one considered part of the Planes of Power era.[^7] It brought widespread instanced dungeons to Norrath: groups take adventures from the Wayfarers, an adventuring organization of NPCs, and each group gets its own copy of the dungeon, scaled to its strength.
 
 The dungeons were discovered by the Wayfarers Brotherhood, a band of adventurers led by a rogue named Morden Rasp, who are also credited with discovering augments.[^7] The expansion's story picks up at Broken Skull Rock, from the previous expansion, The Legacy of Ykesha, as explorers push into the unexplored depths of Norrath's dungeons. The rediscovery of forgotten dungeons, artifacts and power sets Norrath's rival factions against each other. To control the newly found areas, they hire mercenaries and adventurers, and at times pit them against one another.[^2]
+
+<div style="clear: both;"></div>
 
 ### Announcement and Release
 Sony Online Entertainment announced Lost Dungeons of Norrath in San Diego on June 16, 2003, as a full-sized expansion built around more than forty dungeons and focused mainly on content for a single group.[^2] Michael Lustenberger, SOE's director of product marketing, said the expansion was "putting the emphasis of the game squarely on the classic fantasy environment: the dungeon." SOE promised hundreds of new quests, with environments suited to players of all levels and play styles. The announcement set a fall 2003 release, both as a download and in limited quantities at retail.
@@ -467,7 +473,7 @@ The following pre-existing zone was revamped while Lost Dungeons of Norrath was 
 ## Sources
 **Acknowledgements:** This guide was originally seeded from the Allakhazam EverQuest wiki's Lost Dungeons of Norrath page. The complete zone list was compiled by Allakhazam Volunteer Admin Veludeus. Raid walkthroughs, achievement data, merchant names and much of the expansion history come from Bonzz's EverQuest site, with thanks.
 
-**Image Credits:** All images in this article are sourced from the [EverQuest Lost Dungeons of Norrath Progression Primer](https://everquest.com/news/eq-lost-dungeons-of-norrath-progression-primer) © Daybreak Game Company LLC.
+**Image Credits:** Cover art by Don Maitz, as credited on keithparkinson.com. All other images in this article are sourced from the [EverQuest Lost Dungeons of Norrath Progression Primer](https://everquest.com/news/eq-lost-dungeons-of-norrath-progression-primer) © Daybreak Game Company LLC.
 
 [^1]: "EQ:Lost Dungeons of Norrath". Allakhazam EverQuest Wiki. Available online at https://everquest.allakhazam.com/wiki/eq:Lost_Dungeons_of_Norrath. Last accessed October 25, 2026.
 [^2]: Lost Dungeons of Norrath announcement. Sony Online Entertainment press release via PR Newswire. San Diego, June 16, 2003. Reproduced on the Allakhazam EverQuest Wiki ("EQ:Lost Dungeons of Norrath Announcement").
