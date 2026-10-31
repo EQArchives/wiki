@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-31T22:30:26.939Z
+date: 2026-10-31T22:34:01.566Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -20,7 +20,10 @@ dateCreated: 2026-10-26T00:54:30.659Z
 {.is-info}
 
 ## Overview
-![lost_dungeons_of_norrath_loading.jpg](/lost_dungeons_of_norrath_loading.jpg)
+<figure style="float: right; max-width: 350px; margin: 0 0 1em 1.5em;">
+  <img src="/lost_dungeons_of_norrath_loading.jpg" alt="Lost Dungeons of Norrath loading screen" style="width: 100%; height: auto; display: block; border-radius: 4px;" />
+  <figcaption style="font-size: 0.85em; font-style: italic; text-align: center; padding-top: 6px;">The Lost Dungeons of Norrath loading screen</figcaption>
+</figure>
 
 *EverQuest: Lost Dungeons of Norrath* (LDoN) is EverQuest's sixth expansion, and the last one considered part of the Planes of Power era.[^7] It brought widespread instanced dungeons to Norrath: groups take adventures from the Wayfarers, an adventuring organization of NPCs, and each group gets its own copy of the dungeon, scaled to its strength.
 
