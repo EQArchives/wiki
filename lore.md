@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-01T03:32:23.662Z
+date: 2026-11-01T03:32:56.625Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -233,10 +233,10 @@ All chapters are from the Official EverQuest website.
 | LDoN | 12 – An Adventurer's Agreement | In-game and Official EverQuest website | Calliav will be forever lost if he cannot open his mind to harness control. |
 | LDoN | 13 – Search for Lost Lands | In-game and Official EverQuest website | Visions of strife deep within the earth. |
 | LDoN | [History - Rujarkian Hills](/lore/ldon/history-rujarkian-hills) | In-game dialogue | |
-| LDoN | [History – Miragul's Menagerie](/lore/ldon/miraguls-menagerie) | In-game dialogue | |
-| LDoN | [History – Mistmoore Catacombs](/lore/ldon/mistmoore-catacombs) | In-game dialogue | |
-| LDoN | [History – Takish-Hiz](/lore/ldon/takish-hiz) | In-game dialogue | |
-| LDoN | [History – Deepest Guk](/lore/ldon/deepest-guk) | In-game dialogue | |
+| LDoN | [History – Miragul's Menagerie](/lore/ldon/history-miraguls-menagerie) | In-game dialogue | |
+| LDoN | [History – Mistmoore Catacombs](/lore/ldon/history-mistmoore-catacombs) | In-game dialogue | |
+| LDoN | [History – Takish-Hiz](/lore/ldon/history-takish-hiz) | In-game dialogue | |
+| LDoN | [History – Deepest Guk](/lore/ldon/history-deepest-guk) | In-game dialogue | |
 
 ---
 
