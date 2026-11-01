@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-10-31T22:40:52.055Z
+date: 2026-11-01T02:49:33.172Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -132,7 +132,7 @@ Each theme has a Wayfarer camp, where you take adventures, and one or more dunge
 ### Deepest Guk
 **Camp:** Selephra Giztral, Southern Desert of Ro (-116.97, -289.24) | **Dungeon entrance:** Innothule Swamp or Upper Guk | **Entrances named in offers:** Tree, Upper Guk | **Maps:** 8 | **Merchants:** Haele Straedhon, Taeri Kuqq[^1][^4]
 
-![ldon_deepest_guk.png](/ldon_deepest_guk.png =250x)
+![deepest_guk.jpg](/deepest_guk.jpg)
 
 Beyond even the lowest depths of Guk, lost Ykeshian ruins wait to be explored. This grotesque nest has been feeding for generations, waiting undisturbed beneath the murky swamp. Nothing can escape this labyrinth of mud and stone. No longer content to dine on the occasional exiled Froglok, the loathsome creatures within this den are developing quite an appetite for adventurers. Will you be their next meal?[^3]
 
@@ -252,7 +252,7 @@ Beneath Faydwer's fog-clad surface, darkness flows through tendril-like tunnels.
 ### Rujarkian Hills
 **Camp:** Barstre Songweaver, East Commonlands tunnel (-1665, -110) | **Dungeon entrance:** North Ro or South Ro *(disputed, see above)* | **Entrances named in offers:** One entrance | **Maps:** 10 | **Merchants:** Kehn Kohski, Uyennli V'Drimw[^1][^4]
 
-![ldon_rujarkian_hills.png](/ldon_rujarkian_hills.png =250x)
+![rujarkian.jpg](/rujarkian.jpg)
 
 Tavern tales have alluded to a lost tribe of orcs. Said to be the direct descendents of Rallos Zek’s first creations, these savage creatures are more cunning than any orc you may have encountered. These same tales tell of a hidden fortress, teeming with the constant toil of slave labor. It’s said that on still evenings near those hills, you can hear the sounds of mining and the rhythmic cadence of orcish drums. Conqueror or slave labor - which fate awaits you?[^3]
 
@@ -323,7 +323,7 @@ Tavern tales have alluded to a lost tribe of orcs. Said to be the direct descend
 ### Takish-Hiz
 **Camp:** Ruanya Windleaf, Northern Desert of Ro (7445, -955) | **Dungeon entrance:** South Ro or North Ro *(disputed, see above)* | **Entrances named in offers:** One entrance | **Maps:** 10 | **Merchants:** Daevyd Londayl, Dereu Ztr'Tn[^1][^4]
 
-![ldon_takish_hiz.png](/ldon_takish_hiz.png =250x)
+![takishhiz_lore.jpg](/takishhiz_lore.jpg)
 
 In an earlier age, endless aisles of marble stood cool in the shadows of the great Eldarr Forest. Now all that remains is a lifeless sea of sand and stone. Beneath these sun scorched reminders rests a piece of time forgotten even by the god which set the condemning sands in motion. No longer living, yet unable to forget, something vengeful is moving beneath the desert of Ro. If you venture into this realm of cursed memories, will you survive to tell their story?[^3]
 
