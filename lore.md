@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-01T03:30:17.360Z
+date: 2026-11-01T03:32:23.662Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -232,11 +232,11 @@ All chapters are from the Official EverQuest website.
 | LDoN | 11 – A Path with Purpose | In-game and Official EverQuest website | Will Calliav find Morden and thus discover the truth? |
 | LDoN | 12 – An Adventurer's Agreement | In-game and Official EverQuest website | Calliav will be forever lost if he cannot open his mind to harness control. |
 | LDoN | 13 – Search for Lost Lands | In-game and Official EverQuest website | Visions of strife deep within the earth. |
-| LDoN | [History - Rujarkian Hills](history-rujarkian-hills) | In-game dialogue | |
-| LDoN | History – Miragul's Menagerie | In-game dialogue | |
-| LDoN | History – Mistmoore Catacombs | In-game dialogue | |
-| LDoN | History – Takish-Hiz | In-game dialogue | |
-| LDoN | History – Deepest Guk | In-game dialogue | |
+| LDoN | [History - Rujarkian Hills](/lore/ldon/history-rujarkian-hills) | In-game dialogue | |
+| LDoN | [History – Miragul's Menagerie](/lore/ldon/miraguls-menagerie) | In-game dialogue | |
+| LDoN | [History – Mistmoore Catacombs](/lore/ldon/mistmoore-catacombs) | In-game dialogue | |
+| LDoN | [History – Takish-Hiz](/lore/ldon/takish-hiz) | In-game dialogue | |
+| LDoN | [History – Deepest Guk](/lore/ldon/deepest-guk) | In-game dialogue | |
 
 ---
 
