@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-11-01T02:51:36.826Z
+date: 2026-11-01T03:07:58.801Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -440,6 +440,13 @@ Chapter 12: Calliav will be forever lost if he cannot open his mind to harness c
 
 ### [Search for Lost Lands](/lore/ldon/search-for-lost-lands)
 Chapter 13: Visions of strife deep within the earth.
+
+#### In-Game Dialogue Lore
+- [History - Rujarkian Hills](/lore/ldon/history-rujarkian-hills)
+- [History - Miragul's Menagerie](/lore/ldon/history-miraguls-menagerie)
+- [History - Mistmoore Catacombs](/lore/ldon/history-mistmoore-catacombs)
+- [History - Takish Hiz](/lore/ldon/history-takish-hiz)
+- [History - Deepest Guk](/lore/ldon/history-deepest-guk)
 
 ## Achievements
 Achievements were added to EverQuest with the Underfoot expansion, and Lost Dungeons of Norrath has 114 of them, worth 2,150 points in total.[^4]
