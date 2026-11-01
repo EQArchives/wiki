@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath Lore
 description: 
 published: true
-date: 2026-10-31T22:29:47.554Z
+date: 2026-11-01T03:14:07.151Z
 tags: lore, lost dungeons of norrath, ldon
 editor: markdown
 dateCreated: 2026-10-27T01:07:05.504Z
@@ -48,3 +48,10 @@ Chapter 12: Calliav will be forever lost if he cannot open his mind to harness c
 
 ### [Search for Lost Lands](/lore/ldon/search-for-lost-lands)
 Chapter 13: Visions of strife deep within the earth.
+
+#### In-Game Dialogue Lore
+- [History - Rujarkian Hills](/lore/ldon/history-rujarkian-hills)
+- [History - Miragul's Menagerie](/lore/ldon/history-miraguls-menagerie)
+- [History - Mistmoore Catacombs](/lore/ldon/history-mistmoore-catacombs)
+- [History - Takish Hiz](/lore/ldon/history-takish-hiz)
+- [History - Deepest Guk](/lore/ldon/history-deepest-guk)
