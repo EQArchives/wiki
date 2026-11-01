@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-11-01T02:49:33.172Z
+date: 2026-11-01T02:51:36.826Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -169,7 +169,7 @@ Beyond even the lowest depths of Guk, lost Ykeshian ruins wait to be explored. T
 ### Miragul's Menagerie
 **Camp:** Teria Grinntli, Everfrost (1881.96, -5038.80) | **Dungeon entrance:** Everfrost | **Entrances named in offers:** Portal, Mine | **Maps:** 10 | **Merchants:** Gizula, Kipler Steffeal[^1][^4]
 
-![ldon_miraguls_menagerie.png](/ldon_miraguls_menagerie.png =250x)
+![miragul_menagerie.jpg](/miragul_menagerie.jpg)
 
 Deep within the frozen tundra, magic has taken on a form of its own. As Miragul's cursed form walks on the frigid ground above, his menagerie of artifacts and arcane knowledge secretly awaits his return. Created through the use of magic, this lair now seeks power of its own. Do you have strength to harness power that waits beneath the ice... or will you become another specimen in Miragul's collection?[^3]
 
