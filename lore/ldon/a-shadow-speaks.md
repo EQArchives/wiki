@@ -2,12 +2,13 @@
 title: A Shadow Speaks
 description: Chapter 7. Nedaria struggles with tearful memories because of her “special gift” and entertains a strange shadowed guest.
 published: true
-date: 2026-10-27T01:53:14.830Z
+date: 2026-11-01T03:15:52.945Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, nedaria, kobolds, tilisea nebeian, erudin, shadowed men, nagafen
 editor: markdown
 dateCreated: 2026-10-27T01:53:14.830Z
 ---
 
+![b-w_02.gif](/b-w_02.gif)
 # A Shadow Speaks
 *Lost Dungeons of Norrath lore, Chapter 7*
 
