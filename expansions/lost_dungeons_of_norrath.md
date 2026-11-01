@@ -2,7 +2,7 @@
 title: Lost Dungeons of Norrath
 description: 
 published: true
-date: 2026-11-01T03:13:39.009Z
+date: 2026-11-01T03:17:44.514Z
 tags: expansions, lost dungeons of norrath, ldon, adventures, augments, wayfarers
 editor: markdown
 dateCreated: 2026-10-26T00:54:30.659Z
@@ -19,9 +19,6 @@ dateCreated: 2026-10-26T00:54:30.659Z
 - **Level Range:** Adventures scale to the average level of your group[^4]
 - **New Zones:** 48 instanced adventure zones across 5 dungeon themes; no static zones[^4][^7]
 - **Key Features:** Instanced adventures, augments and slotted armor, Adventure Points and specialty merchants, magus translocators
-
->This guide is a first draft. Some sections are incomplete and are marked as such.
-{.is-info}
 
 ## Overview
 <figure style="float: right; max-width: 350px; margin: 0 0 1em 1.5em;">
