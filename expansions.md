@@ -2,7 +2,7 @@
 title: Expansions
 description: A list of EverQuest expansions
 published: true
-date: 2026-01-18T02:16:05.994Z
+date: 2026-11-01T03:19:05.875Z
 tags: expansions
 editor: markdown
 dateCreated: 2025-10-31T17:30:21.565Z
@@ -19,7 +19,7 @@ Besides the obvious need for the list, matching release dates to expansion numbe
 | 3 |  | [The Shadows of Luclin](/expansions/shadows_of_luclin) | Sony Online Entertainment | Sony Online Entertainment | December 4, 2001 |
 | 4 |  | [The Planes of Power](/expansions/the_planes_of_power) | Sony Online Entertainment | Sony Online Entertainment | October 29, 2002 |
 | 5 |  | [The Legacy of Ykesha](/expansions/the_legacy_of_ykesha) | Sony Online Entertainment | Sony Online Entertainment | February 25, 2003 |
-| 6 |  | Lost Dungeons of Norrath | Sony Online Entertainment | Sony Online Entertainment | NA: September 9, 2003, EU: September 12, 2003 |
+| 6 |  | [Lost Dungeons of Norrath](/expansions/lost_dungeons_of_norrath) | Sony Online Entertainment | Sony Online Entertainment | NA: September 9, 2003, EU: September 12, 2003 |
 | 7 |  | Gates of Discord | Sony Online Entertainment | Sony Online Entertainment | February 10, 2004 |
 | 8 |  | Omens of War | Sony Online Entertainment | Sony Online Entertainment | September 14, 2004 |
 | 9 |  | [Dragons of Norrath](/expansions/dragons_of_norrath) | Sony Online Entertainment | Sony Online Entertainment | February 15, 2005 |
