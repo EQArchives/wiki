@@ -2,8 +2,8 @@
 title: The Founding of Crushbone
 description: 
 published: true
-date: 2026-11-03T02:31:42.358Z
-tags: lore, beta, crushbone
+date: 2026-11-03T02:32:54.928Z
+tags: lore, beta, crushbone, edril, gharol, dagnor, greater faydark, felwithe, kelethin
 editor: markdown
 dateCreated: 2026-11-03T02:31:42.358Z
 ---
