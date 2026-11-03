@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-03T02:44:57.749Z
+date: 2026-11-03T02:45:09.395Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -11,8 +11,6 @@ dateCreated: 2026-11-01T03:28:24.874Z
 # EverQuest Lore
 
 An index of EverQuest histories, stories, and in-game books, organized by era and expansion.
-
-[[_TOC_]]
 
 ---
 
