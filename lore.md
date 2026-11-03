@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-03T01:52:22.619Z
+date: 2026-11-03T02:22:41.117Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -31,14 +31,14 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 
 ## Beta GM Event Stories
 
-- **Al'Kabor and the Kedge** – An early account of Al'Kabor, most powerful of wizards, on a quest to the Ocean of Tears to find ancient texts about the Kedge from a shipwreck.
-- **The Relic of Brell Serilis** – An early account of dwarven adventurers who embark into Dagnor's Cauldron on a quest for a holy relic, the Butcherblock Hammer, lost after The Battle of the Shattered Spear.
-- **The Child of Hate** – An account of Lanys T\`Vyl, Mistress of Envy and daughter of Innoruuk, as she reclaims the Armor of Darkness from Befallen, Najena, and Solusek's Eye.
-- **The Goblin's Stone** – An early beta version of the tale of Nurgal's Stone, which was used in The Battle of Bloody Kithicor to summon Innoruuk to Kithicor Woods, opening a portal for the first time between Norrath and the Plane of Hate.
-- **An Adventure Begins** – A_drunkard inadvertently clues in Firiona Vie to discover and bond with Equestrielle the Corrupted.
-- **The Council Meeting** – Carson McCabe and Lord Tethys call together the ambassadors of the good races to plan the defense of High Keep in what would eventually become The Battle of Bloody Kithicor.
-- **Firiona Meets the King** – An account of how Firiona Vie, the Chosen of Tunare, was reunited with her father, King Tearis Thex.
-- **The Cursing of Kithicor** – An account of The Battle of Bloody Kithicor and how Kithicor Woods became cursed with undead after dark.
+- **[Al'Kabor and the Kedge](/lore/alkabor-and-the-kedge)** – An early account of Al'Kabor, most powerful of wizards, on a quest to the Ocean of Tears to find ancient texts about the Kedge from a shipwreck.
+- **[The Relic of Brell Serilis](/lore/the-relic-of-brell-serilis)** – An early account of dwarven adventurers who embark into Dagnor's Cauldron on a quest for a holy relic, the Butcherblock Hammer, lost after The Battle of the Shattered Spear.
+- **[The Child of Hate](/lore/beta/the-child-of-hate)** – An account of Lanys T\`Vyl, Mistress of Envy and daughter of Innoruuk, as she reclaims the Armor of Darkness from Befallen, Najena, and Solusek's Eye.
+- **[The Goblin's Stone](/lore/beta/the-goblins-stone)** – An early beta version of the tale of Nurgal's Stone, which was used in The Battle of Bloody Kithicor to summon Innoruuk to Kithicor Woods, opening a portal for the first time between Norrath and the Plane of Hate.
+- **[An Adventure Begins](/lore/beta/an-adventure-begins)** – A_drunkard inadvertently clues in Firiona Vie to discover and bond with Equestrielle the Corrupted.
+- **[The Council Meeting](/lore/beta/the-council-meeting)** – Carson McCabe and Lord Tethys call together the ambassadors of the good races to plan the defense of High Keep in what would eventually become The Battle of Bloody Kithicor.
+- **[Firiona Meets the King](/lore/beta/firiona-meets-the-king)** – An account of how Firiona Vie, the Chosen of Tunare, was reunited with her father, King Tearis Thex.
+- **[The Cursing of Kithicor](/lore/beta/the-cursing-of-kithicor)** – An account of The Battle of Bloody Kithicor and how Kithicor Woods became cursed with undead after dark.
 
 ---
 
