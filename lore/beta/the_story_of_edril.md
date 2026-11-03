@@ -2,8 +2,8 @@
 title: The Story of Edril
 description: 
 published: true
-date: 2026-11-03T01:50:18.216Z
-tags: lore
+date: 2026-11-03T02:39:43.988Z
+tags: lore, beta, edril, carandril, lake neriuss
 editor: markdown
 dateCreated: 2026-11-03T01:50:18.216Z
 ---
