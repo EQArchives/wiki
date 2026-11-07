@@ -1,8 +1,8 @@
 ---
 title: History - Takish Hiz
-description: 
+description: The history of Rujarkian Hills as told by the NPCs as you complete successfully adventures.
 published: true
-date: 2026-11-01T03:09:13.246Z
+date: 2026-11-07T23:10:57.612Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:09:13.246Z
@@ -88,7 +88,9 @@ Shumpi Wimahnn says 'The last and final group of orcs I've learned about are the
 
 Barstre Songweaver says 'Have you had your fill of story yet? You have spent a lot of time learning about the Rujarkian Hills. And, I can tell by the look in your eye that you know just as much as anyone about the orcs and goblins in those hills. I consider you a master of the story here as much as anyone. I have nothing to tell you, but you can stand by as I sing if you like. Be well. I consider you a great adventurer and good friend. I'd fight with you by my side any day.'
 
-------------------------
-Source: NPC dialog ingame
-Comment:
-The history of Rujarkian Hills as told by the NPCs as you complete successfully adventures.
+---
+
+> Source: NPC dialog ingame
+https://web.archive.org/web/20040221175033/http://home.comcast.net/~dfj21/ldon.htm
+http://lorenorrath.free.fr/read.php?link=ldon_rujarkian
+{.is-info}
