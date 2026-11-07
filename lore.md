@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T18:53:12.711Z
+date: 2026-11-07T18:57:37.967Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -211,18 +211,18 @@ All chapters are from the Official EverQuest website.
 
 | Era | Title | Source | Description |
 |---|---|---|---|
-| LDoN | 1 – Rumors on the Wind | In-game and Official EverQuest website | Chasing a rumor, lifelong companions Morden and Nedaria embark on a new adventure. |
-| LDoN | 2 – Bound by Exile | In-game and Official EverQuest website | Tondal Di\`Xevar watches from the shadows, his dark elven sight allowing him to spy upon the two explorers. |
-| LDoN | 3 – Treachery within the Brood | In-game and Official EverQuest website | Morden vows to discover the truth about the rumors coming from Chardok. |
-| LDoN | 4 – The Hidden Passage | In-game and Official EverQuest website | A secret council is called in Chardok as Morden and his companions ready for an expedition. |
-| LDoN | 5 – Secrets in the Solusek Mines | In-game and Official EverQuest website | Word is received that the kobold tribes are more active than usual, and the result could mean great opportunities for the companions. |
-| LDoN | 6 – Fires and Frustration | In-game and Official EverQuest website | The searing heat of the Lavastorm Mountains is witness to the birth of a name, the origin of a family. |
-| LDoN | 7 – A Shadow Speaks | In-game and Official EverQuest website | Nedaria struggles with tearful memories because of her "special gift" and entertains a strange shadowed guest. |
-| LDoN | 8 – A Dragon's Riches | In-game and Official EverQuest website | Kobolds do not often give in to pride, but lately one has turned to greed and is looking toward Lord Nagafen's riches. |
-| LDoN | 9 – Madman's Curse | In-game and Official EverQuest website | Fate and dedication lead Calliav to Zebuxoruk. |
-| LDoN | 10 – Seeking the Stone | In-game and Official EverQuest website | His mind trapped by chaos, Calliav struggles to find relief. |
-| LDoN | 11 – A Path with Purpose | In-game and Official EverQuest website | Will Calliav find Morden and thus discover the truth? |
-| LDoN | 12 – An Adventurer's Agreement | In-game and Official EverQuest website | Calliav will be forever lost if he cannot open his mind to harness control. |
+| LDoN | [1 – Rumors on the Wind](/lore/ldon/rumors-on-the-wind) | In-game and Official EverQuest website | Chasing a rumor, lifelong companions Morden and Nedaria embark on a new adventure. |
+| LDoN | [2 – Bound by Exile](/lore/ldon/bound-by-exile) | In-game and Official EverQuest website | Tondal Di\`Xevar watches from the shadows, his dark elven sight allowing him to spy upon the two explorers. |
+| LDoN | [3 – Treachery within the Brood](/lore/ldon/treachery-within-the-brood) | In-game and Official EverQuest website | Morden vows to discover the truth about the rumors coming from Chardok. |
+| LDoN | [4 – The Hidden Passage](/lore/ldon/the-hidden-passage) | In-game and Official EverQuest website | A secret council is called in Chardok as Morden and his companions ready for an expedition. |
+| LDoN | [5 – Secrets in the Solusek Mines](/lore/ldon/secrets-in-the-solusek-mines) | In-game and Official EverQuest website | Word is received that the kobold tribes are more active than usual, and the result could mean great opportunities for the companions. |
+| LDoN | [6 – Fires and Frustration](/lore/ldon/fires-and-frustration) | In-game and Official EverQuest website | The searing heat of the Lavastorm Mountains is witness to the birth of a name, the origin of a family. |
+| LDoN | [7 – A Shadow Speaks](/lore/ldon/a-shadow-speaks) | In-game and Official EverQuest website | Nedaria struggles with tearful memories because of her "special gift" and entertains a strange shadowed guest. |
+| LDoN | [8 – A Dragon's Riches](/lore/ldon/a-dragons-riches) | In-game and Official EverQuest website | Kobolds do not often give in to pride, but lately one has turned to greed and is looking toward Lord Nagafen's riches. |
+| LDoN | [9 – Madman's Curse](/lore/ldon/madmans-curse) | In-game and Official EverQuest website | Fate and dedication lead Calliav to Zebuxoruk. |
+| LDoN | [10 – Seeking the Stone](/lore/ldon/seeking-the-stone) | In-game and Official EverQuest website | His mind trapped by chaos, Calliav struggles to find relief. |
+| LDoN | [11 – A Path with Purpose](/lore/ldon/a-path-with-purpose) | In-game and Official EverQuest website | Will Calliav find Morden and thus discover the truth? |
+| LDoN | [12 – An Adventurer's Agreement](/lore/ldon/an-adventurers-agreement) | In-game and Official EverQuest website | Calliav will be forever lost if he cannot open his mind to harness control. |
 | LDoN | 13 – Search for Lost Lands | In-game and Official EverQuest website | Visions of strife deep within the earth. |
 | LDoN | [History - Rujarkian Hills](/lore/ldon/history-rujarkian-hills) | In-game dialogue | |
 | LDoN | [History – Miragul's Menagerie](/lore/ldon/history-miraguls-menagerie) | In-game dialogue | |
