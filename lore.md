@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T18:34:16.851Z
+date: 2026-11-07T18:44:10.346Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -70,17 +70,11 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 {.grid-list}
 
 ## Sub-Deities
-
-- Ayonae Ro
-- Druzzil Ro
-- Luclin
-- Morell Thule
-- Saryn
-- Tallon Zek
-- Vallon Zek
-- Vazaelle Kaleine
-- Zebuxoruk
-{.grid-list}
+|   |   |   |   |
+|---|---|---|---|
+| Ayonae Ro | Druzzil Ro | Luclin | Morell Thule |
+| Saryn | Tallon Zek | Vallon Zek | Vazaelle Kaleine |
+| Zebuxoruk | | | |
 
 ---
 
@@ -92,16 +86,16 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Beta/Classic | [Dev Stories – Roundtable Chat Part 2](lore/dev-stories-roundtable-chat-part-2) | [Archived EQ Live article](https://web.archive.org/web/20030205160932/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50164) | 3/19/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
 | Classic | [Creation of Norrath](/lore/classic/creation-of-norrath) | Seeress Tiding – GM event | Describes how the Nameless created the Gods of Power, how the sub-deities were then created, and how Norrath and the cosmos were formed. |
 | Classic | [History of Norrath](/lore/classic/history-of-norrath) | EverQuest: The Official Player's Guide | Comprises what would be described as "The Tome of Ages"; this is the canonical creation story. Covers the creation of the races, dragons being deposited on Velious, Takish-Hiz becoming the Desert of Ro, Tunaria becoming Antonica, the Rise and Fall of the Combine Empire, Erudites discovering the lost art of necromancy, Paineel, The Hole, etc.<br>**Sections:** The Age of Scale · The Elder Age · The Age of Monuments · The Age of Blood · The Lost Age · The Age of Enlightenment · The Age of Turmoil |
-| Classic | Book of Turmoil | In-game book | Describes the beginning of the Age of Turmoil. |
-| Classic | The Erudites, Necromancy, and the Rise and Fall of Miragul | EverQuest: The Official Player's Guide<br>Brad "Aradune Mithara" McQuaid | The title says it all; this well-known lore gave players the inspiration for coining the term Miragul's Highway. Also describes the founding of Erudin on Odus, the war between Erudin and the heretics who fled to found Paineel, and the creation of The Hole from that war. Several locations mentioned are not in game, except perhaps as part of Everfrost: the lake called "Winter's Deep" and the "Frigid Plain". |
-| Classic | History of the Kerrans | In-game dialogue with Falthrik Lothoro in Kerra Isle | Describes the Kerran civilization as once great, until its cities, statues, and writings were destroyed by the Erudites and the Kerrans were forced to flee to the small island of Kerra Isle. Describes a great leader, Kejaan, and his followers taming the wild lands of Odus and making it safe for all Kerrans to settle there. |
-| Classic | History of the Verishe Mal | In-game books dropped in The Lair of the Splitpaw | An account of their creation by Brell Serilis, their social caste system (which name maps to which class), former leadership by the Ishva Mal ("Supreme Leader"), and current leadership by a council of nine. You must learn Gnoll to read these texts in-game. |
-| Classic | The Story of the Ankexfen | In-game lore | The history of the four goblin tribes, as told by a visiting priestess in Najena. |
-| Classic | Letters of Jonas Vol. 1 | In-game book sold by vendors | A letter describing alchemy recipes a student is learning from his Barbarian Shaman mentor. |
-| Classic | Letters of Jonas Vol. 2 | In-game book sold by vendors | A letter describing alchemy recipes a student is learning from his Barbarian Shaman mentor. |
-| Classic | The Tale of Al\`Kabor and the Sunken Ship | GM event | From [Allakhazam's, ~October 2000](https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/). |
-| Classic | The Story of the Hole | In-game dialogue | As told by Talloth Vara in Paineel. |
-| Classic/Kunark | Miragul's Highway | Unconfirmed player speculation | Lore behind the firepots scattered around Norrath (mostly Classic; the Timorous Deep firepot room is Kunark). |
+| Classic | [Book of Turmoil](/lore/classic/book-of-turmoil) | In-game book | Describes the beginning of the Age of Turmoil. |
+| Classic | [The Erudites, Necromancy, and the Rise and Fall of Miragul](/lore/classic/erudites-necromancy-rise-and-fall-of-miragul) | EverQuest: The Official Player's Guide<br>Brad "Aradune Mithara" McQuaid | The title says it all; this well-known lore gave players the inspiration for coining the term Miragul's Highway. Also describes the founding of Erudin on Odus, the war between Erudin and the heretics who fled to found Paineel, and the creation of The Hole from that war. Several locations mentioned are not in game, except perhaps as part of Everfrost: the lake called "Winter's Deep" and the "Frigid Plain". |
+| Classic | [History of the Kerrans](/lore/classic/history-of-the-kerrans) | In-game dialogue with Falthrik Lothoro in Kerra Isle | Describes the Kerran civilization as once great, until its cities, statues, and writings were destroyed by the Erudites and the Kerrans were forced to flee to the small island of Kerra Isle. Describes a great leader, Kejaan, and his followers taming the wild lands of Odus and making it safe for all Kerrans to settle there. |
+| Classic | [History of the Verishe Mal](/lore/classic/history-of-the-verishe-mal) | In-game books dropped in The Lair of the Splitpaw | An account of their creation by Brell Serilis, their social caste system (which name maps to which class), former leadership by the Ishva Mal ("Supreme Leader"), and current leadership by a council of nine. You must learn Gnoll to read these texts in-game. |
+| Classic | [The Story of the Ankexfen](/lore/classic/story-of-the-ankexfen) | In-game lore | The history of the four goblin tribes, as told by a visiting priestess in Najena. |
+| Classic | [Letters of Jonas Vol. 1](/lore/classic/letters-of-jonas-vol-1) | In-game book sold by vendors | A letter describing alchemy recipes a student is learning from his Barbarian Shaman mentor. |
+| Classic | [Letters of Jonas Vol. 2](/lore/classic/letters-of-jonas-vol-2) | In-game book sold by vendors | A letter describing alchemy recipes a student is learning from his Barbarian Shaman mentor. |
+| Classic | [The Tale of Al\`Kabor and the Sunken Ship](/lore/classic/the-tale-of-alkabor-and-the-sunken-ship) | GM event | From [Allakhazam's, ~October 2000](https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/). |
+| Classic | [The Story of the Hole](/lore/classic/the-story-of-the-hole) | In-game dialogue | As told by Talloth Vara in Paineel. |
+| Classic/Kunark | [Miragul's Highway](/world/miraguls-highway) | Unconfirmed player speculation | Lore behind the firepots scattered around Norrath (mostly Classic; the Timorous Deep firepot room is Kunark). |
 
 ---
 
