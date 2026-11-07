@@ -2,13 +2,16 @@
 title: Lore Chapter 5 - The Exodus to Neriak
 description: Source: https://web.archive.org/web/20060507213157/http://everquest.station.sony.com/legacy/lore.jsp?ch=5
 published: true
-date: 2026-11-07T20:08:19.623Z
+date: 2026-11-07T20:13:13.938Z
 tags: lore, the legacy of ykesha
 editor: markdown
 dateCreated: 2026-11-07T20:08:19.623Z
 ---
 
 # Lore Chapter 5 - The Exodus to Neriak
+
+![lore_ch5-teaser.jpg](/lore_ch5-teaser.jpg){.align-center}
+
 Moving under the concealment of night, the trolls made their way towards the sanctuary of the dark forest. Elder masters, long settled in as trainers and city leaders, found themselves leading the weary droves north along almost forgotten routes. Many had not seen the lands beyond the Serpent's Spine in decades. The events that transpired during the morning's battles served as a reminder to the trolls: defeat lies ever in wait for the unwary. Those same events offered many of the younger trolls a first glimpse at the raw savagery and unbending will shared by their race in battle. These scenes filled their minds and fueled their hatred, a burning focus for the days ahead. For the trolls, their primal need for revenge smoldered, uncontainable. Every step they took to the north magnified their hate.
 
 Only as the travelers approached Neriak's dimly lit mouth did the realization of what had transpired begin to solidify for many of them. No conflict so tumultuous and savage had occurred within the memory of the young trolls. Stories of loss are rare in troll lore, and thus their culture lacks a true point of reference. Weaned on the fruits of cruelty and spiteful savagery, these refugees left more than their homes behind as they fled the swamp's shelter. Taking refuge in their dark allies' city left a brutal hole in the trolls' pride... and Neriak is a poor haven for the weak and wounded.
