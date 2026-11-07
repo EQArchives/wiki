@@ -2,7 +2,7 @@
 title: Posy - a Tale of Magic
 description: 
 published: true
-date: 2026-11-07T18:21:41.036Z
+date: 2026-11-07T18:24:55.720Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T18:21:41.036Z
@@ -22,11 +22,11 @@ A she peeked out, Posy saw the two gnomes in warrior's garb at the entrance. The
 
 "Follow the path and bear left. You will come to a high hill overlooking the valley. Beware, there are kobolds about, too."
 
-Kobolds! She had seen sketches of the beasts in books in the library. Their mottled fur and wolf-like muzzles looked fierce and threatening. She knew that they had a society of sorts, with shamans, and were known to kill gnomes, and even eat them! The Steamfont Mountains had several kobold camps tucked away in dark valleys. She hoped she could stay clear of them.
+*Kobolds!* She had seen sketches of the beasts in books in the library. Their mottled fur and wolf-like muzzles looked fierce and threatening. She knew that they had a society of sorts, with shamans, and were known to kill gnomes, and even eat them! The Steamfont Mountains had several kobold camps tucked away in dark valleys. She hoped she could stay clear of them.
 
-Posy took a deep breath. First things first, she thought. Green fire began to trickle from her fingers as she mouthed the words of power for her shielding spell. The green glow began to flow like water from a hose and then as she gestured, the glow formed a sphere around her and settled, like a layer of clothing, on her skin, and faded. Now the magical shield would deflect minor blows, but she hoped she wouldn't have to worry about it. Close combat was not her thing.
+Posy took a deep breath. *First things first*, she thought. Green fire began to trickle from her fingers as she mouthed the words of power for her shielding spell. The green glow began to flow like water from a hose and then as she gestured, the glow formed a sphere around her and settled, like a layer of clothing, on her skin, and faded. Now the magical shield would deflect minor blows, but she hoped she wouldn't have to worry about it. Close combat was not her thing.
 
-Heading down the path at a slow jog, she ran through the things that her teachers had told her. Concentration was the most important ingredient to spell successes, they had said. If you can keep your head and focus, your spells would succeed almost all the time. Try to hit your target from far away, they had also said. We have an advantage of the warriors in that we can hit something from afar, but a disadvantage in that we cannot fight in close combat as well as they do.
+Heading down the path at a slow jog, she ran through the things that her teachers had told her. *Concentration was the most important ingredient to spell successes*, they had said. *If you can keep your head and focus, your spells would succeed almost all the time. Try to hit your target from far away*, they had also said. *We have an advantage of the warriors in that we can hit something from afar, but a disadvantage in that we cannot fight in close combat as well as they do*.
 
 Posy saw the path fork to the right and left, and jogged down the left path. It wound between two large peaks, with the steam flumes from inside the mountain occasionally whistling and blowing a froth of steam high in the air. Ahead she saw a large, grass-covered hill that was probably the hill overlooking the valley.
 
@@ -50,7 +50,7 @@ Oghma jogged around the edge of the valley a bit, with Posy following. Posy look
 
 The skeleton was falling apart, its bones held together by necromantic magic and the angry will of its dead host. Green light gleamed from its eyes as it came closer to them.
 
-Posy blinked, then shook her head. Concentrate. Her hands flew in the forms of the frost incantation. It was getting closer; it might come after her! Concentrate. Blue, ice-like licks of magical energy formed around her then hopped to the skeleton. Zap! The shock of frost hit the skeleton like a hammer, and it's body rocked backwards. It looked her way and began towards her, cackling evilly! Posy shrieked.
+Posy blinked, then shook her head. *Concentrate*. Her hands flew in the forms of the frost incantation. It was getting closer; it might come after her! *Concentrate*. Blue, ice-like licks of magical energy formed around her then hopped to the skeleton. Zap! The shock of frost hit the skeleton like a hammer, and it's body rocked backwards. It looked her way and began towards her, cackling evilly! Posy shrieked.
 
 Oghma's hammer came in from her right side and whacked the skeleton hard on the shoulder. The skeleton turned to face him and swung a rusty axe in its hands. Oghma dodged, and shouted "Another spell!"
 
@@ -134,7 +134,7 @@ Oghma stood, and quickly cast a healing spell, the blue wash of magic covering t
 
 "Thanks," the warrior shouted, "help me kill them!"
 
-Posy tried to cast at one of the spiderlings, but it was too far away. As she ran up with Oghma, she thought I need a longer range spell, like that bolt spell I saw. When she got within range she unleashed frost on the lead spiderling that the warrior was fighting. Oghma ran to engage another, and soon he, too was surrounded by a few spiders.
+Posy tried to cast at one of the spiderlings, but it was too far away. As she ran up with Oghma, she thought *I need a longer range spell, like that bolt spell I saw*. When she got within range she unleashed frost on the lead spiderling that the warrior was fighting. Oghma ran to engage another, and soon he, too was surrounded by a few spiders.
 
 Posy stayed back, targeting spiders that the warrior and Oghma were fighting, blasting them with cold while the two front-line fighters slashed, stabbed, and dodged. Soon enough there was only one spider, and with her remaining mana Posy blasted that one to an icicle.
 
