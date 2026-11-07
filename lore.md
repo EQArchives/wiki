@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T18:27:14.570Z
+date: 2026-11-07T18:34:16.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -88,10 +88,10 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 
 | Era | Title | Source | Description |
 |---|---|---|---|
-| Beta/Classic | Dev Stories – Roundtable Chat Part 1 | [Archived EQ Live article](https://web.archive.org/web/20021207141854/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50163) | 3/15/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
-| Beta/Classic | Dev Stories – Roundtable Chat Part 2 | [Archived EQ Live article](https://web.archive.org/web/20030205160932/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50164) | 3/19/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
-| Classic | Creation of Norrath | Seeress Tiding – GM event | Describes how the Nameless created the Gods of Power, how the sub-deities were then created, and how Norrath and the cosmos were formed. |
-| Classic | History of Norrath | EverQuest: The Official Player's Guide | Comprises what would be described as "The Tome of Ages"; this is the canonical creation story. Covers the creation of the races, dragons being deposited on Velious, Takish-Hiz becoming the Desert of Ro, Tunaria becoming Antonica, the Rise and Fall of the Combine Empire, Erudites discovering the lost art of necromancy, Paineel, The Hole, etc.<br>**Sections:** The Age of Scale · The Elder Age · The Age of Monuments · The Age of Blood · The Lost Age · The Age of Enlightenment · The Age of Turmoil |
+| Beta/Classic | [Dev Stories – Roundtable Chat Part 1](/lore/dev-stories-roundtable-chat-part-1) | [Archived EQ Live article](https://web.archive.org/web/20021207141854/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50163) | 3/15/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
+| Beta/Classic | [Dev Stories – Roundtable Chat Part 2](lore/dev-stories-roundtable-chat-part-2) | [Archived EQ Live article](https://web.archive.org/web/20030205160932/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50164) | 3/19/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
+| Classic | [Creation of Norrath](/lore/classic/creation-of-norrath) | Seeress Tiding – GM event | Describes how the Nameless created the Gods of Power, how the sub-deities were then created, and how Norrath and the cosmos were formed. |
+| Classic | [History of Norrath](/lore/classic/history-of-norrath) | EverQuest: The Official Player's Guide | Comprises what would be described as "The Tome of Ages"; this is the canonical creation story. Covers the creation of the races, dragons being deposited on Velious, Takish-Hiz becoming the Desert of Ro, Tunaria becoming Antonica, the Rise and Fall of the Combine Empire, Erudites discovering the lost art of necromancy, Paineel, The Hole, etc.<br>**Sections:** The Age of Scale · The Elder Age · The Age of Monuments · The Age of Blood · The Lost Age · The Age of Enlightenment · The Age of Turmoil |
 | Classic | Book of Turmoil | In-game book | Describes the beginning of the Age of Turmoil. |
 | Classic | The Erudites, Necromancy, and the Rise and Fall of Miragul | EverQuest: The Official Player's Guide<br>Brad "Aradune Mithara" McQuaid | The title says it all; this well-known lore gave players the inspiration for coining the term Miragul's Highway. Also describes the founding of Erudin on Odus, the war between Erudin and the heretics who fled to found Paineel, and the creation of The Hole from that war. Several locations mentioned are not in game, except perhaps as part of Everfrost: the lake called "Winter's Deep" and the "Frigid Plain". |
 | Classic | History of the Kerrans | In-game dialogue with Falthrik Lothoro in Kerra Isle | Describes the Kerran civilization as once great, until its cities, statues, and writings were destroyed by the Erudites and the Kerrans were forced to flee to the small island of Kerra Isle. Describes a great leader, Kejaan, and his followers taming the wild lands of Odus and making it safe for all Kerrans to settle there. |
