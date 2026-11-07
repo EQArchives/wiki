@@ -2,13 +2,16 @@
 title: Lore Chapter 4 - The Fall of Grobb
 description: Source: https://web.archive.org/web/20060507213211/http://everquest.station.sony.com/legacy/lore.jsp?ch=4
 published: true
-date: 2026-11-07T20:05:44.447Z
+date: 2026-11-07T20:06:18.480Z
 tags: lore, the legacy of ykesha
 editor: markdown
 dateCreated: 2026-11-07T20:05:44.447Z
 ---
 
 # Lore Chapter 4 - The Fall of Grobb
+
+![lore_ch4-teaser.jpg](/lore_ch4-teaser.jpg){.align-center}
+
 Only days before, they had walked from the murky comfort of Innothule, bringing with them a message from their god. The elders waited for them in the glow of Guk's stony mouth, anxious yet unaware of the dramatic change they were about to discover. The firepots' aura met the first of Mithaniel's chosen as they stepped out of the water's dark grasp and made their way ashore.
 
 The elders were mesmerized. Their eyes were transfixed on the glory that their lord had bestowed upon their fellow citizens. Still, the fully transformed frogloks seemed natural, though the evidence of their blessings was far from subtle. They were, after all, merely an evolution; a reminder of the power that the heavens hold over the mortal realm.
