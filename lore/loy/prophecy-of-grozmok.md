@@ -2,7 +2,7 @@
 title: Lore Chapter 1 - Prophecy of Grozmok
 description: 
 published: true
-date: 2026-11-07T19:56:34.880Z
+date: 2026-11-07T19:56:53.286Z
 tags: lore, the legacy of ykesha
 editor: markdown
 dateCreated: 2026-11-07T19:56:34.880Z
@@ -35,3 +35,6 @@ Innoruuk, seeing the hate among his children fade as more and more joined Ykesha
 The remnants of the Ykeshan clan regrouped slowly, rising under the might of Warlord Jurgash, and formed Clan Grobb. The new clan grew under the direction of Ykesha's descendent, while the stone remained hidden on Broken Skull Rock. Innoruuk, again seeing the hate among the trolls settling, granted one of Grobb's mystics a vision that revealed the location of the Grozmok stone. Clan Grobb invaded Broken Skull Rock and recovered the stone. The victorious clan returned the stone to Southern Tunaria.
 
 Today, the Grozmok stone rests hidden and well protected deep within Grobb. Knowledge of the stone and the prophecy it contains has once again begun to fade as new generations pursue their own dreams of power. The young consider the old stories of the stone and the first great warlord, who rests in his fortress now swallowed by the swamp, to be campfire myths. Yet, many of the clan elders wait with the hopes that one day the Grozmok will rise from their ranks and fulfill the legacy of Ykesha.
+
+---
+Source: https://web.archive.org/web/20060507213219/http://everquest.station.sony.com/legacy/lore.jsp?ch=1
