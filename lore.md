@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T18:57:37.967Z
+date: 2026-11-07T18:58:51.464Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -223,7 +223,7 @@ All chapters are from the Official EverQuest website.
 | LDoN | [10 – Seeking the Stone](/lore/ldon/seeking-the-stone) | In-game and Official EverQuest website | His mind trapped by chaos, Calliav struggles to find relief. |
 | LDoN | [11 – A Path with Purpose](/lore/ldon/a-path-with-purpose) | In-game and Official EverQuest website | Will Calliav find Morden and thus discover the truth? |
 | LDoN | [12 – An Adventurer's Agreement](/lore/ldon/an-adventurers-agreement) | In-game and Official EverQuest website | Calliav will be forever lost if he cannot open his mind to harness control. |
-| LDoN | 13 – Search for Lost Lands | In-game and Official EverQuest website | Visions of strife deep within the earth. |
+| LDoN | [13 – Search for Lost Lands](/lore/ldon/search-for-lost-lands) | In-game and Official EverQuest website | Visions of strife deep within the earth. |
 | LDoN | [History - Rujarkian Hills](/lore/ldon/history-rujarkian-hills) | In-game dialogue | |
 | LDoN | [History – Miragul's Menagerie](/lore/ldon/history-miraguls-menagerie) | In-game dialogue | |
 | LDoN | [History – Mistmoore Catacombs](/lore/ldon/history-mistmoore-catacombs) | In-game dialogue | |
