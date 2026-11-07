@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T22:49:00.760Z
+date: 2026-11-07T22:59:35.735Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -25,6 +25,7 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Beta | [The Founding of Crushbone](/lore/beta/the_founding_of_crushbone) (The Orcan Exile) | Distributed during Beta | An account of the Orcs splitting into three clans following the Orcan betrayal of the Rakthokian army, and Gharol leading his Crushbone orcs eastward into elven lands. It describes "the great burning", Carandril requesting aid from Felwithe, and Edril's "Legion of the Wind" swiftly defeating the Orcish encampments and driving them deep into the wild Greater Faydark, where they eventually established Crushbone. Gharol was later killed by his own followers. |
 | Beta | [The Founding of Ak'Anon](/lore/beta/the_founding_of_akanon) (The Kingdom of the Gnomes) | Distributed during Beta | The gnomes, formerly slaves of the Dark Elves, take refuge on elven lands surrounding Elizerain Lake. A gnome named Biddyn, with Edril's support, asks the elvish emperor Carandril for a separate gnomish kingdom. They are granted land beyond the Steamfont Mountains, which is renamed "Akanon" — elven for "Gift". Edril answers the emperor's call to slay a plague dragon that killed the initial gnomish expedition into the new lands, and oversees the initial construction of the Gnomish Kingdom. |
 | Beta | [The Story of Edril](/lore/beta/the_story_of_edril) | Distributed during Beta | The adventures of the Elven warrior Edril on Antonica after Emperor Carandril's death: his marriage to the Erudite mage Almaril, his research and quest into Kunark to find Trakanon, Trakanon's Prophecy, and his funeral and burial in the depths of Elizerain Lake. |
+| Beta | [The Tribes of Trakanon](/lore/beta/the_tribes_of_trakanon) | Distributed during Beta |
 | Beta | [The Troll Migration](/lore/beta/the_troll_migration) | Distributed during Beta | Details Trakanon's saving and then abandonment of the Troll race; the internal wars that whittled 25 tribes down to 7 and eventually 2; Chief Nalikor's defeat of Chief Kateera at the Field of Bone and his uniting of the remaining trolls; and his quest to speak to Trakanon, who gifts him a flaming sword. Chief Nalikor eventually leads the trolls in 5 great ships to Antonica, landing on Broken Skull Rock in the Gulf of Gunthak. |
 
 ## Beta GM Event Stories
