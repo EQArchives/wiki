@@ -2,7 +2,7 @@
 title: The First Ogre-Dwarven War
 description: 
 published: true
-date: 2026-11-07T22:38:38.359Z
+date: 2026-11-07T22:39:36.128Z
 tags: lore, beta
 editor: markdown
 dateCreated: 2026-11-03T02:46:44.026Z
@@ -12,7 +12,7 @@ dateCreated: 2026-11-03T02:46:44.026Z
 
 ## Of the Rakthokian Kingdom and general Dagnor:
 
-For centuries while the elven empire grew to the east, the dwarves and ogres had thrived in the mountains to the west, surrounding the forest presently known as “Lesser Faydark.” The dwarves settled into the jagged cliffs of what is known as the butcherblok mountains and there had established their golden kingdom of Kaladim, “The forge of Norrath.” The ogres were able to wrestle control of nearby lands from the orcan hordes of Faedwer after a decade of warfare and established the first ogreian kingdom in the nearby Rakthokian ridge mountain range, named after the first ogre leader “Rakthok the Warlord.” There in the Faydark west the dwarves and ogres lived in an uneasy peace.
+For centuries while the elven empire grew to the east, the dwarves and the remaining tribe of ogres had thrived in the mountains to the west, surrounding the forest presently known as “Lesser Faydark.” The dwarves settled into the jagged cliffs of what is known as the butcherblok mountains and there had established their golden kingdom of Kaladim, “The forge of Norrath.” The ogres were able to wrestle control of nearby lands from the orcan hordes of Faedwer after a decade of warfare and established the first ogreian kingdom in the nearby Rakthokian ridge mountain range, named after the first ogre leader “Rakthok the Warlord.” There in the Faydark west the dwarves and ogres lived in an uneasy peace.
 
 While the immense empire of the elves could have easily crushed either one of the kingdoms, the ogres saw the dwarves as a primary concern. Raised in a culture where only the strength in your arms and the size of your weapon mattered, the ogres of the kingdom of Rakthok considered only the dwarves to be their equal and thus a very large threat. The ogres were also greedy of the gold-rich mountain mines and the stone cutting skill of the Kaladim kingdom, and to make matters worse, the friendly disposition of the dwarves did not agree with the savage and chaotic tendencies of the Rakthokian ogres. What resulted was an intense racial hatred and many small fights between the two kingdoms.
 
