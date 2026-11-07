@@ -2,13 +2,16 @@
 title: Lore Chapter 2 - The Stone is Stolen
 description: Source: https://web.archive.org/web/20060507213223/http://everquest.station.sony.com/legacy/lore.jsp?ch=2
 published: true
-date: 2026-11-07T20:00:01.535Z
+date: 2026-11-07T20:12:10.135Z
 tags: lore, the legacy of ykesha
 editor: markdown
 dateCreated: 2026-11-07T19:59:35.490Z
 ---
 
 # Lore Chapter 2 - The Stone is Stolen
+
+![lore_ch2-teaser.jpg](/lore_ch2-teaser.jpg){.align-center}
+
 An unnatural fog fills the small cove. It brings with it a numbing quiet, which is only broken by the rhythmic sound of waves washing against the shore and slapping the hulls of several small wooden skiffs. The cove is devoid of life, since most of its typical residents have moved aside to make room for the chilling fog. The morning sun will eventually rise, and the cove's residents will return to their swampy homes. Yet, these things will all wait until the fog has receded to the ocean, carrying its dark cargo with it.
 
 For now, the fog continues to creep up the shore and into the marshlands that lay beyond. The small cove fills with dozens of wooden skiffs. The small boats seem to cut through the water in almost perfect silence, relying only on magic to propel them ashore. A single figure in each rises and pulls its dark hood over its smooth, finned head. One motions toward the dense swamplands to the east. The strange figures seem even more out of place silhouetted against their bulkier, less agile troll allies; yet their authority is unquestioned.
