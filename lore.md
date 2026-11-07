@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T18:58:51.464Z
+date: 2026-11-07T19:03:29.540Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -42,12 +42,12 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 
 # The Gods
 
-- Bertoxxulous
-- Brell Serilis
-- Bristlebane
-- Cazic-Thule
-- E\`ci
-- Erollisi Marr
+- [Bertoxxulous](/lore/gods/bertoxxulous)
+- [Brell Serilis](/lore/gods/brell-serilis)
+- [Bristlebane](/lore/gods/bristlebane)
+- [Cazic-Thule](/lore/gods/cazic-thule)
+- [E\`ci](/lore/gods/eci)
+- [Erollisi Marr](/lore/gods/erollisi-marr)
 - Fennin Ro
 - Innoruuk
 - Karana
