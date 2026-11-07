@@ -1,8 +1,8 @@
 ---
 title: Dev Stories - Roundtable Chat Part 1
-description: 
+description: 3/15/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest.
 published: true
-date: 2026-11-07T18:35:57.782Z
+date: 2026-11-07T18:36:42.592Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T18:35:57.782Z
