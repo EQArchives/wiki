@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T20:11:19.101Z
+date: 2026-11-07T20:46:48.532Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -208,7 +208,7 @@ All chapters are from the Official EverQuest website.
 ---
 
 # Lost Dungeons of Norrath (LDoN)
-
+All chapters are from the Official EverQuest website.
 | Era | Title | Source | Description |
 |---|---|---|---|
 | LDoN | [1 – Rumors on the Wind](/lore/ldon/rumors-on-the-wind) | In-game and Official EverQuest website | Chasing a rumor, lifelong companions Morden and Nedaria embark on a new adventure. |
