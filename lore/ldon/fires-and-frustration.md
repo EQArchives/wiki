@@ -2,7 +2,7 @@
 title: Fires and Frustration
 description: Chapter 6. The searing heat and the Lavastorm Mountains are witness to the birth of a name, the origin of a family.
 published: true
-date: 2026-10-27T01:43:08.297Z
+date: 2026-11-07T18:59:34.559Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, tondal di`xevar, kobolds, lavastorm mountains
 editor: markdown
 dateCreated: 2026-10-27T01:35:01.829Z
