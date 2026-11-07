@@ -2,7 +2,7 @@
 title: An Adventurer's Agreement
 description: Chapter 12. Calliav will be forever lost if he cannot open his mind to harness control.
 published: true
-date: 2026-10-31T22:16:13.926Z
+date: 2026-11-07T19:00:40.459Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, tondal di`xevar, calliav giniuar, grozmok stone, commonlands
 editor: markdown
 dateCreated: 2026-10-31T22:15:55.990Z
