@@ -2,7 +2,7 @@
 title: Lore Chapter 2 - The Stone is Stolen
 description: Source: https://web.archive.org/web/20060507213223/http://everquest.station.sony.com/legacy/lore.jsp?ch=2
 published: true
-date: 2026-11-07T19:59:35.490Z
+date: 2026-11-07T20:00:01.535Z
 tags: lore, the legacy of ykesha
 editor: markdown
 dateCreated: 2026-11-07T19:59:35.490Z
@@ -28,3 +28,7 @@ The trolls' cruel nature is apparent as both sides of the battle paint the scene
 "Your lives, for the fulfillment of prophecy," a voice shouts from within the dense circle of raiders. A shimmering red portal rises from the moat below, engulfing the Trolls and their foul mentors. Those Broken Skull trolls left behind perform their task well and thwart any disruption to the clan's escape. Even as the portal collapses back into the moat, the thieves are well on their way back into the fog that surrounds the cove.
 
 The morning sun is now rising, finding the wind pushing a strange fog and several large ships to the west. This same wind carries a cargo of smoke and confusion through the swamplands of Innothule. The fires in Grobb are extinguished, and the descendants of Ykesha prepare for war.
+
+---
+
+Source: Source: https://web.archive.org/web/20060507213223/http://everquest.station.sony.com/legacy/lore.jsp?ch=2
