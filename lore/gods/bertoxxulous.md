@@ -2,7 +2,7 @@
 title: Bertoxxulous
 description: 
 published: true
-date: 2026-11-07T19:05:05.058Z
+date: 2026-11-07T19:05:24.900Z
 tags: lore, gods
 editor: markdown
 dateCreated: 2026-11-07T19:05:05.058Z
@@ -10,7 +10,7 @@ dateCreated: 2026-11-07T19:05:05.058Z
 
 # Bertoxxulous - The Plaguebringer
 
-![gods_bertoxxulous.gif](/gods_bertoxxulous.gif){.align-abstopright}
+![gods_bertoxxulous.gif](/gods_bertoxxulous.gif){.align-right}
 
 Bertoxxulous has no allies.
 
