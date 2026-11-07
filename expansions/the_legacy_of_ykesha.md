@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2026-01-02T02:03:56.925Z
+date: 2026-11-07T20:36:33.696Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -132,7 +132,7 @@ The island of Broken Skull Rock lies off the southern coast of Antonica, though 
 
 ### Gulf of Gunthak
 **Level Range:** 35-50 | **Type:** Outdoor, arrival point
-
+![gunthak-gulf_800.jpg](/gunthak-gulf_800.jpg =250x)
 ![gulf_of_gunthak.png](/gulf_of_gunthak.png =250x)
 The Gulf serves as your entry point to Broken Skull Rock. This coastal area houses new recruits and those in good standing with the Broken Skull Clan. A massive lighthouse dominates the landscape, surrounded by lean-tos where merchants sell unique supplies.
 
