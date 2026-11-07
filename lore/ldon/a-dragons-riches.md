@@ -2,7 +2,7 @@
 title: A Dragon's Riches
 description: Chapter 8. Kobolds do not often give in to pride, but lately, one has turned to greed and is looking toward Lord Nagafen’s riches.
 published: true
-date: 2026-10-27T02:01:14.477Z
+date: 2026-11-07T18:59:48.728Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, tondal di`xevar, kobolds, shadowed men, nagafen, heili erat
 editor: markdown
 dateCreated: 2026-10-27T02:00:54.451Z
