@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T23:04:55.590Z
+date: 2026-11-07T23:15:05.434Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -73,9 +73,9 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 ## Sub-Deities
 |   |   |   |   |
 |---|---|---|---|
-| Ayonae Ro | Druzzil Ro | Luclin | Morell Thule |
-| Saryn | Tallon Zek | Vallon Zek | Vazaelle Kaleine |
-| Zebuxoruk | | | |
+| [Ayonae Ro](/lore/subdeities/ayonae-ro) | [Druzzil Ro](/lore/subdeities/druzzil-ro) | [Luclin](/lore/subdeities/luclin) | [Morell Thule](/lore/subdeities/morell-thule) |
+| [Saryn](/lore/subdeities/saryn) | [Tallon Zek](/lore/subdeities/tallon-zek) | [Vallon Zek](/lore/subdeities/vallon-zek) | [Vazaelle Kaleine](/lore/subdeities/vazaelle-kaleine) |
+| [Zebuxoruk](/lore/subdeities/zebuxoruk) | | | |
 
 ---
 
