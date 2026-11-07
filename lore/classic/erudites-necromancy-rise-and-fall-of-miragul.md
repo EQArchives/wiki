@@ -2,8 +2,8 @@
 title: The Erudites, Necromancy, and the Rise and Fall of Miragul
 description: as told by Aradune Mithara, sometimes historian, more often Ranger Lord, Outrider of Karana
 published: true
-date: 2026-11-07T19:17:44.323Z
-tags: lore
+date: 2026-11-07T22:27:32.077Z
+tags: lore, history, erudin, paineel, odus, erudites, miragul, necromancy, lich, erud
 editor: markdown
 dateCreated: 2026-11-07T19:17:44.323Z
 ---
