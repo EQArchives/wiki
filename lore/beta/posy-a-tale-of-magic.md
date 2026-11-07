@@ -2,7 +2,7 @@
 title: Posy - a Tale of Magic
 description: This story by “Oghma” was originally published on the EverQuest fan website, EverQuest Express, in Issue #63, published the week of February 27 – March 5, 1998. 
 published: true
-date: 2026-11-07T19:35:57.418Z
+date: 2026-11-07T23:20:01.458Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T18:21:41.036Z
@@ -178,4 +178,8 @@ Speechless, Posy took the robe from Tobon and fingered its soft folds. "It's… 
 
 "Now, Posy, let's shop for some spells!"
 
-    Tale by Oghma 
+\- Tale by Oghma
+
+---
+>Source: This story by “Oghma” was originally published on the EverQuest fan website, EverQuest Express, in Issue #63, published the week of February 27 – March 5, 1998. 
+{.is-info}
