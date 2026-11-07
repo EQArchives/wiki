@@ -2,7 +2,7 @@
 title: The First Ogre-Dwarven War
 description: 
 published: true
-date: 2026-11-03T02:46:44.026Z
+date: 2026-11-07T22:38:38.359Z
 tags: lore, beta
 editor: markdown
 dateCreated: 2026-11-03T02:46:44.026Z
@@ -44,7 +44,7 @@ The last official battle took place beneath the forest of lesser Faydark as the 
 
 ## Of the trail of blood and the new kingdom of Oggok:
 
-Barely more then three hundred ogres had survived from a host of thousands and, saying their prays of forgiveness to their god Rallos Zek for loosing the war, the survivors hastily retreated to the south-west. For two weeks the ogres fled and the forces of king Grimmly hounded them at every step, killing all those they could catch up with. The ogres plundered every small city they came to, even the shattered ruins of the elven capital of Caerthiel where they found ships and supplies they could use. Finally fleeing all the way across the Loping Plains, they set sail across the eastern oceans and away from the closing dwarves. The first Ogre-Dwarven war had officially ended.
+Barely more then three hundred ogres had survived from a host of thousands and, saying their prayers of forgiveness to their god Rallos Zek for losing the war, the survivors hastily retreated to the south-west. For two weeks the ogres fled and the forces of king Grimmly hounded them at every step, killing all those they could catch up with. The ogres plundered every small city they came to, even the shattered ruins of the elven capital of Caerthiel where they found ships and supplies they could use. Finally fleeing all the way across the Loping Plains, they set sail across the eastern oceans and away from the closing dwarves. The first Ogre-Dwarven war had officially ended.
 
 The ogres: beaten, wounded, and without a leader, reached the then barren continent of Antonica a month after setting sail from Faedwer. Day and night the forces of a once great Rakthokian Kingdom marched tirelessly through the endless desert of Ro and soon to the empty mountain range of what is now known as the serpent’s spine. Wanting some time to rebuild and recuperate, the ogres found the mountain’s natural geography a good advantage over any invasion force. Here they started the foundations of a new ogre capital, guarded on all sides by two rivers, a desert, a lake, jagged mountains, and a thick jungle, where they could start to assemble again and build a new army for the second ogre-dwarven war. They called their new kingdom “Oggok” which in ogreish means “Revenge.”
 
