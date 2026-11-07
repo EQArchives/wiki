@@ -2,7 +2,7 @@
 title: History of the Verishe Mal
 description: 
 published: true
-date: 2026-11-07T23:57:50.067Z
+date: 2026-11-07T23:58:20.561Z
 tags: lore, history, verishe mal
 editor: markdown
 dateCreated: 2026-11-07T23:57:50.067Z
@@ -41,3 +41,6 @@ In the old tongue, Ishva meant Supreme and Mal meant ruler. Beneath the Ishva, t
 The Council of Nine has ruled us faithfully for many a year now. We find peace in our lives, and vow not to harm another. There are still many factions that wish to return to the old ways, but the current council has opposed those ideas when in chamber.
 
 They suspect at this time that there may be someone working within the council to be working with the old Ishva to return the Verishe to the old ways. This must not happen at all costs.
+
+>Source: In-Game Books
+{.is-info}
