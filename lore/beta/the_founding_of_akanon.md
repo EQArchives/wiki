@@ -2,7 +2,7 @@
 title: The Founding of Ak'anon
 description: 
 published: true
-date: 2026-11-07T22:52:41.905Z
+date: 2026-11-07T22:54:00.523Z
 tags: lore, beta
 editor: markdown
 dateCreated: 2026-11-03T02:30:04.678Z
@@ -41,4 +41,9 @@ During the first year of King Ak'Anon's reign, it is said that he brought great 
 
 For nearly two hundred years the believed King Ak'Anon presided over his city and loyal people, but he had grown old and weary. As a gift to their most beloved king, the priests and arcane scholars of the city constructed what would be their greatest invention.
 
-King Ak'Anon has presided over his people for nearly five centuries, and not one year of his rule has yielded a hardship that can be compared to those of Norrath's other civilizations. Strife and war has been all but abolished, giving the gnomes of Ak'Anon room for creativity, research, and celebration - despite their religious persuasions. 
+King Ak'Anon has presided over his people for nearly five centuries, and not one year of his rule has yielded a hardship that can be compared to those of Norrath's other civilizations. Strife and war has been all but abolished, giving the gnomes of Ak'Anon room for creativity, research, and celebration - despite their religious persuasions.
+
+---
+Sources:
+- https://loreofnorrath.wordpress.com/2010/01/13/the-founding-of-akanon/
+- https://everquest.allakhazam.com/wiki/Beta_Lore#THE_KINGDOM_OF_THE_GNOMES
