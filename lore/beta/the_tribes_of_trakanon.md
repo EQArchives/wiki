@@ -2,7 +2,7 @@
 title: The Tribes of Trakanon
 description: Beta-era troll lore: how Cazic-Thule abandoned the trolls on Kunark, how Trakanon organized them into 25 tribes and then shut them out, and how the starving tribes fought until 7 remained.
 published: true
-date: 2026-11-07T23:02:48.533Z
+date: 2026-11-07T23:04:32.928Z
 tags: lore, trakanon, trolls, grobb, kunark, cazic-thule
 editor: markdown
 dateCreated: 2026-11-07T23:02:00.680Z
@@ -17,5 +17,7 @@ To call the ancient one a dragon is purely speculative, as no one has ever seen 
 When word of Trakanon's seclusion started spreading throughout Kunark, each tribe began to move closer and closer to the east where food had once come through. They arrived next to Trakanon's kingdom only to learn that the great dragon king had not been seen for more then 50 years and just recently had closed his gates to all messengers and caravans. The trolls were confused, distraught, and starving, and so they waited in the Kunark east for some word to come from their god. When that word never came, the tribes of Trakanon started to grow restless. Battles started to erupt haphazardly and tribal villages were attacked and plundered. In the shadows of the mountain range "Trakanon's teeth" a new trollish war erupted. The 25 tribes of Trakanon attacked eachother viciously for food and water, and for ten years they battled nonstop until only 7 tribes were left. These 7 tribes retreated to every corner around what is now called the field of bone, named for the countless trollish skeletons which cover the ground. For centuries more the surviving trolls would fight what has been called the war of the seven tribes in their attempts at stealing whatever they could for food and drink, even the flesh and blood of other tribal members. Trollish shamans say that every day while the war raged beneath him, Trakanon sat perched high above his jungle throne, watching his trolls die with a grin on his face. The war would almost cause the complete destruction of the troll race.
 
 ---
->Source: https://everquest.allakhazam.com/wiki/Beta_Lore#THE_TRIBES_OF_TRAKANON
+>Sources: 
+>https://web.archive.org/web/20040221174908/http://home.comcast.net/~dfj21/history1.htm
+>https://everquest.allakhazam.com/wiki/Beta_Lore#THE_TRIBES_OF_TRAKANON
 {.is-info}
