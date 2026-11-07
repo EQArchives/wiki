@@ -2,7 +2,7 @@
 title: A Path with Purpose
 description: Chapter 11. Will Calliav find Morden and thus discover the truth?
 published: true
-date: 2026-10-31T22:08:50.938Z
+date: 2026-11-07T19:00:27.734Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, tondal di`xevar, calliav giniuar, freeport
 editor: markdown
 dateCreated: 2026-10-31T22:08:50.938Z
