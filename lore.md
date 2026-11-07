@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T20:46:48.532Z
+date: 2026-11-07T22:41:10.745Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -26,6 +26,7 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Beta | [The Story of Edril](/lore/beta/the_story_of_edril) | Distributed during Beta | The adventures of the Elven warrior Edril on Antonica after Emperor Carandril's death: his marriage to the Erudite mage Almaril, his research and quest into Kunark to find Trakanon, Trakanon's Prophecy, and his funeral and burial in the depths of Elizerain Lake. |
 | Beta | [The Troll Migration](/lore/beta/the_troll_migration) | Distributed during Beta | Details Trakanon's saving and then abandonment of the Troll race; the internal wars that whittled 25 tribes down to 7 and eventually 2; Chief Nalikor's defeat of Chief Kateera at the Field of Bone and his uniting of the remaining trolls; and his quest to speak to Trakanon, who gifts him a flaming sword. Chief Nalikor eventually leads the trolls in 5 great ships to Antonica, landing on Broken Skull Rock in the Gulf of Gunthak. |
 | Beta | [The War of the Broken Crown](/lore/beta/the_war_of_the_broken_crown) | Distributed during Beta | An account of how the empire of the elves divided into Dark Elves, High Elves, and Wood Elves. It describes what is now Freeport as a former elven outpost on Antonica named "Wielle"; Innoruuk as originally the god of all elves; the Dark Elves as the loyalists, the High Elves as the rebels, and the Wood Elves as the formerly known "wild elves". The High Elves destroyed the former elven capital of Caerthiel in what is now the Loping Plains, and established Felwithe on the very spot where a wild elf had assassinated the elven emperor in his tent. The Dark Elves fled Antonica to establish Neriak and reorganize.<br>**Contributor's Note:** This account of Innoruuk being the god of all elves, and of the High Elves as the rebel/power-hungry aggressors, doesn't seem to match the common narrative. |
+| Beta | [The Orcan Exile](/lore/beta/the_orcan_exile) | Distributed during Beta |
 
 ## Beta GM Event Stories
 
