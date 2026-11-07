@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T20:03:45.231Z
+date: 2026-11-07T20:04:44.219Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -200,8 +200,8 @@ All chapters are from the Official EverQuest website.
 |---|---|---|
 | Legacy of Ykesha | [1 – Prophecy of Grozmok](/lore/loy/prophecy-of-grozmok) | Official EverQuest website https://web.archive.org/web/20060507213219/http://everquest.station.sony.com/legacy/lore.jsp?ch=1 |
 | Legacy of Ykesha | [2 – The Stone Is Stolen](/lore/loy/the-stone-is-stolen) | Official EverQuest website https://web.archive.org/web/20060507213223/http://everquest.station.sony.com/legacy/lore.jsp?ch=2 |
-| Legacy of Ykesha | [3 – Mithaniel Marr's Blessing](/lore/loy/mithaniel-marrs-blessing) | Official EverQuest website http://everquest.station.sony.com/legacy/lore.jsp |
-| Legacy of Ykesha | [4 – The Fall of Grobb](/lore/loy/the-fall-of-grobb) | Official EverQuest website http://everquest.station.sony.com/legacy/lore.jsp |
+| Legacy of Ykesha | [3 – Mithaniel Marr's Blessing](/lore/loy/mithaniel-marrs-blessing) | Official EverQuest website https://web.archive.org/web/20060507213203/http://everquest.station.sony.com/legacy/lore.jsp?ch=3 |
+| Legacy of Ykesha | [4 – The Fall of Grobb](/lore/loy/the-fall-of-grobb) | Official EverQuest website https://web.archive.org/web/20060507213211/http://everquest.station.sony.com/legacy/lore.jsp?ch=4 |
 | Legacy of Ykesha | [5 – The Exodus to Neriak](/lore/loy/the-exodus-to-neriak) | Official EverQuest website http://everquest.station.sony.com/legacy/lore.jsp |
 | Legacy of Ykesha | [6 – In Pursuit of the Stone](/lore/loy/in-pursuit-of-the-stone) | Official EverQuest website http://everquest.station.sony.com/legacy/lore.jsp |
 
