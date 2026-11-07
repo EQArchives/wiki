@@ -2,7 +2,7 @@
 title: Creation of Norrath
 description: Source: Seeress Tiding - GM event 
 published: true
-date: 2026-11-07T18:49:44.207Z
+date: 2026-11-07T18:52:32.589Z
 tags: lore
 editor: markdown
 dateCreated: 2026-11-07T18:49:44.207Z
@@ -60,7 +60,12 @@ Therefore they started to create the Gods of Influence in the model of a scale, 
 
 And so they combined their elements to create each God in turn, good, neutral and evil, which the children of Norrath may choose to follow until the end of times.
 
-![scr_eq_norrathplanet1.jpg](/scr_eq_norrathplanet1.jpg){.align-center}
+<center>
+  <figure>
+  <img src="/scr_eq_norrathplanet1.jpg" alt="Norrath seen from Luclin - EQ">
+    <figcaption>Norrath seen from Luclin - EQ</figcaption>
+</figure>
+</center>
 
 ---
 Source: Seeress Tiding - GM event
