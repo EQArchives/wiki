@@ -1,0 +1,13 @@
+---
+title: An Adventure Begins
+description: 
+published: true
+date: 2026-11-07T18:11:50.465Z
+tags: 
+editor: markdown
+dateCreated: 2026-11-07T18:11:50.465Z
+---
+
+# An Adventure Begins
+
+An elven child was seen playing in the woods of Kelethin. She sang an old song concerning a strange maiden and an wonderous beast. A local drunk well known in the area wandered past the child as she played. When he heard the song she was singing, he showed obvious discomfort and left very quickly for the nearest tavern mumbling that he needed a drink badly. A stranger appeared in Kelethin. She was a warrior maiden who seemed unfamiliar with the town or area even though she was a high elf whose home would normally be in nearby Felwithe. As she passed through the town she was seemingly amazed by all she saw; she in turn amazed others as she was accompanied by serveral of the normally shy and reclusive fairies of the Faydark. Eventually finding herself in the same tavern as the drunk who had earlier come across the elven child, the maiden heard the drunk mumbling the song the child had been singing. As she listened a strange feeling overcame the maiden. Though she could not say why, the song seemed to be about her and when the drunk mumbled about the beast of silver, she knew without knowing why that she must find this beast. Unfortunately before she could get much information out of the drunk he passed out and it was apparent that it would be some time before he recovered enough to answer further questions. The maiden was compelled by a force she did not understand to seek out the beast, so she asked all she could find if they knew of such a beast and its whereabouts. The maidens questions uncovered that the beast sounded like a unicorn and several adventureres reported having seen a unicorn in the forests of lesser Faydark. The maiden pleaded wth those adventurers so earnestly and so intensely that they agreed to take her to the forest and help her find the unicorn so that she could see if this was the beast she sought. After much searching in the forests of lesser Faydark the maiden and those with her found the unicorn, but it would not let the party approach. Finally the maiden alone stepped forward and approached the unicorn. To the surprise of all, the unicorn let the maiden approach it. As the maiden put out her hand to gently touch the unicorn there was an immense flash of light that passed between beast and man. Throughout the world the word "Yesss" was heard by all and a bond was formed between unicorn and maiden as the tears of Tunare rained upon the world. 
