@@ -1,8 +1,8 @@
 ---
 title: Lore Chapter 3 - Mithaniel Marr's Blessing
-description: 
+description: Source: https://web.archive.org/web/20060507213203/http://everquest.station.sony.com/legacy/lore.jsp?ch=3
 published: true
-date: 2026-11-07T20:01:39.833Z
+date: 2026-11-07T20:03:27.863Z
 tags: lore, the legacy of ykesha
 editor: markdown
 dateCreated: 2026-11-07T20:01:39.833Z
@@ -31,3 +31,7 @@ While the bulk of the crowd stares, mesmerized by the movement of the flames, se
 "There are some among you that see my true form. You see me for you are the chosen. I speak to you, because you have found true understanding of yourselves. It is only through that understanding that you may march forward and dispel the dark grasp of fate. You shall carry with you the destiny of your people and act as beacons for those who will wait, safe from the hate and fear that surround you. You will be the lance of valor that pierces the heart of those seeking to oppress your people. You are the seeds of a new age."
 
 These words follow the chosen frogloks as they make their way to their quarters. Unable to sleep, they find themselves thinking of Grobb and the trolls that reside there. Images of battle begin to fill their minds. Feeling drawn by the night, many of the witnesses to tonight's activities leave their quarters and begin to filter towards the cool comfort of the swamp. Perhaps they will find peace there or at least some sign of what they should do next.
+
+---
+
+Source: https://web.archive.org/web/20060507213203/http://everquest.station.sony.com/legacy/lore.jsp?ch=3
