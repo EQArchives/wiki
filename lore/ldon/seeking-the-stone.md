@@ -2,7 +2,7 @@
 title: Seeking the Stone
 description: Chapter 10. His mind trapped by chaos, Calliav struggles to find relief.
 published: true
-date: 2026-10-31T21:56:06.304Z
+date: 2026-11-07T19:00:14.860Z
 tags: lore, lost dungeons of norrath, ldon, wayfarers, morden rasp, nedaria, tondal di`xevar, calliav giniuar, grozmok stone, freeport
 editor: markdown
 dateCreated: 2026-10-31T21:55:35.139Z
