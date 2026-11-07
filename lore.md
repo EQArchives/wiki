@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T23:30:35.295Z
+date: 2026-11-07T23:52:28.492Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -45,11 +45,11 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 
 | The Gods | | | | |
 |---|---|---|---|---|
-| [Bertoxxulous](https://wiki.eqarchives.com/lore/gods/bertoxxulous) | [Brell Serilis](https://wiki.eqarchives.com/lore/gods/brell-serilis) | [Bristlebane](https://wiki.eqarchives.com/lore/gods/bristlebane) | [Cazic-Thule](https://wiki.eqarchives.com/lore/gods/cazic-thule) | [E`ci](https://wiki.eqarchives.com/lore/gods/eci)
-| [Erollisi Marr](https://wiki.eqarchives.com/lore/gods/erollisi-marr) | Fennin Ro | Innoruuk | Karana | Mithaniel Marr |
-| Povar | Prexus | Quellious | Rallos Zek | Rodcet Nife |
-| Solusek Ro | Tarew Marr | Terris-Thule | The Nameless | The Rathe |
-| The Tribunal | Tunare | Veeshan | Xegony | The Triumvirate of Water |
+| [Bertoxxulous](/lore/gods/bertoxxulous) | [Brell Serilis](/lore/gods/brell-serilis) | [Bristlebane](/lore/gods/bristlebane) | [Cazic-Thule](/lore/gods/cazic-thule) | [E\`ci](/lore/gods/eci)
+| [Erollisi Marr](/lore/gods/erollisi-marr) | [Fennin Ro](/lore/gods/fennin-ro) | [Innoruuk](/lore/gods/innoruuk) | [Karana](/lore/gods/karana) | [Mithaniel Marr](/lore/gods/mithaniel-marr) |
+| [Povar](/lore/gods/povar) | [Prexus](/lore/gods/prexus) | [Quellious](/lore/gods/quellious) | [Rallos Zek](/lore/gods/rallos-zek) | [Rodcet Nife](/lore/gods/rodcet-nife) |
+| [Solusek Ro](/lore/gods/solusek-ro) | [Tarew Marr](/lore/gods/tarew-marr) | [Terris-Thule](/lore/gods/terris-thule) | [The Nameless](/lore/gods/the-nameless) | [The Rathe](/lore/gods/the-rathe) |
+| [The Tribunal](/lore/gods/the-tribunal) | [Tunare](/lore/gods/tunare) | [Veeshan](/lore/gods/veeshan) | [Xegony](/lore/gods/xegony) | 
 
 ## Sub-Deities
 |   |   |   |   |
