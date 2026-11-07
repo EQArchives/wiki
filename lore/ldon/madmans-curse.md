@@ -2,7 +2,7 @@
 title: Madman's Curse
 description: Chapter 9. Fate and dedication leads Calliav to Zebuxoruk.
 published: true
-date: 2026-10-31T21:52:23.838Z
+date: 2026-11-07T19:00:01.184Z
 tags: lore, lost dungeons of norrath, ldon, calliav giniuar, zebuxoruk, plane of knowledge, plane of time, west karana
 editor: markdown
 dateCreated: 2026-10-31T21:52:23.838Z
