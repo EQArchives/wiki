@@ -2,7 +2,7 @@
 title: The Legacy of Ykesha
 description: 
 published: true
-date: 2026-11-07T20:36:33.696Z
+date: 2026-11-07T20:41:43.858Z
 tags: expansions, the legacy of ykesha
 editor: markdown
 dateCreated: 2025-10-30T13:15:40.003Z
@@ -131,14 +131,19 @@ The island of Broken Skull Rock lies off the southern coast of Antonica, though 
 **Faction Matters:** Your relationship with the Broken Skull Clan will determine how much of the island you can safely explore. Those who earn their favor will find lucrative opportunities; those who don't may face a swift end.
 
 ### Gulf of Gunthak
+![zone_gunthak-gulf_560.jpg](/zone_gunthak-gulf_560.jpg)
 **Level Range:** 35-50 | **Type:** Outdoor, arrival point
-![gunthak-gulf_800.jpg](/gunthak-gulf_800.jpg =250x)
+The Gulf of Gunthak is the only port on Broken Skull Rock. Every other place where the island meets the water is steep, rocky and exposed to the rough weather. That does not mean Gunthak is an entirely safe harbor, as the shore of the gulf is barren and rocky, and the cliffs beyond the bay are holed with caves. Most of these caves are shallow, but a few of them lead deep into the cliff and open into a rather expansive cavern system.
+
+This is the gateway to the lair of the Broken Skull Clan. It serves as the home for the newly recruited clan members and temporary housing for anyone that the clan trusts just enough not to kill outright. Anyone wishing to learn about this fierce group of Trolls should start here and, if they are lucky, find the passages into the deeper parts of Broken Skull Rock. Rumors have reached many adventurers that they may find welcome, or at least a safe landing, near the abandoned lighthouse.
+
 ![gulf_of_gunthak.png](/gulf_of_gunthak.png =250x)
 The Gulf serves as your entry point to Broken Skull Rock. This coastal area houses new recruits and those in good standing with the Broken Skull Clan. A massive lighthouse dominates the landscape, surrounded by lean-tos where merchants sell unique supplies.
 
 Hidden passages throughout the Gulf lead deeper into the island—but venturing beyond without the clan's permission is a dangerous gamble.
 
 ### Dulak's Harbor
+![zone_dulak-harbor_560.jpg](/zone_dulak-harbor_560.jpg)
 **Level Range:** 40-55 | **Type:** Outdoor (underground city)
 
 ![dulaks_harbor.png](/dulaks_harbor.png =250x) ![dulaks_harbor2.png](/dulaks_harbor2.png =250x)
@@ -150,6 +155,7 @@ Tucked beneath the island's surface in a massive cavern, Dulak's Harbor is a rou
 **Warning:** A temple to Innoruuk sits near the harbor, heavily guarded by Luggald minions. The hatred emanating from this place is palpable—avoid it unless you're prepared for a fight.
 
 ### Torgiran Mines
+![zone_torgiran-mines_560.jpg](/zone_torgiran-mines_560.jpg)
 **Level Range:** 45-60 | **Type:** Indoor (Underground mines)
 
 ![torgiran_mines.png](/torgiran_mines.png =250x) ![torgiran_mines2.png](/torgiran_mines2.png =250x)
@@ -159,6 +165,7 @@ Deep beneath Broken Skull Rock lie the Torgiran Mines, rich with precious metals
 **Environment:** Strange etchings on the cavern walls, empowered by Innoruuk, prevent flooding—though when the tides recede, deadly lava pools are exposed.
 
 ### Hate's Fury, The Scorned Maiden
+![zone_hates-fury_560.jpg](/zone_hates-fury_560.jpg)
 **Level Range:** 55-65 | **Type:** Outdoor (pirate ship zone)
 
 ![hates_fury_scorned_maiden.png](/hates_fury_scorned_maiden.png =250x) ![hates_fury_scorned_maiden2.png](/hates_fury_scorned_maiden2.png =250x)
@@ -168,6 +175,7 @@ This legendary pirate vessel isn't just a sailor's tale—it's real, and it's te
 **Access:** Even with excellent Broken Skull Clan faction, approaching this ship is extraordinarily dangerous. Only the most confident adventurers should attempt it.
 
 ### The Crypt of Nadox
+![zone_crypt-of-nadox_560.jpg](/zone_crypt-of-nadox_560.jpg)
 **Level Range:** 50-65 | **Type:** Indoor, Dungeon
 
 ![crypt_of_nadox.png](/crypt_of_nadox.png =250x)
