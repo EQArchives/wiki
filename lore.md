@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-07T19:03:29.540Z
+date: 2026-11-07T19:14:32.448Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -83,7 +83,7 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Era | Title | Source | Description |
 |---|---|---|---|
 | Beta/Classic | [Dev Stories – Roundtable Chat Part 1](/lore/dev-stories-roundtable-chat-part-1) | [Archived EQ Live article](https://web.archive.org/web/20021207141854/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50163) | 3/15/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
-| Beta/Classic | [Dev Stories – Roundtable Chat Part 2](lore/dev-stories-roundtable-chat-part-2) | [Archived EQ Live article](https://web.archive.org/web/20030205160932/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50164) | 3/19/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
+| Beta/Classic | [Dev Stories – Roundtable Chat Part 2](/lore/dev-stories-roundtable-chat-part-2) | [Archived EQ Live article](https://web.archive.org/web/20030205160932/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50164) | 3/19/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest. |
 | Classic | [Creation of Norrath](/lore/classic/creation-of-norrath) | Seeress Tiding – GM event | Describes how the Nameless created the Gods of Power, how the sub-deities were then created, and how Norrath and the cosmos were formed. |
 | Classic | [History of Norrath](/lore/classic/history-of-norrath) | EverQuest: The Official Player's Guide | Comprises what would be described as "The Tome of Ages"; this is the canonical creation story. Covers the creation of the races, dragons being deposited on Velious, Takish-Hiz becoming the Desert of Ro, Tunaria becoming Antonica, the Rise and Fall of the Combine Empire, Erudites discovering the lost art of necromancy, Paineel, The Hole, etc.<br>**Sections:** The Age of Scale · The Elder Age · The Age of Monuments · The Age of Blood · The Lost Age · The Age of Enlightenment · The Age of Turmoil |
 | Classic | [Book of Turmoil](/lore/classic/book-of-turmoil) | In-game book | Describes the beginning of the Age of Turmoil. |
