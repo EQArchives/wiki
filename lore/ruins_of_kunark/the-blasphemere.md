@@ -2,7 +2,7 @@
 title: The Forbidden Tome (The Blasphemere)
 description: 
 published: true
-date: 2026-11-08T03:36:25.346Z
+date: 2026-11-08T03:50:41.741Z
 tags: lore, ruins of kunark
 editor: markdown
 dateCreated: 2026-11-08T03:36:25.346Z
@@ -28,5 +28,7 @@ The Dagger was found to be very effective, but lacked a few more spells and so i
 Surely the gods cursed the blade by the hands of the Blasphemere. To avoid the wrath of the gods, all of Dag’s property and creations were burned as was the memory of his blasphemous studies.
 
 ---
->Source: In-game book from the Forbidden Scribe in West Cabilis
+>Sources: 
+In-game book from the Forbidden Scribe in West Cabilis
+https://web.archive.org/web/20001007102548fw_/http://everquest.allakhazam.com/lore/Blasphemere.html
 {.is-info}
