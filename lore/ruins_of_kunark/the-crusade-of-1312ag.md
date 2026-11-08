@@ -2,7 +2,7 @@
 title: The Crusades of 1312 A.G.
 description: 
 published: true
-date: 2026-11-08T03:31:07.832Z
+date: 2026-11-08T03:50:00.023Z
 tags: lore, ruins of kunark
 editor: markdown
 dateCreated: 2026-11-08T03:31:07.832Z
@@ -25,5 +25,6 @@ The Crusaders now set their sights on the city of Cabilis. While the march is de
 During the battle for Cabilis, a strange rain falls which shrinks them to the size of dolls and their heads are set aflame. Nilok's head burns red. And the goblins squash the would be emperor and his minions.
 
 ---
->Source: In-game book sold in Cabilis
+>Sources: In-game book sold in Cabilis
+https://web.archive.org/web/20001007102548fw_/http://everquest.allakhazam.com/lore/Crusades_1312.html
 {.is-info}
