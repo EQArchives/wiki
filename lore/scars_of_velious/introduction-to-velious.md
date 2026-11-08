@@ -2,15 +2,15 @@
 title: Introduction to Velious
 description: 
 published: true
-date: 2026-11-08T02:29:20.411Z
+date: 2026-11-08T02:30:00.828Z
 tags: lore, scars_of_velious
 editor: markdown
 dateCreated: 2026-11-08T02:29:20.411Z
 ---
 
 # Scars of Velious
-
-(From the official everquest site)
+>(From the official everquest site)
+{.is-info}
 
 Before recorded time, Veeshan the great Crystalline Dragon marked Norrath by striking the continent of Velious with her foreclaw, and deposited her brood there to dwell. The legends of that time also tell that Veeshan blasted Velious with her breath, encasing it in eternal ice and creating a barrier of deadly ice flows and stormy weather. This marked the beginning of the Age of Scale. The Age of Scale lasted untold millennia. From the tidbits of information passed down, it is known that a group of dragons mastered magic and spellcasting during this era. Additionally, dragons of power and influence among their kind gathered together and formed a hereditary ruling council known as the Claws of Veeshan, who rule the dragons of Velious to this day. Few of Norrath’s inhabitants know more of this Age,and none that do would dare to speak.
  
