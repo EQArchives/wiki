@@ -2,7 +2,7 @@
 title: Before Green
 description: 
 published: true
-date: 2026-11-08T03:28:07.359Z
+date: 2026-11-08T03:47:53.896Z
 tags: lore, ruins of kunark
 editor: markdown
 dateCreated: 2026-11-08T03:28:07.359Z
@@ -19,5 +19,7 @@ The Shissar were an arrogant race. The power bestowed by the gods was not enough
 The season is now 0 A.G, After Green.
 
 ---
->Source: In-game book sold in Cabilis
+>Sources: 
+In-game book sold in Cabilis
+> https://web.archive.org/web/20001007102548fw_/http://everquest.allakhazam.com/lore/Before_Green.html
 {.is-info}
