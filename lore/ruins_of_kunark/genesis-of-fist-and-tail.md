@@ -2,7 +2,7 @@
 title: The Genesis of Fist and Tail
 description: 
 published: true
-date: 2026-11-08T03:25:27.615Z
+date: 2026-11-08T03:52:05.374Z
 tags: lore, ruins of kunark
 editor: markdown
 dateCreated: 2026-11-08T03:25:13.898Z
@@ -28,5 +28,7 @@ The Swifttail were disbanded during the End Days. It was not till the rise of th
 
 ---
 
->Source: In-game book sold in Cabilis
+>Source: 
+In-game book sold in Cabilis
+https://web.archive.org/web/20001007102548fw_/http://everquest.allakhazam.com/lore/Fist_and_Tail.html
 {.is-info}
