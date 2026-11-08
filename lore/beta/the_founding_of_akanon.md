@@ -2,7 +2,7 @@
 title: The Founding of Ak'anon
 description: 
 published: true
-date: 2026-11-08T03:43:28.953Z
+date: 2026-11-08T03:44:12.667Z
 tags: lore, beta
 editor: markdown
 dateCreated: 2026-11-03T02:30:04.678Z
@@ -31,8 +31,10 @@ I admit as much, that even my legs were shaking when we approached the mouth of 
 
 The skull of the dragon sits still on the entrance to the gnome's own Fortress Mechanus. Edril and his band of gnomes would be written into gnomish lore forever as for the next weeks they rode tirelessly through the lands of Akanon, fighting back fierce creatures and charting the perfect hillside location for the first ever kingdom of gnomes. Edril spent much more time in Akanon than originally expected, personally overseeing the kingdoms construction. When the first houses were made and the first gnomish settlers came pouring in, Biddyn was selected as the first king of the gnomes and he in turn erected a statue in honor of Edril. The statue depicts Edril's battle with the great plague dragon, and gnomish craftsmanship made it enormous and actually useful: it sits in the heart of Ak'Anon even today, acting as the central part to Ak'Anons extensive irrigation system. When Edril returned home to Felwithe he was greeted by hundreds of proud soldiers and again proclaimed a hero.
 
+*(Submitted by Dalyn Darkbear)*
+
 ## The King
->Editor's note: This section was possibly a later edition not part of the original beta text.
+>Editor's note: This section appears to be a later edition not part of the original beta text.
 {.is-info}
 
 The city of Ak'Anon is now ruled by King Ak'Anon, considered the greatest invention of all gnomish kind. An immortal ruler who represents all that the gnomes have prided themselves upon since their creation - immense creativity and ingenious craftsmanship - King Ak'Anon is a mechanical construction like no other. Although the King is of clockwork construction every bolt, nut, and turning cog of his form has been infused with the original entity of thought, emotion, and intelligence.
