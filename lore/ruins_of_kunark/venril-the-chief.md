@@ -2,7 +2,7 @@
 title: Venril the Chief
 description: 
 published: true
-date: 2026-11-08T03:26:55.378Z
+date: 2026-11-08T03:48:56.839Z
 tags: lore, ruins of kunark, venril sathir
 editor: markdown
 dateCreated: 2026-11-08T03:26:36.115Z
@@ -26,5 +26,7 @@ Venril Sathir's army is now unstoppable. He shall soon plot the union of the ent
 313 A.G.
 
 ---
->Source: In-game book sold in Cabilis
+>Sources: 
+In-game book sold in Cabilis
+https://web.archive.org/web/20001007102548fw_/http://everquest.allakhazam.com/lore/Venril_Sathir.html
 {.is-info}
