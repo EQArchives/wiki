@@ -2,7 +2,7 @@
 title: The Story of the Hole
 description: as told by Talloth Vara in Paineel
 published: true
-date: 2026-11-08T02:17:13.086Z
+date: 2026-11-08T02:18:17.997Z
 tags: lore, in-game dialogue, the hole
 editor: markdown
 dateCreated: 2026-11-08T02:17:13.086Z
@@ -60,4 +60,8 @@ You say, 'What minions?'
 
 Talloth Vara says 'The creatures that now call the old city home, are led by the Earthen Lord Yael.  He is a force to be reckoned with, as he commands only the strongest of the elemental legions.  Tread softly if you see him, for he will not hesitate to take your life.  I grow tired child. Please, enough stories for today.  I must rest.
 
-(Submitted by Tizzo) 
+(Submitted by Tizzo)
+
+---
+>Source: "Game Lore" section at https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/
+{.is-info}
