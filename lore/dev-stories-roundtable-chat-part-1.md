@@ -2,7 +2,7 @@
 title: Dev Stories - Roundtable Chat Part 1
 description: 3/15/2001 – A roundtable discussion from early EQ Live developers with stories about Beta and Classic EverQuest.
 published: true
-date: 2026-11-07T18:37:32.416Z
+date: 2026-11-08T02:22:19.042Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-07T18:35:57.782Z
@@ -215,4 +215,5 @@ Sony Online Privacy Policy | Sony Online Terms Of Service
 EverQuest and You’re in Our World Now are registered trademarks and The Ruins of Kunark, The Scars of Velious, The Shadows of Luclin and The Planes of Power are trademarks of Sony Computer Entertainment America Inc. The Station, SOE and the SOE logo are trademarks of Sony Online Entertainment Inc. ©2002 Sony Computer Entertainment America Inc.; portions copyright 2002 Sony Online Entertainment Inc. All other trademarks are properties of their respective owners. All rights reserved.
 
 ---
-Source: https://web.archive.org/web/20021207141854/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50163
+>Source: https://web.archive.org/web/20021207141854/http://eqlive.station.sony.com/lowsrc/community/articles.jsp?id=50163
+{.is-info}
