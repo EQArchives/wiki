@@ -2,7 +2,7 @@
 title: The Genesis of Fist and Tail
 description: 
 published: true
-date: 2026-11-08T03:25:13.898Z
+date: 2026-11-08T03:25:27.615Z
 tags: lore, ruins of kunark
 editor: markdown
 dateCreated: 2026-11-08T03:25:13.898Z
@@ -25,6 +25,8 @@ Soon the way of fist and tail had hundreds in it's ranks, climbing the rungs. Ty
 They would don shackles as testament to the Age of Snake when the Iksar were a race enslaved. Inner strength and harmony were taught. The Swifttail were born.
 
 The Swifttail were disbanded during the End Days. It was not till the rise of the new empire under Emperor Vekin did the caste reform. Grandmaster Glox, a former disciple of Tynn, came to New Sebilis to rebuild the Court of Pain. In honor of Tynn, all masters now drape themselves in a robe like he wore.
+
+---
 
 >Source: In-game book sold in Cabilis
 {.is-info}
