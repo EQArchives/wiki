@@ -2,7 +2,7 @@
 title: August 29, 2001
 description: This narrative was released with the August 29, 2001 patch message introducing The Stonebrunt Mountains zone
 published: true
-date: 2026-11-08T03:01:18.148Z
+date: 2026-11-08T03:01:35.212Z
 tags: lore, stonebrunt mountains, patch
 editor: markdown
 dateCreated: 2026-11-08T03:01:18.148Z
@@ -19,3 +19,4 @@ Omen on Kunark, which has proven to be a very popular zone in
 EverQuest.
 
 >Source: August 29, 2001 patch message on EQ Live
+{.is-info}
