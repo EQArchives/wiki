@@ -2,7 +2,7 @@
 title: Captain of the Sea
 description: 
 published: true
-date: 2026-11-08T03:29:38.637Z
+date: 2026-11-08T03:49:27.572Z
 tags: lore, ruins of kunark
 editor: markdown
 dateCreated: 2026-11-08T03:29:38.637Z
@@ -26,5 +26,7 @@ Captain Irontail is promoted to Captain of the Iron Guard, a roving coastal arma
 406 A.G.: During the Infamous Battle of Timorous Deep, Captain Vlsk Irontail is defeated as well as most of the Sebilisian Navy. A horde of dragons descended upon them. The navy was vastly outnumbered. So was the end of the great Captain Irontail. Long live his spirit.
 
 ---
->Source:In-game book sold in Cabilis
+>Sources:
+In-game book sold in Cabilis
+https://web.archive.org/web/20001007102548fw_/http://everquest.allakhazam.com/lore/Captain_Vlzk_Irontail.html
 {.is-info}
