@@ -2,7 +2,7 @@
 title: Talon Southpaw
 description: 
 published: true
-date: 2026-11-08T03:24:13.986Z
+date: 2026-11-08T03:52:36.113Z
 tags: lore, talon southpaw, ruins of kunark
 editor: markdown
 dateCreated: 2026-11-08T03:24:13.986Z
@@ -23,5 +23,7 @@ He now possessed incredible, almost blinding speed with his left arm. He could t
 Upon his death in Kurn, Grandmaster Tynn removed his hands in a private ceremony. Only Tynn was allowed to gaze upon Talon's body. The fists were then sealed in a canopic which would stay within the Tower of Kurn. His body was dusted. This is his tale as told by Rinmark.
 
 ---
->Source: In-game book sold in Cabilis
+>Source:
+In-game book sold in Cabilis
+https://web.archive.org/web/20001007102548fw_/http://everquest.allakhazam.com/lore/Talon_Southpaw.html
 {.is-info}
