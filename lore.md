@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-08T00:00:20.949Z
+date: 2026-11-08T00:02:11.431Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -73,8 +73,7 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Classic | [History of the Kerrans](/lore/classic/history-of-the-kerrans) | In-game dialogue with Falthrik Lothoro in Kerra Isle | Describes the Kerran civilization as once great, until its cities, statues, and writings were destroyed by the Erudites and the Kerrans were forced to flee to the small island of Kerra Isle. Describes a great leader, Kejaan, and his followers taming the wild lands of Odus and making it safe for all Kerrans to settle there. |
 | Classic | [History of the Verishe Mal](/lore/classic/history-of-the-verishe-mal) | In-game books dropped in The Lair of the Splitpaw | An account of their creation by Brell Serilis, their social caste system (which name maps to which class), former leadership by the Ishva Mal ("Supreme Leader"), and current leadership by a council of nine. You must learn Gnoll to read these texts in-game. |
 | Classic | [The Story of the Ankexfen](/lore/classic/story-of-the-ankexfen) | In-game lore | The history of the four goblin tribes, as told by a visiting priestess in Najena. |
-| Classic | [Letters of Jonas Vol. 1](/lore/classic/letters-of-jonas-vol-1) | In-game book sold by vendors | A letter describing alchemy recipes a student is learning from his Barbarian Shaman mentor. |
-| Classic | [Letters of Jonas Vol. 2](/lore/classic/letters-of-jonas-vol-2) | In-game book sold by vendors | A letter describing alchemy recipes a student is learning from his Barbarian Shaman mentor. |
+| Classic | [Letters of Jonas Vol. I - IV](/lore/classic/letters-of-jonas-vol-i-iv) | In-game book sold by vendors | A letter describing alchemy recipes a student is learning from his Barbarian Shaman mentor. |
 | Classic | [The Tale of Al\`Kabor and the Sunken Ship](/lore/classic/the-tale-of-alkabor-and-the-sunken-ship) | GM event | From [Allakhazam's, ~October 2000](https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/). |
 | Classic | [The Story of the Hole](/lore/classic/the-story-of-the-hole) | In-game dialogue | As told by Talloth Vara in Paineel. |
 | Classic/Kunark | [Miragul's Highway](/world/miraguls-highway) | Unconfirmed player speculation | Lore behind the firepots scattered around Norrath (mostly Classic; the Timorous Deep firepot room is Kunark). |
