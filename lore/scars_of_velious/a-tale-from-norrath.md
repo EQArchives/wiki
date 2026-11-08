@@ -1,8 +1,8 @@
 ---
 title: A Tale From Norrath
-description: The October 8, 2001 patch message that introduced the revamp of Chardok
+description: The October 8, 2001 patch narrative that coincided with the initial revamp of Chardok.
 published: true
-date: 2026-11-08T02:57:46.597Z
+date: 2026-11-08T02:58:38.177Z
 tags: lore, chardok, revamp
 editor: markdown
 dateCreated: 2026-11-08T02:57:46.597Z
