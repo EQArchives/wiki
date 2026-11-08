@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-08T03:01:52.643Z
+date: 2026-11-08T03:10:03.312Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -129,10 +129,10 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 
 | Era | Title | Source | Description |
 |---|---|---|---|
-| Shadows of Luclin | Welcome to Luclin | 04 December 2001 patch message | |
-| Shadows of Luclin | History of Luclin | | |
-| Shadows of Luclin | The Journals of Al'Kabor | Official EverQuest: Shadows of Luclin website | |
-| Shadows of Luclin | The Birth of Fordel Midst | EverQuest: Shadows of Luclin Game Manual | |
+| Shadows of Luclin | [Welcome to Luclin](/lore/shadows_of_luclin/welcome-to-luclin) | 04 December 2001 patch message | |
+| Shadows of Luclin | [History of Luclin](/lore/shadows_of_luclin/history-of-luclin) | | |
+| Shadows of Luclin | [The Journals of Al'Kabor](/lore/shadows_of_luclin/the-journals-of-alkabor) | Official EverQuest: Shadows of Luclin website | |
+| Shadows of Luclin | [The Birth of Fordel Midst](/lore/shadows_of_luclin/the-birth-of-fordel-mist) | EverQuest: Shadows of Luclin Game Manual | |
 
 ---
 
