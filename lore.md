@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-08T02:43:15.607Z
+date: 2026-11-08T02:49:59.840Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -119,6 +119,7 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Velious | [Introduction to Velious](/lore/scars_of_velious/introduction-to-velious) | Official EQ Players website | Introduction to the discovery of the continent of Velious. |
 | Velious | [History of Velious](/lore/scars_of_velious/history-of-velious) | Scars of Velious Game Manual<br>EverQuest: Trilogy Game Manual | |
 | Velious | [Velious Opportunities](/lore/scars_of_velious/velious_opportunities) | Scars of Velious Game Manual<br>EverQuest: Trilogy Game Manual | |
+| Velious | The Twelve Days of Velious | [Harpy's Head Tavern October 2001](https://web.archive.org/web/20011005033825/http://everquest.station.sony.com/hht/veliouslore/index.jsp) |
 | Velious | A Tale from Norrath | 8 October 2001 patch message | This narrative coincided with the initial revamp of Chardok. |
 | Velious | The Stonebrunt Mountains | 29 August 2001 patch message | This coincided with the initial release of the zone. |
 
