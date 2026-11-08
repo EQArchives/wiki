@@ -2,7 +2,7 @@
 title: The Tale of Al'Kabor and the Sunken Ship
 description: 
 published: true
-date: 2026-11-08T00:09:03.508Z
+date: 2026-11-08T00:11:42.431Z
 tags: lore, gm event, al'kabor
 editor: markdown
 dateCreated: 2026-11-08T00:09:03.508Z
@@ -450,3 +450,7 @@ And that was it.  The group dispensed, many of us stayed around the pond and wen
 
 *Wump <9 High Elf Enchanter> - Attended Story Telling*  
 *Xegony Server*
+  
+---
+>Source: https://web.archive.org/web/20001027022126fw_/http://everquest.allakhazam.com/lore/alkabor_and_ship.html
+{.is-info}
