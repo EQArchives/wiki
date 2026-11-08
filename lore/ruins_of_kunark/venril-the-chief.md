@@ -2,14 +2,14 @@
 title: Venril the Chief
 description: 
 published: true
-date: 2026-11-08T03:26:36.115Z
+date: 2026-11-08T03:26:55.378Z
 tags: lore, ruins of kunark, venril sathir
 editor: markdown
 dateCreated: 2026-11-08T03:26:36.115Z
 ---
 
-Venril The Chief
-(Venril Sathir of the Kunzar)
+# Venril The Chief
+*(Venril Sathir of the Kunzar)*
 
 As described in the Iksar Lore Books in Cabilis:
 
