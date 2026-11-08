@@ -2,13 +2,13 @@
 title: Introduction to Velious
 description: 
 published: true
-date: 2026-11-08T02:30:00.828Z
+date: 2026-11-08T02:31:19.298Z
 tags: lore, scars_of_velious
 editor: markdown
 dateCreated: 2026-11-08T02:29:20.411Z
 ---
 
-# Scars of Velious
+# Introduction to the Scars of Velious
 >(From the official everquest site)
 {.is-info}
 
