@@ -2,7 +2,7 @@
 title: The Founding of Ak'anon
 description: 
 published: true
-date: 2026-11-07T22:55:27.490Z
+date: 2026-11-08T03:43:28.953Z
 tags: lore, beta
 editor: markdown
 dateCreated: 2026-11-03T02:30:04.678Z
@@ -48,4 +48,5 @@ King Ak'Anon has presided over his people for nearly five centuries, and not one
 >Sources:
 > https://loreofnorrath.wordpress.com/2010/01/13/the-founding-of-akanon/
 > https://everquest.allakhazam.com/wiki/Beta_Lore#THE_KINGDOM_OF_THE_GNOMES
+> https://web.archive.org/web/20001019065957/http://everquest.allakhazam.com/
 {.is-info}
