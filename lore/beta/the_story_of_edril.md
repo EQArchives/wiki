@@ -2,7 +2,7 @@
 title: The Story of Edril
 description: 
 published: true
-date: 2026-11-03T02:39:43.988Z
+date: 2026-11-08T02:35:47.533Z
 tags: lore, beta, edril, carandril, lake neriuss
 editor: markdown
 dateCreated: 2026-11-03T01:50:18.216Z
@@ -66,4 +66,13 @@ When he returned home he was changed forever. With his greatest achievement comp
 
 >"No spear or sword or arrow, fang, claw, or spell could ever hope of killing the elf known as Edril," recounted Biddyn at the funeral of his friend, "but for a father, the death of an only child is the worst poison the world can give." 
 
-The lord of Qeynos thought it best to send his body back to the elven empire and there gathered a very eclectic funeral procession: Merchant friends from Freeport and Qeynos, human lords of Antonica, almost the entire gnomish population, and even troll shamans from Grobb to bear witness to the last warrior to ever lay eyes on Trakanon. Some said the dark elves were also present, spying on the funeral from the shadows just to make sure Edril had actually lost the battle with death. Dozens of elven trumpets sounded his passing and his casket was floated over the top of the Elizerain Lake to sink into it's depths forever, an honor normally reserved only for the emperors. It is written that even now, at the bottom of the lake in that same casket, the dragon pendant of Trakanon waits, grasped tightly in Edril's cold, dead fingers. 
+The lord of Qeynos thought it best to send his body back to the elven empire and there gathered a very eclectic funeral procession: Merchant friends from Freeport and Qeynos, human lords of Antonica, almost the entire gnomish population, and even troll shamans from Grobb to bear witness to the last warrior to ever lay eyes on Trakanon. Some said the dark elves were also present, spying on the funeral from the shadows just to make sure Edril had actually lost the battle with death. Dozens of elven trumpets sounded his passing and his casket was floated over the top of the Elizerain Lake to sink into it's depths forever, an honor normally reserved only for the emperors. It is written that even now, at the bottom of the lake in that same casket, the dragon pendant of Trakanon waits, grasped tightly in Edril's cold, dead fingers.
+
+(Submitted by Dalyn Darkbear) 
+
+---
+>Sources: 
+>https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/
+>https://wiki.project1999.com/Lore:_The_Story_of_Edril
+>https://loreofnorrath.wordpress.com/2010/01/13/the-story-of-edril/
+{.is-info}
