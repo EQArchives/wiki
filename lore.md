@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-08T02:49:59.840Z
+date: 2026-11-08T02:53:29.556Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -119,9 +119,9 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Velious | [Introduction to Velious](/lore/scars_of_velious/introduction-to-velious) | Official EQ Players website | Introduction to the discovery of the continent of Velious. |
 | Velious | [History of Velious](/lore/scars_of_velious/history-of-velious) | Scars of Velious Game Manual<br>EverQuest: Trilogy Game Manual | |
 | Velious | [Velious Opportunities](/lore/scars_of_velious/velious_opportunities) | Scars of Velious Game Manual<br>EverQuest: Trilogy Game Manual | |
-| Velious | The Twelve Days of Velious | [Harpy's Head Tavern October 2001](https://web.archive.org/web/20011005033825/http://everquest.station.sony.com/hht/veliouslore/index.jsp) |
-| Velious | A Tale from Norrath | 8 October 2001 patch message | This narrative coincided with the initial revamp of Chardok. |
-| Velious | The Stonebrunt Mountains | 29 August 2001 patch message | This coincided with the initial release of the zone. |
+| Velious | The Twelve Days of Velious | [Harpy's Head Tavern October 2001](https://web.archive.org/web/20011005033825/http://everquest.station.sony.com/hht/veliouslore/index.jsp) | Day 1: New Continent Discovered! - Amazing reports from the Gnome vessel Icebreaker recount the discovery of the legendary continent of Velious.<br />Day 2: Exploration Continued! - The recounting of the discovery of Velious.<br />Day 3: Discovery of the Coldain - Explorers have found yet another hitherto unknown race!<br />Day 4: The Great Divide - Adventurers facing the Great Divide.<br />Day 5: The Coldain City - Adventurers report that the city is quite remarkable.<br />Day 6: More of Thurgadin - After a bit of celebration, the exploration team sees more of Thurgadin.<br />Day 7: A Party Member is Lost - Having violated Coldain law, a party member is punished.<br />Day 8: Found Friends and Yakmen - With the apparent death of a friend, the explorers continue their discovery.<br />Day 9: Beasts of the Land - The intrepid explorers continue their journey.<br />Day 10: Giants! - Our explorers come upon the Storm Giant city of Kael Drakkel.<br />Day 11: Kael Drakkel - Our explorers take a look at the Storm Giant city.<br />Day 12: King Tormax - As the Twelve Days of Velious comes to a close, our explorers meet the King of the Storm Giants. |
+| Velious | [A Tale from Norrath](/lore/scars_of_velious/a-tale-from-norrath) | 8 October 2001 patch message | This narrative coincided with the initial revamp of Chardok. |
+| Velious | [The Stonebrunt Mountains](/lore/scars_of_velious/the-stonebrunt-mountains) | 29 August 2001 patch message | This coincided with the initial release of the zone. |
 
 ---
 
