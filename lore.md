@@ -2,7 +2,7 @@
 title: EverQuest Lore
 description: 
 published: true
-date: 2026-11-08T03:34:06.771Z
+date: 2026-11-08T03:35:07.104Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-01T03:28:24.874Z
@@ -93,7 +93,7 @@ An index of EverQuest histories, stories, and in-game books, organized by era an
 | Kunark | [Venril the Chief](/lore/ruins_of_kunark/venril-the-chief) | In-game book | The story of the famous Iksar warrior Venril Sathir, as described in the Iksar books of lore in Cabilis. |
 | Kunark | [Captain of the Sea](/lore/ruins_of_kunark/captain-of-the-sea) | In-game book | The story of the Iksar Captain Vlzk Irontail, founder of the Ironguard, as described in the Iksar books of lore in Cabilis. |
 | Kunark | [The Crusade of 1312 A.G.](/lore/ruins_of_kunark/the-crusade-of-1312ag) | In-game book | Found in the Iksar books of lore in Cabilis. Describes Trakanon's occupation of the ruins of the once-grand city of Sebilis, the founding of the Crusaders of Greenmist, Rok Nilok, reclaiming Karnor's Castle from the goblins, and the battle for the city of Cabilis. |
-| Kunark | Forbidden Tome (aka "The Blasphemere") | In-game book | The story of Dag of the Forbidden Circle. Obtained from the Forbidden Scribe in West Cabilis. Item lore: *The Blasphemere of Kotiz*. |
+| Kunark | [Forbidden Tome (aka "The Blasphemere")](/lore/ruins_of_kunark/the-blasphemere) | In-game book | The story of Dag of the Forbidden Circle. Obtained from the Forbidden Scribe in West Cabilis. Item lore: *The Blasphemere of Kotiz*. |
 | Kunark | Brother's Fallen | In-game book | |
 | Kunark | [The Charasis Tome (aka History of Charasis)](/lore/ruins_of_kunark/history-of-charasis) | In-game book | Describes the history of Charasis (Howling Stones). Dropped by a drachnid spy in Firiona Vie and a Dark Elf spy in Northern Ro; part of the Crusader's Test of Betrayal quest #5, which begins in East Cabilis. |
 | Kunark | [Genesis of Fist and Tail](/lore/ruins_of_kunark/genesis-of-fist-and-tail) | In-game book | The founding of the Iksar Monks' guild, from the Iksar lore books in Cabilis. |
