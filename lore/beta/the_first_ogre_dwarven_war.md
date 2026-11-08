@@ -2,7 +2,7 @@
 title: The First Ogre-Dwarven War
 description: 
 published: true
-date: 2026-11-07T22:39:36.128Z
+date: 2026-11-08T02:21:22.576Z
 tags: lore, beta
 editor: markdown
 dateCreated: 2026-11-03T02:46:44.026Z
@@ -49,3 +49,11 @@ Barely more then three hundred ogres had survived from a host of thousands and, 
 The ogres: beaten, wounded, and without a leader, reached the then barren continent of Antonica a month after setting sail from Faedwer. Day and night the forces of a once great Rakthokian Kingdom marched tirelessly through the endless desert of Ro and soon to the empty mountain range of what is now known as the serpent’s spine. Wanting some time to rebuild and recuperate, the ogres found the mountain’s natural geography a good advantage over any invasion force. Here they started the foundations of a new ogre capital, guarded on all sides by two rivers, a desert, a lake, jagged mountains, and a thick jungle, where they could start to assemble again and build a new army for the second ogre-dwarven war. They called their new kingdom “Oggok” which in ogreish means “Revenge.”
 
 The second age ended in war and death with the promise of a new beginning. The petty squabbling of the elder races on the continent of Faydwer had ended tragically and none of the kingdoms would ever fully recover. The seeds for revenge had been sewn and the entire world had changed for all the elder races. With the immigration of the dark elves to Neriak on Antonica and of the ogres to Oggok, new lands had been discovered and none of the elder races had the power anymore to stop the kingdoms of the gnomes and halflings of expanding nor did they have the strength to control the ever increasing population of the humans. The second age was a time of death, sadness, and change for Norrath.
+
+(Submitted by Dalyn Darkbear) 
+
+---
+>Sources:
+https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/
+https://loreofnorrath.wordpress.com/2010/01/13/the-first-ogre-dwarven-war/
+{.is-info}
