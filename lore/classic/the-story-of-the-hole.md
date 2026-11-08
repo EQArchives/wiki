@@ -2,7 +2,7 @@
 title: The Story of the Hole
 description: as told by Talloth Vara in Paineel
 published: true
-date: 2026-11-08T02:18:17.997Z
+date: 2026-11-08T02:18:39.024Z
 tags: lore, in-game dialogue, the hole
 editor: markdown
 dateCreated: 2026-11-08T02:17:13.086Z
@@ -63,5 +63,5 @@ Talloth Vara says 'The creatures that now call the old city home, are led by the
 (Submitted by Tizzo)
 
 ---
->Source: "Game Lore" section at https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/
+>Source: "Game Lore"-->"The Story of the Hole" at https://web.archive.org/web/20001018153817/http://everquest.allakhazam.com/
 {.is-info}
