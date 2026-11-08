@@ -2,24 +2,22 @@
 title: Velious Opportunities
 description: from the EverQuest Trilogy Game Manual
 published: true
-date: 2026-11-08T02:41:59.862Z
+date: 2026-11-08T02:42:56.051Z
 tags: lore, scars_of_velious
 editor: markdown
 dateCreated: 2026-11-08T02:41:59.862Z
 ---
 
-Velious Opportunities
+# Velious Opportunities
 
-NERIAK MINISTRY OF INFORMATION
+## NERIAK MINISTRY OF INFORMATION
 
 My lord,
 In keeping with your request to find out more about Velious and the recent journeys being made there, I dispatched our spies to gather what information they could. We have had some success, and enclosed are transcripts of letters sent by a recent group of travelers to Velious.
 
 While fragmentary and possibly filled with exaggerations, they do shed more light upon this mysterious land. Our spies are to be commended on the excellent performance of their tasks as that getting copies of these letters was by no means easy.
 
-
-
-LETTER TRANSCRIPT RECOVERED FROM FREEPORT:
+## LETTER TRANSCRIPT RECOVERED FROM FREEPORT:
 
 Mentor,
 I hope this reaches you before too much time has passed. In my last letter, I told you about securing passage on the gnomish vessel IceBreaker, which had recently begun making voyages from the Northern Desert of Ro to the frozen continent of Velious. Little did I know what was in store for me.
@@ -79,9 +77,7 @@ I have decided to reside in Thurgadin for a time, to better get to know my hosts
 As always,
 Solist Kinslan
 
-
-
-LETTER TRANSCRIPT RECOVERED FROM HALAS:
+## LETTER TRANSCRIPT RECOVERED FROM HALAS:
 
 McTarnigal,
 
@@ -101,9 +97,7 @@ I am giving this letter to a Kromrif who is going east, to hand to the gnomes. T
 
 Breen Everblood.
 
-
-
-LETTER TRANSCRIPT RECOVERED FROM QEYNOS:
+## LETTER TRANSCRIPT RECOVERED FROM QEYNOS:
 
 Hanns,
 
