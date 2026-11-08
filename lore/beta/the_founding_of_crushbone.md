@@ -2,7 +2,7 @@
 title: The Founding of Crushbone
 description: 
 published: true
-date: 2026-11-07T22:47:29.630Z
+date: 2026-11-08T03:41:33.274Z
 tags: lore, beta, crushbone, edril, gharol, dagnor, greater faydark, felwithe, kelethin
 editor: markdown
 dateCreated: 2026-11-03T02:31:42.358Z
@@ -33,4 +33,11 @@ He was met at Kelethin with a large reception, but decided to ride through quick
 
 One by one the camps of the crushbone orcs were destroyed quickly and brutally. The orcs, still preparing for their second assault on Kelethin, were always caught by surprise. Edril and his men moved from one battle to the next so quickly, the elves called them the legion of wind. The strategy worked perfectly: Gharol was never able to get word of the new attackers in time to plan a defense and so most of the orcs were slaughtered. The final battle, lasting longer then the rest, was against Gharol's own camp. Many of Edril's warriors were killed in this fight but all of the orcs, including Gharol, were driven away to the deep growth of the wild Greater Faydark. Here they have made their makeshift kingdom. When Edril returned to his kingdom, he was proclaimed high protector of Kelethin with over 150 kills to his name alone. This would not be the last time Edril's name was written into elven history, however. It is believed that only weeks later after their retreat, Gharol was killed by his own followers.
 
-The fourth age ended in war and death with the promise of a new beginning. The petty squabbling of the elder races on the continent of Faydwer had ended tragically and none of the kingdoms would ever fully recover. The seeds for revenge had been sewn and the entire world had changed for all the elder races. With the immigration of the dark elves to Neriak on Tunaria and of the ogres to Oggok, new lands had been discovered and none of the elder races had the power anymore to stop the kingdoms of the gnomes and halflings of expanding nor did they have the strength to control the ever increasing population of the humans. The fourth age was a time of death, sadness, and change for Norrath. 
+The fourth age ended in war and death with the promise of a new beginning. The petty squabbling of the elder races on the continent of Faydwer had ended tragically and none of the kingdoms would ever fully recover. The seeds for revenge had been sewn and the entire world had changed for all the elder races. With the immigration of the dark elves to Neriak on Tunaria and of the ogres to Oggok, new lands had been discovered and none of the elder races had the power anymore to stop the kingdoms of the gnomes and halflings of expanding nor did they have the strength to control the ever increasing population of the humans. The fourth age was a time of death, sadness, and change for Norrath.
+
+---
+>Source:
+>https://web.archive.org/web/20001019065957/http://everquest.allakhazam.com/
+>https://everquest.allakhazam.com/wiki/Beta_Lore#THE_ORCAN_EXILE
+>https://web.archive.org/web/20050306041654/http://home.comcast.net/~dfj21/history1.htm#_THE_ORCAN_EXILE
+{.is-info}
