@@ -2,7 +2,7 @@
 title: The Charasis Tome (History of Charasis)
 description: 
 published: true
-date: 2026-11-08T03:33:19.250Z
+date: 2026-11-08T03:33:55.865Z
 tags: lore, charasis
 editor: markdown
 dateCreated: 2026-11-08T03:33:19.250Z
@@ -30,5 +30,6 @@ It was during the time known as the End Days that the spirits of Tunare, Underfo
 So let it be know that Darkmask and Pizo have found a secret treasure, hidden in the overthere, a land of many dangers, but apparently it yeilds quite a reward. To the library we must recover these lost items.
 
 ---
->Source: In-game book looted from the Dark Elf Spy in Northern Ro
+>Source: In-game book dropped by a drachnid spy in Firiona Vie and a Dark Elf spy in Northern Ro; part of the Crusader’s Test of Betrayal quest #5, which begins in East Cabilis.
+{.is-info}
   
